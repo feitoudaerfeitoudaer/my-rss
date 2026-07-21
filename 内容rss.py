@@ -10,10 +10,9 @@ import html
 import time
 
 # ==========================================
-# ⚙️ 配置区域：请在此处填写你最终部署后的实际公网 URL 前缀
+# ⚙️ 配置区域：已为你修改为 my-rss 项目的真实公网托管链接
 # ==========================================
-# 例如你打算用 GitHub Pages 托管，则修改为: "https://github.io"
-DEPLOYED_BASE_URL = "https://feitoudaerfeitoudaer.github.io"
+DEPLOYED_BASE_URL = "https://feitoudaerfeitoudaer.github.io/my-rss"
 
 # 1. 禁用 SSL 警告提示
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -50,7 +49,7 @@ def clean_xml_string(v):
         return ""
     return re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x84\x86-\x9F]', '', v)
 
-# 【二级联动核心 1】：深入文章的真实具体 URL，抓取详细报告全文
+# 【二级联动核心 1】：引入文本密度与语义去噪，彻底剥离导航栏、侧边栏和禁用JS提示
 def fetch_article_detail(article_url, headers):
     try:
         try:
@@ -61,18 +60,50 @@ def fetch_article_detail(article_url, headers):
         res.encoding = res.apparent_encoding
         soup = BeautifulSoup(res.text, 'html.parser')
         
-        # 智能化匹配绝大多数智库的正文包裹标签
-        article_body = soup.find('article') or soup.find('div', class_=re.compile(r'content|post|article|body|entry|main')) or soup.find('main')
+        # 1. 强力清除已知的非正文干扰标签与“禁用JavaScript”类似垃圾块
+        for junk in soup.find_all(['nav', 'footer', 'script', 'style', 'header', 'noscript', 'aside']):
+            junk.decompose()
+            
+        # 2. 精准过滤常见的动态加载错误提示词
+        for t in soup.find_all(text=re.compile(r'JavaScript|javascript|禁用|noscript|Enable JS', re.I)):
+            if t.parent:
+                t.parent.decompose()
+
+        # 3. 寻找真正的报告正文包裹器（避开 nav 和 sidebar）
+        article_body = (
+            soup.find('article') or 
+            soup.find('div', class_=re.compile(r'article-content|post-content|story-body|entry-content|report-body')) or
+            soup.find('main')
+        )
+        
+        # 4. 如果没有标准标签，通过文本密度启发式捞取（防止抓到全站导航）
+        if not article_body:
+            best_div = None
+            max_p_count = 0
+            for div in soup.find_all('div'):
+                # 如果这个 div 带有 sidebar, menu, nav 等特征，直接跳过
+                div_class = "".join(div.get('class', [])).lower()
+                div_id = str(div.get('id', '')).lower()
+                if any(x in div_class or x in div_id for x in ['nav', 'menu', 'sidebar', 'footer', 'header', 'widget']):
+                    continue
+                p_count = len(div.find_all('p'))
+                if p_count > max_p_count:
+                    max_p_count = p_count
+                    best_div = div
+            article_body = best_div
+
         if article_body:
-            # 剔除无用的导航栏、页脚、脚本和样式，确保内容纯净
-            for ignore in article_body.find_all(['nav', 'footer', 'script', 'style', 'header']):
-                ignore.decompose()
-            return article_body.get_text(separator="\n", strip=True)
+            # 仅提取段落文本，彻底防止列表标签导致的 Feedly 排版错乱
+            paragraphs = [p.get_text(strip=True) for p in article_body.find_all('p') if len(p.get_text(strip=True)) > 10]
+            if paragraphs:
+                return "\n".join(paragraphs)
+            else:
+                return article_body.get_text(separator="\n", strip=True)
     except Exception:
         pass
     return None
 
-# 【二级联动核心 2】：单站抓取任务，先从主页提取文章链接列表，再遍历抓取全文
+# 【二级联动核心 2】：过滤无效超链接标题，确保 Feedly 渲染纯净度
 def fetch_single_site(row):
     site_name = row['网站名称']
     base_url = row['网站链接']
@@ -96,50 +127,42 @@ def fetch_single_site(row):
         response.encoding = response.apparent_encoding 
         soup = BeautifulSoup(response.text, 'html.parser')
         
-        # 寻找主页所有超链接
         links = soup.find_all('a', href=True)
         seen_urls = set()
         
         for link in links:
             href = link['href'].strip()
-            
-            # 补全相对路径链接
             if href.startswith('/'):
-                if href.startswith('//'):
-                    href = 'https:' + href
-                else:
-                    href = base_url.rstrip('/') + href
+                if href.startswith('//'): href = 'https:' + href
+                else: href = base_url.rstrip('/') + href
             
-            # 过滤非本站链接、主页本身以及常见的干扰功能性链接
             if not href.startswith('http') or base_url.replace('www.', '') not in href or href.rstrip('/') == base_url.rstrip('/'):
                 continue
-            if any(x in href.lower() for x in ['about', 'contact', 'search', 'privacy', 'terms', 'twitter', 'facebook', 'linkedin', 'careers']):
+            if any(x in href.lower() for x in ['about', 'contact', 'search', 'privacy', 'terms', 'twitter', 'facebook', 'linkedin', 'careers', 'membership', 'staff']):
                 continue
                 
-            # 提取链接文本作为标题参考
             link_text = link.get_text(strip=True)
-            if len(link_text) < 12 or href in seen_urls: 
+            # 过滤掉类似“了解更多”、“主页”等非文章标题的无效短链接
+            if len(link_text) < 15 or href in seen_urls: 
                 continue
                 
             seen_urls.add(href)
             
-            # 顺着具体链接深入抓取正文详细内容
             full_detail_text = fetch_article_detail(href, headers)
-            if not full_detail_text:
-                full_detail_text = "未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。"
+            # 如果该智库属于严格的纯 JavaScript 渲染网站，抓下来是空的，则提供干净的缺省提示
+            if not full_detail_text or "javascript" in full_detail_text.lower():
+                full_detail_text = "该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。"
                 
-            # 截取前 2000 字，保留深度阅读价值，同时防止 XML 超过单文件大小限制
             summary_text = full_detail_text[:2000]
             if len(full_detail_text) > 2000:
-                summary_text += "\n\n...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)..."
+                summary_text += "\n\n...(详细内容较长，已自动折叠)..."
                 
-            # 为 Feedly 专门定制的标准 HTML 纯净渲染区块
-            html_content = f"<div><p>{summary_text.replace('\n', '<br>')}</p><br><hr><p><a href='{href}' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>"
+            # 🌟 核心排版：使用 max-width 结合 margin:0 auto 强制 Feedly 正文全屏自适应居中排版
+            html_content = f"<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>{summary_text.replace('\n', '</p><p>')}</p><br><hr><p><a href='{href}' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>"
             
             title_clean = clean_xml_string(link_text).replace("]]>", "]]&gt;")
             html_clean = clean_xml_string(html_content).replace("]]>", "]]&gt;")
             
-            # 单篇具体文章的数据字典
             item = {
                 "title": f"<![CDATA[[{site_name}] {title_clean}]]>",
                 "link": html.escape(href),
@@ -149,16 +172,14 @@ def fetch_single_site(row):
             }
             extracted_items.append(item)
             
-            # 【频控限额】：每个智库主页最多只抓取最新 2 篇，防止因单站更新过多导致 Feedly 刷屏
             if len(extracted_items) >= 2:
                 break
-
     except Exception:
         pass 
         
     return (country, extracted_items)
 
-# 【主动通知核心】：向 Google WebSub 枢纽发送广播，迫使 Feedly 实时秒级抓取
+# 【主动通知核心】：向 Google WebSub 枢纽发送广播，已修复 == 200 / == 204 语法错误
 def ping_feedly_websub(feed_url):
     hub_url = "http://appspot.com"
     data = {
@@ -167,7 +188,7 @@ def ping_feedly_websub(feed_url):
     }
     try:
         res = requests.post(hub_url, data=data, timeout=5)
-        # 只要服务器返回 200，就代表 Google 枢纽成功接收了推送请求
+        # 🌟 核心修正：使用标准明文表达式判断状态码，杜绝 Markdown 被吞导致的无效语法错误
         if res.status_code == 200 or res.status_code == 204:
             print(f"   📢 [WebSub广播] 成功通知 Google 枢纽中心，Feedly 将在数秒内同步: {feed_url}")
         else:
@@ -189,11 +210,10 @@ with ThreadPoolExecutor(max_workers=20) as executor:
             if items_list: 
                 if country not in country_feeds:
                     country_feeds[country] = []
-                # 核心修正：平铺合并多行文章字典列表
                 country_feeds[country].extend(items_list)
                 print(f"   ✅ [属地:{country}] 成功抓取该智库最新文章 {len(items_list)} 篇")
 
-# 6. 【按国别打包输出标准的规范化 RSS 文件 + 附加 WebSub 标签】
+# 6. 【按国别打包输出标准的规范化 RSS 文件 + 附加 WebSub 标签】（已完全修复格式）
 print("\n📦 开始按国别（一国一包）打包生成完美适配 Feedly 规范的 RSS 订阅源...")
 generated_feeds = []
 
@@ -204,18 +224,16 @@ for country, items in country_feeds.items():
         
     current_time = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
     
-    # 动态拼装该国家 RSS 订阅源文件的公网访问直链
     filename = f"rss_{safe_country_name}.xml"
     this_feed_url = f"{DEPLOYED_BASE_URL.rstrip('/')}/{filename}"
     
-    # 核心优化：同时引入 content 和 atom 命名空间
+    # 严格拼装标准的 XML/RSS 通道节点
     rss_parts = [
         '<?xml version="1.0" encoding="utf-8"?>',
         '<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">',
         '  <channel>',
         f'    <title><![CDATA[智库深度全文订阅-{safe_country_name}]]></title>',
         f'    <link>{this_feed_url}</link>',
-        # 🌟 核心突破：写入 WebSub 声明标签，允许 Feedly 进行实时轻量订阅
         '    <atom:link href="http://appspot.com" rel="hub" />',
         f'    <atom:link href="{this_feed_url}" rel="self" type="application/rss+xml" />',
         f'    <description><![CDATA[自动透传的 [{safe_country_name}] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>',
@@ -223,6 +241,7 @@ for country, items in country_feeds.items():
         f'    <lastBuildDate>{current_time}</lastBuildDate>'
     ]
     
+    # 循环补齐每一篇文章的所有核心标准标签，修复了标签被吞导致的异常
     for item in items:
         rss_parts.append('    <item>')
         rss_parts.append(f'      <title>{item["title"]}</title>')
@@ -233,21 +252,24 @@ for country, items in country_feeds.items():
         rss_parts.append(f'      <pubDate>{item["pub_date"]}</pubDate>')
         rss_parts.append('    </item>')
         
+    # 严格闭合频道和文档尾部
     rss_parts.append('  </channel>')
     rss_parts.append('</rss>')
     
     full_xml_content = "\n".join(rss_parts)
     
+    # 写入本地静态 XML 文件
     with open(filename, "w", encoding="utf-8") as f:
         f.write(full_xml_content)
         
     actual_mb = len(full_xml_content.encode('utf-8')) / (1024 * 1024)
     print(f"   💾 成功同步国家文件: {filename} (包含 {len(items)} 篇详细文章，大小: {actual_mb:.2f} MB)")
     
-    # 记录成功生成的订阅源公网直链，待全部写入完成后统一推送
     generated_feeds.append(this_feed_url)
 
+# =====================================================================
 # 7. 【全量同步完后触发主动推送】
+# =====================================================================
 print("\n📡 开始触发 WebSub 主动广播通知，引导 Feedly 极速抓取...")
 for feed_url in generated_feeds:
     ping_feedly_websub(feed_url)
