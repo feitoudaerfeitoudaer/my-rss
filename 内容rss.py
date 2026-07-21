@@ -37,12 +37,11 @@ proxies = {
     'https': 'http://127.0.0.1:6917'
 }
 
-# 辅助函数：彻底清洗 XML 绝对不允许的非法控制字符
+# 辅助函数：彻底清洗 XML 1.0 绝对不允许的非法控制字符
 def clean_xml_string(v):
     if not v:
         return ""
-    # 移除 XML 绝对不允许的控制字符，防止解析崩溃
-    return re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F]', '', v)
+    return re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x84\x86-\x9F]', '', v)
 
 # 定义单个网站的抓取任务函数
 def fetch_single_site(row):
@@ -72,19 +71,28 @@ def fetch_single_site(row):
         
         if title_element and content_element:
             title_text = title_element.get_text(strip=True)
-            full_html_content = str(content_element) 
+            
+            # 🌟【智能降维瘦身】提取干净的纯文本
+            raw_text = content_element.get_text(separator="\n", strip=True)
+            
+            # 限制前 1500 个字作为核心摘要
+            summary_text = raw_text[:1500]
+            if len(raw_text) > 1500:
+                summary_text += "\n\n...(报告正文较长已自动隐藏后半部分)..."
+            
+            # 嵌入直达原文超链接
+            html_read_more = f"<p>{summary_text.replace('\n', '<br>')}</p><br><hr><p><a href='{site_url}' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>"
             
             # 清洗非法字符
             title_clean = clean_xml_string(title_text)
-            content_clean = clean_xml_string(full_html_content)
+            content_clean = clean_xml_string(html_read_more)
+            content_safe = content_clean.replace("]]>", "]]&gt;")
             
-            # 拼接标准的 XML Item 字典（不经过任何三方库转义）
-            # 对 title 和 link 进行常规 HTML 转义处理，防止特殊符号破环 XML 结构
             item = {
                 "title": html.escape(f"[{site_name}] {title_clean}"),
                 "link": html.escape(site_url),
-                "description": f"<![CDATA[{content_clean}]]>", # 纯原生 CDATA 防弹衣，拒绝乱码转义
-                "pub_date": datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800") # 标准 RFC 822 时间格式
+                "description": f"<![CDATA[{content_safe}]]>", 
+                "pub_date": datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
             }
             return (country, item)
     except Exception:
@@ -107,33 +115,30 @@ with ThreadPoolExecutor(max_workers=30) as executor:
             country_feeds[country].append(item)
             print(f"   ✅ [属地:{country}] 成功抓取: {item['title'][:20]}...")
 
-# 6. 【原生字符串拼接打包，生成绝对纯正的 XML 文件】
-print("\n📦 开始按国别（描述栏）打包分流 RSS 文件...")
+# 6. 【原生字符串一国单包输出 - 全量无损】
+print("\n📦 开始按国别（一国一包一链接）打包 RSS 文件...")
 
 for country, items in country_feeds.items():
-    # 限制最新 100 条
-    safe_items = items[:100]
+    # 🌟【核心修改】彻底解除数量限制，全量保留
+    safe_items = items  
     
-    # 清洗国家名称中可能存在的特殊字符或空格
     safe_country_name = "".join([c for c in country if c.isalpha() or c.isdigit() or c=='_']).strip()
     if not safe_country_name:
         safe_country_name = "Other"
         
     current_time = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
     
-    # 1. 拼接 RSS 头部
     rss_parts = [
         '<?xml version="1.0" encoding="utf-8"?>',
         '<rss version="2.0">',
         '  <channel>',
         f'    <title>智库全文订阅-{safe_country_name}</title>',
         f'    <link>https://github.io_{safe_country_name}.xml</link>',
-        f'    <description>自动抓取的 [{safe_country_name}] 智库文章全文</description>',
+        f'    <description>自动抓取的 [{safe_country_name}] 智库文章全文摘要（全量无损版）</description>',
         '    <language>zh-cn</language>',
         f'    <lastBuildDate>{current_time}</lastBuildDate>'
     ]
     
-    # 2. 循环拼接每一个文章条目 (Item)
     for item in safe_items:
         rss_parts.append('    <item>')
         rss_parts.append(f'      <title>{item["title"]}</title>')
@@ -143,16 +148,16 @@ for country, items in country_feeds.items():
         rss_parts.append(f'      <pubDate>{item["pub_date"]}</pubDate>')
         rss_parts.append('    </item>')
         
-    # 3. 闭合 RSS 尾部
     rss_parts.append('  </channel>')
     rss_parts.append('</rss>')
     
-    # 4. 组合成完整的 XML 字符串
     full_xml_content = "\n".join(rss_parts)
     
     filename = f"rss_{safe_country_name}.xml"
     with open(filename, "w", encoding="utf-8") as f:
         f.write(full_xml_content)
-    print(f"   💾 成功生成防爆分流文件: {filename} (包含 {len(safe_items)} 条文章全文)")
+        
+    actual_mb = len(full_xml_content.encode('utf-8')) / (1024 * 1024)
+    print(f"   💾 成功同步国家文件: {filename} (包含 {len(safe_items)} 条，大小仅为: {actual_mb:.2f} MB)")
 
-print(f"\n==== 🚀 运行结束！已成功按国别分流更新全部防爆 XML 文件 ====")
+print(f"\n==== 🚀 运行结束！全量无损输出完毕，完美适配 Feedly 免费版额度 ====")
