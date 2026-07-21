@@ -12,351 +12,416 @@ from bs4 import XMLParsedAsHTMLWarning
 import warnings
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+from typing import Dict, List, Optional, Tuple, Set
 
-# ==========================================
-# ⚙️ 配置区域：已为你修改为 my-rss 项目的真实公网托管链接
-# ==========================================
+# ====================== 全局常量配置区 ======================
 DEPLOYED_BASE_URL = "https://feitoudaerfeitoudaer.github.io"
+COUNTRY_COLUMN = '描述'
+MAX_ARTICLE_PER_SITE = 3
+SUMMARY_MAX_CHAR = 1500
+THREAD_POOL_STAGE1 = 30
+THREAD_POOL_STAGE2 = 40
+REQUEST_TIMEOUT = 10
+PROXY_TEST_TIMEOUT = 5
+USER_AGENT = (
+    "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
+    "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+)
 
-# 1. 禁用所有难看的黄色警告提示
+# RSS 标准命名空间（修复原代码残缺URI问题）
+NS_CONTENT = "http://purl.org/rss/1.0/modules/content/"
+NS_ATOM = "http://www.w3.org/2005/Atom"
+
+# WebSub Hub 说明：原 http://appspot.com 无效，替换公共可用hub
+WEBSUB_HUB = "https://pubsubhubbub.appspot.com/"
+
+# 关闭警告
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
 
-# 2. 创建允许低版本安全协议的自定义连接器
+
 class CustomSSLAdapter(requests.adapters.HTTPAdapter):
+    """自定义SSL适配器，兼容老旧加密网站"""
     def init_poolmanager(self, *args, **kwargs):
         ctx = ssl.create_default_context()
-        ctx.set_ciphers('DEFAULT@SECLEVEL=1') 
+        ctx.set_ciphers('DEFAULT@SECLEVEL=1')
         ctx.check_hostname = False
         kwargs['ssl_context'] = ctx
-        return super(CustomSSLAdapter, self).init_poolmanager(*args, **kwargs)
+        return super().init_poolmanager(*args, **kwargs)
 
-# 3. 读取 Excel 文件
-df = pd.read_excel("penn_library_deduplicated_think_tanks.xlsx") 
 
-country_column = '描述' 
-df[country_column] = df[country_column].fillna('Other').astype(str).str.strip()
+def create_http_session() -> requests.Session:
+    """创建全局可复用Session"""
+    session = requests.Session()
+    adapter = CustomSSLAdapter()
+    session.mount('https://', adapter)
+    session.mount('http://', adapter)
+    return session
 
-# 4. 初始化网络连接器与智能自适应代理
-session = requests.Session()
-adapter = CustomSSLAdapter()
-session.mount('https://', adapter)
-session.mount('http://', adapter)
 
-# 智能自适应代理测试（放宽超时到 5s 防止误判）
-PROXIES_CONFIG = None
-try:
-    test_proxies = {'http': 'http://127.0.0.1:6917', 'https': 'http://127.0.0.1:6917'}
-    test_res = requests.get('https://google.com', proxies=test_proxies, timeout=5, verify=False)
-    if test_res.status_code == 200:
-        PROXIES_CONFIG = test_proxies
-        print("   💡 [网络状态] 检测到本地代理有效，已成功启用 6917 转发加速机制。")
-except Exception:
-    print("   💡 [网络状态] 未检测到本地局域网代理（或正运行于 GitHub 云端），已切换为原生直连模式。")
+def detect_proxy() -> Optional[Dict[str, str]]:
+    """自动检测本地代理是否可用"""
+    proxies = {'http': 'http://127.0.0.1:6917', 'https': 'http://127.0.0.1:6917'}
+    try:
+        resp = requests.get(
+            'https://www.google.com',
+            proxies=proxies,
+            timeout=PROXY_TEST_TIMEOUT,
+            verify=False
+        )
+        if resp.status_code == 200:
+            print("💡 [网络状态] 检测到本地代理有效，启用6917转发")
+            return proxies
+    except Exception:
+        print("💡 [网络状态] 未检测到代理，使用直连模式")
+    return None
 
-# 辅助函数：清洗 XML 非法控制字符
-def clean_xml_string(v):
+
+def clean_xml_string(v: Optional[str]) -> str:
+    """清除XML非法控制字符，防止RSS解析崩溃"""
     if not v:
         return ""
-    return re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x84\x86-\x9F]', '', v)
+    val = str(v)
+    # 移除xml不允许的控制字符
+    val = re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x84\x86-\x9F]', '', val)
+    # 转义CDATA结束标记防止破坏文档
+    val = val.replace("]]>", "]]&gt;")
+    return val
 
-# 【极速任务 1】：深入具体报告页，抓取封面和纯净正文
-def fetch_article_detail(article_url, headers):
+
+def normalize_url(base: str, href: str) -> str:
+    """URL标准化，处理相对路径、//协议链接"""
+    href = href.strip()
+    if href.startswith("//"):
+        return f"https:{href}"
+    if href.startswith("/"):
+        domain = '/'.join(base.rstrip("/").split('/')[:3])
+        return domain + href
+    return href
+
+
+def fetch_article_detail(article_url: str, headers: dict, session: requests.Session, proxies: Optional[dict]) -> Tuple[str, str]:
+    """抓取文章封面图与正文内容"""
     try:
-        res = session.get(article_url, headers=headers, timeout=10, verify=False, proxies=PROXIES_CONFIG)
+        res = session.get(
+            article_url,
+            headers=headers,
+            timeout=REQUEST_TIMEOUT,
+            verify=False,
+            proxies=proxies
+        )
         if res.status_code != 200:
             return "", ""
         res.encoding = res.apparent_encoding
         soup = BeautifulSoup(res.text, 'html.parser')
-        
+
+        # 提取封面图片
         img_url = ""
-        main_img = soup.find('meta', property='og:image') or soup.find('meta', name='twitter:image')
-        if main_img and main_img.get('content'):
-            img_url = main_img['content']
+        meta_img = soup.find('meta', property='og:image') or soup.find('meta', name='twitter:image')
+        if meta_img and meta_img.get("content"):
+            img_url = meta_img["content"]
         else:
-            first_img = soup.find('img', src=re.compile(r'uploads|article|wp-content', re.I))
-            if first_img and first_img.get('src'):
-                img_url = first_img['src']
-                if img_url.startswith('/'):
-                    # ⭐ 修复原先使用 split() 与字符串直接相加爆掉的 Bug
-                    base_domain = '/'.join(article_url.split('/')[:3])
-                    img_url = base_domain + img_url
+            img_tag = soup.find('img', src=re.compile(r'uploads|article|wp-content|report', re.I))
+            if img_tag and img_tag.get("src"):
+                img_url = normalize_url(article_url, img_tag["src"])
 
-        for junk in soup.find_all(['nav', 'footer', 'script', 'style', 'header', 'noscript', 'aside']):
-            junk.decompose()
+        # 清理无关DOM
+        for selector in ['nav', 'footer', 'script', 'style', 'header', 'noscript', 'aside']:
+            for tag in soup.find_all(selector):
+                tag.decompose()
 
+        # 定位正文容器
         article_body = (
-            soup.find('article') or 
-            soup.find('div', class_=re.compile(r'article-content|post-content|story-body|entry-content|report-body')) or
-            soup.find('main')
+            soup.find('article')
+            or soup.find('main')
+            or soup.find('div', class_=re.compile(r'article-content|post-content|story-body|entry-content|report-body'))
         )
-        
+
+        # 备选策略：段落最多的div
         if not article_body:
+            max_p = 0
             best_div = None
-            max_p_count = 0
-            for div in soup.find_all('div'):
-                p_count = len(div.find_all('p'))
-                if p_count > max_p_count:
-                    max_p_count = p_count
+            for div in soup.find_all("div"):
+                cnt = len(div.find_all("p"))
+                if cnt > max_p:
+                    max_p = cnt
                     best_div = div
             article_body = best_div
 
         paragraphs = []
         if article_body:
-            paragraphs = [p.get_text(strip=True) for p in article_body.find_all('p') if len(p.get_text(strip=True)) > 15]
-            
-        full_txt = "\n".join(paragraphs) if paragraphs else "点击下方链接阅读智库官方原文。"
-        return img_url, full_txt
-    except Exception:
-        pass
-    return "", ""
+            paragraphs = [
+                p.get_text(strip=True)
+                for p in article_body.find_all("p")
+                if len(p.get_text(strip=True)) > 15
+            ]
 
-# 【极速任务 2】：主页多线并发透传，只抽链接
-def fetch_links_from_homepage(row):
+        full_text = "\n".join(paragraphs) if paragraphs else "点击下方链接阅读智库官方原文。"
+        return img_url, full_text
+    except Exception:
+        return "", ""
+
+
+def fetch_links_from_homepage(row: pd.Series, headers: dict, session: requests.Session, proxies: Optional[dict]) -> List[dict]:
+    """访问智库首页，抓取文章链接任务列表"""
     site_name = row['网站名称']
     base_url = row['网站链接']
-    country = row[country_column]
-    
-    headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
-        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
-        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-        'Referer': 'https://google.com',
-    }
-    
-    target_tasks = []
+    country = row[COUNTRY_COLUMN]
+    target_tasks: List[dict] = []
+    seen_urls: Set[str] = set()
+
     try:
-        response = session.get(base_url, headers=headers, timeout=10, verify=False, proxies=PROXIES_CONFIG)
-        if response.status_code != 200:
+        resp = session.get(
+            base_url,
+            headers=headers,
+            timeout=REQUEST_TIMEOUT,
+            verify=False,
+            proxies=proxies
+        )
+        if resp.status_code != 200:
             return target_tasks
-        response.encoding = response.apparent_encoding 
-        soup = BeautifulSoup(response.text, 'html.parser')
-        
-        links = soup.find_all('a', href=True)
-        seen_urls = set()
-        
-        # ⭐ 核心 Bug 修复：提取纯字符串域名，用于后续判断
+        resp.encoding = resp.apparent_encoding
+        soup = BeautifulSoup(resp.text, 'html.parser')
+
         domain_keyword = base_url.replace('https://', '').replace('http://', '').replace('www.', '').split('/')[0]
-        
-        for link in links:
-            href = link['href'].strip()
-            if href.startswith('/'):
-                if href.startswith('//'): href = 'https:' + href
-                else: href = base_url.rstrip('/') + href
-            
-            # ⭐ 核心 Bug 修复：用纯字符串形式做 in 判定，不再和 list 进行对比
-            if domain_keyword not in href or href.rstrip('/') == base_url.rstrip('/'):
+        junk_keywords = {'about', 'contact', 'search', 'privacy', 'terms', 'twitter',
+                         'facebook', 'linkedin', 'careers', 'experts', 'events', 'donate'}
+
+        for link in soup.find_all('a', href=True):
+            raw_href = link['href']
+            full_href = normalize_url(base_url, raw_href)
+            href_stripped = full_href.rstrip("/")
+            base_stripped = base_url.rstrip("/")
+
+            # 过滤外部链接、首页、垃圾页面
+            if domain_keyword not in full_href or href_stripped == base_stripped:
                 continue
-            if any(x in href.lower() for x in ['about', 'contact', 'search', 'privacy', 'terms', 'twitter', 'facebook', 'linkedin', 'careers', 'experts', 'events', 'donate']):
+            if any(k in full_href.lower() for k in junk_keywords):
                 continue
-                
+
             link_text = link.get_text(strip=True)
-            if len(link_text) < 20 or href in seen_urls: 
+            if len(link_text) < 20 or full_href in seen_urls:
                 continue
-                
-            seen_urls.add(href)
+
+            seen_urls.add(full_href)
             target_tasks.append({
-                'site_name': site_name,
-                'country': country,
-                'href': href,
-                'link_text': link_text,
-                'headers': headers
+                "site_name": site_name,
+                "country": country,
+                "href": full_href,
+                "link_text": link_text,
+                "headers": headers
             })
-            if len(target_tasks) >= 3: 
+            if len(target_tasks) >= MAX_ARTICLE_PER_SITE:
                 break
     except Exception:
         pass
     return target_tasks
 
-# 单条子文章任务处理函数
-def process_single_article_task(task):
-    href = task['href']
-    headers = task['headers']
-    link_text = task['link_text']
-    site_name = task['site_name']
-    
-    img_url, full_detail_text = fetch_article_detail(href, headers)
+
+def process_single_article_task(task: dict, session: requests.Session, proxies: Optional[dict]) -> Optional[Tuple[str, dict]]:
+    """单篇文章抓取与内容组装"""
+    href = task["href"]
+    headers = task["headers"]
+    link_text = task["link_text"]
+    site_name = task["site_name"]
+
+    img_url, full_detail_text = fetch_article_detail(href, headers, session, proxies)
     if not full_detail_text:
         return None
-        
+
+    # 摘要描述
     if img_url:
-        list_description = f"<img src='{img_url}' style='float:left; margin-right:10px; width:120px; height:80px; object-fit:cover;' />网站专栏报告。作者: 智库研究员。 这篇智库文章初次发表在{site_name}官方网站上。"
+        list_description = (
+            f"<img src='{img_url}' style='float:left; margin-right:10px; width:120px; height:80px; object-fit:cover;' />"
+            f"网站专栏报告。作者: 智库研究员。这篇智库文章初次发表在{site_name}官方网站上。"
+        )
     else:
         list_description = f"网站专栏报告. 作者: 智库研究员. 这篇智库文章初次发表在{site_name}官方网站上。"
-    
-    summary_text = full_detail_text[:1500] # 瘦身至 1500 字完美契合 Feedly 免费版额度
-    if len(full_detail_text) > 1500:
+
+    # 内容截断
+    summary_text = full_detail_text[:SUMMARY_MAX_CHAR]
+    if len(full_detail_text) > SUMMARY_MAX_CHAR:
         summary_text += "\n\n...(详细内容较长，已自动折叠)..."
-        
+
+    # 富文本正文
     html_content = (
         f"<div style='max-width:660px; margin:0 auto; font-family:-apple-system,BlinkMacSystemFont,sans-serif; font-size:16px; line-height:1.8; color:#333;'>"
-        f"<h2>{link_text}</h2>"
-        f"<p style='color:#666; font-size:14px;'>发布源: {site_name} | 抓取时间: {datetime.datetime.now().strftime('%Y-%m-%d')}</p><hr/>"
-        f"<p style='margin-bottom:1.5em; text-indent:2em;'>{summary_text.replace('\n', '</p><p style=\"margin-bottom:1.5em; text-indent:2em;\">')}</p>"
-        f"<br/><p><a href='{href}' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p>"
+        f"<h2>{html.escape(link_text)}</h2>"
+        f"<p style='color:#666; font-size:14px;'>发布源: {html.escape(site_name)} | 抓取时间: {datetime.datetime.now().strftime('%Y-%m-%d')}</p><hr/>"
+        f"<p style='margin-bottom:1.5em; text-indent:2em;'>"
+        f"{summary_text.replace('\n', '</p><p style=\"margin-bottom:1.5em; text-indent:2em;\">')}"
+        f"</p>"
+        f"<br/><p><a href='{html.escape(href)}' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p>"
         f"</div>"
     )
-    
-    # 彻底洗净数据源，移出可能污染 CDATA 的边界标记
-    title_clean = clean_xml_string(link_text).replace("]]>", "]]&gt;")
-    list_clean = clean_xml_string(list_description).replace("]]>", "]]&gt;")
-    html_clean = clean_xml_string(html_content).replace("]]>", "]]&gt;")
-    
-    return task['country'], {
+
+    title_clean = clean_xml_string(link_text)
+    desc_clean = clean_xml_string(list_description)
+    content_clean = clean_xml_string(html_content)
+    pub_date = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
+
+    return task["country"], {
         "title": title_clean,
-        "site_name": site_name, 
+        "site_name": site_name,
         "link": html.escape(href),
-        "description": list_clean, 
-        "content_encoded": html_clean,
-        "pub_date": datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
+        "description": desc_clean,
+        "content_encoded": content_clean,
+        "pub_date": pub_date
     }
 
-# 【主动通知核心】
 
-def ping_feedly_websub(feed_url):
-    hub_url = "http://appspot.com"
-    data = {"hub.mode": "publish", "hub.url": feed_url}
+def ping_feedly_websub(feed_url: str, session: requests.Session):
+    """WebSub主动推送更新通知"""
+    data = {
+        "hub.mode": "publish",
+        "hub.url": feed_url
+    }
     try:
-        res = requests.post(hub_url, data=data, timeout=5)
-        # ⭐ 已修复：明确指定当状态码为 200 或 204 时代表广播成功
-        if res.status_code in:  
-            print(f"   📢 [WebSub广播] 成功通知 Google 枢纽中心: {feed_url}")
-    except Exception:
-        pass
+        resp = session.post(WEBSUB_HUB, data=data, timeout=5)
+        if resp.status_code in (200, 204):
+            print(f"📢 [WebSub广播成功] {feed_url}")
+        else:
+            print(f"⚠️ [WebSub广播失败] {feed_url} status={resp.status_code}")
+    except Exception as e:
+        print(f"⚠️ [WebSub异常] {feed_url} {str(e)[:60]}")
 
-# ==========================================
-# 5. 【两阶段扁平化线程池爆发核心区域】
-# ==========================================
-print(f"🚀 [第一阶段] 正在秒级提取所有智库主页的文章链接...")
-all_article_tasks = []
-with ThreadPoolExecutor(max_workers=30) as executor:
-    futures = {executor.submit(fetch_links_from_homepage, row): row for _, row in df.iterrows()}
-    for future in as_completed(futures):
-        tasks = future.result()
-        if tasks:
-            all_article_tasks.extend(tasks)
 
-print(f"🚀 [第二阶段] 提取完毕！共获得 {len(all_article_tasks)} 个具体报告页面。开始全量高并发渗透...")
-country_feeds = {}
+def build_rss_xml(country: str, items: List[dict], feed_base: str) -> Tuple[str, bytes]:
+    """构建标准RSS2.0 XML文档"""
+    safe_country = "".join([c for c in country if c.isalnum() or c == '_']).strip()
+    if not safe_country:
+        safe_country = "Other"
+    filename = f"rss_{safe_country}.xml"
+    feed_url = f"{feed_base.rstrip('/')}/{filename}"
+    now_str = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
 
-with ThreadPoolExecutor(max_workers=40) as executor:
-    article_futures = {executor.submit(process_single_article_task, task): task for task in all_article_tasks}
-    for future in as_completed(article_futures):
-        result = future.result()
-        if result:
-            country, item = result
-            if country not in country_feeds:
-                country_feeds[country] = []
-            country_feeds[country].append(item)
+    # 根节点与命名空间注册
+    ET.register_namespace("content", NS_CONTENT)
+    ET.register_namespace("atom", NS_ATOM)
 
-# =====================================================================
-# 6. 【现代安全序列化结构】（对象级树形架构，100% 免疫排版错乱与 Feedly 语法错误）
-# =====================================================================
-print("\n📦 开始按国别打包生成完美隔离、零额度损耗的 RSS 订阅源...")
-generated_feeds = []
-
-# 向系统全局注册 Feedly 校验所必须的 W3C 标准命名空间缩写
-ET.register_namespace('content', 'http://purl.org')
-ET.register_namespace('atom', 'http://w3.org')
-
-for country, items in country_feeds.items():
-    safe_country_name = "".join([c for c in country if c.isalnum() or c == '_']).strip()
-    if not safe_country_name:
-        safe_country_name = "Other"
-        
-    current_time = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
-    filename = f"rss_{safe_country_name}.xml"
-    this_feed_url = f"{DEPLOYED_BASE_URL.rstrip('/')}/{filename}"
-    
-    # 建立标准的 XML 树形根节点（从源头上杜绝尖括号闭合不全引起的死穴）
-    rss_root = ET.Element('rss', {
-        'version': '2.0',
-        'xmlns:content': 'http://purl.org',
-        'xmlns:atom': 'http://w3.org'
+    rss = ET.Element("rss", {
+        "version": "2.0",
+        "xmlns:content": NS_CONTENT,
+        "xmlns:atom": NS_ATOM
     })
-    channel = ET.SubElement(rss_root, 'channel')
-    
-    # 填充频道级（Channel）核心元数据
-    ch_title = ET.SubElement(channel, 'title')
-    ch_title.text = f"{safe_country_name}智库报告聚合"
-    
-    ch_link = ET.SubElement(channel, 'link')
-    ch_link.text = this_feed_url
-    
-    # 精准注入完美匹配 Feedly 的标准 WebSub 广播节点
-    ET.SubElement(channel, '{http://w3.org}link', {'href': 'http://appspot.com', 'rel': 'hub'})
-    ET.SubElement(channel, '{http://w3.org}link', {'href': this_feed_url, 'rel': 'self', 'type': 'application/rss+xml'})
-    
-    ch_desc = ET.SubElement(channel, 'description')
-    ch_desc.text = f"{safe_country_name} 全量智库文章详细全文聚合流"
-    
-    ch_lang = ET.SubElement(channel, 'language')
-    ch_lang.text = "zh-cn"
-    
-    ch_date = ET.SubElement(channel, 'lastBuildDate')
-    ch_date.text = current_time
-    
-    # 循环向频道中安全追加每一篇文章的 item 块
+    channel = ET.SubElement(rss, "channel")
+
+    # Channel基础信息
+    ET.SubElement(channel, "title").text = f"{safe_country}智库报告聚合"
+    ET.SubElement(channel, "link").text = feed_url
+    ET.SubElement(channel, "description").text = f"{safe_country} 全量智库文章详细全文聚合流"
+    ET.SubElement(channel, "language").text = "zh-cn"
+    ET.SubElement(channel, "lastBuildDate").text = now_str
+
+    # WebSub hub + self链接
+    ET.SubElement(channel, f"{{{NS_ATOM}}}link", {"rel": "hub", "href": WEBSUB_HUB})
+    ET.SubElement(channel, f"{{{NS_ATOM}}}link", {"rel": "self", "href": feed_url, "type": "application/rss+xml"})
+
+    # Item条目循环
     for item in items:
-        item_node = ET.SubElement(channel, 'item')
-        
-        # 剥离可能残存的字符串 CDATA 标记，由 ElementTree 统一在最底层执行最高规格的转义
-        raw_title = item["title"].replace("<![CDATA[", "").replace("]]>", "")
-        raw_desc = item["description"].replace("<![CDATA[", "").replace("]]>", "")
-        raw_content = item["content_encoded"].replace("<![CDATA[", "").replace("]]>", "")
-        
-        # 注入标题（自带智库分类前缀）
-        t_node = ET.SubElement(item_node, 'title')
-        t_node.text = f"[{item['site_name']}] {raw_title}"
-        
-        # 注入链接（内部自动执行 html.escape，解决 URL 中带 & 导致 Feedly 报错的隐患）
-        l_node = ET.SubElement(item_node, 'link')
-        l_node.text = item["link"]
-        
-        # 注入中间栏精简图文摘要描述
-        d_node = ET.SubElement(item_node, 'description')
-        d_node.text = raw_desc
-        
-        # 注入 Feedly 阅读器最喜欢的右侧沉浸式详情富文本
-        c_node = ET.SubElement(item_node, '{http://purl.org}encoded')
-        c_node.text = raw_content
-        
-        # 注入分类标签
-        cat_node = ET.SubElement(item_node, 'category')
-        cat_node.text = item["site_name"]
-        
-        # 注入永久链接唯一标识符
-        g_node = ET.SubElement(item_node, 'guid', {'isPermaLink': 'true'})
-        g_node.text = item["link"]
-        
-        # 注入具体发布时间
-        p_node = ET.SubElement(item_node, 'pubDate')
-        p_node.text = item["pub_date"]
-        
-    # 序列化为字节流
-    raw_xml_bytes = ET.tostring(rss_root, encoding='utf-8', method='xml')
+        item_node = ET.SubElement(channel, "item")
+        ET.SubElement(item_node, "title").text = f"[{item['site_name']}] {item['title']}"
+        ET.SubElement(item_node, "link").text = item["link"]
+        ET.SubElement(item_node, "description").text = item["description"]
+        ET.SubElement(item_node, f"{{{NS_CONTENT}}}encoded").text = item["content_encoded"]
+        ET.SubElement(item_node, "category").text = item["site_name"]
+        ET.SubElement(item_node, "guid", {"isPermaLink": "true"}).text = item["link"]
+        ET.SubElement(item_node, "pubDate").text = item["pub_date"]
+
+    # 格式化输出
+    raw_bytes = ET.tostring(rss, encoding="utf-8", method="xml")
     try:
-        # 使用 minidom 为最终文件提供漂亮、整齐的换行和缩进排版
-        pretty_xml_str = minidom.parseString(raw_xml_bytes).toprettyxml(indent="  ")
-        if not pretty_xml_str.startswith('<?xml'):
-            pretty_xml_str = '<?xml version="1.0" encoding="utf-8"?>\n' + pretty_xml_str
-        pretty_xml_bytes = pretty_xml_str.encode('utf-8')
+        dom = minidom.parseString(raw_bytes)
+        pretty_str = dom.toprettyxml(indent="  ", encoding="utf-8").decode("utf-8")
+        if not pretty_str.startswith("<?xml"):
+            pretty_str = '<?xml version="1.0" encoding="utf-8"?>\n' + pretty_str
+        output_bytes = pretty_str.encode("utf-8")
     except Exception:
-        pretty_xml_bytes = b'<?xml version="1.0" encoding="utf-8"?>\n' + raw_xml_bytes
-        
-    # 以二进制覆写模式写入磁盘文件
-    with open(filename, "wb") as f:
-        f.write(pretty_xml_bytes)
-        
-    actual_mb = len(pretty_xml_bytes) / (1024 * 1024)
-    print(f"   💾 成功创建合并文件: {filename} (包含 {len(items)} 篇，大小: {actual_mb:.2f} MB)")
-    generated_feeds.append(this_feed_url)
+        output_bytes = b'<?xml version="1.0" encoding="utf-8"?>\n' + raw_bytes
 
-# =====================================================================
-# 7. 【全量同步完后触发主动推送】
-# =====================================================================
-print("\n📡 开始触发 WebSub 主动广播通知...")
-for feed_url in generated_feeds:
-    ping_feedly_websub(feed_url)
+    return filename, output_bytes
 
-print(f"\n==== 🚀 全量聚合完毕！完全不消耗订阅额度，完美适配 Feedly 免费版 ====")
+
+def main():
+    # 初始化
+    session = create_http_session()
+    proxies = detect_proxy()
+    headers = {
+        'User-Agent': USER_AGENT,
+        'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8',
+        'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
+        'Referer': 'https://google.com',
+    }
+
+    # 读取数据源
+    print("\n📂 正在读取智库清单Excel...")
+    df = pd.read_excel("penn_library_deduplicated_think_tanks.xlsx")
+    df[COUNTRY_COLUMN] = df[COUNTRY_COLUMN].fillna("Other").astype(str).str.strip()
+    print(f"✅ 读取完成，共 {len(df)} 家智库")
+
+    # 阶段1：并发抓取首页文章链接
+    print("\n🚀 [第一阶段] 提取智库主页文章链接...")
+    all_tasks: List[dict] = []
+    with ThreadPoolExecutor(max_workers=THREAD_POOL_STAGE1) as executor:
+        futures_map = {
+            executor.submit(fetch_links_from_homepage, row, headers, session, proxies): row
+            for _, row in df.iterrows()
+        }
+        for fut in as_completed(futures_map):
+            res = fut.result()
+            if res:
+                all_tasks.extend(res)
+    print(f"✅ 链接收集完成，待抓取详情页面总数：{len(all_tasks)}")
+
+    if not all_tasks:
+        print("⚠️ 未获取到任何文章链接，程序终止")
+        return
+
+    # 阶段2：并发抓取文章详情
+    print("\n🚀 [第二阶段] 并发抓取文章正文与封面...")
+    country_feed_map: Dict[str, List[dict]] = {}
+    success_count = 0
+    fail_count = 0
+    with ThreadPoolExecutor(max_workers=THREAD_POOL_STAGE2) as executor:
+        futures_map = {
+            executor.submit(process_single_article_task, task, session, proxies): task
+            for task in all_tasks
+        }
+        for fut in as_completed(futures_map):
+            result = fut.result()
+            if result:
+                success_count += 1
+                cty, item_data = result
+                if cty not in country_feed_map:
+                    country_feed_map[cty] = []
+                country_feed_map[cty].append(item_data)
+            else:
+                fail_count += 1
+    print(f"✅ 详情抓取结束：成功 {success_count} 篇，失败 {fail_count} 篇")
+
+    # 生成RSS文件
+    print("\n📦 开始生成国别RSS订阅文件...")
+    feed_url_list = []
+    for country, item_list in country_feed_map.items():
+        fname, xml_bytes = build_rss_xml(country, item_list, DEPLOYED_BASE_URL)
+        try:
+            with open(fname, "wb") as fp:
+                fp.write(xml_bytes)
+            size_mb = len(xml_bytes) / (1024 * 1024)
+            feed_link = f"{DEPLOYED_BASE_URL.rstrip('/')}/{fname}"
+            feed_url_list.append(feed_link)
+            print(f"💾 {fname} | 条目:{len(item_list)} | {size_mb:.2f} MB")
+        except Exception as e:
+            print(f"❌ 文件写入失败 {fname}: {str(e)}")
+
+    # WebSub批量推送
+    print("\n📡 执行WebSub主动推送通知...")
+    for fu in feed_url_list:
+        ping_feedly_websub(fu, session)
+
+    print("\n==== 🎉 全流程任务执行完毕 ====")
+    session.close()
+
+
+if __name__ == "__main__":
+    main()
