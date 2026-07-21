@@ -1,108 +1,215 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title>智库全文订阅-Russia</title>
+    <title><![CDATA[智库全文订阅-Russia]]></title>
     <link>https://github.io_Russia.xml</link>
-    <description>自动抓取的 [Russia] 智库文章全文摘要（全量无损版）</description>
+    <description><![CDATA[自动抓取的 [Russia] 智库文章全文摘要（全量无损版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
     <item>
-      <title>[Carnegie Endowment for International Peace Moscow Center – Russia] Carnegie Moscow Center</title>
+      <title><![CDATA[[Carnegie Endowment for International Peace Moscow Center – Russia] Carnegie Moscow Center]]></title>
       <link>https://carnegie.ru/?lang=en</link>
-      <description><![CDATA[<p>Carnegie Moscow Center<br>Global Resources<br>Research Areas<br>Programs<br>Projects<br>Publications<br>Experts<br>Events<br>Shortcuts<br>For Media<br>Our Network<br>Carnegie Moscow Center<br>Carnegie China<br>Malcolm H. Kerr Carnegie Middle East Center<br>Publications<br>Experts<br>Events<br>Will a New Generation of Russians Modernize Their Country?<br>Andrei Kolesnikov<br>,<br>Denis Volkov<br>Wed Feb 16 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>How War Would Change Russia<br>Tatiana Stanovaya<br>Tue Feb 15 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>Could Russia and Australia Become Allies on Climate Change?<br>Stanislav Kuvaldin<br>Mon Feb 14 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>The West Has Responded to Russia’s Ultimatum. Is It Enough?<br>Alexander Baunov<br>Fri Feb 11 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>Are We On the Brink of War? An Interview With Dmitri Trenin<br>Dmitri Trenin<br>, Elena Chernenko<br>Wed Feb 09 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>What Would a War With Ukraine Mean for Ordinary Russians?<br>Andrei Kolesnikov<br>Fri Feb 04 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>Will Russia’s Intervention in Kazakhstan Come at a Price?<br>Temur Umarov<br>Thu Feb 03 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>Is There a Way Out of the Russia-NATO Talks Impasse?<br>Andrey Kortunov<br>Wed Feb 02 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>Kazakhstan After the Crisis: What Next?<br>Temur Umarov<br>, Alexander Gabuev<br>Tue Feb 01 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>Podcast: What’s <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://carnegie.ru/?lang=en' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://carnegie.ru/?lang=en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:36 +0800</pubDate>
+      <description><![CDATA[Carnegie Moscow Center
+Global Resources
+Research Areas
+Programs
+Projects
+Publications
+Experts
+Events
+Shortcuts
+For Media
+Our Network
+Carnegie Moscow Center
+Carnegie China
+Malcolm H. Kerr Carnegie Midd...]]></description>
+      <content:encoded><![CDATA[<div><p>Carnegie Moscow Center<br>Global Resources<br>Research Areas<br>Programs<br>Projects<br>Publications<br>Experts<br>Events<br>Shortcuts<br>For Media<br>Our Network<br>Carnegie Moscow Center<br>Carnegie China<br>Malcolm H. Kerr Carnegie Middle East Center<br>Publications<br>Experts<br>Events<br>Will a New Generation of Russians Modernize Their Country?<br>Andrei Kolesnikov<br>,<br>Denis Volkov<br>Wed Feb 16 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>How War Would Change Russia<br>Tatiana Stanovaya<br>Tue Feb 15 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>Could Russia and Australia Become Allies on Climate Change?<br>Stanislav Kuvaldin<br>Mon Feb 14 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>The West Has Responded to Russia’s Ultimatum. Is It Enough?<br>Alexander Baunov<br>Fri Feb 11 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>Are We On the Brink of War? An Interview With Dmitri Trenin<br>Dmitri Trenin<br>, Elena Chernenko<br>Wed Feb 09 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>What Would a War With Ukraine Mean for Ordinary Russians?<br>Andrei Kolesnikov<br>Fri Feb 04 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>Will Russia’s Intervention in Kazakhstan Come at a Price?<br>Temur Umarov<br>Thu Feb 03 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>Is There a Way Out of the Russia-NATO Talks Impasse?<br>Andrey Kortunov<br>Wed Feb 02 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>Kazakhstan After the Crisis: What Next?<br>Temur Umarov<br>, Alexander Gabuev<br>Tue Feb 01 2022 00:00:00 GMT+0000 (Coordinated Universal Time)<br>Podcast: What’s <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://carnegie.ru/?lang=en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://carnegie.ru/?lang=en</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:22 +0800</pubDate>
     </item>
     <item>
-      <title>[Institute of World Economy and International Relations (IMEMO) --Russia] IMEMO Journals</title>
+      <title><![CDATA[[Institute of World Economy and International Relations (IMEMO) --Russia] IMEMO Journals]]></title>
       <link>http://www.imemo.ru/en/</link>
-      <description><![CDATA[<p>About us<br>History of the Institute<br>Yevgeny Maksimovich Primakov<br>Directorate<br>President of IMEMO<br>Director of IMEMO<br>Academic Council<br>Meetings of the Academic Council<br>Divisions<br>Persons<br>News<br>News & Events<br>Announcement of Events<br>Publications in Mass media<br>Publications<br>Policy Briefs<br>Latest Products<br>List of Publications<br>Books<br>Articles<br>Periodical Editions<br>World Eсonomy and International Relations<br>Pathways to Peace and Security<br>Analysis and Forecasting. IMEMO Journal<br>Russia and New States of Eurasia<br>Polycentric World<br>Maritime Indexes by the IMEMO<br>Russia and the World. Annual Forecast<br>Russia and the World. Annual Forecast (eng)<br>Global Development<br>The Year of the Planet<br>Russia: arms control, disarmament and international security<br>Electronical Resources<br>Monitor of foreign expertise: Global Politics<br>Monitor of foreign expertise: World Economy<br>Key Indicators of Global Economic Development<br>Activities<br>International Forum «Primakov Readings»<br>Collections of Primakov Readings<br>Discussion Forum «European Union in a polycentric world»<br>International conference «The World Ocean - Space for Cooperation and Competition»<br>Inter-institutional seminar named after E.Y. Batalov<br>Conferences and presentations<br>Meetings and round tables<br>Seminars<br>Seminars of departments<br>Scientific-theoretical seminar CEPR<br>Scientific seminar of the Center for European Studies<br>Asian Seminars<br>Middle East Seminars named after Georgiy Mirsky<br>Seminar of the CDMS «Modern development problems»<br>Seminar "Forecasting and Management"<br>Seminar <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.imemo.ru/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.imemo.ru/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:37 +0800</pubDate>
+      <description><![CDATA[About us
+History of the Institute
+Yevgeny Maksimovich Primakov
+Directorate
+President of IMEMO
+Director of IMEMO
+Academic Council
+Meetings of the Academic Council
+Divisions
+Persons
+News
+News & Events
+A...]]></description>
+      <content:encoded><![CDATA[<div><p>About us<br>History of the Institute<br>Yevgeny Maksimovich Primakov<br>Directorate<br>President of IMEMO<br>Director of IMEMO<br>Academic Council<br>Meetings of the Academic Council<br>Divisions<br>Persons<br>News<br>News & Events<br>Announcement of Events<br>Publications in Mass media<br>Publications<br>Policy Briefs<br>Latest Products<br>List of Publications<br>Books<br>Articles<br>Periodical Editions<br>World Eсonomy and International Relations<br>Pathways to Peace and Security<br>Analysis and Forecasting. IMEMO Journal<br>Russia and New States of Eurasia<br>Polycentric World<br>Maritime Indexes by the IMEMO<br>Russia and the World. Annual Forecast<br>Russia and the World. Annual Forecast (eng)<br>Global Development<br>The Year of the Planet<br>Russia: arms control, disarmament and international security<br>Electronical Resources<br>Monitor of foreign expertise: Global Politics<br>Monitor of foreign expertise: World Economy<br>Key Indicators of Global Economic Development<br>Activities<br>International Forum «Primakov Readings»<br>Collections of Primakov Readings<br>Discussion Forum «European Union in a polycentric world»<br>International conference «The World Ocean - Space for Cooperation and Competition»<br>Inter-institutional seminar named after E.Y. Batalov<br>Conferences and presentations<br>Meetings and round tables<br>Seminars<br>Seminars of departments<br>Scientific-theoretical seminar CEPR<br>Scientific seminar of the Center for European Studies<br>Asian Seminars<br>Middle East Seminars named after Georgiy Mirsky<br>Seminar of the CDMS «Modern development problems»<br>Seminar "Forecasting and Management"<br>Seminar <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.imemo.ru/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.imemo.ru/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:24 +0800</pubDate>
     </item>
     <item>
-      <title>[3. Carnegie Moscow Center --Russia] Carnegie Moscow Center</title>
+      <title><![CDATA[[3. Carnegie Moscow Center --Russia] Carnegie Moscow Center]]></title>
       <link>http://www.carnegie.ru/en/</link>
-      <description><![CDATA[<p>Carnegie Moscow Center<br>Global Resources<br>Global Centers<br>Beijing<br>Home<br>中文<br>Issues<br>主题<br>Programs<br>项目<br>Experts<br>专家<br>Events<br>会议<br>Publications<br>出版物<br>Shortcuts<br>For Media<br>Podcasts<br>Window Into China<br>Beirut<br>Home<br>عربي<br>Issues<br>القضايا<br>Regions<br>المناطق<br>Experts<br>الباحثون<br>Events<br>الأنشطة<br>Publications<br>المنشورات<br>Shortcuts<br>Sada<br>Capacity Building<br>Syria in Crisis<br>For Media<br>Brussels<br>Home<br>Issues<br>Regions<br>Experts<br>Events<br>Publications<br>Publikationen auf deutsch<br>Publications en français<br>Shortcuts<br>Judy Dempsey’s<br>Strategic Europe<br>For Media<br>Moscow<br>Home<br>Главная страница<br>Programs<br>Программы<br>Issues<br>Темы<br>Experts<br>Эксперты<br>Events<br>События<br>Publications<br>Публикации<br>Shortcuts<br>For Media<br>New Delhi<br>Home<br>Issues<br>Regions<br>Experts<br>Events<br>Publications<br>Shortcuts<br>For Media<br>Video<br>Washington<br>Home<br>Issues<br>Regions<br>Publications<br>Experts<br>Events<br>Programs<br>Projects<br>Shortcuts<br>Video<br>Infographics<br>For Media<br>For Government<br>For Academics<br>Languages<br>English<br>Experts<br>Publications<br>Events<br>Русский<br>Эксперты<br>Публикации<br>События<br>中文<br>专家<br>出版物<br>会议<br>عربي<br>الباحثون<br>المنشورات<br>الأنشطة<br>Русский<br>Research<br>Events<br>Experts<br>Issues<br>Commentary Contributor<br>Yekaterina Schulmann<br>Yekaterina Schulmann is a political scientist.<br>See More<br>See Less<br>Languages<br>English; Russian<br>Resources<br>Русский<br>Latest Analysis<br>Dictatorship 101<br>14.09<br>Russian Ideology<br>A Bashful Autocracy: Why There is no Putin Street in St. Petersburg<br>25.08<br>Russian Ideology<br>Bangladesh: State in Decline<br>15.01<br>Source: /experts/index.cfm?fa=expert_view&expert_id=1107<br>Connect With Us<br>Support<br>The Global Think Tank<br>Carnegie Moscow Center<br>Please <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.carnegie.ru/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.carnegie.ru/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:01 +0800</pubDate>
+      <description><![CDATA[Carnegie Moscow Center
+Global Resources
+Global Centers
+Beijing
+Home
+中文
+Issues
+主题
+Programs
+项目
+Experts
+专家
+Events
+会议
+Publications
+出版物
+Shortcuts
+For Media
+Podcasts
+Window Into China
+Beirut
+Home
+عربي
+Issue...]]></description>
+      <content:encoded><![CDATA[<div><p>Carnegie Moscow Center<br>Global Resources<br>Global Centers<br>Beijing<br>Home<br>中文<br>Issues<br>主题<br>Programs<br>项目<br>Experts<br>专家<br>Events<br>会议<br>Publications<br>出版物<br>Shortcuts<br>For Media<br>Podcasts<br>Window Into China<br>Beirut<br>Home<br>عربي<br>Issues<br>القضايا<br>Regions<br>المناطق<br>Experts<br>الباحثون<br>Events<br>الأنشطة<br>Publications<br>المنشورات<br>Shortcuts<br>Sada<br>Capacity Building<br>Syria in Crisis<br>For Media<br>Brussels<br>Home<br>Issues<br>Regions<br>Experts<br>Events<br>Publications<br>Publikationen auf deutsch<br>Publications en français<br>Shortcuts<br>Judy Dempsey’s<br>Strategic Europe<br>For Media<br>Moscow<br>Home<br>Главная страница<br>Programs<br>Программы<br>Issues<br>Темы<br>Experts<br>Эксперты<br>Events<br>События<br>Publications<br>Публикации<br>Shortcuts<br>For Media<br>New Delhi<br>Home<br>Issues<br>Regions<br>Experts<br>Events<br>Publications<br>Shortcuts<br>For Media<br>Video<br>Washington<br>Home<br>Issues<br>Regions<br>Publications<br>Experts<br>Events<br>Programs<br>Projects<br>Shortcuts<br>Video<br>Infographics<br>For Media<br>For Government<br>For Academics<br>Languages<br>English<br>Experts<br>Publications<br>Events<br>Русский<br>Эксперты<br>Публикации<br>События<br>中文<br>专家<br>出版物<br>会议<br>عربي<br>الباحثون<br>المنشورات<br>الأنشطة<br>Русский<br>Research<br>Events<br>Experts<br>Issues<br>Commentary Contributor<br>Yekaterina Schulmann<br>Yekaterina Schulmann is a political scientist.<br>See More<br>See Less<br>Languages<br>English; Russian<br>Resources<br>Русский<br>Latest Analysis<br>Dictatorship 101<br>14.09<br>Russian Ideology<br>A Bashful Autocracy: Why There is no Putin Street in St. Petersburg<br>25.08<br>Russian Ideology<br>Bangladesh: State in Decline<br>15.01<br>Source: /experts/index.cfm?fa=expert_view&expert_id=1107<br>Connect With Us<br>Support<br>The Global Think Tank<br>Carnegie Moscow Center<br>Please <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.carnegie.ru/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.carnegie.ru/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:50 +0800</pubDate>
     </item>
     <item>
-      <title>[24. Independent Institute for Social Policy (IISP) --Russia] Independent Istitute for Social Policy</title>
+      <title><![CDATA[[24. Independent Institute for Social Policy (IISP) --Russia] Independent Istitute for Social Policy]]></title>
       <link>http://www.socpol.ru/eng/about/index.shtml</link>
-      <description><![CDATA[<p>Home<br>Our News<br>Recent news<br>News archive<br>About the IISP<br>Mission<br>History<br>Governing bodies<br>Our partners<br>Annual reports<br>Research Programs<br>Staff<br>Projects<br>Conferences and seminars<br>Publications<br>Staff<br>Our publications<br>Journal SPERO.<br>Social Policy: Expertise, Recommendations, Overviews<br>IISP Staff Online Interviews and Papers<br>Contact us<br>Russian<br>Independent Institute for Social Policy /<br>Mission<br>The<br>main mission<br>of the IISP is to support and develop ideas and initiatives that have a social effect and suggest new approaches to social policy.<br>IISP<br>main objectives<br>include:<br>academic research in social policy and support of independent research in this area;<br>creation of an extensive information base on the problems of social policy analysis;<br>organization of a free debate on most burning problems of the modern social development and social policy in Russia and abroad.<br>Key IISP activities<br>:<br>grant support for independemt sociological and economic research in social policy issues;<br>conducting research in social policy issues and partcipation in international projects;<br>independent expertise and evaluation of social effects of decisions by the authorities, as well as by commercial and non-for-profit organizations;<br>consultancy in social policy issues;<br>creation and development of information pools and databases (databases of researchers and research organizations working in the area of social policy in Russia; information support; and data archiving);<br>informing a debate on most important social policy <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.socpol.ru/eng/about/index.shtml' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.socpol.ru/eng/about/index.shtml</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:02 +0800</pubDate>
+      <description><![CDATA[Home
+Our News
+Recent news
+News archive
+About the IISP
+Mission
+History
+Governing bodies
+Our partners
+Annual reports
+Research Programs
+Staff
+Projects
+Conferences and seminars
+Publications
+Staff
+Our publ...]]></description>
+      <content:encoded><![CDATA[<div><p>Home<br>Our News<br>Recent news<br>News archive<br>About the IISP<br>Mission<br>History<br>Governing bodies<br>Our partners<br>Annual reports<br>Research Programs<br>Staff<br>Projects<br>Conferences and seminars<br>Publications<br>Staff<br>Our publications<br>Journal SPERO.<br>Social Policy: Expertise, Recommendations, Overviews<br>IISP Staff Online Interviews and Papers<br>Contact us<br>Russian<br>Independent Institute for Social Policy /<br>Mission<br>The<br>main mission<br>of the IISP is to support and develop ideas and initiatives that have a social effect and suggest new approaches to social policy.<br>IISP<br>main objectives<br>include:<br>academic research in social policy and support of independent research in this area;<br>creation of an extensive information base on the problems of social policy analysis;<br>organization of a free debate on most burning problems of the modern social development and social policy in Russia and abroad.<br>Key IISP activities<br>:<br>grant support for independemt sociological and economic research in social policy issues;<br>conducting research in social policy issues and partcipation in international projects;<br>independent expertise and evaluation of social effects of decisions by the authorities, as well as by commercial and non-for-profit organizations;<br>consultancy in social policy issues;<br>creation and development of information pools and databases (databases of researchers and research organizations working in the area of social policy in Russia; information support; and data archiving);<br>informing a debate on most important social policy <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.socpol.ru/eng/about/index.shtml' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.socpol.ru/eng/about/index.shtml</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:52 +0800</pubDate>
     </item>
     <item>
-      <title>[15. Center for Economic and Financial Research (CEFIR) --Russia] </title>
+      <title><![CDATA[[15. Center for Economic and Financial Research (CEFIR) --Russia] ]]></title>
       <link>http://www.cefir.ru/?l=eng</link>
-      <description><![CDATA[<p>Центр<br>Регистрации<br>Доменов<br>Перенаправление домена не осуществляется<br>Услуга<br>«Перенаправление домена»<br>позволяет автоматически перенаправлять посетителя, <br>обратившегося к доменному имени, на указанный вами интернет-адрес.<br>Заказать, настроить или продлить услугу можно в разделе<br>«Для клиентов»<br>.<br>Домены<br>Регистрация<br>доменов<br>Освобождающиеся<br>домены<br>Аукцион доменов<br>Направленная<br>продажа<br>Паркинг доменов<br>© Региональный Сетевой Информационный Центр, 2001-</p><br><hr><p><a href='http://www.cefir.ru/?l=eng' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.cefir.ru/?l=eng</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:02 +0800</pubDate>
+      <description><![CDATA[Центр
+Регистрации
+Доменов
+Перенаправление домена не осуществляется
+Услуга
+«Перенаправление домена»
+позволяет автоматически перенаправлять посетителя, 
+обратившегося к доменному имени, на указанный вам...]]></description>
+      <content:encoded><![CDATA[<div><p>Центр<br>Регистрации<br>Доменов<br>Перенаправление домена не осуществляется<br>Услуга<br>«Перенаправление домена»<br>позволяет автоматически перенаправлять посетителя, <br>обратившегося к доменному имени, на указанный вами интернет-адрес.<br>Заказать, настроить или продлить услугу можно в разделе<br>«Для клиентов»<br>.<br>Домены<br>Регистрация<br>доменов<br>Освобождающиеся<br>домены<br>Аукцион доменов<br>Направленная<br>продажа<br>Паркинг доменов<br>© Региональный Сетевой Информационный Центр, 2001-</p><br><hr><p><a href='http://www.cefir.ru/?l=eng' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.cefir.ru/?l=eng</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:52 +0800</pubDate>
     </item>
     <item>
-      <title>[44. Economic Expert Group (EEG) --Russia] Analysis and Consulting on Economic Problems and Public Finance</title>
-      <link>http://www.eeg.ru/pages/172</link>
-      <description><![CDATA[<p>Analysis and Consulting on Economic Problems and Public Finance<br>РУС<br>ENG<br>feedback<br>site's map<br>More About Us<br>About Us<br>EEG Staff<br>Key Economic Indicators<br>Federal Budget Execution<br>Projects<br>Forecast<br>Contacts<br>107031 Russia, Moscow<br>Petrovka str., 15/13, bld.5<br>Office Center "PETROVKA"<br>Office #500<br>map<br>Phone: (495) 626-4580<br>Phone: (495) 626-4581<br>E-mail:<br>eeg@eeg.ru<br>Web:<br>http://www.eeg.ru<br>ABOUT EEG<br>Economic Expert Group (EEG) is an independent Russian company, that specializes in consulting services on economic and financial policy issues to government officials on federal and regional level. Economic Expert Group was established in 1994 to render analytical support to the Department of Macroeconomic Policy of the Ministry of Finance of the Russian Federation. Since that time EEG has been working in close everyday contact with the Ministry of Finance and the Ministry of Economic Development and Trade. EEG provides Russian Government with analytical support at the negotiations with international financial organizations, Paris and London Clubs of creditors, international rating agencies, prepares monthly reviews of Russian economy, participates in monthly monitoring of Russian economy, carried out by the Ministry of Economic Development and Trade. On the Government orders EEG develops short-, medium-, and long-term macroeconomic projections, participates in the process of co-ordination of macroeconomic forecasts between official institutions (Ministry of the Economic Development and Trade, M<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.eeg.ru/pages/172' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.eeg.ru/pages/172</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:03 +0800</pubDate>
-    </item>
-    <item>
-      <title>[42. St. Petersburg Center for Humanities and Political Studies --Russia] 404 Not Found</title>
+      <title><![CDATA[[42. St. Petersburg Center for Humanities and Political Studies --Russia] 404 Not Found]]></title>
       <link>http://strategy-spb.ru/en/</link>
-      <description><![CDATA[<p>404 Not Found<br>nginx</p><br><hr><p><a href='http://strategy-spb.ru/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://strategy-spb.ru/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:03 +0800</pubDate>
+      <description><![CDATA[404 Not Found
+nginx...]]></description>
+      <content:encoded><![CDATA[<div><p>404 Not Found<br>nginx</p><br><hr><p><a href='http://strategy-spb.ru/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://strategy-spb.ru/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:53 +0800</pubDate>
     </item>
     <item>
-      <title>[60. Centre for Independent Social Research --Russia] О ЦНСИ</title>
+      <title><![CDATA[[44. Economic Expert Group (EEG) --Russia] Analysis and Consulting on Economic Problems and Public Finance]]></title>
+      <link>http://www.eeg.ru/pages/172</link>
+      <description><![CDATA[Analysis and Consulting on Economic Problems and Public Finance
+РУС
+ENG
+feedback
+site's map
+More About Us
+About Us
+EEG Staff
+Key Economic Indicators
+Federal Budget Execution
+Projects
+Forecast
+Contacts...]]></description>
+      <content:encoded><![CDATA[<div><p>Analysis and Consulting on Economic Problems and Public Finance<br>РУС<br>ENG<br>feedback<br>site's map<br>More About Us<br>About Us<br>EEG Staff<br>Key Economic Indicators<br>Federal Budget Execution<br>Projects<br>Forecast<br>Contacts<br>107031 Russia, Moscow<br>Petrovka str., 15/13, bld.5<br>Office Center "PETROVKA"<br>Office #500<br>map<br>Phone: (495) 626-4580<br>Phone: (495) 626-4581<br>E-mail:<br>eeg@eeg.ru<br>Web:<br>http://www.eeg.ru<br>ABOUT EEG<br>Economic Expert Group (EEG) is an independent Russian company, that specializes in consulting services on economic and financial policy issues to government officials on federal and regional level. Economic Expert Group was established in 1994 to render analytical support to the Department of Macroeconomic Policy of the Ministry of Finance of the Russian Federation. Since that time EEG has been working in close everyday contact with the Ministry of Finance and the Ministry of Economic Development and Trade. EEG provides Russian Government with analytical support at the negotiations with international financial organizations, Paris and London Clubs of creditors, international rating agencies, prepares monthly reviews of Russian economy, participates in monthly monitoring of Russian economy, carried out by the Ministry of Economic Development and Trade. On the Government orders EEG develops short-, medium-, and long-term macroeconomic projections, participates in the process of co-ordination of macroeconomic forecasts between official institutions (Ministry of the Economic Development and Trade, M<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.eeg.ru/pages/172' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.eeg.ru/pages/172</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:54 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[60. Centre for Independent Social Research --Russia] О ЦНСИ]]></title>
       <link>http://www.cisr.ru/index.en.html</link>
-      <description><![CDATA[<p>О ЦНСИ<br>Центр независимых социологических исследований (ЦНСИ) - негосударственный исследовательский институт,<br> создан в 1991 году. В 1996 году Центр получил статус автономной некоммерческой организации (АНО "ЦНСИ").<br> Более 30 лет Центр проводил социологические исследования, был ресурсным центром для социальных ученых,<br> некоммерческих организаций и гражданских инициатив. Мы верны гуманистической традиции в социологии;<br> открыты новым людям, идеям, опыту; независимы в суждениях, выборе техники и дизайна исследований;<br> творчески и профессионально подходим к работе.<br>В 2015 году Минюст, а вслед за ним суды РФ, бездоказательно признали нашу научную деятельность "политической"<br> и Минюст внес АНО "ЦНСИ" в реестр НКО, "выполняющих функции иностранного агента". Мы считаем все законодательство об "иностранных агентах" неправовым<br> и антиконституционным; принятое в отношении АНО "ЦНСИ" решение безосновательным и дискриминационным; но в своей работе вынуждены следовать формальным нормам.<br>С 2022 г. АНО "ЦНСИ" приостановил исследовательскую деятельность и не проводит публичных мероприятий.<br>Контакты<br>Автономная некоммерческая организация<br>"Центр независимых социологических исследований"<br>E-mail:<br>centre@cisr.ru<br>Academia.edu:<br>http://cisr.academia.edu/CISRSPb<br>Телеграм:<br>@Science301</p><br><hr><p><a href='http://www.cisr.ru/index.en.html' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.cisr.ru/index.en.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:04 +0800</pubDate>
+      <description><![CDATA[О ЦНСИ
+Центр независимых социологических исследований (ЦНСИ) - негосударственный исследовательский институт,
+ создан в 1991 году. В 1996 году Центр получил статус автономной некоммерческой организаци...]]></description>
+      <content:encoded><![CDATA[<div><p>О ЦНСИ<br>Центр независимых социологических исследований (ЦНСИ) - негосударственный исследовательский институт,<br> создан в 1991 году. В 1996 году Центр получил статус автономной некоммерческой организации (АНО "ЦНСИ").<br> Более 30 лет Центр проводил социологические исследования, был ресурсным центром для социальных ученых,<br> некоммерческих организаций и гражданских инициатив. Мы верны гуманистической традиции в социологии;<br> открыты новым людям, идеям, опыту; независимы в суждениях, выборе техники и дизайна исследований;<br> творчески и профессионально подходим к работе.<br>В 2015 году Минюст, а вслед за ним суды РФ, бездоказательно признали нашу научную деятельность "политической"<br> и Минюст внес АНО "ЦНСИ" в реестр НКО, "выполняющих функции иностранного агента". Мы считаем все законодательство об "иностранных агентах" неправовым<br> и антиконституционным; принятое в отношении АНО "ЦНСИ" решение безосновательным и дискриминационным; но в своей работе вынуждены следовать формальным нормам.<br>С 2022 г. АНО "ЦНСИ" приостановил исследовательскую деятельность и не проводит публичных мероприятий.<br>Контакты<br>Автономная некоммерческая организация<br>"Центр независимых социологических исследований"<br>E-mail:<br>centre@cisr.ru<br>Academia.edu:<br>http://cisr.academia.edu/CISRSPb<br>Телеграм:<br>@Science301</p><br><hr><p><a href='http://www.cisr.ru/index.en.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.cisr.ru/index.en.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:54 +0800</pubDate>
     </item>
     <item>
-      <title>[32. Gaidar Institute for Economic Policy, FKA Institute for the Economy in Transition --Russia] Monitoring of RussiaÔÇÖs Economic Outlook</title>
-      <link>http://www.iep.ru/en</link>
-      <description><![CDATA[<p>Evgeny Goryunov: ÔÇťBusinesses in Russia need more predictable environment for planningÔÇŁ<br>15 july 2026</p><br><hr><p><a href='http://www.iep.ru/en' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.iep.ru/en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:04 +0800</pubDate>
-    </item>
-    <item>
-      <title>[49. Institute for Urban Economics (IUE) --Russia] Страница не найдена</title>
+      <title><![CDATA[[49. Institute for Urban Economics (IUE) --Russia] Страница не найдена]]></title>
       <link>http://www.urbaneconomics.ru/eng/</link>
-      <description><![CDATA[<p>Страница не найдена<br>Страница "/eng/" не найдена.</p><br><hr><p><a href='http://www.urbaneconomics.ru/eng/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.urbaneconomics.ru/eng/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:04 +0800</pubDate>
+      <description><![CDATA[Страница не найдена
+Страница "/eng/" не найдена....]]></description>
+      <content:encoded><![CDATA[<div><p>Страница не найдена<br>Страница "/eng/" не найдена.</p><br><hr><p><a href='http://www.urbaneconomics.ru/eng/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.urbaneconomics.ru/eng/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:54 +0800</pubDate>
     </item>
     <item>
-      <title>[47. Russian International Affairs Council (RIAC) --Russia] Account Login</title>
+      <title><![CDATA[[47. Russian International Affairs Council (RIAC) --Russia] Account Login]]></title>
       <link>http://russiancouncil.ru/en/</link>
-      <description><![CDATA[<p>RUSSIAN INTERNATIONAL AFFAIRS COUNCIL<br>About RIAC<br>General information<br>Co-founders<br>RIAC News<br>Partners<br>Activities<br>Management<br>Individual Members<br>Corporate Members<br>General Meeting<br>Board of Trustees<br>Presidium<br>Vice-presidents<br>Staff<br>News<br>Press Center<br>For Media<br>Calendar<br>Media partnerships<br>Request expert commentary<br>Contacts<br>My account<br>Account Login<br>Sign in for registered users<br>Forgot your password?<br>Register<br>You can also sign in using:<br>Рус<br>Eng<br>Search<br>TOPICS<br>REGIONS<br>PROJECTS<br>AUTHORS<br>PUBLICATIONS<br>LIBRARY<br>BLOGS<br>About RIAC<br>General information<br>Individual Members<br>Corporate Members<br>General Meeting<br>Board of Trustees<br>Presidium<br>Scientific Council<br>Co-founders<br>Vice-presidents<br>Staff<br>Contacts<br>Analytics<br>Regions<br>Topics<br>Subjects<br>Publications<br>Reports<br>Working Papers<br>Policy Briefs<br>Books<br>Special Projects<br>Press Center<br>News<br>For Media<br>Calendar<br>Media partnerships<br>Request for expert commentary<br>Projects<br>Research Projects<br>Educational Projects<br>Internship<br>Contests<br>Projects Geography<br>Completed Projects<br>Authors<br>Blogs<br>4735<br>July 21, 2026<br>Report No. 110 / 2026<br>Short<br>Reports<br>Conflicts in the Middle East and North Africa: Current State and Possible Dynamics<br>Vasily Kuznetsov<br>,<br>Vladimir Sazhin<br>,<br>Nikolay Soukhov<br>,<br>Sergey Serebrov<br>,<br>Ibragim Ibragimov<br>,<br>Luiza Khlebnikova<br>,<br>Anastasia Vasilenko<br>,<br>Timur Kadyrmambetov<br>,<br>Ivan Bocharov<br>,<br>Andrey Kortunov<br>RIAC President's Column<br>|<br>THE CALENDAR<br>|<br>RIAC PULSE<br>Dmitriy Trenin: Moscow sees a dangerous illusion at the heart of the new Western doctrine<br>The Dangerous Logic of NATO 3.0<br>RIAC Pres<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://russiancouncil.ru/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://russiancouncil.ru/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:05 +0800</pubDate>
+      <description><![CDATA[RUSSIAN INTERNATIONAL AFFAIRS COUNCIL
+About RIAC
+General information
+Co-founders
+RIAC News
+Partners
+Activities
+Management
+Individual Members
+Corporate Members
+General Meeting
+Board of Trustees
+Presidi...]]></description>
+      <content:encoded><![CDATA[<div><p>RUSSIAN INTERNATIONAL AFFAIRS COUNCIL<br>About RIAC<br>General information<br>Co-founders<br>RIAC News<br>Partners<br>Activities<br>Management<br>Individual Members<br>Corporate Members<br>General Meeting<br>Board of Trustees<br>Presidium<br>Vice-presidents<br>Staff<br>News<br>Press Center<br>For Media<br>Calendar<br>Media partnerships<br>Request expert commentary<br>Contacts<br>My account<br>Account Login<br>Sign in for registered users<br>Forgot your password?<br>Register<br>You can also sign in using:<br>Рус<br>Eng<br>Search<br>TOPICS<br>REGIONS<br>PROJECTS<br>AUTHORS<br>PUBLICATIONS<br>LIBRARY<br>BLOGS<br>About RIAC<br>General information<br>Individual Members<br>Corporate Members<br>General Meeting<br>Board of Trustees<br>Presidium<br>Scientific Council<br>Co-founders<br>Vice-presidents<br>Staff<br>Contacts<br>Analytics<br>Regions<br>Topics<br>Subjects<br>Publications<br>Reports<br>Working Papers<br>Policy Briefs<br>Books<br>Special Projects<br>Press Center<br>News<br>For Media<br>Calendar<br>Media partnerships<br>Request for expert commentary<br>Projects<br>Research Projects<br>Educational Projects<br>Internship<br>Contests<br>Projects Geography<br>Completed Projects<br>Authors<br>Blogs<br>4735<br>July 21, 2026<br>Report No. 110 / 2026<br>Short<br>Reports<br>Conflicts in the Middle East and North Africa: Current State and Possible Dynamics<br>Vasily Kuznetsov<br>,<br>Vladimir Sazhin<br>,<br>Nikolay Soukhov<br>,<br>Sergey Serebrov<br>,<br>Ibragim Ibragimov<br>,<br>Luiza Khlebnikova<br>,<br>Anastasia Vasilenko<br>,<br>Timur Kadyrmambetov<br>,<br>Ivan Bocharov<br>,<br>Andrey Kortunov<br>RIAC President's Column<br>|<br>THE CALENDAR<br>|<br>RIAC PULSE<br>Dmitriy Trenin: Moscow sees a dangerous illusion at the heart of the new Western doctrine<br>The Dangerous Logic of NATO 3.0<br>RIAC Pres<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://russiancouncil.ru/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://russiancouncil.ru/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:55 +0800</pubDate>
     </item>
     <item>
-      <title>[75. Center for Strategic Research --Russia] INDUSTRY EXPERTISE</title>
-      <link>https://www.csr.ru/en/</link>
-      <description><![CDATA[<p>Feedback<br>About us<br>Researches<br>Structure<br>Education<br>Contests<br>For mass media<br>Обратная связь<br>About us<br>Researches<br>Structure<br>Education<br>Contests<br>For mass media<br>Areas of activity<br>INDUSTRY EXPERTISE<br>Industry, medicine, transport and logistics, fuel and energy complex, IT, E-comm and retail, real estate and construction, agriculture<br>DIGITALIZATION, DEVELOPMENT OF PUBLIC SERVICES AND MFCs<br>BUDGET, INVESTMENT, REGULATORY AND FISCAL POLICY<br>Impact assessment and search for solutions for setting up basic tools for regulating economic processes in any national economic system<br>SPATIAL DEVELOPMENT AND REGIONAL ECONOMICS<br>Search for optimal solutions for the socio-economic development of Russian regions<br>MACROECONOMICS AND FINANCIAL MARKETS<br>The impact of financial markets on macroeconomic processes and the national economy<br>CLIMATE, GREEN ECONOMY AND ENERGY<br>Determining the balance in the global energy transition, taking into account the interests of the Russian economy. Assessment of the current state of the Russian energy system and forecasting its prospects<br>01<br>02<br>03<br>04<br>05<br>06<br>Subscribe to our<br>Telegram channel<br>subsscribe<br>Our main task is to provide the expert community, the legislative and executive branches of government with an independent view and assessment, as well as proposals for the development of economic sectors in order to balance the interests of society, the state and business.<br>Competence centers<br>Regional Economics Center<br>more<br>Products<br>Reviews<br>Indexes<br>Researches<br>Discover Russia<br>Национал<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.csr.ru/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.csr.ru/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:05 +0800</pubDate>
+      <title><![CDATA[[32. Gaidar Institute for Economic Policy, FKA Institute for the Economy in Transition --Russia] Monitoring of RussiaÔÇÖs Economic Outlook]]></title>
+      <link>http://www.iep.ru/en</link>
+      <description><![CDATA[Evgeny Goryunov: ÔÇťBusinesses in Russia need more predictable environment for planningÔÇŁ
+15 july 2026...]]></description>
+      <content:encoded><![CDATA[<div><p>Evgeny Goryunov: ÔÇťBusinesses in Russia need more predictable environment for planningÔÇŁ<br>15 july 2026</p><br><hr><p><a href='http://www.iep.ru/en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.iep.ru/en</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:57 +0800</pubDate>
     </item>
     <item>
-      <title>[85. Institute for Applied Economic Studies --Russia] Our Institute</title>
+      <title><![CDATA[[85. Institute for Applied Economic Studies --Russia] Our Institute]]></title>
       <link>http://www.isesp-ras.ru/en/</link>
-      <description><![CDATA[<p>Institute of Socio-Economic Studies of Population — Branch of the Federal State Budgetary Scientific Institutution Federal Center of Theoretical and Applied Sociology of the Russian Academy of Sciences<br>ISESP FCTAS RAS</p><br><hr><p><a href='http://www.isesp-ras.ru/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.isesp-ras.ru/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:07 +0800</pubDate>
+      <description><![CDATA[Institute of Socio-Economic Studies of Population — Branch of the Federal State Budgetary Scientific Institutution Federal Center of Theoretical and Applied Sociology of the Russian Academy of Science...]]></description>
+      <content:encoded><![CDATA[<div><p>Institute of Socio-Economic Studies of Population — Branch of the Federal State Budgetary Scientific Institutution Federal Center of Theoretical and Applied Sociology of the Russian Academy of Sciences<br>ISESP FCTAS RAS</p><br><hr><p><a href='http://www.isesp-ras.ru/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.isesp-ras.ru/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:58 +0800</pubDate>
     </item>
     <item>
-      <title>[26. Institute for the USA and Canadian Studies --Russia] Институт Соединенных Штатов Америки и Канады</title>
+      <title><![CDATA[[26. Institute for the USA and Canadian Studies --Russia] Институт Соединенных Штатов Америки и Канады]]></title>
       <link>http://www.iskran.ru/engl/index-en.html</link>
-      <description><![CDATA[<p>Страница не найдена!<br>Может быть, попробовать поискать этот сайт:</p><br><hr><p><a href='http://www.iskran.ru/engl/index-en.html' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.iskran.ru/engl/index-en.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:08 +0800</pubDate>
+      <description><![CDATA[Страница не найдена!
+Может быть, попробовать поискать этот сайт:...]]></description>
+      <content:encoded><![CDATA[<div><p>Страница не найдена!<br>Может быть, попробовать поискать этот сайт:</p><br><hr><p><a href='http://www.iskran.ru/engl/index-en.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.iskran.ru/engl/index-en.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:58 +0800</pubDate>
     </item>
   </channel>
 </rss>

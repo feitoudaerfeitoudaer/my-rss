@@ -1,38 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title>智库全文订阅-Norway</title>
+    <title><![CDATA[智库全文订阅-Norway]]></title>
     <link>https://github.io_Norway.xml</link>
-    <description>自动抓取的 [Norway] 智库文章全文摘要（全量无损版）</description>
+    <description><![CDATA[自动抓取的 [Norway] 智库文章全文摘要（全量无损版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
     <item>
-      <title>[Norwegian Institute of International Affairs (NUPI) --Norway] NUPI Front page</title>
+      <title><![CDATA[[Norwegian Institute of International Affairs (NUPI) --Norway] NUPI Front page]]></title>
       <link>http://www.nupi.no/en</link>
-      <description><![CDATA[<p>Articles<br>June 28, 2026<br>How do diplomats work with technology?<br>A new study could shape how diplomats follow AI in the years ahead.<br>Articles<br>New research<br>June 23, 2026<br>Climate, Peace and Security Fact Sheet: Lake Chad*<br>The ongoing insecurity in the Lake Chad region—which intersects Cameroon, Chad, Niger and Nigeria—cannot be understood in isolation from climate and environmental change.<br>Articles<br>New research<br>June 11, 2026<br>Why AI and Automation Do Not Equal Better Security<br>AI and machine learning are widely assumed to deliver better cybersecurity. But human experience and judgement remain deeply embedded in detecting and countering digital threats, according to a new article.</p><br><hr><p><a href='http://www.nupi.no/en' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.nupi.no/en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
+      <description><![CDATA[Articles
+June 28, 2026
+How do diplomats work with technology?
+A new study could shape how diplomats follow AI in the years ahead.
+Articles
+New research
+June 23, 2026
+Climate, Peace and Security Fact S...]]></description>
+      <content:encoded><![CDATA[<div><p>Articles<br>June 28, 2026<br>How do diplomats work with technology?<br>A new study could shape how diplomats follow AI in the years ahead.<br>Articles<br>New research<br>June 23, 2026<br>Climate, Peace and Security Fact Sheet: Lake Chad*<br>The ongoing insecurity in the Lake Chad region—which intersects Cameroon, Chad, Niger and Nigeria—cannot be understood in isolation from climate and environmental change.<br>Articles<br>New research<br>June 11, 2026<br>Why AI and Automation Do Not Equal Better Security<br>AI and machine learning are widely assumed to deliver better cybersecurity. But human experience and judgement remain deeply embedded in detecting and countering digital threats, according to a new article.</p><br><hr><p><a href='http://www.nupi.no/en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.nupi.no/en</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:21 +0800</pubDate>
     </item>
     <item>
-      <title>[Peace Research Institute of Oslo (PRIO) --Norway] PRIO at Arendalsuka10–13 Aug 2026</title>
-      <link>http://www.prio.no/</link>
-      <description><![CDATA[<p>PRIO at Arendalsuka<br>10–13 Aug 2026<br>Arendalsuka is an annual Norwegian political festival that brings together politicians, journalists, policy makers, aid organisations, civil society and the private sector.</p><br><hr><p><a href='http://www.prio.no/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.prio.no/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:40 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Norwegian Institute of International Affairs (NUPI) --Norway] Fastly error: unknown domain english.nupi.no</title>
+      <title><![CDATA[[Norwegian Institute of International Affairs (NUPI) --Norway] Fastly error: unknown domain english.nupi.no]]></title>
       <link>http://english.nupi.no/</link>
-      <description><![CDATA[<p>Fastly error: unknown domain: english.nupi.no. Please check that this domain has been added to a service.<br>Details: cache-chi-kmdw8640096-CHI (151.101.66.216)</p><br><hr><p><a href='http://english.nupi.no/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://english.nupi.no/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:41 +0800</pubDate>
+      <description><![CDATA[Fastly error: unknown domain: english.nupi.no. Please check that this domain has been added to a service.
+Details: cache-bur-kbur8200111-BUR (151.101.130.216)...]]></description>
+      <content:encoded><![CDATA[<div><p>Fastly error: unknown domain: english.nupi.no. Please check that this domain has been added to a service.<br>Details: cache-bur-kbur8200111-BUR (151.101.130.216)</p><br><hr><p><a href='http://english.nupi.no/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://english.nupi.no/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:23 +0800</pubDate>
     </item>
     <item>
-      <title>[CHR. Michelsen Instiute --Norway] Research for a just and equal world</title>
+      <title><![CDATA[[Peace Research Institute of Oslo (PRIO) --Norway] PRIO at Arendalsuka10–13 Aug 2026]]></title>
+      <link>http://www.prio.no/</link>
+      <description><![CDATA[PRIO at Arendalsuka
+10–13 Aug 2026
+Arendalsuka is an annual Norwegian political festival that brings together politicians, journalists, policy makers, aid organisations, civil society and the private ...]]></description>
+      <content:encoded><![CDATA[<div><p>PRIO at Arendalsuka<br>10–13 Aug 2026<br>Arendalsuka is an annual Norwegian political festival that brings together politicians, journalists, policy makers, aid organisations, civil society and the private sector.</p><br><hr><p><a href='http://www.prio.no/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.prio.no/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:27 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[CHR. Michelsen Instiute --Norway] Research for a just and equal world]]></title>
       <link>https://www.cmi.no/</link>
-      <description><![CDATA[<p>Skip to main content<br>CMI - Chr. Michelsen Institute<br>Open menu<br>Home<br>About<br>Who we are<br>What we do<br>Research Partners<br>For students<br>Vacancies<br>Annual Report<br>Policies and Reporting<br>EURAXESS<br>Topics<br>Climate and Natural Resources<br>Conflict<br>Corruption<br>Democracy and Governance<br>Gender<br>Global Health<br>Humanitarianism<br>Migration<br>Poverty<br>Rights and Legal Institutions<br>Tax and Public Finance<br>Countries<br>People<br>Publications<br>Public Anthropologist<br>News<br>Events<br>Centres<br>Why jobs matter and how to create them<br>The war in the shadow of Iran<br>CMI selected for all seven new MFA framework agreements<br>Research for a just and equal world<br>Latest<br>CMI at Arendalsuka 2026<br>CMI part of new national centre for international economics<br>CMI awarded funding for new Knowledge Centre to strengthen evidence in aid<br>Quick links<br>Who we are<br>What we do<br>Topics<br>Countries<br>Researchers<br>Publications<br>Events<br>Vacancies<br>Centres<br>Privacy policy<br>Whistleblowing<br>Code of Ethics<br>Gender and Inclusion Policy<br>Transparency Act<br>ARP Report and Action Plan 2026<br>Contact<br>Call us:<br>+47 47 93 80 00<br>E-mail:<br>cmi@cmi.no<br>CMI - Chr. Michelsen Institute<br>P.O.Box 6033<br>N-5892 Bergen, Norway<br>Visiting address: Jekteviksbakken 31, Bergen<br>Newsletter<br>Sign up for our newsletter<br>Follow us</p><br><hr><p><a href='https://www.cmi.no/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.cmi.no/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:57 +0800</pubDate>
+      <description><![CDATA[Skip to main content
+CMI - Chr. Michelsen Institute
+Open menu
+Home
+About
+Who we are
+What we do
+Research Partners
+For students
+Vacancies
+Annual Report
+Policies and Reporting
+EURAXESS
+Topics
+Climate and...]]></description>
+      <content:encoded><![CDATA[<div><p>Skip to main content<br>CMI - Chr. Michelsen Institute<br>Open menu<br>Home<br>About<br>Who we are<br>What we do<br>Research Partners<br>For students<br>Vacancies<br>Annual Report<br>Policies and Reporting<br>EURAXESS<br>Topics<br>Climate and Natural Resources<br>Conflict<br>Corruption<br>Democracy and Governance<br>Gender<br>Global Health<br>Humanitarianism<br>Migration<br>Poverty<br>Rights and Legal Institutions<br>Tax and Public Finance<br>Countries<br>People<br>Publications<br>Public Anthropologist<br>News<br>Events<br>Centres<br>Why jobs matter and how to create them<br>The war in the shadow of Iran<br>CMI selected for all seven new MFA framework agreements<br>Research for a just and equal world<br>Latest<br>CMI at Arendalsuka 2026<br>CMI part of new national centre for international economics<br>CMI awarded funding for new Knowledge Centre to strengthen evidence in aid<br>Quick links<br>Who we are<br>What we do<br>Topics<br>Countries<br>Researchers<br>Publications<br>Events<br>Vacancies<br>Centres<br>Privacy policy<br>Whistleblowing<br>Code of Ethics<br>Gender and Inclusion Policy<br>Transparency Act<br>ARP Report and Action Plan 2026<br>Contact<br>Call us:<br>+47 47 93 80 00<br>E-mail:<br>cmi@cmi.no<br>CMI - Chr. Michelsen Institute<br>P.O.Box 6033<br>N-5892 Bergen, Norway<br>Visiting address: Jekteviksbakken 31, Bergen<br>Newsletter<br>Sign up for our newsletter<br>Follow us</p><br><hr><p><a href='https://www.cmi.no/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.cmi.no/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:45 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,101 +1,214 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title>智库全文订阅-Australia</title>
+    <title><![CDATA[智库全文订阅-Australia]]></title>
     <link>https://github.io_Australia.xml</link>
-    <description>自动抓取的 [Australia] 智库文章全文摘要（全量无损版）</description>
+    <description><![CDATA[自动抓取的 [Australia] 智库文章全文摘要（全量无损版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
     <item>
-      <title>[10. Australia Institute for Regional Security – Australia] The Institute for Regional Security</title>
+      <title><![CDATA[[10. Australia Institute for Regional Security – Australia] The Institute for Regional Security]]></title>
       <link>https://regionalsecurity.org.au/</link>
-      <description><![CDATA[<p>Indo-Pacific Profile<br>Strategic Diplomatic Dialogues<br>Professional Development<br>Future Strategic Leaders<br>NEXT<br>Micro Learning Units<br>Micro Learning Login<br>Research + Thought Leadership<br>Security Challenges<br>Occasional Papers<br>Digital Diplomacy</p><br><hr><p><a href='https://regionalsecurity.org.au/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://regionalsecurity.org.au/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
+      <description><![CDATA[Indo-Pacific Profile
+Strategic Diplomatic Dialogues
+Professional Development
+Future Strategic Leaders
+NEXT
+Micro Learning Units
+Micro Learning Login
+Research + Thought Leadership
+Security Challenges
+O...]]></description>
+      <content:encoded><![CDATA[<div><p>Indo-Pacific Profile<br>Strategic Diplomatic Dialogues<br>Professional Development<br>Future Strategic Leaders<br>NEXT<br>Micro Learning Units<br>Micro Learning Login<br>Research + Thought Leadership<br>Security Challenges<br>Occasional Papers<br>Digital Diplomacy</p><br><hr><p><a href='https://regionalsecurity.org.au/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://regionalsecurity.org.au/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:20 +0800</pubDate>
     </item>
     <item>
-      <title>[Lowy Institute for International Policy --Australia] How great power rivalry returned to the Indian Ocean and the stakes for Australia</title>
+      <title><![CDATA[[Lowy Institute for International Policy --Australia] How great power rivalry returned to the Indian Ocean and the stakes for Australia]]></title>
       <link>http://www.lowyinstitute.org/</link>
-      <description><![CDATA[<p>Newsletters<br>Subscribe to<br>The Informer<br>for monthly expert analysis, and to<br>Events<br>for advance notice of visiting world leaders and distinguished guests.<br>Website<br>Subscribe<br>Newsletters<br>The Informer<br>Events<br>You may unsubscribe from Lowy Institute newsletters at any time. For information on our privacy practices and how to unsubscribe, see our<br>Privacy Policy<br>.<br>Topics<br>Research<br>Interactives<br>The Interpreter<br>Events<br>People<br>Support us<br>Support us<br>Australia<br>How great power rivalry returned to the Indian Ocean and the stakes for Australia<br>The Iran war has turned the Indian Ocean into a volatile new strategic theatre, and Australia is well placed to shape its post-war order.<br>Read policy brief<br>Lowy Institute<br>Research<br>Interactives<br>Commentary<br>More<br>Follow<br>Lowy Institute<br>Events<br>Newsroom<br>About<br>People<br>Careers<br>Research<br>Overview<br>All publications<br>Experts<br>Programs<br>Interactives<br>Asia Power Index<br>Lowy Institute Poll<br>Pacific Aid Map<br>Southeast Asia Aid Map<br>Global Diplomacy Index<br>Southeast Asia Influence Index<br>Commentary<br>The Interpreter<br>All commentary<br>Write for us<br>More<br>Videos<br>Podcasts<br>Speeches<br>External publications<br>Follow<br>LinkedIn<br>(Opens in new window)<br>YouTube<br>(Opens in new window)<br>Instagram<br>(Opens in new window)<br>X<br>(Opens in new window)<br>The Lowy Institute is an independent Australian think tank producing authoritative research, innovative data tools, and expert commentary on international affairs. We acknowledge the Gadigal people of the Eora nation, the traditional custodians of the land on which the Instit<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.lowyinstitute.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.lowyinstitute.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:37 +0800</pubDate>
+      <description><![CDATA[Newsletters
+Subscribe to
+The Informer
+for monthly expert analysis, and to
+Events
+for advance notice of visiting world leaders and distinguished guests.
+Website
+Subscribe
+Newsletters
+The Informer
+Event...]]></description>
+      <content:encoded><![CDATA[<div><p>Newsletters<br>Subscribe to<br>The Informer<br>for monthly expert analysis, and to<br>Events<br>for advance notice of visiting world leaders and distinguished guests.<br>Website<br>Subscribe<br>Newsletters<br>The Informer<br>Events<br>You may unsubscribe from Lowy Institute newsletters at any time. For information on our privacy practices and how to unsubscribe, see our<br>Privacy Policy<br>.<br>Topics<br>Research<br>Interactives<br>The Interpreter<br>Events<br>People<br>Support us<br>Support us<br>Australia<br>How great power rivalry returned to the Indian Ocean and the stakes for Australia<br>The Iran war has turned the Indian Ocean into a volatile new strategic theatre, and Australia is well placed to shape its post-war order.<br>Read policy brief<br>Lowy Institute<br>Research<br>Interactives<br>Commentary<br>More<br>Follow<br>Lowy Institute<br>Events<br>Newsroom<br>About<br>People<br>Careers<br>Research<br>Overview<br>All publications<br>Experts<br>Programs<br>Interactives<br>Asia Power Index<br>Lowy Institute Poll<br>Pacific Aid Map<br>Southeast Asia Aid Map<br>Global Diplomacy Index<br>Southeast Asia Influence Index<br>Commentary<br>The Interpreter<br>All commentary<br>Write for us<br>More<br>Videos<br>Podcasts<br>Speeches<br>External publications<br>Follow<br>LinkedIn<br>(Opens in new window)<br>YouTube<br>(Opens in new window)<br>Instagram<br>(Opens in new window)<br>X<br>(Opens in new window)<br>The Lowy Institute is an independent Australian think tank producing authoritative research, innovative data tools, and expert commentary on international affairs. We acknowledge the Gadigal people of the Eora nation, the traditional custodians of the land on which the Instit<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.lowyinstitute.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.lowyinstitute.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:24 +0800</pubDate>
     </item>
     <item>
-      <title>[Australian Institute of International Affairs (AIIA) --Australia] Know more. Understand more. Engage more.</title>
+      <title><![CDATA[[Australian Institute of International Affairs (AIIA) --Australia] Know more. Understand more. Engage more.]]></title>
       <link>http://www.internationalaffairs.org.au/</link>
-      <description><![CDATA[<p>Skip to content<br>Main Navigation<br>About Us<br>About the AIIA<br>Constitution and Policies<br>Our People<br>AIIA Fellows<br>The Nance Dickins Medallion<br>Libraries<br>Venue Hire<br>Contact Us<br>Home<br>Our Work<br>National Conference<br>Other Events<br>Australian Outlook<br>This Week in Australian Foreign Affairs<br>Australian Journal of International Affairs<br>Other Publications<br>AIIA News<br>Get Involved<br>AIIA Membership<br>AIIA Internships<br>Study Tours and Research Opportunities<br>Sponsorship and Partnership<br>Donate<br>About Us<br>About the AIIA<br>Constitution and Policies<br>Our People<br>AIIA Fellows<br>The Nance Dickins Medallion<br>Libraries<br>Venue Hire<br>Contact Us<br>Home<br>Our Work<br>National Conference<br>Other Events<br>Australian Outlook<br>This Week in Australian Foreign Affairs<br>Australian Journal of International Affairs<br>Other Publications<br>AIIA News<br>Get Involved<br>AIIA Membership<br>AIIA Internships<br>Study Tours and Research Opportunities<br>Sponsorship and Partnership<br>Donate<br>Donate<br>Join Now<br>Australian Capital Territory<br>New South Wales<br>Northern Territory<br>Queensland<br>South Australia<br>Tasmania<br>Victoria<br>Western Australia<br>Donate<br>Join Now<br>0<br>Australian Capital Territory<br>New South Wales<br>Northern Territory<br>Queensland<br>South Australia<br>Tasmania<br>Victoria<br>Western Australia<br>Home<br>Know more. Understand more. Engage more.<br>Join Australia's largest open conversation on international affairs.<br>Get Involved<br>Learn About the AIIA<br>National Conference<br>Upcoming Events<br>View All<br>21<br>Jul<br>Progress with low carbon electricity generation: A global view<br>Timothy Florin, Medicine at the University of Quee<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.internationalaffairs.org.au/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.internationalaffairs.org.au/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:38 +0800</pubDate>
+      <description><![CDATA[Skip to content
+Main Navigation
+About Us
+About the AIIA
+Constitution and Policies
+Our People
+AIIA Fellows
+The Nance Dickins Medallion
+Libraries
+Venue Hire
+Contact Us
+Home
+Our Work
+National Conference
+...]]></description>
+      <content:encoded><![CDATA[<div><p>Skip to content<br>Main Navigation<br>About Us<br>About the AIIA<br>Constitution and Policies<br>Our People<br>AIIA Fellows<br>The Nance Dickins Medallion<br>Libraries<br>Venue Hire<br>Contact Us<br>Home<br>Our Work<br>National Conference<br>Other Events<br>Australian Outlook<br>This Week in Australian Foreign Affairs<br>Australian Journal of International Affairs<br>Other Publications<br>AIIA News<br>Get Involved<br>AIIA Membership<br>AIIA Internships<br>Study Tours and Research Opportunities<br>Sponsorship and Partnership<br>Donate<br>About Us<br>About the AIIA<br>Constitution and Policies<br>Our People<br>AIIA Fellows<br>The Nance Dickins Medallion<br>Libraries<br>Venue Hire<br>Contact Us<br>Home<br>Our Work<br>National Conference<br>Other Events<br>Australian Outlook<br>This Week in Australian Foreign Affairs<br>Australian Journal of International Affairs<br>Other Publications<br>AIIA News<br>Get Involved<br>AIIA Membership<br>AIIA Internships<br>Study Tours and Research Opportunities<br>Sponsorship and Partnership<br>Donate<br>Donate<br>Join Now<br>Australian Capital Territory<br>New South Wales<br>Northern Territory<br>Queensland<br>South Australia<br>Tasmania<br>Victoria<br>Western Australia<br>Donate<br>Join Now<br>0<br>Australian Capital Territory<br>New South Wales<br>Northern Territory<br>Queensland<br>South Australia<br>Tasmania<br>Victoria<br>Western Australia<br>Home<br>Know more. Understand more. Engage more.<br>Join Australia's largest open conversation on international affairs.<br>Get Involved<br>Learn About the AIIA<br>National Conference<br>Upcoming Events<br>View All<br>21<br>Jul<br>Progress with low carbon electricity generation: A global view<br>Timothy Florin, Medicine at the University of Quee<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.internationalaffairs.org.au/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.internationalaffairs.org.au/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:25 +0800</pubDate>
     </item>
     <item>
-      <title>[50. Institute of Public Affairs --Bulgaria] 403 - Forbidden</title>
+      <title><![CDATA[[50. Institute of Public Affairs --Bulgaria] 403 - Forbidden]]></title>
       <link>https://ipa.org.au/about-ipa</link>
-      <description><![CDATA[<p>bg_error_lines<br>circle_dots<br>403 - Forbidden<br>Access to this page is forbidden.<br>clouds_shape</p><br><hr><p><a href='https://ipa.org.au/about-ipa' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://ipa.org.au/about-ipa</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:04 +0800</pubDate>
+      <description><![CDATA[bg_error_lines
+circle_dots
+403 - Forbidden
+Access to this page is forbidden.
+clouds_shape...]]></description>
+      <content:encoded><![CDATA[<div><p>bg_error_lines<br>circle_dots<br>403 - Forbidden<br>Access to this page is forbidden.<br>clouds_shape</p><br><hr><p><a href='https://ipa.org.au/about-ipa' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://ipa.org.au/about-ipa</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:53 +0800</pubDate>
     </item>
     <item>
-      <title>[3. Australian Rivers Institute, GriffithUniversity – Australia] Just a moment...</title>
+      <title><![CDATA[[3. Australian Rivers Institute, GriffithUniversity – Australia] Just a moment...]]></title>
       <link>https://www.griffith.edu.au/australian-rivers-institute</link>
-      <description><![CDATA[<p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='https://www.griffith.edu.au/australian-rivers-institute' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.griffith.edu.au/australian-rivers-institute</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:22 +0800</pubDate>
+      <description><![CDATA[Enable JavaScript and cookies to continue...]]></description>
+      <content:encoded><![CDATA[<div><p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='https://www.griffith.edu.au/australian-rivers-institute' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.griffith.edu.au/australian-rivers-institute</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:16 +0800</pubDate>
     </item>
     <item>
-      <title>[9. Center for Water Economics, Environment and Policy, Crawford School, Australian NationalUniversity  – Australia] CWEEP</title>
+      <title><![CDATA[[9. Center for Water Economics, Environment and Policy, Crawford School, Australian NationalUniversity  – Australia] CWEEP]]></title>
       <link>https://cweep.anu.edu.au/</link>
-      <description><![CDATA[<p>Current Students<br>Intranet<br>ANU College of Law, Governance and Policy<br>ANU Law School<br>School of Regulation and Global Governance<br>Crawford School of Public Policy<br>National Centre for Epidemiology and  Population Health</p><br><hr><p><a href='https://cweep.anu.edu.au/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://cweep.anu.edu.au/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:26 +0800</pubDate>
+      <description><![CDATA[Current Students
+Intranet
+ANU College of Law, Governance and Policy
+ANU Law School
+School of Regulation and Global Governance
+Crawford School of Public Policy
+National Centre for Epidemiology and  Pop...]]></description>
+      <content:encoded><![CDATA[<div><p>Current Students<br>Intranet<br>ANU College of Law, Governance and Policy<br>ANU Law School<br>School of Regulation and Global Governance<br>Crawford School of Public Policy<br>National Centre for Epidemiology and  Population Health</p><br><hr><p><a href='https://cweep.anu.edu.au/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://cweep.anu.edu.au/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:20 +0800</pubDate>
     </item>
     <item>
-      <title>[Centre for Independent Studies (CIS) --Australia] Just a moment...</title>
+      <title><![CDATA[[Centre for Independent Studies (CIS) --Australia] Just a moment...]]></title>
       <link>http://www.cis.org.au/</link>
-      <description><![CDATA[<p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://www.cis.org.au/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.cis.org.au/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:29 +0800</pubDate>
+      <description><![CDATA[Enable JavaScript and cookies to continue...]]></description>
+      <content:encoded><![CDATA[<div><p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://www.cis.org.au/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.cis.org.au/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:22 +0800</pubDate>
     </item>
     <item>
-      <title>[Australian Strategic Policy Institute --Australia] Just a moment...</title>
+      <title><![CDATA[[Australian Strategic Policy Institute --Australia] Just a moment...]]></title>
       <link>https://www.aspi.org.au/</link>
-      <description><![CDATA[<p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='https://www.aspi.org.au/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.aspi.org.au/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:31 +0800</pubDate>
+      <description><![CDATA[Enable JavaScript and cookies to continue...]]></description>
+      <content:encoded><![CDATA[<div><p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='https://www.aspi.org.au/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.aspi.org.au/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:25 +0800</pubDate>
     </item>
     <item>
-      <title>[Centre for Policy Development (CPD) --Australia] Solving the toughest policy challenges facing Australia and the region</title>
+      <title><![CDATA[[Centre for Policy Development (CPD) --Australia] Solving the toughest policy challenges facing Australia and the region]]></title>
       <link>https://cpd.org.au/</link>
-      <description><![CDATA[<p>Skip to content<br>Our work<br>Submissions<br>Reports and papers<br>Roundtables and forums<br>Focus areas<br>Wellbeing Government in Australia<br>Social Services Reforms<br>Just Transition in Australia and Indonesia<br>Forced Migration in Southeast Asia<br>See All<br>Issues<br>Economic Policy<br>Early Childhood<br>Climate<br>Migration & Settlement<br>Social Policy<br>Wellbeing<br>Discover CPD<br>Meet the team<br>Become a sustainer<br>Our method<br>Our impact<br>Work with us<br>Our supporters<br>News and media<br>In the news<br>Media releases<br>Blog<br>Contact Us<br>Roundtables & Forums<br>Energy subsidy reform roundtable<br>Read more<br>Reports & Papers<br>Partnering for Protection: The role of Dialogue Partners in supporting ASEAN’s response to displacement and forced migration in the region<br>Read more<br>Reports & Papers<br>Healthy Starts: The state of Australia’s child and family health service system<br>Read more<br>Roundtables & Forums<br>Warp Speed Roundtable Series<br>Read more<br>Solving the toughest policy challenges facing Australia and the region<br>Discover the Centre for Policy Development<br>The Centre for Policy Development (CPD) is an independent, not-for-profit policy institute with staff in Sydney, Melbourne, and Jakarta.<br>Our vision is a fair, sustainable society and wellbeing economy that serves current and future generations in Australia and Southeast Asia.<br>Our mission is to help create transformative systems change through practical solutions to complex policy challenges. We tackle the hard questions, working towards change that is systemic and long-term.<br>CPD uses a distinctive Cre<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://cpd.org.au/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://cpd.org.au/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:33 +0800</pubDate>
+      <description><![CDATA[Skip to content
+Our work
+Submissions
+Reports and papers
+Roundtables and forums
+Focus areas
+Wellbeing Government in Australia
+Social Services Reforms
+Just Transition in Australia and Indonesia
+Forced M...]]></description>
+      <content:encoded><![CDATA[<div><p>Skip to content<br>Our work<br>Submissions<br>Reports and papers<br>Roundtables and forums<br>Focus areas<br>Wellbeing Government in Australia<br>Social Services Reforms<br>Just Transition in Australia and Indonesia<br>Forced Migration in Southeast Asia<br>See All<br>Issues<br>Economic Policy<br>Early Childhood<br>Climate<br>Migration & Settlement<br>Social Policy<br>Wellbeing<br>Discover CPD<br>Meet the team<br>Become a sustainer<br>Our method<br>Our impact<br>Work with us<br>Our supporters<br>News and media<br>In the news<br>Media releases<br>Blog<br>Contact Us<br>Roundtables & Forums<br>Energy subsidy reform roundtable<br>Read more<br>Reports & Papers<br>Partnering for Protection: The role of Dialogue Partners in supporting ASEAN’s response to displacement and forced migration in the region<br>Read more<br>Reports & Papers<br>Healthy Starts: The state of Australia’s child and family health service system<br>Read more<br>Roundtables & Forums<br>Warp Speed Roundtable Series<br>Read more<br>Solving the toughest policy challenges facing Australia and the region<br>Discover the Centre for Policy Development<br>The Centre for Policy Development (CPD) is an independent, not-for-profit policy institute with staff in Sydney, Melbourne, and Jakarta.<br>Our vision is a fair, sustainable society and wellbeing economy that serves current and future generations in Australia and Southeast Asia.<br>Our mission is to help create transformative systems change through practical solutions to complex policy challenges. We tackle the hard questions, working towards change that is systemic and long-term.<br>CPD uses a distinctive Cre<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://cpd.org.au/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://cpd.org.au/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:27 +0800</pubDate>
     </item>
     <item>
-      <title>[Australia China Relations Institute (ACRI) --Australia] Australia-China Relations Institute</title>
+      <title><![CDATA[[Australia China Relations Institute (ACRI) --Australia] Australia-China Relations Institute]]></title>
       <link>http://www.australiachinarelations.org/</link>
-      <description><![CDATA[<p>Skip to main content<br>close<br>search<br>Home<br>Home<br>For students<br>For students<br>keyboard_arrow_right<br>For industry<br>For industry<br>keyboard_arrow_right<br>Research<br>Research<br>keyboard_arrow_right<br>Explore<br>Courses<br>Events<br>News<br>Stories<br>People<br>For you<br>Library<br>arrow_right_alt<br>Staff<br>arrow_right_alt<br>Alumni<br>arrow_right_alt<br>Current students<br>arrow_right_alt<br>undo<br>Back<br>Study at UTS<br>arrow_right_alt<br>Find a course<br>arrow_right_alt<br>Course areas<br>arrow_right_alt<br>Undergraduate students<br>arrow_right_alt<br>Postgraduate students<br>arrow_right_alt<br>Research Masters and PhD<br>arrow_right_alt<br>Studying online<br>Student information<br>arrow_right_alt<br>Current students<br>arrow_right_alt<br>New UTS students<br>arrow_right_alt<br>Graduates (Alumni)<br>arrow_right_alt<br>High school students<br>arrow_right_alt<br>Indigenous students<br>arrow_right_alt<br>International students<br>Admissions<br>arrow_right_alt<br>How to apply<br>arrow_right_alt<br>Entry pathways<br>arrow_right_alt<br>Eligibility<br>arrow_right_alt<br>Visit our hub for students<br>For you<br>Library<br>arrow_right_alt<br>Staff<br>arrow_right_alt<br>Alumni<br>arrow_right_alt<br>Current students<br>arrow_right_alt<br>POPULAR LINKS<br>Apply for a course<br>arrow_right_alt<br>Current students<br>arrow_right_alt<br>Scholarships<br>arrow_right_alt<br>undo<br>Back<br>Featured industries<br>arrow_right_alt<br>Agriculture and food<br>arrow_right_alt<br>Defence and space<br>arrow_right_alt<br>Energy and transport<br>arrow_right_alt<br>Government and policy<br>arrow_right_alt<br>Health and medical<br>arrow_right_alt<br>Corporate training<br>Explore<br>arrow_right_alt<br>Tech Central<br>arrow_right_alt<br>Case studies<br>arrow_right_alt<br>Research<br>arrow<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.australiachinarelations.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.australiachinarelations.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:33 +0800</pubDate>
+      <description><![CDATA[Skip to main content
+close
+search
+Home
+Home
+For students
+For students
+keyboard_arrow_right
+For industry
+For industry
+keyboard_arrow_right
+Research
+Research
+keyboard_arrow_right
+Explore
+Courses
+Events
+...]]></description>
+      <content:encoded><![CDATA[<div><p>Skip to main content<br>close<br>search<br>Home<br>Home<br>For students<br>For students<br>keyboard_arrow_right<br>For industry<br>For industry<br>keyboard_arrow_right<br>Research<br>Research<br>keyboard_arrow_right<br>Explore<br>Courses<br>Events<br>News<br>Stories<br>People<br>For you<br>Library<br>arrow_right_alt<br>Staff<br>arrow_right_alt<br>Alumni<br>arrow_right_alt<br>Current students<br>arrow_right_alt<br>undo<br>Back<br>Study at UTS<br>arrow_right_alt<br>Find a course<br>arrow_right_alt<br>Course areas<br>arrow_right_alt<br>Undergraduate students<br>arrow_right_alt<br>Postgraduate students<br>arrow_right_alt<br>Research Masters and PhD<br>arrow_right_alt<br>Studying online<br>Student information<br>arrow_right_alt<br>Current students<br>arrow_right_alt<br>New UTS students<br>arrow_right_alt<br>Graduates (Alumni)<br>arrow_right_alt<br>High school students<br>arrow_right_alt<br>Indigenous students<br>arrow_right_alt<br>International students<br>Admissions<br>arrow_right_alt<br>How to apply<br>arrow_right_alt<br>Entry pathways<br>arrow_right_alt<br>Eligibility<br>arrow_right_alt<br>Visit our hub for students<br>For you<br>Library<br>arrow_right_alt<br>Staff<br>arrow_right_alt<br>Alumni<br>arrow_right_alt<br>Current students<br>arrow_right_alt<br>POPULAR LINKS<br>Apply for a course<br>arrow_right_alt<br>Current students<br>arrow_right_alt<br>Scholarships<br>arrow_right_alt<br>undo<br>Back<br>Featured industries<br>arrow_right_alt<br>Agriculture and food<br>arrow_right_alt<br>Defence and space<br>arrow_right_alt<br>Energy and transport<br>arrow_right_alt<br>Government and policy<br>arrow_right_alt<br>Health and medical<br>arrow_right_alt<br>Corporate training<br>Explore<br>arrow_right_alt<br>Tech Central<br>arrow_right_alt<br>Case studies<br>arrow_right_alt<br>Research<br>arrow<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.australiachinarelations.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.australiachinarelations.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:27 +0800</pubDate>
     </item>
     <item>
-      <title>[Institute for Economics and Peace (IEP) --Australia] We create a paradigm shift in the way the world thinks about peace</title>
+      <title><![CDATA[[Institute for Economics and Peace (IEP) --Australia] We create a paradigm shift in the way the world thinks about peace]]></title>
       <link>http://economicsandpeace.org/</link>
-      <description><![CDATA[<p>Global Peace Index 2026</p><br><hr><p><a href='http://economicsandpeace.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://economicsandpeace.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:34 +0800</pubDate>
+      <description><![CDATA[Global Peace Index 2026...]]></description>
+      <content:encoded><![CDATA[<div><p>Global Peace Index 2026</p><br><hr><p><a href='http://economicsandpeace.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://economicsandpeace.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:27 +0800</pubDate>
     </item>
     <item>
-      <title>[Grattan Institute --Australia] Future pharmacy: A better deal for patients and taxpayers</title>
+      <title><![CDATA[[Grattan Institute --Australia] Future pharmacy: A better deal for patients and taxpayers]]></title>
       <link>https://grattan.edu.au/</link>
-      <description><![CDATA[<p>Reports<br>Experts<br>News<br>Events<br>About<br>DONATE<br>DONATE<br>About<br>About Grattan<br>Grattan Academy<br>Philanthropy<br>Bequests<br>Our supporters<br>Careers<br>Contact<br>SEARCH SITE<br>Reports<br>Experts<br>News<br>Events<br>About<br>About Grattan<br>Grattan Academy<br>Philanthropy<br>Bequests<br>Our supporters<br>Careers<br>Contact<br>DONATE<br>Health<br>Future pharmacy: A better deal for patients and taxpayers<br>Community pharmacy policy in Australia is controlled by pharmacy owners, and patients and taxpayers are losing out.<br>12.07.2026<br>report<br>Disability<br>These deep cuts aren’t needed to save the NDIS<br>21.07.2026<br>News<br>Health<br>Let pharmacies discount any medicine they want to<br>17.07.2026<br>News<br>Health<br>How Australians could get a better deal at the pharmacy<br>15.07.2026<br>Podcast<br>Health<br>Extra pharmacy services? Proceed with caution<br>14.07.2026<br>News<br>Independent policy research to improve the lives of all Australians<br>Budget policy<br>Getting the best value for public money<br>Climate change<br>Policies for a low-emissions future<br>Democracy and public integrity<br>Lifting standards in public office<br>Disability<br>Improving Australian disability policy<br>Economic growth<br>Policies to create jobs and boost prosperity<br>Education<br>Optimising learning from pre-school to university<br>Energy<br>The power to fuel Australia towards net-zero<br>Equity<br>Advancing a fairer Australia<br>Health<br>A better health system for all – regardless of age or income<br>Housing<br>Policies to boost supply and affordability<br>Migration and labour markets<br>Policies to boost prosperity for all<br>Retirement incomes<br>A dignified retirement for a<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://grattan.edu.au/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://grattan.edu.au/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:36 +0800</pubDate>
+      <description><![CDATA[Reports
+Experts
+News
+Events
+About
+DONATE
+DONATE
+About
+About Grattan
+Grattan Academy
+Philanthropy
+Bequests
+Our supporters
+Careers
+Contact
+SEARCH SITE
+Reports
+Experts
+News
+Events
+About
+About Grattan
+Gra...]]></description>
+      <content:encoded><![CDATA[<div><p>Reports<br>Experts<br>News<br>Events<br>About<br>DONATE<br>DONATE<br>About<br>About Grattan<br>Grattan Academy<br>Philanthropy<br>Bequests<br>Our supporters<br>Careers<br>Contact<br>SEARCH SITE<br>Reports<br>Experts<br>News<br>Events<br>About<br>About Grattan<br>Grattan Academy<br>Philanthropy<br>Bequests<br>Our supporters<br>Careers<br>Contact<br>DONATE<br>Health<br>Future pharmacy: A better deal for patients and taxpayers<br>Community pharmacy policy in Australia is controlled by pharmacy owners, and patients and taxpayers are losing out.<br>12.07.2026<br>report<br>Disability<br>These deep cuts aren’t needed to save the NDIS<br>21.07.2026<br>News<br>Health<br>Let pharmacies discount any medicine they want to<br>17.07.2026<br>News<br>Health<br>How Australians could get a better deal at the pharmacy<br>15.07.2026<br>Podcast<br>Health<br>Extra pharmacy services? Proceed with caution<br>14.07.2026<br>News<br>Independent policy research to improve the lives of all Australians<br>Budget policy<br>Getting the best value for public money<br>Climate change<br>Policies for a low-emissions future<br>Democracy and public integrity<br>Lifting standards in public office<br>Disability<br>Improving Australian disability policy<br>Economic growth<br>Policies to create jobs and boost prosperity<br>Education<br>Optimising learning from pre-school to university<br>Energy<br>The power to fuel Australia towards net-zero<br>Equity<br>Advancing a fairer Australia<br>Health<br>A better health system for all – regardless of age or income<br>Housing<br>Policies to boost supply and affordability<br>Migration and labour markets<br>Policies to boost prosperity for all<br>Retirement incomes<br>A dignified retirement for a<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://grattan.edu.au/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://grattan.edu.au/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:29 +0800</pubDate>
     </item>
     <item>
-      <title>[Institute for Regional Security --Australia] The Institute for Regional Security</title>
+      <title><![CDATA[[Institute for Regional Security --Australia] The Institute for Regional Security]]></title>
       <link>https://www.regionalsecurity.org.au/</link>
-      <description><![CDATA[<p>Indo-Pacific Profile<br>Strategic Diplomatic Dialogues<br>Professional Development<br>Future Strategic Leaders<br>NEXT<br>Micro Learning Units<br>Micro Learning Login<br>Research + Thought Leadership<br>Security Challenges<br>Occasional Papers<br>Digital Diplomacy</p><br><hr><p><a href='https://www.regionalsecurity.org.au/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.regionalsecurity.org.au/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:38 +0800</pubDate>
+      <description><![CDATA[Indo-Pacific Profile
+Strategic Diplomatic Dialogues
+Professional Development
+Future Strategic Leaders
+NEXT
+Micro Learning Units
+Micro Learning Login
+Research + Thought Leadership
+Security Challenges
+O...]]></description>
+      <content:encoded><![CDATA[<div><p>Indo-Pacific Profile<br>Strategic Diplomatic Dialogues<br>Professional Development<br>Future Strategic Leaders<br>NEXT<br>Micro Learning Units<br>Micro Learning Login<br>Research + Thought Leadership<br>Security Challenges<br>Occasional Papers<br>Digital Diplomacy</p><br><hr><p><a href='https://www.regionalsecurity.org.au/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.regionalsecurity.org.au/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:32 +0800</pubDate>
     </item>
   </channel>
 </rss>

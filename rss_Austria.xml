@@ -1,38 +1,67 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title>智库全文订阅-Austria</title>
+    <title><![CDATA[智库全文订阅-Austria]]></title>
     <link>https://github.io_Austria.xml</link>
-    <description>自动抓取的 [Austria] 智库文章全文摘要（全量无损版）</description>
+    <description><![CDATA[自动抓取的 [Austria] 智库文章全文摘要（全量无损版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
     <item>
-      <title>[Hayek Institute --Austria] 403 - Forbidden</title>
+      <title><![CDATA[[Hayek Institute --Austria] 403 - Forbidden]]></title>
       <link>http://www.hayek-institut.at/index.php</link>
-      <description><![CDATA[<p>bg_error_lines<br>circle_dots<br>403 - Forbidden<br>Access to this page is forbidden.<br>clouds_shape</p><br><hr><p><a href='http://www.hayek-institut.at/index.php' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.hayek-institut.at/index.php</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:00 +0800</pubDate>
+      <description><![CDATA[bg_error_lines
+circle_dots
+403 - Forbidden
+Access to this page is forbidden.
+clouds_shape...]]></description>
+      <content:encoded><![CDATA[<div><p>bg_error_lines<br>circle_dots<br>403 - Forbidden<br>Access to this page is forbidden.<br>clouds_shape</p><br><hr><p><a href='http://www.hayek-institut.at/index.php' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.hayek-institut.at/index.php</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:48 +0800</pubDate>
     </item>
     <item>
-      <title>[The Vienna Institute for International Economic Studies (WIIW) --Austria] WIIW The Vienna Institute for International Economic Studies - Wiener Institut für Internationale Wirtschaftsvergleiche</title>
+      <title><![CDATA[[The Vienna Institute for International Economic Studies (WIIW) --Austria] WIIW The Vienna Institute for International Economic Studies - Wiener Institut für Internationale Wirtschaftsvergleiche]]></title>
       <link>http://www.wiiw.ac.at/</link>
-      <description><![CDATA[<p>Javascript is disabled in your browser.<br>Please enable javascript and try again.<br>Main Navigation<br>Sidebar<br>Content<br>WIIW The Vienna Institute for International Economic Studies - Wiener Institut für Internationale Wirtschaftsvergleiche<br>Contact<br>Site map<br>Press Area<br>Imprint<br>LOGIN<br>e-mail<br>password<br>LOGIN<br>REGISTER<br>Request new password<br>SEARCH<br>SEARCH<br>Home<br>About<br>Organisation<br>Membership<br>Staff<br>Gender Equality Plan<br>50 YEARS<br>Library & Documentation<br>Press Area<br>Job Openings<br>wiiw in the press<br>News & Events<br>News & Opinions<br>Events<br>Research<br>All Research Areas<br>Macroeconomic Analysis and Policy<br>Labour, Migration and Income Distribution<br>International Trade, Competitiveness and FDI<br>Regional Development<br>Sectoral studies<br>Countries<br>All Countries<br>Albania<br>Belarus<br>Bosnia and Herzegovina<br>Bulgaria<br>Croatia<br>Czechia<br>Estonia<br>Hungary<br>Kazakhstan<br>Kosovo<br>Latvia<br>Lithuania<br>Moldova<br>Montenegro<br>North Macedonia<br>Poland<br>Romania<br>Russia<br>Serbia<br>Slovakia<br>Slovenia<br>Turkey<br>Ukraine<br>Publications<br>All Publications<br>wiiw Forecast Reports<br>wiiw Monthly Reports<br>wiiw FDI Reports<br>wiiw Handbook of Statistics<br>wiiw Research Reports<br>wiiw Working Papers<br>wiiw Policy Notes and Reports<br>wiiw Statistical Reports<br>wiiw Research Reports in German Language<br>Other wiiw publications<br>wiiw Essays and Occasional Papers<br>Free Publications<br>Projects<br>All Projects<br>Macroeconomic Analysis and Policy<br>Labour, Migration and Income Distribution<br>International Trade, Competitiveness and FDI<br>Regional Development<br>Sectoral studies<br>Other<br>Networks<br>Data<br>wiiw Databases<br>CESEE Visual Da<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.wiiw.ac.at/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.wiiw.ac.at/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:00 +0800</pubDate>
+      <description><![CDATA[Javascript is disabled in your browser.
+Please enable javascript and try again.
+Main Navigation
+Sidebar
+Content
+WIIW The Vienna Institute for International Economic Studies - Wiener Institut für Inter...]]></description>
+      <content:encoded><![CDATA[<div><p>Javascript is disabled in your browser.<br>Please enable javascript and try again.<br>Main Navigation<br>Sidebar<br>Content<br>WIIW The Vienna Institute for International Economic Studies - Wiener Institut für Internationale Wirtschaftsvergleiche<br>Contact<br>Site map<br>Press Area<br>Imprint<br>LOGIN<br>e-mail<br>password<br>LOGIN<br>REGISTER<br>Request new password<br>SEARCH<br>SEARCH<br>Home<br>About<br>Organisation<br>Membership<br>Staff<br>Gender Equality Plan<br>50 YEARS<br>Library & Documentation<br>Press Area<br>Job Openings<br>wiiw in the press<br>News & Events<br>News & Opinions<br>Events<br>Research<br>All Research Areas<br>Macroeconomic Analysis and Policy<br>Labour, Migration and Income Distribution<br>International Trade, Competitiveness and FDI<br>Regional Development<br>Sectoral studies<br>Countries<br>All Countries<br>Albania<br>Belarus<br>Bosnia and Herzegovina<br>Bulgaria<br>Croatia<br>Czechia<br>Estonia<br>Hungary<br>Kazakhstan<br>Kosovo<br>Latvia<br>Lithuania<br>Moldova<br>Montenegro<br>North Macedonia<br>Poland<br>Romania<br>Russia<br>Serbia<br>Slovakia<br>Slovenia<br>Turkey<br>Ukraine<br>Publications<br>All Publications<br>wiiw Forecast Reports<br>wiiw Monthly Reports<br>wiiw FDI Reports<br>wiiw Handbook of Statistics<br>wiiw Research Reports<br>wiiw Working Papers<br>wiiw Policy Notes and Reports<br>wiiw Statistical Reports<br>wiiw Research Reports in German Language<br>Other wiiw publications<br>wiiw Essays and Occasional Papers<br>Free Publications<br>Projects<br>All Projects<br>Macroeconomic Analysis and Policy<br>Labour, Migration and Income Distribution<br>International Trade, Competitiveness and FDI<br>Regional Development<br>Sectoral studies<br>Other<br>Networks<br>Data<br>wiiw Databases<br>CESEE Visual Da<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.wiiw.ac.at/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.wiiw.ac.at/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:49 +0800</pubDate>
     </item>
     <item>
-      <title>[Austrian Institute of Economic Research --Austria] The Sectoral Systemic Risk Buffer for Commercial Real Estate Finance</title>
+      <title><![CDATA[[Austrian Institute of Economic Research --Austria] The Sectoral Systemic Risk Buffer for Commercial Real Estate Finance]]></title>
       <link>http://www.wifo.ac.at/en</link>
-      <description><![CDATA[<p>Research<br>Publications<br>Staff<br>Institute<br>Latest News<br>Press<br>DE<br>DE<br>Research Groups<br>Macroeconomics and Public Finance<br>Labour Economics, Income and Social Security<br>Industrial, Innovation and International Economics<br>Regional Economics and Spatial Analysis<br>Climate, Environmental and Resource Economics<br>Thematic Platforms<br>Ageing<br>Business Cycle and Forecasting<br>Competitiveness<br>Digital Transformation<br>Distribution<br>European Integration and Global Governance<br>Green Transformation and Energy Systems<br>Supply Chains<br>Frequently Searched<br>Projects<br>Publications<br>Visualisation<br>WIFO Economic Data Service<br>WDS – WIFO Data System<br>Models at WIFO<br>Featured<br>Foreign Trade<br>Visualisations<br>WIFO Economic Data Service<br>Career<br>Models at WIFO<br>Publications<br>WIFO Studies<br>WIFO-Monatsberichte<br>WIFO Reports on Austria<br>WIFO-Konjunkturprognose<br>WIFO-Konjunkturbericht<br>Weekly WIFO Economic Index<br>National Accounts<br>WIFO Research Briefs<br>WIFO-Konjunkturtest<br>Die Wirtschaft in den Bundesländern<br>WIFO Working Papers<br>Empirica<br>Scientific Activities<br>Peer-reviewed Journals<br>Books and Book Chapters<br>Other Scientific Contributions<br>Presentations<br>Further Activities<br>Frequently Searched<br>Projects<br>WDS – WIFO Data System<br>WIFO Economic Data Service<br>Featured<br>Foreign Trade<br>Visualisations<br>WIFO Economic Data Service<br>Career<br>Models at WIFO<br>About Us<br>Mission and Strategy<br>Evidence-based, Transparency and Independence<br>Organisation<br>Equal Opportunities<br>Membership<br>WIFO Associates<br>Scientific Advisory Board<br>Contact<br>Further Divisions<br>Library<br>Data Science<br>Research Service<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.wifo.ac.at/en' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.wifo.ac.at/en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:01 +0800</pubDate>
+      <description><![CDATA[Research
+Publications
+Staff
+Institute
+Latest News
+Press
+DE
+DE
+Research Groups
+Macroeconomics and Public Finance
+Labour Economics, Income and Social Security
+Industrial, Innovation and International Ec...]]></description>
+      <content:encoded><![CDATA[<div><p>Research<br>Publications<br>Staff<br>Institute<br>Latest News<br>Press<br>DE<br>DE<br>Research Groups<br>Macroeconomics and Public Finance<br>Labour Economics, Income and Social Security<br>Industrial, Innovation and International Economics<br>Regional Economics and Spatial Analysis<br>Climate, Environmental and Resource Economics<br>Thematic Platforms<br>Ageing<br>Business Cycle and Forecasting<br>Competitiveness<br>Digital Transformation<br>Distribution<br>European Integration and Global Governance<br>Green Transformation and Energy Systems<br>Supply Chains<br>Frequently Searched<br>Projects<br>Publications<br>Visualisation<br>WIFO Economic Data Service<br>WDS – WIFO Data System<br>Models at WIFO<br>Featured<br>Foreign Trade<br>Visualisations<br>WIFO Economic Data Service<br>Career<br>Models at WIFO<br>Publications<br>WIFO Studies<br>WIFO-Monatsberichte<br>WIFO Reports on Austria<br>WIFO-Konjunkturprognose<br>WIFO-Konjunkturbericht<br>Weekly WIFO Economic Index<br>National Accounts<br>WIFO Research Briefs<br>WIFO-Konjunkturtest<br>Die Wirtschaft in den Bundesländern<br>WIFO Working Papers<br>Empirica<br>Scientific Activities<br>Peer-reviewed Journals<br>Books and Book Chapters<br>Other Scientific Contributions<br>Presentations<br>Further Activities<br>Frequently Searched<br>Projects<br>WDS – WIFO Data System<br>WIFO Economic Data Service<br>Featured<br>Foreign Trade<br>Visualisations<br>WIFO Economic Data Service<br>Career<br>Models at WIFO<br>About Us<br>Mission and Strategy<br>Evidence-based, Transparency and Independence<br>Organisation<br>Equal Opportunities<br>Membership<br>WIFO Associates<br>Scientific Advisory Board<br>Contact<br>Further Divisions<br>Library<br>Data Science<br>Research Service<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.wifo.ac.at/en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.wifo.ac.at/en</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:50 +0800</pubDate>
     </item>
     <item>
-      <title>[3. Vienna Institute for International Economic Studies (WIIW) --Austria] WIIW The Vienna Institute for International Economic Studies - Wiener Institut für Internationale Wirtschaftsvergleiche</title>
+      <title><![CDATA[[3. Vienna Institute for International Economic Studies (WIIW) --Austria] WIIW The Vienna Institute for International Economic Studies - Wiener Institut für Internationale Wirtschaftsvergleiche]]></title>
       <link>https://wiiw.ac.at</link>
-      <description><![CDATA[<p>Javascript is disabled in your browser.<br>Please enable javascript and try again.<br>Main Navigation<br>Sidebar<br>Content<br>WIIW The Vienna Institute for International Economic Studies - Wiener Institut für Internationale Wirtschaftsvergleiche<br>Contact<br>Site map<br>Press Area<br>Imprint<br>LOGIN<br>e-mail<br>password<br>LOGIN<br>REGISTER<br>Request new password<br>SEARCH<br>SEARCH<br>Home<br>About<br>Organisation<br>Membership<br>Staff<br>Gender Equality Plan<br>50 YEARS<br>Library & Documentation<br>Press Area<br>Job Openings<br>wiiw in the press<br>News & Events<br>News & Opinions<br>Events<br>Research<br>All Research Areas<br>Macroeconomic Analysis and Policy<br>Labour, Migration and Income Distribution<br>International Trade, Competitiveness and FDI<br>Regional Development<br>Sectoral studies<br>Countries<br>All Countries<br>Albania<br>Belarus<br>Bosnia and Herzegovina<br>Bulgaria<br>Croatia<br>Czechia<br>Estonia<br>Hungary<br>Kazakhstan<br>Kosovo<br>Latvia<br>Lithuania<br>Moldova<br>Montenegro<br>North Macedonia<br>Poland<br>Romania<br>Russia<br>Serbia<br>Slovakia<br>Slovenia<br>Turkey<br>Ukraine<br>Publications<br>All Publications<br>wiiw Forecast Reports<br>wiiw Monthly Reports<br>wiiw FDI Reports<br>wiiw Handbook of Statistics<br>wiiw Research Reports<br>wiiw Working Papers<br>wiiw Policy Notes and Reports<br>wiiw Statistical Reports<br>wiiw Research Reports in German Language<br>Other wiiw publications<br>wiiw Essays and Occasional Papers<br>Free Publications<br>Projects<br>All Projects<br>Macroeconomic Analysis and Policy<br>Labour, Migration and Income Distribution<br>International Trade, Competitiveness and FDI<br>Regional Development<br>Sectoral studies<br>Other<br>Networks<br>Data<br>wiiw Databases<br>CESEE Visual Da<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://wiiw.ac.at' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://wiiw.ac.at</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:20 +0800</pubDate>
+      <description><![CDATA[Javascript is disabled in your browser.
+Please enable javascript and try again.
+Main Navigation
+Sidebar
+Content
+WIIW The Vienna Institute for International Economic Studies - Wiener Institut für Inter...]]></description>
+      <content:encoded><![CDATA[<div><p>Javascript is disabled in your browser.<br>Please enable javascript and try again.<br>Main Navigation<br>Sidebar<br>Content<br>WIIW The Vienna Institute for International Economic Studies - Wiener Institut für Internationale Wirtschaftsvergleiche<br>Contact<br>Site map<br>Press Area<br>Imprint<br>LOGIN<br>e-mail<br>password<br>LOGIN<br>REGISTER<br>Request new password<br>SEARCH<br>SEARCH<br>Home<br>About<br>Organisation<br>Membership<br>Staff<br>Gender Equality Plan<br>50 YEARS<br>Library & Documentation<br>Press Area<br>Job Openings<br>wiiw in the press<br>News & Events<br>News & Opinions<br>Events<br>Research<br>All Research Areas<br>Macroeconomic Analysis and Policy<br>Labour, Migration and Income Distribution<br>International Trade, Competitiveness and FDI<br>Regional Development<br>Sectoral studies<br>Countries<br>All Countries<br>Albania<br>Belarus<br>Bosnia and Herzegovina<br>Bulgaria<br>Croatia<br>Czechia<br>Estonia<br>Hungary<br>Kazakhstan<br>Kosovo<br>Latvia<br>Lithuania<br>Moldova<br>Montenegro<br>North Macedonia<br>Poland<br>Romania<br>Russia<br>Serbia<br>Slovakia<br>Slovenia<br>Turkey<br>Ukraine<br>Publications<br>All Publications<br>wiiw Forecast Reports<br>wiiw Monthly Reports<br>wiiw FDI Reports<br>wiiw Handbook of Statistics<br>wiiw Research Reports<br>wiiw Working Papers<br>wiiw Policy Notes and Reports<br>wiiw Statistical Reports<br>wiiw Research Reports in German Language<br>Other wiiw publications<br>wiiw Essays and Occasional Papers<br>Free Publications<br>Projects<br>All Projects<br>Macroeconomic Analysis and Policy<br>Labour, Migration and Income Distribution<br>International Trade, Competitiveness and FDI<br>Regional Development<br>Sectoral studies<br>Other<br>Networks<br>Data<br>wiiw Databases<br>CESEE Visual Da<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://wiiw.ac.at' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://wiiw.ac.at</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:14 +0800</pubDate>
     </item>
   </channel>
 </rss>

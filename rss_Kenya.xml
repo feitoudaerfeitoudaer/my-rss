@@ -1,66 +1,118 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title>智库全文订阅-Kenya</title>
+    <title><![CDATA[智库全文订阅-Kenya]]></title>
     <link>https://github.io_Kenya.xml</link>
-    <description>自动抓取的 [Kenya] 智库文章全文摘要（全量无损版）</description>
+    <description><![CDATA[自动抓取的 [Kenya] 智库文章全文摘要（全量无损版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
     <item>
-      <title>[African Technology Policy Studies network (ATPS) --Kenya] About ATPS</title>
+      <title><![CDATA[[African Technology Policy Studies network (ATPS) --Kenya] About ATPS]]></title>
       <link>http://www.atpsnet.org/</link>
-      <description><![CDATA[<p>Advancing Responsible and Gender-Inclusive Artificial Intelligence Capacity in Africa’s Higher Education Ecosystem (ARISE)<br>Read More ....</p><br><hr><p><a href='http://www.atpsnet.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.atpsnet.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:36 +0800</pubDate>
+      <description><![CDATA[Advancing Responsible and Gender-Inclusive Artificial Intelligence Capacity in Africa’s Higher Education Ecosystem (ARISE)
+Read More .......]]></description>
+      <content:encoded><![CDATA[<div><p>Advancing Responsible and Gender-Inclusive Artificial Intelligence Capacity in Africa’s Higher Education Ecosystem (ARISE)<br>Read More ....</p><br><hr><p><a href='http://www.atpsnet.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.atpsnet.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:22 +0800</pubDate>
     </item>
     <item>
-      <title>[African Economic Research Consortium --Kenya] Just a moment...</title>
+      <title><![CDATA[[African Economic Research Consortium --Kenya] Just a moment...]]></title>
       <link>http://www.aercafrica.org/</link>
-      <description><![CDATA[<p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://www.aercafrica.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.aercafrica.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:37 +0800</pubDate>
+      <description><![CDATA[Enable JavaScript and cookies to continue...]]></description>
+      <content:encoded><![CDATA[<div><p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://www.aercafrica.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.aercafrica.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:24 +0800</pubDate>
     </item>
     <item>
-      <title>[Kenya Institute for Public Policy Research and Analysis (KIPPRA) --Kenya] PUBLICATION OF THE WEEK</title>
-      <link>http://kippra.or.ke/</link>
-      <description><![CDATA[<p>The 9th KIPPRA Annual Regional Conference<br>The 9th KIPPRA Annual Regional Conference convened critical conversations on Strengthening Value Chains for Inclusive Growth in Kenya, bringing together policymakers, researchers, development partners, private sector actors and other stakeholders to chart pathways for inclusive and sustainable development.<br>The Conference Communiqué highlights the participants declarations.<br>KIPPRA (Amendment) Bill, 2026<br>The Kenya Institute for Public Policy Research and Analysis (KIPPRA) Amendment Bill and is now open for public participation, and your views matter<br>The Kenya Economic Report 2025<br>The Kenya Economic Report 2025 themed Creating Decent Jobs for Prosperity has  an overarching goal of presenting evidence-based public policy options that can create decent jobs for prosperity in Kenya by boosting productivity across various sectors.<br>Kenya Fiscal Incidence Analysis (KFIA) Report<br>The report, Poverty and Distributional Impacts of<br>Fiscal Policy in Kenya: A Commitment to Equity<br>Assessment with Extensions to Gender and<br>Children, presents a significant milestone in the use of robust analytical tools to inform inclusive policies in Kenya.<br>Children First: Smarter Budgets, Fairer Futures<br>Kenya County Budget Briefs call for smarter choices today to build stronger human capital for tomorrow. It presents an in-depth review of public spending in five key sectors—Nutrition, Health, WASH, Pre-Primary Education, and Social Protection, with a particular emphasi<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://kippra.or.ke/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://kippra.or.ke/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:42 +0800</pubDate>
-    </item>
-    <item>
-      <title>[African Centre for Technology Studies --Kenya] Who we are</title>
+      <title><![CDATA[[African Centre for Technology Studies --Kenya] Who we are]]></title>
       <link>https://www.acts-net.org/</link>
-      <description><![CDATA[<p>Skip to content<br>Home<br>About Us<br>About ACTS<br>Governing Council<br>Our People<br>Opportunities<br>What We Do<br>Programmes<br>Projects<br>Impact Stories<br>Resources<br>Publications<br>Books<br>Media<br>News<br>Press Articles<br>Upcoming Events<br>Video Gallery<br>Contact Us<br>Home<br>About Us<br>About ACTS<br>Governing Council<br>Our People<br>Opportunities<br>What We Do<br>Programmes<br>Projects<br>Impact Stories<br>Resources<br>Publications<br>Books<br>Media<br>News<br>Press Articles<br>Upcoming Events<br>Video Gallery<br>Contact Us<br>Menu<br>Research<br>We conduct high quality research, policy analysis, capacity strengthening and outreach on applications of science, technology and innovation policies to sustainable development in Africa.<br>Learn More<br>Capacity Strengthening<br>We promote capacity building in the developing countries in the field of policy analysis related to sustainable development.<br>Learn More<br>Policy Engagement<br>We provide independent and objective policy advice to African governments and agencies, regional economic communities and institutions, private sector, civil society and community actors and agencies.<br>Learn More<br>Technology Brokerage<br>We promote and leverage the effective application of science, technology and innovation research, knowledge and expertise to inform and advance sustainable and inclusive development agenda in the region.<br>Learn More<br>APA Seasonal School 2026<br>Join us at the APA Seasonal School 2026 for a transformative 7-day learning experience focused on Artificial Intelligence for Climate Action.<br>Learn more<br>Who we are<br>African Centre for Technology Studies<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.acts-net.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.acts-net.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:43 +0800</pubDate>
+      <description><![CDATA[Skip to content
+Home
+About Us
+About ACTS
+Governing Council
+Our People
+Opportunities
+What We Do
+Programmes
+Projects
+Impact Stories
+Resources
+Publications
+Books
+Media
+News
+Press Articles
+Upcoming Events...]]></description>
+      <content:encoded><![CDATA[<div><p>Skip to content<br>Home<br>About Us<br>About ACTS<br>Governing Council<br>Our People<br>Opportunities<br>What We Do<br>Programmes<br>Projects<br>Impact Stories<br>Resources<br>Publications<br>Books<br>Media<br>News<br>Press Articles<br>Upcoming Events<br>Video Gallery<br>Contact Us<br>Home<br>About Us<br>About ACTS<br>Governing Council<br>Our People<br>Opportunities<br>What We Do<br>Programmes<br>Projects<br>Impact Stories<br>Resources<br>Publications<br>Books<br>Media<br>News<br>Press Articles<br>Upcoming Events<br>Video Gallery<br>Contact Us<br>Menu<br>Research<br>We conduct high quality research, policy analysis, capacity strengthening and outreach on applications of science, technology and innovation policies to sustainable development in Africa.<br>Learn More<br>Capacity Strengthening<br>We promote capacity building in the developing countries in the field of policy analysis related to sustainable development.<br>Learn More<br>Policy Engagement<br>We provide independent and objective policy advice to African governments and agencies, regional economic communities and institutions, private sector, civil society and community actors and agencies.<br>Learn More<br>Technology Brokerage<br>We promote and leverage the effective application of science, technology and innovation research, knowledge and expertise to inform and advance sustainable and inclusive development agenda in the region.<br>Learn More<br>APA Seasonal School 2026<br>Join us at the APA Seasonal School 2026 for a transformative 7-day learning experience focused on Artificial Intelligence for Climate Action.<br>Learn more<br>Who we are<br>African Centre for Technology Studies<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.acts-net.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.acts-net.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:30 +0800</pubDate>
     </item>
     <item>
-      <title>[Inter-Region Economic Network (IREN) --Kenya] ACGWIN | Link Aktif Game Online Slot777 Terpercaya Paling Ampuh Cari Cuan</title>
-      <link>https://irenkenya.com</link>
-      <description><![CDATA[<p>ACGWIN | Link Aktif Game Online Slot777 Terpercaya Paling Ampuh Cari Cuan<br>Penilaian Pengguna<br>88.888<br>Metode Pembayaran<br>Transfer Bank, E-wallet, Pulsa, Qris<br>Layanan Customer Service<br>24/7 Online<br>Lisensi Resmi<br>PAGCOR<br>ACGWIN<br>adalah link aktif terbaru dari slot gacor dan sudah terpercaya oleh ribuan pengguna di Facebook dan menjadi yang paling ampuh untuk mencari cuan. Nikmati cuan banyak dengan slot gacor terpercaya di acgwin!<br>BEBERAPA REVIEW MENARIK TENTANG SITUS ACGWIN<br>Nissa, Medan<br>★★★★★<br>"ACGWIN salah satu tempat terbaik mencari pengalaman bermain slot gacor yang seru dan menyenangkan. Pilihan permainannya yang cukup sangat lengkap dengan link aktif 24 jam setiap hari tanpa ada gangguan."<br>12 Mei 2026<br>Keisyah, Jakarta<br>★★★★★<br>"Link akses ke permainannya cepat dan stabil banget, selain gampang diakses untuk meraih kemenangan juga sangat mudah karena permainan memiliki rtp tinggi."<br>09 Mei 2026<br>Rangga, Bandung<br>★★★★☆<br>"Pengalaman saya disini cukup sangat seru, pertama kali saya daftar sampai proses transaksinya cepat dan nggak ribet sama sekali."<br>15 Mei 2026<br>Hengky, Sulawesi<br>★★★★★<br>"Yang paling saya suka dari ACGWIN itu adalah pelayanannya yang sangat ramah dan responsift banget. Ketika pemain mengalami kendala langsung di proses."<br>18 Mei 2026<br>Angga, solo<br>★★★★★<br>"Mantap banget sih!! Baru pertama kali coba langsung dikasih kemenangan besar serta pengalaman yang seru."<br>10 Mei 2026<br>Iqbal, Surabaya<br>★★★★★<br>"Saya sudah banyak coba main di situs luar, tapi yang paling kosisten memberikan kemenang<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://irenkenya.com' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://irenkenya.com</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:17 +0800</pubDate>
+      <title><![CDATA[[Kenya Institute for Public Policy Research and Analysis (KIPPRA) --Kenya] PUBLICATION OF THE WEEK]]></title>
+      <link>http://kippra.or.ke/</link>
+      <description><![CDATA[The 9th KIPPRA Annual Regional Conference
+The 9th KIPPRA Annual Regional Conference convened critical conversations on Strengthening Value Chains for Inclusive Growth in Kenya, bringing together polic...]]></description>
+      <content:encoded><![CDATA[<div><p>The 9th KIPPRA Annual Regional Conference<br>The 9th KIPPRA Annual Regional Conference convened critical conversations on Strengthening Value Chains for Inclusive Growth in Kenya, bringing together policymakers, researchers, development partners, private sector actors and other stakeholders to chart pathways for inclusive and sustainable development.<br>The Conference Communiqué highlights the participants declarations.<br>KIPPRA (Amendment) Bill, 2026<br>The Kenya Institute for Public Policy Research and Analysis (KIPPRA) Amendment Bill and is now open for public participation, and your views matter<br>The Kenya Economic Report 2025<br>The Kenya Economic Report 2025 themed Creating Decent Jobs for Prosperity has  an overarching goal of presenting evidence-based public policy options that can create decent jobs for prosperity in Kenya by boosting productivity across various sectors.<br>Kenya Fiscal Incidence Analysis (KFIA) Report<br>The report, Poverty and Distributional Impacts of<br>Fiscal Policy in Kenya: A Commitment to Equity<br>Assessment with Extensions to Gender and<br>Children, presents a significant milestone in the use of robust analytical tools to inform inclusive policies in Kenya.<br>Children First: Smarter Budgets, Fairer Futures<br>Kenya County Budget Briefs call for smarter choices today to build stronger human capital for tomorrow. It presents an in-depth review of public spending in five key sectors—Nutrition, Health, WASH, Pre-Primary Education, and Social Protection, with a particular emphasi<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://kippra.or.ke/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://kippra.or.ke/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:31 +0800</pubDate>
     </item>
     <item>
-      <title>[Rift Valley Institute (RVI) --Kenya] Rift Valley Institute</title>
+      <title><![CDATA[[Rift Valley Institute (RVI) --Kenya] Rift Valley Institute]]></title>
       <link>http://riftvalley.net/</link>
-      <description><![CDATA[<p>Skip to content<br>Facebook<br>Twitter<br>Soundcloud<br>Linkedin<br>Envelope<br>Search<br>Rift Valley Institute<br>Making local knowledge work<br>About<br>About RVI<br>Where we work<br>Our Team<br>Governance<br>Fellows<br>Jobs at RVI<br>Contact Us<br>Projects<br>Cross-Border Conflict, Evidence, Policy and Trends<br>The Peace Research Facility<br>Research Communities of Practice<br>Somali Dialogue Platform<br>South Sudan Women’s Research Network<br>Publications<br>Multimedia<br>Events<br>Education and Training<br>Annual Courses<br>News<br>About<br>About RVI<br>Where we work<br>Our Team<br>Governance<br>Fellows<br>Jobs at RVI<br>Contact Us<br>Projects<br>Cross-Border Conflict, Evidence, Policy and Trends<br>The Peace Research Facility<br>Research Communities of Practice<br>Somali Dialogue Platform<br>South Sudan Women’s Research Network<br>Publications<br>Multimedia<br>Events<br>Education and Training<br>Annual Courses<br>News<br>Rift Valley Institute<br>We are an independent, non-profit organisation working in eastern and central Africa to bring local knowledge to bear on social, political and economic development.<br>Akok Kachuol Awer, the Paramount Chief of Akot is interviewed by RVI Researcher Machot Amoum, during a customary court session. Photo by John Ryle<br>WHAT WE DO<br>Projects<br>Find out all about RVI’s research project’s past and present.<br>Read More<br>Events<br>Explore our upcoming events, including the RVI Forum and online convening.<br>Read More<br>Publications<br>Access all our publications from research reports to policy briefs.<br>Read More<br>Education and Trainings<br>Find out about the RVI’s professional courses programme and researcher t<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://riftvalley.net/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://riftvalley.net/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:17 +0800</pubDate>
+      <description><![CDATA[Skip to content
+Facebook
+Twitter
+Soundcloud
+Linkedin
+Envelope
+Search
+Rift Valley Institute
+Making local knowledge work
+About
+About RVI
+Where we work
+Our Team
+Governance
+Fellows
+Jobs at RVI
+Contact Us
+...]]></description>
+      <content:encoded><![CDATA[<div><p>Skip to content<br>Facebook<br>Twitter<br>Soundcloud<br>Linkedin<br>Envelope<br>Search<br>Rift Valley Institute<br>Making local knowledge work<br>About<br>About RVI<br>Where we work<br>Our Team<br>Governance<br>Fellows<br>Jobs at RVI<br>Contact Us<br>Projects<br>Cross-Border Conflict, Evidence, Policy and Trends<br>The Peace Research Facility<br>Research Communities of Practice<br>Somali Dialogue Platform<br>South Sudan Women’s Research Network<br>Publications<br>Multimedia<br>Events<br>Education and Training<br>Annual Courses<br>News<br>About<br>About RVI<br>Where we work<br>Our Team<br>Governance<br>Fellows<br>Jobs at RVI<br>Contact Us<br>Projects<br>Cross-Border Conflict, Evidence, Policy and Trends<br>The Peace Research Facility<br>Research Communities of Practice<br>Somali Dialogue Platform<br>South Sudan Women’s Research Network<br>Publications<br>Multimedia<br>Events<br>Education and Training<br>Annual Courses<br>News<br>Rift Valley Institute<br>We are an independent, non-profit organisation working in eastern and central Africa to bring local knowledge to bear on social, political and economic development.<br>Akok Kachuol Awer, the Paramount Chief of Akot is interviewed by RVI Researcher Machot Amoum, during a customary court session. Photo by John Ryle<br>WHAT WE DO<br>Projects<br>Find out all about RVI’s research project’s past and present.<br>Read More<br>Events<br>Explore our upcoming events, including the RVI Forum and online convening.<br>Read More<br>Publications<br>Access all our publications from research reports to policy briefs.<br>Read More<br>Education and Trainings<br>Find out about the RVI’s professional courses programme and researcher t<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://riftvalley.net/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://riftvalley.net/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:09 +0800</pubDate>
     </item>
     <item>
-      <title>[Institute of Policy Analysis and Research (IPAR) --Kenya] Pages</title>
-      <link>http://iparkenya.blogspot.com/</link>
-      <description><![CDATA[<p>The Institute of Policy Analysis and Research (IPAR) is an independent, indigenous and non-partisan private organisation established in 1994. It is a non-profit body mandated to conduct databased social science policy analysis and research, and training, with the aim of improving human welfare. IPAR shares its policy findings with the government of Kenya, its development partners, private sector, and civil society.<br>Pages<br>About IPAR<br>Our Team<br>Research Programmes<br>Resource Centre<br>Donors/Partners<br>News/Events<br>Contact us<br>Friday, July 1, 2011<br>Call for Papers<br>Upcoming Events<br>National Think Workshop<br>Policy Gaps in the Implementation<br>of the New Constitution in Kenya<br>25 August 2011<br>Call for Papers<br>The    Institute of Policy Analysis and Research (IPAR) is an independent,    indigenous and non-partisan private organisation established in 1994.  It   is a non-profit body mandated to conduct evidence-based social  science   policy analysis and research and training, with the aim of  improving   human welfare. IPAR shares its policy findings with the  government of   Kenya, its development partners, private sector and the  civil society.<br>IPAR is inviting papers for presentation during the Think Workshop.<br>The authors should submit an Abstract of not more than 500 words .<br>Abstracts should be submitted electronically to<br>info@ipar.or.ke<br>and copied to<br>ponge@ipar.or.ke<br>before<br>15 July 2011.<br>The deadline for submission of accepted papers is<br>12 August 2011.<br>The Think Workshop is scheduled for<br>Thursda<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://iparkenya.blogspot.com/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://iparkenya.blogspot.com/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:17 +0800</pubDate>
+      <title><![CDATA[[Inter-Region Economic Network (IREN) --Kenya] ACGWIN | Link Aktif Game Online Slot777 Terpercaya Paling Ampuh Cari Cuan]]></title>
+      <link>https://irenkenya.com</link>
+      <description><![CDATA[ACGWIN | Link Aktif Game Online Slot777 Terpercaya Paling Ampuh Cari Cuan
+Penilaian Pengguna
+88.888
+Metode Pembayaran
+Transfer Bank, E-wallet, Pulsa, Qris
+Layanan Customer Service
+24/7 Online
+Lisensi ...]]></description>
+      <content:encoded><![CDATA[<div><p>ACGWIN | Link Aktif Game Online Slot777 Terpercaya Paling Ampuh Cari Cuan<br>Penilaian Pengguna<br>88.888<br>Metode Pembayaran<br>Transfer Bank, E-wallet, Pulsa, Qris<br>Layanan Customer Service<br>24/7 Online<br>Lisensi Resmi<br>PAGCOR<br>ACGWIN<br>adalah link aktif terbaru dari slot gacor dan sudah terpercaya oleh ribuan pengguna di Facebook dan menjadi yang paling ampuh untuk mencari cuan. Nikmati cuan banyak dengan slot gacor terpercaya di acgwin!<br>BEBERAPA REVIEW MENARIK TENTANG SITUS ACGWIN<br>Nissa, Medan<br>★★★★★<br>"ACGWIN salah satu tempat terbaik mencari pengalaman bermain slot gacor yang seru dan menyenangkan. Pilihan permainannya yang cukup sangat lengkap dengan link aktif 24 jam setiap hari tanpa ada gangguan."<br>12 Mei 2026<br>Keisyah, Jakarta<br>★★★★★<br>"Link akses ke permainannya cepat dan stabil banget, selain gampang diakses untuk meraih kemenangan juga sangat mudah karena permainan memiliki rtp tinggi."<br>09 Mei 2026<br>Rangga, Bandung<br>★★★★☆<br>"Pengalaman saya disini cukup sangat seru, pertama kali saya daftar sampai proses transaksinya cepat dan nggak ribet sama sekali."<br>15 Mei 2026<br>Hengky, Sulawesi<br>★★★★★<br>"Yang paling saya suka dari ACGWIN itu adalah pelayanannya yang sangat ramah dan responsift banget. Ketika pemain mengalami kendala langsung di proses."<br>18 Mei 2026<br>Angga, solo<br>★★★★★<br>"Mantap banget sih!! Baru pertama kali coba langsung dikasih kemenangan besar serta pengalaman yang seru."<br>10 Mei 2026<br>Iqbal, Surabaya<br>★★★★★<br>"Saya sudah banyak coba main di situs luar, tapi yang paling kosisten memberikan kemenang<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://irenkenya.com' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://irenkenya.com</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:09 +0800</pubDate>
     </item>
     <item>
-      <title>[African Technology Policy Studies Network (ATPS) --Kenya] About ATPS</title>
+      <title><![CDATA[[African Technology Policy Studies Network (ATPS) --Kenya] About ATPS]]></title>
       <link>https://atpsnet.org/</link>
-      <description><![CDATA[<p>Advancing Responsible and Gender-Inclusive Artificial Intelligence Capacity in Africa’s Higher Education Ecosystem (ARISE)<br>Read More ....</p><br><hr><p><a href='https://atpsnet.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://atpsnet.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:18 +0800</pubDate>
+      <description><![CDATA[Advancing Responsible and Gender-Inclusive Artificial Intelligence Capacity in Africa’s Higher Education Ecosystem (ARISE)
+Read More .......]]></description>
+      <content:encoded><![CDATA[<div><p>Advancing Responsible and Gender-Inclusive Artificial Intelligence Capacity in Africa’s Higher Education Ecosystem (ARISE)<br>Read More ....</p><br><hr><p><a href='https://atpsnet.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://atpsnet.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:10 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Institute of Policy Analysis and Research (IPAR) --Kenya] Pages]]></title>
+      <link>http://iparkenya.blogspot.com/</link>
+      <description><![CDATA[The Institute of Policy Analysis and Research (IPAR) is an independent, indigenous and non-partisan private organisation established in 1994. It is a non-profit body mandated to conduct databased soci...]]></description>
+      <content:encoded><![CDATA[<div><p>The Institute of Policy Analysis and Research (IPAR) is an independent, indigenous and non-partisan private organisation established in 1994. It is a non-profit body mandated to conduct databased social science policy analysis and research, and training, with the aim of improving human welfare. IPAR shares its policy findings with the government of Kenya, its development partners, private sector, and civil society.<br>Pages<br>About IPAR<br>Our Team<br>Research Programmes<br>Resource Centre<br>Donors/Partners<br>News/Events<br>Contact us<br>Friday, July 1, 2011<br>Call for Papers<br>Upcoming Events<br>National Think Workshop<br>Policy Gaps in the Implementation<br>of the New Constitution in Kenya<br>25 August 2011<br>Call for Papers<br>The    Institute of Policy Analysis and Research (IPAR) is an independent,    indigenous and non-partisan private organisation established in 1994.  It   is a non-profit body mandated to conduct evidence-based social  science   policy analysis and research and training, with the aim of  improving   human welfare. IPAR shares its policy findings with the  government of   Kenya, its development partners, private sector and the  civil society.<br>IPAR is inviting papers for presentation during the Think Workshop.<br>The authors should submit an Abstract of not more than 500 words .<br>Abstracts should be submitted electronically to<br>info@ipar.or.ke<br>and copied to<br>ponge@ipar.or.ke<br>before<br>15 July 2011.<br>The deadline for submission of accepted papers is<br>12 August 2011.<br>The Think Workshop is scheduled for<br>Thursda<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://iparkenya.blogspot.com/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://iparkenya.blogspot.com/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:10 +0800</pubDate>
     </item>
   </channel>
 </rss>

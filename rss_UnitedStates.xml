@@ -1,318 +1,591 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title>智库全文订阅-UnitedStates</title>
+    <title><![CDATA[智库全文订阅-UnitedStates]]></title>
     <link>https://github.io_UnitedStates.xml</link>
-    <description>自动抓取的 [UnitedStates] 智库文章全文摘要（全量无损版）</description>
+    <description><![CDATA[自动抓取的 [UnitedStates] 智库文章全文摘要（全量无损版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
     <item>
-      <title>[Brookings Institution --United States] Advancing ideas that matter</title>
-      <link>http://www.brookings.edu/</link>
-      <description><![CDATA[<p>Delivering the vote: How 4 pressures are testing the Postal Service’s role in American elections<br>Delivering the vote: How 4 pressures are testing the Postal Service’s role in American elections<br>Elena Patel<br>July 10, 2026</p><br><hr><p><a href='http://www.brookings.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.brookings.edu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:31 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Peterson Institute for International Economics (PIIE) --United States] About</title>
-      <link>https://piie.com/</link>
-      <description><![CDATA[<p>Photo Credit: Sipa USA/Aaron Schwartz<br>Trump's new tariffs on Brazil reflect the weakness of US trade strategy<br>Monica de Bolle (PIIE)<br>The Trump administration's new 25 percent tariffs on Brazil mark its latest effort to replace the US tariffs thrown out by the Supreme Court in February. But the many exemptions to the tariffs demonstrate the weakness of US leverage.<br>ZUMA Press/Ricardo Rocha<br>Photo Credit: ZUMA Press/Ricardo Rocha<br>RealTime Economics<br>Portugal's AMALIA treats AI as a public good<br>Monica de Bolle<br>(PIIE)<br>July 14, 2026<br>REUTERS/Quinn Glabicki<br>Photo Credit: REUTERS/Quinn Glabicki<br>Op-Eds<br>America's future in the post-American world economy<br>Adam S. Posen<br>(PIIE)<br>July 2, 2026<br>ZUMA Wire/Will Lester<br>Photo Credit: ZUMA Wire/Will Lester<br>Policy Briefs<br>Class dismissed: The effect of international student exclusion on the US STEM workforce and economic growth<br>Michael A. Clemens<br>(PIIE)<br>,<br>Jeremy Neufeld<br>(Institute for Progress)<br>and<br>Amy M. Nice<br>(Cornell Law School; Institute for Progress)<br>June 23, 2026<br>PIIE Chart<br>Trump-voting states are at highest risk for export losses if the USMCA ends<br>Anjali V. Bhatt<br>(PIIE)<br>,<br>Gary Clyde Hufbauer<br>(PIIE)<br>and<br>Ye Zhang<br>(PIIE)<br>June 22, 2026<br>Subscribe to PIIE Insider!<br>Weekly newsletter with the latest insights<br>What's New<br>El Niño could drag down the global economy by almost $700 billion or $3 trillion—and the choice is ours<br>Cullen S. Hendrix<br>(PIIE)<br>July 20, 2026<br>India's rupee problem has been misdiagnosed<br>Arvind Subramanian<br>(PIIE)<br>July 19, 2026<br>via<br>Financi<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://piie.com/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://piie.com/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:31 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Peterson Institute for International Economics (PIIE) – U.S.] About</title>
-      <link>https://www.piie.com/</link>
-      <description><![CDATA[<p>Photo Credit: Sipa USA/Aaron Schwartz<br>Trump's new tariffs on Brazil reflect the weakness of US trade strategy<br>Monica de Bolle (PIIE)<br>The Trump administration's new 25 percent tariffs on Brazil mark its latest effort to replace the US tariffs thrown out by the Supreme Court in February. But the many exemptions to the tariffs demonstrate the weakness of US leverage.<br>ZUMA Press/Ricardo Rocha<br>Photo Credit: ZUMA Press/Ricardo Rocha<br>RealTime Economics<br>Portugal's AMALIA treats AI as a public good<br>Monica de Bolle<br>(PIIE)<br>July 14, 2026<br>REUTERS/Quinn Glabicki<br>Photo Credit: REUTERS/Quinn Glabicki<br>Op-Eds<br>America's future in the post-American world economy<br>Adam S. Posen<br>(PIIE)<br>July 2, 2026<br>ZUMA Wire/Will Lester<br>Photo Credit: ZUMA Wire/Will Lester<br>Policy Briefs<br>Class dismissed: The effect of international student exclusion on the US STEM workforce and economic growth<br>Michael A. Clemens<br>(PIIE)<br>,<br>Jeremy Neufeld<br>(Institute for Progress)<br>and<br>Amy M. Nice<br>(Cornell Law School; Institute for Progress)<br>June 23, 2026<br>PIIE Chart<br>Trump-voting states are at highest risk for export losses if the USMCA ends<br>Anjali V. Bhatt<br>(PIIE)<br>,<br>Gary Clyde Hufbauer<br>(PIIE)<br>and<br>Ye Zhang<br>(PIIE)<br>June 22, 2026<br>Subscribe to PIIE Insider!<br>Weekly newsletter with the latest insights<br>What's New<br>El Niño could drag down the global economy by almost $700 billion or $3 trillion—and the choice is ours<br>Cullen S. Hendrix<br>(PIIE)<br>July 20, 2026<br>India's rupee problem has been misdiagnosed<br>Arvind Subramanian<br>(PIIE)<br>July 19, 2026<br>via<br>Financi<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.piie.com/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.piie.com/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:31 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Foreign Policy Research Institute (FPRI) --United States] From Greenland to Spain: Trump Threatens Allies While Embracing Turkey at NATO Summit</title>
-      <link>http://www.fpri.org/</link>
-      <description><![CDATA[<p>A Nation Must Think Before it Acts<br>Belarus Post-Election: Political Unrest Intensifies<br>Share:<br>Facebook<br>Twitter<br>Linkedin<br>Mail<br>A nation must think before it acts.<br>Facebook<br>Twitter<br>Bluesky<br>Linkedin<br>Youtube<br>Search<br>Research<br>Research Programs<br>Asia<br>Eurasia<br>National Security<br>Initiatives<br>Africa<br>Baltic Sea<br>Deterrence and Arms Control<br>Regions & Topics<br>Indo-Pacific<br>NATO<br>Russia<br>Ukraine<br>Publications<br>Analysis<br>Reports<br>Expert Commentary<br>Podcasts<br>Chain Reaction<br>Baltic Ways<br>Behind the Front<br>The Ties That Bind<br>Orbis Journal<br>Conversations<br>Intern Corner<br>Newsletters<br>Experts<br>Directory<br>Press Contact<br>Events<br>Upcoming Events<br>Calendar<br>People, Politics, and Prose<br>Briefings, Booktalks, and Conversations<br>The Benjamin Franklin Award<br>Event and Lecture Archive<br>About<br>Our Mission<br>Annual Report<br>Our Team<br>Board<br>Board of Trustees<br>Board of Advisors<br>Young Professionals Advisory Board<br>News<br>Research Programs<br>Internships<br>Careers<br>Financials<br>Audited Financials<br>Form 990<br>PA Certificate of Charitable Registration<br>Support<br>Donate<br>Membership<br>Partnership<br>Subscribe<br>From Greenland to Spain: Trump Threatens Allies While Embracing Turkey at NATO Summit<br>July 14, 2026<br>Analysis<br>Emily Holland, Aaron Stein<br>In The Latest Russia-Belarus Non-Strategic Nuclear Exercise, Putin and Lukashenka Show Teeth<br>July 10, 2026<br>Analysis<br>Gabriela I. Rosa-Hernandez, Decker Eveleth<br>FPRI Experts React | NATO Summit in Ankara<br>July 9, 2026<br>Expert Commentary<br>Emily Holland, Aaron Stein, Robert Beck, Hadas Aron, Jakub Romaniuk<br>East Shield: Poland’s Role in Defendi<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.fpri.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.fpri.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:31 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Center for Strategic and International Studies --United States] CSIS homepage</title>
-      <link>http://www.csis.org/</link>
-      <description><![CDATA[<p>The Future of Global Energy: Insights from the 2026 Statistical Review<br>July 21, 2026 • 12:00 – 12:45 pm EDT<br>Webcast<br>Hosted by<br>Energy Security and Climate Change Program</p><br><hr><p><a href='http://www.csis.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.csis.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:31 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Urban Institute --United States] Driving impact by equipping changemakers with evidence and solutions. | Urban Institute</title>
-      <link>https://www.urban.org</link>
-      <description><![CDATA[<p>The Urban Institute,<br>SisterSong Women of Color Reproductive Justice Collective<br>, and the<br>University of Wisconsin–Madison<br>are working together to rigorously assess how<br>Dobbs<br>has affected the broader reproductive health access and experiences, health outcomes, and social and economic well-being of women and other people who can get pregnant—especially for those from marginalized communities,<br>who are likely disproportionately affected<br>.<br>As AI changes how we work, policymakers can help connect workers with skills and employment, enhance job quality, protect workers’ financial security, and ensure that innovation benefits workers and drives inclusive economic growth.<br>The 21st Century ROAD to Housing Act represents a true bipartisan investment in housing affordability, but now federal agencies need the funding and the staff to make it a reality.<br>The next transportation reauthorization law will reshape federal transportation spending for years to come.<br>Despite concerns about the economy and their personal finances, many young adults are optimistic about their financial futures and are using both traditional and speculative financial strategies to build wealth and plan for the future.<br>Spotlight on Housing<br>Brief<br>How a National Housing Strategy Could Help Make Homeownership Possible<br>Summary<br>The ROAD to Housing Act<br>Research Report<br>A Road Map for Affordable and Stable Housing for All<br>Headline<br>In Conversation<br>Body<br>AI and the Future of the American Workforce<br>This commission … [will] map a <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.urban.org' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.urban.org</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:31 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Center for Global Development (CGD) --United States] Just a moment...</title>
-      <link>https://www.cgdev.org/</link>
-      <description><![CDATA[<p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='https://www.cgdev.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.cgdev.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:32 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Acton Institute for the Study of Religion and Liberty --United States] Promoting a Free and Virtuous Society</title>
-      <link>https://acton.org</link>
-      <description><![CDATA[<p>Events<br>Upcoming Events<br>These are the latest Acton Institute events. Check back often for new updates.<br>View Full Event Schedule<br>July 23, 2026<br>12:00pm<br>Lecture series<br>The Faith and Traditions That Shaped America: Protestantism, the Classical World, and English Common Law<br>August 7, 2026<br>3:30pm<br>Acton Experience Brasil<br>The Acton Institute is bringing the distinctive spirit of its flagship global conference, Acton University, to Brazil once again. On August<br>Read more »<br>September 30, 2026<br>5:30pm<br>2026 Pittsburgh Dinner<br>This year’s keynote will be delivered by Dr. Anthony Bradley, who will offer a clear-eyed, hopeful talk titled: “Strengthening Fathers<br>Read more »</p><br><hr><p><a href='https://acton.org' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://acton.org</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:32 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Americans for Tax Reform (ATR) --United States] Commentary</title>
-      <link>https://www.atr.org/</link>
-      <description><![CDATA[<p>Scalise is Right to Call for More Tax Cuts with Reconciliation 4.0<br>Scalise is Right to Call for More Tax Cuts with Reconciliation 4.0<br>House Majority Leader Steve Scalise (R-La.) called for an additional reconciliation bill focused on tax policy last week, telling Politico that Republican leadership…<br>Mike Palicz<br>07/20/2026</p><br><hr><p><a href='https://www.atr.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.atr.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:33 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Pew Research Center --United States] How Americans Are Engaged With News, Politics, Religion and Civic Life</title>
-      <link>http://www.pewresearch.org/</link>
-      <description><![CDATA[<p>report<br>Jul 15, 2026<br>People in Many Countries Now View China More Positively Than the U.S.</p><br><hr><p><a href='http://www.pewresearch.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.pewresearch.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:33 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Advocates Coalition for Development (CGD) --United States] Women Empowerment</title>
-      <link>https://www.acode-u.org</link>
-      <description><![CDATA[<p>We are an independent public policy research and advocacy think tank based in Uganda, working in the East and Southern Africa sub-regions on a range of public policy issues. Our core business is public policy research and analysis, policy outreach and capacity building. Recognised among the Top-100 Think Tanks worldwide in 2017 Global Think Tank Index published by the University of Pennsylvania. Since its founding 22 years ago, ACODE has emerged as one of the leading regional public policy think tanks in Sub-Saharan Africa.<br>As an independent organisation, ACODE does not align with any political party or political organisation. However, given the direct relationship between development policy and politics, we believe that our work is political and it must stand for certain political causes of a bi-partisan nature.<br>Learn more</p><br><hr><p><a href='https://www.acode-u.org' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.acode-u.org</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:33 +0800</pubDate>
-    </item>
-    <item>
-      <title>[James A. Baker III Institute for Public Policy --United States] Just a moment...</title>
-      <link>http://www.bakerinstitute.org/</link>
-      <description><![CDATA[<p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://www.bakerinstitute.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.bakerinstitute.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:33 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Development Research Group --United States] Development Economics</title>
-      <link>http://www.worldbank.org/en/about/unit/unit-dec#4</link>
-      <description><![CDATA[<p>Who We Are<br>Organizational Units<br>Development Economics<br>Overview<br>About<br>People<br>Topics<br>Publications<br>Events<br>Select a EDS Sub navigation page<br>selecting option, leaving this page<br>Overview<br>Overview<br>About<br>People<br>Topics<br>Publications<br>Events<br>Report<br>Industrial Policy for Development<br>Amidst slower global growth, a shifting labor market, and rising protectionism, governments around the world are increasingly turning to a once controversial policy. Industrial policy—the range of policy tools governments use to shape what an economy produces, rather than leaving it to markets alone—is back with a vengeance.<br>Download the Report<br>Download the Report<br>Report<br>Women, Business and the Law<br>The World Bank Group’s Women, Business and the Law (WBL) is a global benchmarking project that measures how laws, regulations, and policies shape women’s economic opportunities and private sector development across 190 economies. WBL data and analysis guide countries in identifying opportunities for reforms that unlock women’s economic potential and drive job creation and economic growth.<br>Report<br>Global Economic Prospects, January 2026<br>The global economy has shown notable resilience to heightened trade tensions and policy uncertainty. Last year’s faster-than-expected pace of growth capped a recovery from the 2020 recession unmatched in six decades, even if vulnerable emerging market and developing economies are lagging behind.<br>Explore the Data<br>Report<br>World Development Report<br>Standards make everyday life run smoothly.<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.worldbank.org/en/about/unit/unit-dec#4' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.worldbank.org/en/about/unit/unit-dec#4</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Congressional Research Service --United States] Congressional Research Service Careers</title>
-      <link>https://www.loc.gov/crsinfo/</link>
-      <description><![CDATA[<p>skip navigation<br>Congressional Research Service<br>Careers<br>Ask a Librarian<br>Digital Collections<br>Library Catalogs<br>Search<br>GO<br>The Library of Congress<br>> Congressional Research Service Careers<br>Congressional Research Service Careers Image<br>CRS Careers Home<br>About CRS<br>Areas of Research<br>Career Opportunities<br>Contact Us<br>Congressional Research Service Careers<br>The Congressional Research Service (CRS) works exclusively for the United States Congress, providing policy and legal analysis to committees and Members of both the House and Senate, regardless of party affiliation. As a legislative branch agency within the Library of Congress, CRS has been a valued and respected resource on Capitol Hill for more than a century.<br>CRS is well-known for analysis that is authoritative, confidential, objective and nonpartisan. Its highest priority is to ensure that Congress has 24/7 access to the nation’s best thinking.<br>This website provides information about our organization, career opportunities and our services to Congress.<br>To  access CRS reports, visit<br>https://www.congress.gov/crs-products<br>.<br>Current Vacancies<br>Learn about other<br>career opportunities<br>.<br>Connect with the Library<br>All ways to connect<br>Find Us On<br>Subscribe & Comment<br>RSS & E-Mail<br>Blogs<br>Download & Play<br>Apps<br>Podcasts<br>Webcasts<br>iTunesU<br>(external link)<br>Questions<br>Ask a Librarian<br>Contact Us<br>About<br>|<br>Press<br>|<br>Jobs<br>|<br>Donate<br>Inspector General<br>|<br>Legal<br>|<br>Accessibility<br>|<br>External Link Disclaimer<br>|<br>USA.gov<br>Speech Enabled</p><br><hr><p><a href='https://www.loc.gov/crsinfo/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.loc.gov/crsinfo/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Boston Consulting Group (BCG)--United States] Access Denied</title>
-      <link>https://www.bcg.com/en-us/default.aspx</link>
-      <description><![CDATA[<p>Access Denied<br>You don't have permission to access "http://www.bcg.com/en-us/default.aspx" on this server.<br>Reference #18.ca06d217.1784639734.619a0912<br>https://errors.edgesuite.net/18.ca06d217.1784639734.619a0912</p><br><hr><p><a href='https://www.bcg.com/en-us/default.aspx' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.bcg.com/en-us/default.aspx</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>[World Bank Institute (WBI) --United States] OURPRIORITIES</title>
-      <link>http://web.worldbank.org/WBSITE/EXTERNAL/WBI/0,,pagePK:208996~theSitePK:213799,00.html</link>
-      <description><![CDATA[<p>Why Women-Owned SMEs Are a Smart Investment<br>Why Women-Owned SMEs Are a Smart Investment<br>A decade of IFC data shows women-owned businesses outperform on loan repayment — yet remain dramatically underfinanced.<br>https://www.ifc.org/en/stories/2026/why-investing-in-women-owned-smes-is-smart-business<br>Read the Story<br>Top<br>eager<br>https://delivery-p136806-e1377844.adobeaemcloud.com/adobe/assets/urn:aaid:aem:52d2acec-389f-4673-a40d-94ed025efbb1/as/Partnerships%20homepage.jpg<br>What's new in the World Development Indicators: July 2026 update<br>blog<br>What's New in the World Development Indicators: July 2026 Update<br>https://blogs.worldbank.org/en/opendata/what-s-new-in-the-world-development-indicators--july-2026-update<br>https://delivery-p136806-e1377844.adobeaemcloud.com/adobe/assets/urn:aaid:aem:52d2acec-389f-4673-a40d-94ed025efbb1/as/Partnerships%20homepage.jpg<br>Energy Security: The Foundation of Job Creation<br>blog<br>Energy Security: The Foundation of Job Creation<br>https://blogs.worldbank.org/en/energy/energy-security--the-foundation-of-job-creation<br>https://delivery-p136806-e1377844.adobeaemcloud.com/adobe/assets/urn:aaid:aem:52d2acec-389f-4673-a40d-94ed025efbb1/as/Partnerships%20homepage.jpg<br>Data as a Commodity: The New Geography of the Cloud Economy<br>blog<br>Data as a Commodity: The New Geography of the Cloud Economy<br>https://blogs.worldbank.org/en/latinamerica/data-as-a-commodity--the-new-geography-of-the-cloud-economy<br>https://delivery-p136806-e1377844.adobeaemcloud.com/adobe/assets/urn:aaid:aem:52d2ace<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://web.worldbank.org/WBSITE/EXTERNAL/WBI/0,,pagePK:208996~theSitePK:213799,00.html' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://web.worldbank.org/WBSITE/EXTERNAL/WBI/0,,pagePK:208996~theSitePK:213799,00.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Center on International Cooperation --United States] </title>
-      <link>https://cic.nyu.edu</link>
-      <description><![CDATA[<p>Press Release<br>February 27, 2026<br>NYU Center on International Cooperation at 30 to Join NYU Wagner Graduate School of Public Service<br>CIC is joining the Robert F. Wagner Graduate School of Public Service after a long and constructive tenure at NYU Arts & Science. This strategic transition to a prominent graduate school of public service, founded in 1938, will facilitate mutually productive CIC-Wagner engagement and support CIC in broadening its mission and strengthening its influence in the New York and global public service communities.<br>Thibault Chareton</p><br><hr><p><a href='https://cic.nyu.edu' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://cic.nyu.edu</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Eurasia Group --United States] Eurasia Group | Home</title>
-      <link>https://www.eurasiagroup.net/</link>
-      <description><![CDATA[<p>In The News<br>Who We Are<br>Our Story<br>Our Values<br>Our People<br>For the Media<br>Contact Us<br>What We Do<br>Political risk advisory<br>Management consulting<br>Thought Leadership<br>Speaking<br>Events<br>日本語<br>ユーラシアグループについて · 概要<br>ニュース · メディア<br>サービス<br>お問い合わせ<br>Careers<br>Client Portal<br>SEARCH<br>Politics First<br>Atlas of Impunity: Erosion of Press Freedom is Biggest Driver of Worsening Global Accountability Over Last Five Years<br>Politics First<br>What’s the #1 geopolitical concern for 2026? Read the Top Risks report<br>Politics First<br>Ian Bremmer's 2025 State of the World speech<br>Politics First<br>Eurasia Group helps clients navigate political risks in an uncertain world. Read our story.<br>what are you<br>looking for?<br>Expertise<br>Speakers<br>Get Smart<br>Get In Touch<br>SUBSCRIBE TO GZERO DAILY<br>Sign up now for GZERO Daily, the newsletter for anyone interested in global politics, published by GZERO Media.<br>I have read, understand and consent to the<br>Privacy Policy<br>and<br>Terms of Use<br>, including the transfer of my personal data to the United States from my country of residence (if different).<br>Politics First<br>Latest from Eurasia Group:<br>Top Risks 2026<br>Read the risks<br>Twitter<br>Facebook<br>LinkedIn<br>RSS<br>Home<br>Contact Us<br>Client Portal<br>Subscribe<br>Site Map<br>Privacy Policy<br>Accessibility<br>Terms Of Use<br>© Eurasia Group 2026. Any copying or distribution of Eurasia Group materials is prohibited.<br>Site by<br>Odgis+Co<br>and<br>ICVM Hawk<br>.<br>We have updated our<br>Privacy Policy<br>and<br>Terms of Use<br>for Eurasia Group and its affiliates to clarify the types of data we collect, how we collect it, how we u<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.eurasiagroup.net/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.eurasiagroup.net/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>[PricewaterhouseCoopers (PwC) --United States] PwC US – Audit, assurance, tax and consulting services</title>
-      <link>https://www.pwc.com</link>
-      <description><![CDATA[<p>Skip to content<br>Skip to footer<br>Insights & Research<br>Services<br>Industries<br>Tech & AI<br>About PwC<br>Careers<br>More<br>Search<br>Menu<br>Insights & Research<br>Insights & Research<br>Featured<br>Leadership Center<br>Content & media<br>Case studies<br>All insights & research<br>Menu<br>Insights & Research<br>Featured<br>The intelligent enterprise<br>America in motion<br>Policy on Demand<br>Viewpoint<br>Tech Effect<br>Industry Edge<br>Governance Insights Center<br>Menu<br>Insights & Research<br>Leadership Center<br>Board of Directors<br>Chief Executive Officer (CEO)<br>Chief Financial Officer (CFO)<br>Chief AI Officer (CAIO)<br>Chief Information Officer (CIO)<br>Chief Information Security Officer (CISO)<br>Chief Marketing Officer (CMO)<br>Chief Operating Officer (COO)<br>Chief Risk Officer (CRO)<br>Chief Legal Officer (CLO)<br>Controller<br>Corporate development<br>Sustainability leader<br>Tax leader<br>Menu<br>Insights & Research<br>Content & media<br>Podcasts<br>Webcasts<br>Menu<br>Insights & Research<br>Case studies<br>Menu<br>Insights & Research<br>All insights & research<br>Spotlight<br>The intelligent enterprise in the age of AI<br>Deals Outlook: the deals built to withstand what's next<br>Medical cost trend: Behind the numbers<br>Menu<br>Services<br>Services<br>Alliances and ecosystems<br>Artificial Intelligence (AI)<br>Audit and assurance<br>Board governance issues<br>Consulting<br>Managed services<br>PwC private<br>Sustainability and ESG<br>Tax services<br>Menu<br>Services<br>Alliances and ecosystems<br>Adobe<br>Amazon Web Services<br>Anthropic<br>Google<br>Guidewire<br>Microsoft<br>OpenAI<br>Oracle<br>Salesforce<br>SAP<br>Workday<br>All alliances<br>Menu<br>Services<br>Artificial Intelligence (AI)<br>Menu<br>Services<br>Audit <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.pwc.com' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.pwc.com</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>[A.T. Kearney Global Business Policy Council (GBPC) --United States] The Global Business Policy Council (GBPC), part of the Kearney Foresight network, is a leading voice on business environment research and policy. Since its first CEO Retreat in 1992, the Council has provided strategic foresight services for the world&#x27;s top executives and government officials. Through public-facing thought leadership, exclusive global forums, and advisory services, the Council helps to decipher complex geopolitical, economic, social, and technological shifts. This creates clarity for CEOs and government leaders on key developments and trends, providing immediate impact and lasting advantage.</title>
-      <link>https://www.atkearney.com/gbpc</link>
-      <description><![CDATA[<p>Search Bar<br>Your industry<br>Your industry<br>Aerospace and Defense<br>Automotive<br>Consumer and Retail<br>Agriculture and food<br>Beauty and personal care<br>Beverages<br>Fashion and luxury<br>Grocery and retail<br>Communications<br>Energy and Resources<br>Chemicals<br>Metals and Mining<br>Oil and Gas<br>Utilities<br>Financial Services<br>Insurance<br>Payments<br>Healthcare and Life Sciences<br>Biopharma<br>Healthcare<br>MedTech<br>Healthcare and Life Sciences Private Equity<br>Industrial Goods and Services<br>Infrastructure<br>Media<br>Private Equity<br>Technology<br>Public Sector<br>Transportation and Travel<br>Your needs<br>Your needs<br>Services<br>Digital and Analytics<br>Mergers and Acquisitions<br>Operations and Performance<br>Organization<br>Procurement<br>Product Excellence and Renewal Lab (PERLab)<br>Sustainability<br>Strategy and Growth<br>Transformation<br>Global Business Policy Council<br>Impact Networks<br>Kearney Foresight<br>Kearney Innovate<br>Kearney Activate<br>About us<br>About us<br>Who we are<br>100 Years of Impact<br>Our story<br>Your story<br>Culture and values<br>People and leadership<br>Diversity and inclusion<br>Kearney Originals<br>Why Kearney<br>Strategic partnerships<br>Sustainability and social impact<br>Impact Networks<br>Kearney Foresight<br>Kearney Innovate<br>Kearney Activate<br>More<br>Alumni<br>Locations<br>Media<br>Careers<br>Careers<br>Opportunities<br>Life at Kearney<br>Interviewing<br>Search jobs<br>Insights<br>Insights<br>Impact First Newsletter<br>Podcasts<br>Books<br>Featured insights<br>Advanced Mobility Institute<br>Geopolitical Dynamics<br>Global Cities Report<br>Global Economic Outlook<br>Global Services Location Index<br>Global Wildcards 2025–2030<br>Kearney Consumer Institute<br>Suppl<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.atkearney.com/gbpc' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.atkearney.com/gbpc</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Cato Institute --United States] The Third Reconciliation Bill Is a Big Missed Opportunity</title>
-      <link>https://www.cato.org/</link>
-      <description><![CDATA[<p>blog<br>Is Congress Really Going to Give President Trump New Tariff Powers?<br>By<br>Clark Packard<br>Policymakers should debate the merits of Russia sanctions, but it would be a colossal mistake to delegate<br>more<br>of Congress’ Article I tariff powers to President Trump.</p><br><hr><p><a href='https://www.cato.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.cato.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:35 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Heritage Foundation --United States] Heritage Foundation Homepage</title>
+      <title><![CDATA[[Heritage Foundation --United States] Heritage Foundation Homepage]]></title>
       <link>http://www.heritage.org/</link>
-      <description><![CDATA[<p>Submit<br>Frequently Searched<br>Critical Race Theory<br>Life<br>Index of Economic Freedom<br>China<br>The Kevin Roberts Show<br>Budget and Spending<br>About Heritage<br>Events<br>Press<br>Renew<br>Explore Policy<br>Explore Policy<br>Top Issues<br>Middle East<br>Defense<br>Border Security<br>Global Politics<br>American History<br>About Heritage<br>Events<br>Renew<br>Press<br>Explore Policy<br>Political Thought<br>American History<br>Conservatism<br>Progressivism<br>International<br>Antisemitism<br>China<br>Europe<br>Global Politics<br>Middle East<br>National Security<br>Border Security<br>Cybersecurity<br>Defense<br>Government Spending<br>Budget and Spending<br>Debt<br>Taxes<br>Energy and Climate<br>Climate<br>Energy<br>Environment<br>Legal and Judicial<br>Courts<br>Crime and Justice<br>Election Integrity<br>Gun Rights<br>The Constitution<br>Domestic Policy<br>Education<br>Government Regulation<br>Health Care Reform<br>Technology<br>Welfare<br>Culture<br>Gender<br>Life<br>Marriage and Family<br>Parental Rights<br>Religious Liberty<br>Economy<br>International Economies<br>Markets and Finance<br>Trade<br>open search<br>Donate<br>Rediscover Our Foundations.<br>Shape What Comes Next.<br>Explore America 250<br>Our vision<br>Building an America where freedom, opportunity, prosperity, and civil society flourish.<br>More about Heritage<br>What We Do<br>Providing Solutions<br>our latest policy work<br>Engagement & Mobilization<br>Upcoming Events & Programs<br>Training Leaders<br>Internships & Fellowships<br>Our Impact<br>The Heritage Foundation Solutions<br>Explore the Answers to Today’s Biggest Policy Issues<br>Featured Read<br>Higher Education in America: It’s Worse Than You Think<br>America’s colleges and universities are in crisis. Rising cos<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.heritage.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.heritage.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:36 +0800</pubDate>
+      <description><![CDATA[Submit
+Frequently Searched
+Critical Race Theory
+Life
+Index of Economic Freedom
+China
+The Kevin Roberts Show
+Budget and Spending
+About Heritage
+Events
+Press
+Renew
+Explore Policy
+Explore Policy
+Top Issu...]]></description>
+      <content:encoded><![CDATA[<div><p>Submit<br>Frequently Searched<br>Critical Race Theory<br>Life<br>Index of Economic Freedom<br>China<br>The Kevin Roberts Show<br>Budget and Spending<br>About Heritage<br>Events<br>Press<br>Renew<br>Explore Policy<br>Explore Policy<br>Top Issues<br>Middle East<br>Defense<br>Border Security<br>Global Politics<br>American History<br>About Heritage<br>Events<br>Renew<br>Press<br>Explore Policy<br>Political Thought<br>American History<br>Conservatism<br>Progressivism<br>International<br>Antisemitism<br>China<br>Europe<br>Global Politics<br>Middle East<br>National Security<br>Border Security<br>Cybersecurity<br>Defense<br>Government Spending<br>Budget and Spending<br>Debt<br>Taxes<br>Energy and Climate<br>Climate<br>Energy<br>Environment<br>Legal and Judicial<br>Courts<br>Crime and Justice<br>Election Integrity<br>Gun Rights<br>The Constitution<br>Domestic Policy<br>Education<br>Government Regulation<br>Health Care Reform<br>Technology<br>Welfare<br>Culture<br>Gender<br>Life<br>Marriage and Family<br>Parental Rights<br>Religious Liberty<br>Economy<br>International Economies<br>Markets and Finance<br>Trade<br>open search<br>Donate<br>Rediscover Our Foundations.<br>Shape What Comes Next.<br>Explore America 250<br>Our vision<br>Building an America where freedom, opportunity, prosperity, and civil society flourish.<br>More about Heritage<br>What We Do<br>Providing Solutions<br>our latest policy work<br>Engagement & Mobilization<br>Upcoming Events & Programs<br>Training Leaders<br>Internships & Fellowships<br>Our Impact<br>The Heritage Foundation Solutions<br>Explore the Answers to Today’s Biggest Policy Issues<br>Featured Read<br>Higher Education in America: It’s Worse Than You Think<br>America’s colleges and universities are in crisis. Rising cos<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.heritage.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.heritage.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:17 +0800</pubDate>
     </item>
     <item>
-      <title>[1. Bloomberg School of Public Health Research Centers (JHSPH) --United States] Sorry, you have been blocked</title>
-      <link>https://www.jhsph.edu/</link>
-      <description><![CDATA[<p>Please enable cookies.<br>Sorry, you have been blocked<br>You are unable to access<br>publichealth.jhu.edu<br>Why have I been blocked?<br>This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.<br>What can I do to resolve this?<br>You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.<br>Cloudflare Ray ID:<br>a1ea7ac4ce3bacf4<br>•<br>Your IP:<br>Click to reveal<br>132.196.82.4<br>•<br>Performance & security by<br>Cloudflare</p><br><hr><p><a href='https://www.jhsph.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.jhsph.edu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:20 +0800</pubDate>
+      <title><![CDATA[[Peterson Institute for International Economics (PIIE) – U.S.] About]]></title>
+      <link>https://www.piie.com/</link>
+      <description><![CDATA[Photo Credit: Sipa USA/Aaron Schwartz
+Trump's new tariffs on Brazil reflect the weakness of US trade strategy
+Monica de Bolle (PIIE)
+The Trump administration's new 25 percent tariffs on Brazil mark it...]]></description>
+      <content:encoded><![CDATA[<div><p>Photo Credit: Sipa USA/Aaron Schwartz<br>Trump's new tariffs on Brazil reflect the weakness of US trade strategy<br>Monica de Bolle (PIIE)<br>The Trump administration's new 25 percent tariffs on Brazil mark its latest effort to replace the US tariffs thrown out by the Supreme Court in February. But the many exemptions to the tariffs demonstrate the weakness of US leverage.<br>ZUMA Press/Ricardo Rocha<br>Photo Credit: ZUMA Press/Ricardo Rocha<br>RealTime Economics<br>Portugal's AMALIA treats AI as a public good<br>Monica de Bolle<br>(PIIE)<br>July 14, 2026<br>REUTERS/Quinn Glabicki<br>Photo Credit: REUTERS/Quinn Glabicki<br>Op-Eds<br>America's future in the post-American world economy<br>Adam S. Posen<br>(PIIE)<br>July 2, 2026<br>ZUMA Wire/Will Lester<br>Photo Credit: ZUMA Wire/Will Lester<br>Policy Briefs<br>Class dismissed: The effect of international student exclusion on the US STEM workforce and economic growth<br>Michael A. Clemens<br>(PIIE)<br>,<br>Jeremy Neufeld<br>(Institute for Progress)<br>and<br>Amy M. Nice<br>(Cornell Law School; Institute for Progress)<br>June 23, 2026<br>PIIE Chart<br>Trump-voting states are at highest risk for export losses if the USMCA ends<br>Anjali V. Bhatt<br>(PIIE)<br>,<br>Gary Clyde Hufbauer<br>(PIIE)<br>and<br>Ye Zhang<br>(PIIE)<br>June 22, 2026<br>Subscribe to PIIE Insider!<br>Weekly newsletter with the latest insights<br>What's New<br>El Niño could drag down the global economy by almost $700 billion or $3 trillion—and the choice is ours<br>Cullen S. Hendrix<br>(PIIE)<br>July 20, 2026<br>India's rupee problem has been misdiagnosed<br>Arvind Subramanian<br>(PIIE)<br>July 19, 2026<br>via<br>Financi<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.piie.com/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.piie.com/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:17 +0800</pubDate>
     </item>
     <item>
-      <title>[8. Resources for the Future (RFF) --United States] Advancing a Healthy Environment and a Thriving Economy</title>
+      <title><![CDATA[[Brookings Institution --United States] Advancing ideas that matter]]></title>
+      <link>http://www.brookings.edu/</link>
+      <description><![CDATA[Delivering the vote: How 4 pressures are testing the Postal Service’s role in American elections
+Delivering the vote: How 4 pressures are testing the Postal Service’s role in American elections
+Elena ...]]></description>
+      <content:encoded><![CDATA[<div><p>Delivering the vote: How 4 pressures are testing the Postal Service’s role in American elections<br>Delivering the vote: How 4 pressures are testing the Postal Service’s role in American elections<br>Elena Patel<br>July 10, 2026</p><br><hr><p><a href='http://www.brookings.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.brookings.edu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Peterson Institute for International Economics (PIIE) --United States] About]]></title>
+      <link>https://piie.com/</link>
+      <description><![CDATA[Photo Credit: Sipa USA/Aaron Schwartz
+Trump's new tariffs on Brazil reflect the weakness of US trade strategy
+Monica de Bolle (PIIE)
+The Trump administration's new 25 percent tariffs on Brazil mark it...]]></description>
+      <content:encoded><![CDATA[<div><p>Photo Credit: Sipa USA/Aaron Schwartz<br>Trump's new tariffs on Brazil reflect the weakness of US trade strategy<br>Monica de Bolle (PIIE)<br>The Trump administration's new 25 percent tariffs on Brazil mark its latest effort to replace the US tariffs thrown out by the Supreme Court in February. But the many exemptions to the tariffs demonstrate the weakness of US leverage.<br>ZUMA Press/Ricardo Rocha<br>Photo Credit: ZUMA Press/Ricardo Rocha<br>RealTime Economics<br>Portugal's AMALIA treats AI as a public good<br>Monica de Bolle<br>(PIIE)<br>July 14, 2026<br>REUTERS/Quinn Glabicki<br>Photo Credit: REUTERS/Quinn Glabicki<br>Op-Eds<br>America's future in the post-American world economy<br>Adam S. Posen<br>(PIIE)<br>July 2, 2026<br>ZUMA Wire/Will Lester<br>Photo Credit: ZUMA Wire/Will Lester<br>Policy Briefs<br>Class dismissed: The effect of international student exclusion on the US STEM workforce and economic growth<br>Michael A. Clemens<br>(PIIE)<br>,<br>Jeremy Neufeld<br>(Institute for Progress)<br>and<br>Amy M. Nice<br>(Cornell Law School; Institute for Progress)<br>June 23, 2026<br>PIIE Chart<br>Trump-voting states are at highest risk for export losses if the USMCA ends<br>Anjali V. Bhatt<br>(PIIE)<br>,<br>Gary Clyde Hufbauer<br>(PIIE)<br>and<br>Ye Zhang<br>(PIIE)<br>June 22, 2026<br>Subscribe to PIIE Insider!<br>Weekly newsletter with the latest insights<br>What's New<br>El Niño could drag down the global economy by almost $700 billion or $3 trillion—and the choice is ours<br>Cullen S. Hendrix<br>(PIIE)<br>July 20, 2026<br>India's rupee problem has been misdiagnosed<br>Arvind Subramanian<br>(PIIE)<br>July 19, 2026<br>via<br>Financi<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://piie.com/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://piie.com/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Center for Strategic and International Studies --United States] CSIS homepage]]></title>
+      <link>http://www.csis.org/</link>
+      <description><![CDATA[The Future of Global Energy: Insights from the 2026 Statistical Review
+July 21, 2026 • 12:00 – 12:45 pm EDT
+Webcast
+Hosted by
+Energy Security and Climate Change Program...]]></description>
+      <content:encoded><![CDATA[<div><p>The Future of Global Energy: Insights from the 2026 Statistical Review<br>July 21, 2026 • 12:00 – 12:45 pm EDT<br>Webcast<br>Hosted by<br>Energy Security and Climate Change Program</p><br><hr><p><a href='http://www.csis.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.csis.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Foreign Policy Research Institute (FPRI) --United States] From Greenland to Spain: Trump Threatens Allies While Embracing Turkey at NATO Summit]]></title>
+      <link>http://www.fpri.org/</link>
+      <description><![CDATA[A Nation Must Think Before it Acts
+Belarus Post-Election: Political Unrest Intensifies
+Share:
+Facebook
+Twitter
+Linkedin
+Mail
+A nation must think before it acts.
+Facebook
+Twitter
+Bluesky
+Linkedin
+Youtu...]]></description>
+      <content:encoded><![CDATA[<div><p>A Nation Must Think Before it Acts<br>Belarus Post-Election: Political Unrest Intensifies<br>Share:<br>Facebook<br>Twitter<br>Linkedin<br>Mail<br>A nation must think before it acts.<br>Facebook<br>Twitter<br>Bluesky<br>Linkedin<br>Youtube<br>Search<br>Research<br>Research Programs<br>Asia<br>Eurasia<br>National Security<br>Initiatives<br>Africa<br>Baltic Sea<br>Deterrence and Arms Control<br>Regions & Topics<br>Indo-Pacific<br>NATO<br>Russia<br>Ukraine<br>Publications<br>Analysis<br>Reports<br>Expert Commentary<br>Podcasts<br>Chain Reaction<br>Baltic Ways<br>Behind the Front<br>The Ties That Bind<br>Orbis Journal<br>Conversations<br>Intern Corner<br>Newsletters<br>Experts<br>Directory<br>Press Contact<br>Events<br>Upcoming Events<br>Calendar<br>People, Politics, and Prose<br>Briefings, Booktalks, and Conversations<br>The Benjamin Franklin Award<br>Event and Lecture Archive<br>About<br>Our Mission<br>Annual Report<br>Our Team<br>Board<br>Board of Trustees<br>Board of Advisors<br>Young Professionals Advisory Board<br>News<br>Research Programs<br>Internships<br>Careers<br>Financials<br>Audited Financials<br>Form 990<br>PA Certificate of Charitable Registration<br>Support<br>Donate<br>Membership<br>Partnership<br>Subscribe<br>From Greenland to Spain: Trump Threatens Allies While Embracing Turkey at NATO Summit<br>July 14, 2026<br>Analysis<br>Emily Holland, Aaron Stein<br>In The Latest Russia-Belarus Non-Strategic Nuclear Exercise, Putin and Lukashenka Show Teeth<br>July 10, 2026<br>Analysis<br>Gabriela I. Rosa-Hernandez, Decker Eveleth<br>FPRI Experts React | NATO Summit in Ankara<br>July 9, 2026<br>Expert Commentary<br>Emily Holland, Aaron Stein, Robert Beck, Hadas Aron, Jakub Romaniuk<br>East Shield: Poland’s Role in Defendi<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.fpri.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.fpri.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:18 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Urban Institute --United States] Driving impact by equipping changemakers with evidence and solutions. | Urban Institute]]></title>
+      <link>https://www.urban.org</link>
+      <description><![CDATA[The Urban Institute,
+SisterSong Women of Color Reproductive Justice Collective
+, and the
+University of Wisconsin–Madison
+are working together to rigorously assess how
+Dobbs
+has affected the broader re...]]></description>
+      <content:encoded><![CDATA[<div><p>The Urban Institute,<br>SisterSong Women of Color Reproductive Justice Collective<br>, and the<br>University of Wisconsin–Madison<br>are working together to rigorously assess how<br>Dobbs<br>has affected the broader reproductive health access and experiences, health outcomes, and social and economic well-being of women and other people who can get pregnant—especially for those from marginalized communities,<br>who are likely disproportionately affected<br>.<br>As AI changes how we work, policymakers can help connect workers with skills and employment, enhance job quality, protect workers’ financial security, and ensure that innovation benefits workers and drives inclusive economic growth.<br>The 21st Century ROAD to Housing Act represents a true bipartisan investment in housing affordability, but now federal agencies need the funding and the staff to make it a reality.<br>The next transportation reauthorization law will reshape federal transportation spending for years to come.<br>Despite concerns about the economy and their personal finances, many young adults are optimistic about their financial futures and are using both traditional and speculative financial strategies to build wealth and plan for the future.<br>Spotlight on Housing<br>Brief<br>How a National Housing Strategy Could Help Make Homeownership Possible<br>Summary<br>The ROAD to Housing Act<br>Research Report<br>A Road Map for Affordable and Stable Housing for All<br>Headline<br>In Conversation<br>Body<br>AI and the Future of the American Workforce<br>This commission … [will] map a <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.urban.org' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.urban.org</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:18 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Center for Global Development (CGD) --United States] Just a moment...]]></title>
+      <link>https://www.cgdev.org/</link>
+      <description><![CDATA[Enable JavaScript and cookies to continue...]]></description>
+      <content:encoded><![CDATA[<div><p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='https://www.cgdev.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.cgdev.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:18 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Pew Research Center --United States] How Americans Are Engaged With News, Politics, Religion and Civic Life]]></title>
+      <link>http://www.pewresearch.org/</link>
+      <description><![CDATA[report
+Jul 15, 2026
+People in Many Countries Now View China More Positively Than the U.S....]]></description>
+      <content:encoded><![CDATA[<div><p>report<br>Jul 15, 2026<br>People in Many Countries Now View China More Positively Than the U.S.</p><br><hr><p><a href='http://www.pewresearch.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.pewresearch.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Americans for Tax Reform (ATR) --United States] Commentary]]></title>
+      <link>https://www.atr.org/</link>
+      <description><![CDATA[Scalise is Right to Call for More Tax Cuts with Reconciliation 4.0
+Scalise is Right to Call for More Tax Cuts with Reconciliation 4.0
+House Majority Leader Steve Scalise (R-La.) called for an addition...]]></description>
+      <content:encoded><![CDATA[<div><p>Scalise is Right to Call for More Tax Cuts with Reconciliation 4.0<br>Scalise is Right to Call for More Tax Cuts with Reconciliation 4.0<br>House Majority Leader Steve Scalise (R-La.) called for an additional reconciliation bill focused on tax policy last week, telling Politico that Republican leadership…<br>Mike Palicz<br>07/20/2026</p><br><hr><p><a href='https://www.atr.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.atr.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Acton Institute for the Study of Religion and Liberty --United States] Promoting a Free and Virtuous Society]]></title>
+      <link>https://acton.org</link>
+      <description><![CDATA[Events
+Upcoming Events
+These are the latest Acton Institute events. Check back often for new updates.
+View Full Event Schedule
+July 23, 2026
+12:00pm
+Lecture series
+The Faith and Traditions That Shaped...]]></description>
+      <content:encoded><![CDATA[<div><p>Events<br>Upcoming Events<br>These are the latest Acton Institute events. Check back often for new updates.<br>View Full Event Schedule<br>July 23, 2026<br>12:00pm<br>Lecture series<br>The Faith and Traditions That Shaped America: Protestantism, the Classical World, and English Common Law<br>August 7, 2026<br>3:30pm<br>Acton Experience Brasil<br>The Acton Institute is bringing the distinctive spirit of its flagship global conference, Acton University, to Brazil once again. On August<br>Read more »<br>September 30, 2026<br>5:30pm<br>2026 Pittsburgh Dinner<br>This year’s keynote will be delivered by Dr. Anthony Bradley, who will offer a clear-eyed, hopeful talk titled: “Strengthening Fathers<br>Read more »</p><br><hr><p><a href='https://acton.org' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://acton.org</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Center on International Cooperation --United States] ]]></title>
+      <link>https://cic.nyu.edu</link>
+      <description><![CDATA[Press Release
+February 27, 2026
+NYU Center on International Cooperation at 30 to Join NYU Wagner Graduate School of Public Service
+CIC is joining the Robert F. Wagner Graduate School of Public Service...]]></description>
+      <content:encoded><![CDATA[<div><p>Press Release<br>February 27, 2026<br>NYU Center on International Cooperation at 30 to Join NYU Wagner Graduate School of Public Service<br>CIC is joining the Robert F. Wagner Graduate School of Public Service after a long and constructive tenure at NYU Arts & Science. This strategic transition to a prominent graduate school of public service, founded in 1938, will facilitate mutually productive CIC-Wagner engagement and support CIC in broadening its mission and strengthening its influence in the New York and global public service communities.<br>Thibault Chareton</p><br><hr><p><a href='https://cic.nyu.edu' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://cic.nyu.edu</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:19 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Advocates Coalition for Development (CGD) --United States] Women Empowerment]]></title>
+      <link>https://www.acode-u.org</link>
+      <description><![CDATA[We are an independent public policy research and advocacy think tank based in Uganda, working in the East and Southern Africa sub-regions on a range of public policy issues. Our core business is publi...]]></description>
+      <content:encoded><![CDATA[<div><p>We are an independent public policy research and advocacy think tank based in Uganda, working in the East and Southern Africa sub-regions on a range of public policy issues. Our core business is public policy research and analysis, policy outreach and capacity building. Recognised among the Top-100 Think Tanks worldwide in 2017 Global Think Tank Index published by the University of Pennsylvania. Since its founding 22 years ago, ACODE has emerged as one of the leading regional public policy think tanks in Sub-Saharan Africa.<br>As an independent organisation, ACODE does not align with any political party or political organisation. However, given the direct relationship between development policy and politics, we believe that our work is political and it must stand for certain political causes of a bi-partisan nature.<br>Learn more</p><br><hr><p><a href='https://www.acode-u.org' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.acode-u.org</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[James A. Baker III Institute for Public Policy --United States] Just a moment...]]></title>
+      <link>http://www.bakerinstitute.org/</link>
+      <description><![CDATA[Enable JavaScript and cookies to continue...]]></description>
+      <content:encoded><![CDATA[<div><p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://www.bakerinstitute.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.bakerinstitute.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Development Research Group --United States] Development Economics]]></title>
+      <link>http://www.worldbank.org/en/about/unit/unit-dec#4</link>
+      <description><![CDATA[Who We Are
+Organizational Units
+Development Economics
+Overview
+About
+People
+Topics
+Publications
+Events
+Select a EDS Sub navigation page
+selecting option, leaving this page
+Overview
+Overview
+About
+Peop...]]></description>
+      <content:encoded><![CDATA[<div><p>Who We Are<br>Organizational Units<br>Development Economics<br>Overview<br>About<br>People<br>Topics<br>Publications<br>Events<br>Select a EDS Sub navigation page<br>selecting option, leaving this page<br>Overview<br>Overview<br>About<br>People<br>Topics<br>Publications<br>Events<br>Report<br>Industrial Policy for Development<br>Amidst slower global growth, a shifting labor market, and rising protectionism, governments around the world are increasingly turning to a once controversial policy. Industrial policy—the range of policy tools governments use to shape what an economy produces, rather than leaving it to markets alone—is back with a vengeance.<br>Download the Report<br>Download the Report<br>Report<br>Women, Business and the Law<br>The World Bank Group’s Women, Business and the Law (WBL) is a global benchmarking project that measures how laws, regulations, and policies shape women’s economic opportunities and private sector development across 190 economies. WBL data and analysis guide countries in identifying opportunities for reforms that unlock women’s economic potential and drive job creation and economic growth.<br>Report<br>Global Economic Prospects, January 2026<br>The global economy has shown notable resilience to heightened trade tensions and policy uncertainty. Last year’s faster-than-expected pace of growth capped a recovery from the 2020 recession unmatched in six decades, even if vulnerable emerging market and developing economies are lagging behind.<br>Explore the Data<br>Report<br>World Development Report<br>Standards make everyday life run smoothly.<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.worldbank.org/en/about/unit/unit-dec#4' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.worldbank.org/en/about/unit/unit-dec#4</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Congressional Research Service --United States] Congressional Research Service Careers]]></title>
+      <link>https://www.loc.gov/crsinfo/</link>
+      <description><![CDATA[skip navigation
+Congressional Research Service
+Careers
+Ask a Librarian
+Digital Collections
+Library Catalogs
+Search
+GO
+The Library of Congress
+> Congressional Research Service Careers
+Congressional Res...]]></description>
+      <content:encoded><![CDATA[<div><p>skip navigation<br>Congressional Research Service<br>Careers<br>Ask a Librarian<br>Digital Collections<br>Library Catalogs<br>Search<br>GO<br>The Library of Congress<br>> Congressional Research Service Careers<br>Congressional Research Service Careers Image<br>CRS Careers Home<br>About CRS<br>Areas of Research<br>Career Opportunities<br>Contact Us<br>Congressional Research Service Careers<br>The Congressional Research Service (CRS) works exclusively for the United States Congress, providing policy and legal analysis to committees and Members of both the House and Senate, regardless of party affiliation. As a legislative branch agency within the Library of Congress, CRS has been a valued and respected resource on Capitol Hill for more than a century.<br>CRS is well-known for analysis that is authoritative, confidential, objective and nonpartisan. Its highest priority is to ensure that Congress has 24/7 access to the nation’s best thinking.<br>This website provides information about our organization, career opportunities and our services to Congress.<br>To  access CRS reports, visit<br>https://www.congress.gov/crs-products<br>.<br>Current Vacancies<br>Learn about other<br>career opportunities<br>.<br>Connect with the Library<br>All ways to connect<br>Find Us On<br>Subscribe & Comment<br>RSS & E-Mail<br>Blogs<br>Download & Play<br>Apps<br>Podcasts<br>Webcasts<br>iTunesU<br>(external link)<br>Questions<br>Ask a Librarian<br>Contact Us<br>About<br>|<br>Press<br>|<br>Jobs<br>|<br>Donate<br>Inspector General<br>|<br>Legal<br>|<br>Accessibility<br>|<br>External Link Disclaimer<br>|<br>USA.gov<br>Speech Enabled</p><br><hr><p><a href='https://www.loc.gov/crsinfo/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.loc.gov/crsinfo/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[World Bank Institute (WBI) --United States] OURPRIORITIES]]></title>
+      <link>http://web.worldbank.org/WBSITE/EXTERNAL/WBI/0,,pagePK:208996~theSitePK:213799,00.html</link>
+      <description><![CDATA[Why Women-Owned SMEs Are a Smart Investment
+Why Women-Owned SMEs Are a Smart Investment
+A decade of IFC data shows women-owned businesses outperform on loan repayment — yet remain dramatically underfi...]]></description>
+      <content:encoded><![CDATA[<div><p>Why Women-Owned SMEs Are a Smart Investment<br>Why Women-Owned SMEs Are a Smart Investment<br>A decade of IFC data shows women-owned businesses outperform on loan repayment — yet remain dramatically underfinanced.<br>https://www.ifc.org/en/stories/2026/why-investing-in-women-owned-smes-is-smart-business<br>Read the Story<br>Top<br>eager<br>https://delivery-p136806-e1377844.adobeaemcloud.com/adobe/assets/urn:aaid:aem:52d2acec-389f-4673-a40d-94ed025efbb1/as/Partnerships%20homepage.jpg<br>What's new in the World Development Indicators: July 2026 update<br>blog<br>What's New in the World Development Indicators: July 2026 Update<br>https://blogs.worldbank.org/en/opendata/what-s-new-in-the-world-development-indicators--july-2026-update<br>https://delivery-p136806-e1377844.adobeaemcloud.com/adobe/assets/urn:aaid:aem:52d2acec-389f-4673-a40d-94ed025efbb1/as/Partnerships%20homepage.jpg<br>Energy Security: The Foundation of Job Creation<br>blog<br>Energy Security: The Foundation of Job Creation<br>https://blogs.worldbank.org/en/energy/energy-security--the-foundation-of-job-creation<br>https://delivery-p136806-e1377844.adobeaemcloud.com/adobe/assets/urn:aaid:aem:52d2acec-389f-4673-a40d-94ed025efbb1/as/Partnerships%20homepage.jpg<br>Data as a Commodity: The New Geography of the Cloud Economy<br>blog<br>Data as a Commodity: The New Geography of the Cloud Economy<br>https://blogs.worldbank.org/en/latinamerica/data-as-a-commodity--the-new-geography-of-the-cloud-economy<br>https://delivery-p136806-e1377844.adobeaemcloud.com/adobe/assets/urn:aaid:aem:52d2ace<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://web.worldbank.org/WBSITE/EXTERNAL/WBI/0,,pagePK:208996~theSitePK:213799,00.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://web.worldbank.org/WBSITE/EXTERNAL/WBI/0,,pagePK:208996~theSitePK:213799,00.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Boston Consulting Group (BCG)--United States] Access Denied]]></title>
+      <link>https://www.bcg.com/en-us/default.aspx</link>
+      <description><![CDATA[Access Denied
+You don't have permission to access "http://www.bcg.com/en-us/default.aspx" on this server.
+Reference #18.a4c1c917.1784640020.2c5d360b
+https://errors.edgesuite.net/18.a4c1c917.1784640020...]]></description>
+      <content:encoded><![CDATA[<div><p>Access Denied<br>You don't have permission to access "http://www.bcg.com/en-us/default.aspx" on this server.<br>Reference #18.a4c1c917.1784640020.2c5d360b<br>https://errors.edgesuite.net/18.a4c1c917.1784640020.2c5d360b</p><br><hr><p><a href='https://www.bcg.com/en-us/default.aspx' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.bcg.com/en-us/default.aspx</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:20 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[A.T. Kearney Global Business Policy Council (GBPC) --United States] The Global Business Policy Council (GBPC), part of the Kearney Foresight network, is a leading voice on business environment research and policy. Since its first CEO Retreat in 1992, the Council has provided strategic foresight services for the world's top executives and government officials. Through public-facing thought leadership, exclusive global forums, and advisory services, the Council helps to decipher complex geopolitical, economic, social, and technological shifts. This creates clarity for CEOs and government leaders on key developments and trends, providing immediate impact and lasting advantage.]]></title>
+      <link>https://www.atkearney.com/gbpc</link>
+      <description><![CDATA[Search Bar
+Your industry
+Your industry
+Aerospace and Defense
+Automotive
+Consumer and Retail
+Agriculture and food
+Beauty and personal care
+Beverages
+Fashion and luxury
+Grocery and retail
+Communications...]]></description>
+      <content:encoded><![CDATA[<div><p>Search Bar<br>Your industry<br>Your industry<br>Aerospace and Defense<br>Automotive<br>Consumer and Retail<br>Agriculture and food<br>Beauty and personal care<br>Beverages<br>Fashion and luxury<br>Grocery and retail<br>Communications<br>Energy and Resources<br>Chemicals<br>Metals and Mining<br>Oil and Gas<br>Utilities<br>Financial Services<br>Insurance<br>Payments<br>Healthcare and Life Sciences<br>Biopharma<br>Healthcare<br>MedTech<br>Healthcare and Life Sciences Private Equity<br>Industrial Goods and Services<br>Infrastructure<br>Media<br>Private Equity<br>Technology<br>Public Sector<br>Transportation and Travel<br>Your needs<br>Your needs<br>Services<br>Digital and Analytics<br>Mergers and Acquisitions<br>Operations and Performance<br>Organization<br>Procurement<br>Product Excellence and Renewal Lab (PERLab)<br>Sustainability<br>Strategy and Growth<br>Transformation<br>Global Business Policy Council<br>Impact Networks<br>Kearney Foresight<br>Kearney Innovate<br>Kearney Activate<br>About us<br>About us<br>Who we are<br>100 Years of Impact<br>Our story<br>Your story<br>Culture and values<br>People and leadership<br>Diversity and inclusion<br>Kearney Originals<br>Why Kearney<br>Strategic partnerships<br>Sustainability and social impact<br>Impact Networks<br>Kearney Foresight<br>Kearney Innovate<br>Kearney Activate<br>More<br>Alumni<br>Locations<br>Media<br>Careers<br>Careers<br>Opportunities<br>Life at Kearney<br>Interviewing<br>Search jobs<br>Insights<br>Insights<br>Impact First Newsletter<br>Podcasts<br>Books<br>Featured insights<br>Advanced Mobility Institute<br>Geopolitical Dynamics<br>Global Cities Report<br>Global Economic Outlook<br>Global Services Location Index<br>Global Wildcards 2025–2030<br>Kearney Consumer Institute<br>Suppl<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.atkearney.com/gbpc' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.atkearney.com/gbpc</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[PricewaterhouseCoopers (PwC) --United States] PwC US – Audit, assurance, tax and consulting services]]></title>
+      <link>https://www.pwc.com</link>
+      <description><![CDATA[Skip to content
+Skip to footer
+Insights & Research
+Services
+Industries
+Tech & AI
+About PwC
+Careers
+More
+Search
+Menu
+Insights & Research
+Insights & Research
+Featured
+Leadership Center
+Content & media
+C...]]></description>
+      <content:encoded><![CDATA[<div><p>Skip to content<br>Skip to footer<br>Insights & Research<br>Services<br>Industries<br>Tech & AI<br>About PwC<br>Careers<br>More<br>Search<br>Menu<br>Insights & Research<br>Insights & Research<br>Featured<br>Leadership Center<br>Content & media<br>Case studies<br>All insights & research<br>Menu<br>Insights & Research<br>Featured<br>The intelligent enterprise<br>America in motion<br>Policy on Demand<br>Viewpoint<br>Tech Effect<br>Industry Edge<br>Governance Insights Center<br>Menu<br>Insights & Research<br>Leadership Center<br>Board of Directors<br>Chief Executive Officer (CEO)<br>Chief Financial Officer (CFO)<br>Chief AI Officer (CAIO)<br>Chief Information Officer (CIO)<br>Chief Information Security Officer (CISO)<br>Chief Marketing Officer (CMO)<br>Chief Operating Officer (COO)<br>Chief Risk Officer (CRO)<br>Chief Legal Officer (CLO)<br>Controller<br>Corporate development<br>Sustainability leader<br>Tax leader<br>Menu<br>Insights & Research<br>Content & media<br>Podcasts<br>Webcasts<br>Menu<br>Insights & Research<br>Case studies<br>Menu<br>Insights & Research<br>All insights & research<br>Spotlight<br>The intelligent enterprise in the age of AI<br>Deals Outlook: the deals built to withstand what's next<br>Medical cost trend: Behind the numbers<br>Menu<br>Services<br>Services<br>Alliances and ecosystems<br>Artificial Intelligence (AI)<br>Audit and assurance<br>Board governance issues<br>Consulting<br>Managed services<br>PwC private<br>Sustainability and ESG<br>Tax services<br>Menu<br>Services<br>Alliances and ecosystems<br>Adobe<br>Amazon Web Services<br>Anthropic<br>Google<br>Guidewire<br>Microsoft<br>OpenAI<br>Oracle<br>Salesforce<br>SAP<br>Workday<br>All alliances<br>Menu<br>Services<br>Artificial Intelligence (AI)<br>Menu<br>Services<br>Audit <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.pwc.com' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.pwc.com</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Eurasia Group --United States] Eurasia Group | Home]]></title>
+      <link>https://www.eurasiagroup.net/</link>
+      <description><![CDATA[In The News
+Who We Are
+Our Story
+Our Values
+Our People
+For the Media
+Contact Us
+What We Do
+Political risk advisory
+Management consulting
+Thought Leadership
+Speaking
+Events
+日本語
+ユーラシアグループについて · 概要
+ニュース ...]]></description>
+      <content:encoded><![CDATA[<div><p>In The News<br>Who We Are<br>Our Story<br>Our Values<br>Our People<br>For the Media<br>Contact Us<br>What We Do<br>Political risk advisory<br>Management consulting<br>Thought Leadership<br>Speaking<br>Events<br>日本語<br>ユーラシアグループについて · 概要<br>ニュース · メディア<br>サービス<br>お問い合わせ<br>Careers<br>Client Portal<br>SEARCH<br>Politics First<br>Atlas of Impunity: Erosion of Press Freedom is Biggest Driver of Worsening Global Accountability Over Last Five Years<br>Politics First<br>What’s the #1 geopolitical concern for 2026? Read the Top Risks report<br>Politics First<br>Ian Bremmer's 2025 State of the World speech<br>Politics First<br>Eurasia Group helps clients navigate political risks in an uncertain world. Read our story.<br>what are you<br>looking for?<br>Expertise<br>Speakers<br>Get Smart<br>Get In Touch<br>SUBSCRIBE TO GZERO DAILY<br>Sign up now for GZERO Daily, the newsletter for anyone interested in global politics, published by GZERO Media.<br>I have read, understand and consent to the<br>Privacy Policy<br>and<br>Terms of Use<br>, including the transfer of my personal data to the United States from my country of residence (if different).<br>Politics First<br>Latest from Eurasia Group:<br>Top Risks 2026<br>Read the risks<br>Twitter<br>Facebook<br>LinkedIn<br>RSS<br>Home<br>Contact Us<br>Client Portal<br>Subscribe<br>Site Map<br>Privacy Policy<br>Accessibility<br>Terms Of Use<br>© Eurasia Group 2026. Any copying or distribution of Eurasia Group materials is prohibited.<br>Site by<br>Odgis+Co<br>and<br>ICVM Hawk<br>.<br>We have updated our<br>Privacy Policy<br>and<br>Terms of Use<br>for Eurasia Group and its affiliates to clarify the types of data we collect, how we collect it, how we u<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.eurasiagroup.net/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.eurasiagroup.net/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:21 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Cato Institute --United States] The Third Reconciliation Bill Is a Big Missed Opportunity]]></title>
+      <link>https://www.cato.org/</link>
+      <description><![CDATA[blog
+Is Congress Really Going to Give President Trump New Tariff Powers?
+By
+Clark Packard
+Policymakers should debate the merits of Russia sanctions, but it would be a colossal mistake to delegate
+more...]]></description>
+      <content:encoded><![CDATA[<div><p>blog<br>Is Congress Really Going to Give President Trump New Tariff Powers?<br>By<br>Clark Packard<br>Policymakers should debate the merits of Russia sanctions, but it would be a colossal mistake to delegate<br>more<br>of Congress’ Article I tariff powers to President Trump.</p><br><hr><p><a href='https://www.cato.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.cato.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:22 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[8. Resources for the Future (RFF) --United States] Advancing a Healthy Environment and a Thriving Economy]]></title>
       <link>http://www.rff.org/</link>
-      <description><![CDATA[<p>RFF<br>my<br>Resources for the Future Home<br>Menu<br>Toggle menu<br>About<br>About Us<br>Our Team<br>Supporters<br>Careers<br>Partnerships<br>Back<br>Research<br>Publications<br>Issue Briefs<br>Data and Decision Tools<br>Topics<br>Researchers<br>Back<br>Insights<br>Common Resources blog<br>If/Then Policy Analysis<br>Resources Radio podcast<br>Resources Magazine articles<br>In Focus<br>Explainers<br>Back<br>Impact<br>Newsroom<br>Impact Stories<br>2025 Annual Report<br>Founders’ Day 2025<br>Support Our Work<br>Make a Gift to RFF<br>Back<br>Events<br>Resources Magazine<br>Search<br>Donate<br>Resources Magazine<br>Toggle site search<br>Donate<br>About<br>About Us<br>Our Team<br>Supporters<br>Careers<br>Partnerships<br>Back<br>Research<br>Publications<br>Issue Briefs<br>Data and Decision Tools<br>Topics<br>Researchers<br>Back<br>Insights<br>Common Resources blog<br>If/Then Policy Analysis<br>Resources Radio podcast<br>Resources Magazine articles<br>In Focus<br>Explainers<br>Back<br>Impact<br>Newsroom<br>Impact Stories<br>2025 Annual Report<br>Founders’ Day 2025<br>Support Our Work<br>Make a Gift to RFF<br>Back<br>Events<br>Resources Magazine<br>Search<br>Donate<br>Advancing a Healthy Environment and a Thriving Economy<br>The latest<br>The Affordability Data Tool<br>Explore  how Virginia’s re-entry into the Regional Greenhouse Gas Initiative may impact electricity prices.<br>A Detailed Response to the Proposed Regulation for Federal Financial Assistance<br>This public comment analyzes the implications of a proposed rule for merit-based peer review and research transparency.<br>Blog Post<br>        — July 9, 2026<br>Gas Prices Went Up, and US Households Mostly Chose Hybrid Vehicles<br>Resources Radio<br>        — July 7, 2026<br>Creating<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.rff.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.rff.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:20 +0800</pubDate>
+      <description><![CDATA[RFF
+my
+Resources for the Future Home
+Menu
+Toggle menu
+About
+About Us
+Our Team
+Supporters
+Careers
+Partnerships
+Back
+Research
+Publications
+Issue Briefs
+Data and Decision Tools
+Topics
+Researchers
+Back
+In...]]></description>
+      <content:encoded><![CDATA[<div><p>RFF<br>my<br>Resources for the Future Home<br>Menu<br>Toggle menu<br>About<br>About Us<br>Our Team<br>Supporters<br>Careers<br>Partnerships<br>Back<br>Research<br>Publications<br>Issue Briefs<br>Data and Decision Tools<br>Topics<br>Researchers<br>Back<br>Insights<br>Common Resources blog<br>If/Then Policy Analysis<br>Resources Radio podcast<br>Resources Magazine articles<br>In Focus<br>Explainers<br>Back<br>Impact<br>Newsroom<br>Impact Stories<br>2025 Annual Report<br>Founders’ Day 2025<br>Support Our Work<br>Make a Gift to RFF<br>Back<br>Events<br>Resources Magazine<br>Search<br>Donate<br>Resources Magazine<br>Toggle site search<br>Donate<br>About<br>About Us<br>Our Team<br>Supporters<br>Careers<br>Partnerships<br>Back<br>Research<br>Publications<br>Issue Briefs<br>Data and Decision Tools<br>Topics<br>Researchers<br>Back<br>Insights<br>Common Resources blog<br>If/Then Policy Analysis<br>Resources Radio podcast<br>Resources Magazine articles<br>In Focus<br>Explainers<br>Back<br>Impact<br>Newsroom<br>Impact Stories<br>2025 Annual Report<br>Founders’ Day 2025<br>Support Our Work<br>Make a Gift to RFF<br>Back<br>Events<br>Resources Magazine<br>Search<br>Donate<br>Advancing a Healthy Environment and a Thriving Economy<br>The latest<br>The Affordability Data Tool<br>Explore  how Virginia’s re-entry into the Regional Greenhouse Gas Initiative may impact electricity prices.<br>A Detailed Response to the Proposed Regulation for Federal Financial Assistance<br>This public comment analyzes the implications of a proposed rule for merit-based peer review and research transparency.<br>Blog Post<br>        — July 9, 2026<br>Gas Prices Went Up, and US Households Mostly Chose Hybrid Vehicles<br>Resources Radio<br>        — July 7, 2026<br>Creating<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.rff.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.rff.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:13 +0800</pubDate>
     </item>
     <item>
-      <title>[9. Kaiser Permanente Institute for Health Policy (KPIHP) --United States] Health policy topics</title>
+      <title><![CDATA[[1. Bloomberg School of Public Health Research Centers (JHSPH) --United States] Sorry, you have been blocked]]></title>
+      <link>https://www.jhsph.edu/</link>
+      <description><![CDATA[Please enable cookies.
+Sorry, you have been blocked
+You are unable to access
+publichealth.jhu.edu
+Why have I been blocked?
+This website is using a security service to protect itself from online attack...]]></description>
+      <content:encoded><![CDATA[<div><p>Please enable cookies.<br>Sorry, you have been blocked<br>You are unable to access<br>publichealth.jhu.edu<br>Why have I been blocked?<br>This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.<br>What can I do to resolve this?<br>You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.<br>Cloudflare Ray ID:<br>a1ea81efb93d9dfc<br>•<br>Your IP:<br>Click to reveal<br>20.171.127.99<br>•<br>Performance & security by<br>Cloudflare</p><br><hr><p><a href='https://www.jhsph.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.jhsph.edu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:14 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[9. Kaiser Permanente Institute for Health Policy (KPIHP) --United States] Health policy topics]]></title>
       <link>https://www.kpihp.org/</link>
-      <description><![CDATA[<p>Our mission is to shape policy and practice with evidence and experience from the nation’s largest private integrated health care delivery and financing organization.<br>What is Kaiser Permanente’s different approach to prescription drugs?<br>At Kaiser Permanente we have different approach to prescription drugs that makes drugs better, safer and more affordable.<br>Learn more<br>Care Without Delay<br>Across all Kaiser Permanente regions, Care Without Delay has reduced length of stay, emergency department wait times, and hospital readmissions – ensuring members receive the right care at the right time.<br>Publications<br>The Institute for Health Policy highlights approaches that can promote accessible, equitable, high-quality care and cultivate healthy communities. We partner with experts from a variety of backgrounds to identify, analyze, and discuss promising approaches.<br>The value of coverage: treating and preventing type 2 diabetes<br>Health coverage is essential to prevent and manage type 2 diabetes and ensuring better health outcomes.<br>The value of coverage: hypertension and cardiovascular diseases<br>Health coverage is essential to prevent and manage hypertension and cardiovascular conditions.<br>View all publications<br>Get updates<br>Health policy topics<br>Our<br>issue areas<br>reflect current and emerging health policy topics that impact Kaiser Permanente, our membership, and the communities we serve. We convene experts to share knowledge, spark discourse, and advance collective thinking on topics of critical im<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.kpihp.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.kpihp.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:20 +0800</pubDate>
+      <description><![CDATA[Our mission is to shape policy and practice with evidence and experience from the nation’s largest private integrated health care delivery and financing organization.
+What is Kaiser Permanente’s diffe...]]></description>
+      <content:encoded><![CDATA[<div><p>Our mission is to shape policy and practice with evidence and experience from the nation’s largest private integrated health care delivery and financing organization.<br>What is Kaiser Permanente’s different approach to prescription drugs?<br>At Kaiser Permanente we have different approach to prescription drugs that makes drugs better, safer and more affordable.<br>Learn more<br>Care Without Delay<br>Across all Kaiser Permanente regions, Care Without Delay has reduced length of stay, emergency department wait times, and hospital readmissions – ensuring members receive the right care at the right time.<br>Publications<br>The Institute for Health Policy highlights approaches that can promote accessible, equitable, high-quality care and cultivate healthy communities. We partner with experts from a variety of backgrounds to identify, analyze, and discuss promising approaches.<br>The value of coverage: treating and preventing type 2 diabetes<br>Health coverage is essential to prevent and manage type 2 diabetes and ensuring better health outcomes.<br>The value of coverage: hypertension and cardiovascular diseases<br>Health coverage is essential to prevent and manage hypertension and cardiovascular conditions.<br>View all publications<br>Get updates<br>Health policy topics<br>Our<br>issue areas<br>reflect current and emerging health policy topics that impact Kaiser Permanente, our membership, and the communities we serve. We convene experts to share knowledge, spark discourse, and advance collective thinking on topics of critical im<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.kpihp.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.kpihp.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:14 +0800</pubDate>
     </item>
     <item>
-      <title>[5. Center for Education Policy, SRI International --United States] News and stories</title>
-      <link>https://www.sri.com/</link>
-      <description><![CDATA[<p>Skip to content<br>Research<br>Advanced Technology & Systems<br>Biosciences<br>Education<br>Information & Computing Sciences<br>Integrated Systems & Solutions<br>Commercialization<br>Commercial R&D<br>Ventures<br>Center for Innovation, Strategy & Policy<br>Nomura-SRI Innovation Center<br>About<br>People<br>News & Stories<br>Events<br>Our History<br>Contact<br>Innovating In<br>AI<br>Climate & sustainability<br>The future of education & work<br>Health<br>Quantum<br>Security<br>Space<br>Careers<br>日本支社<br>Research<br>Advanced Technology & Systems<br>Biosciences<br>Education<br>Information & Computing Sciences<br>Integrated Systems & Solutions<br>Commercialization<br>Commercial R&D<br>Ventures<br>Center for Innovation, Strategy & Policy<br>Nomura-SRI Innovation Center<br>About<br>People<br>News & Stories<br>Events<br>Our History<br>Contact<br>Innovating In<br>AI<br>Climate & sustainability<br>The future of education & work<br>Health<br>Quantum<br>Security<br>Space<br>Careers<br>日本支社<br>Search sri.com<br>We create and deliver world-changing solutions for a safer, healthier, and more sustainable future.<br>A global leader in R&D with deep roots in Silicon Valley, SRI is an independent nonprofit research institute with a rich history of supporting government and industry. For almost 80 years, we have collaborated across technical and scientific disciplines to discover and develop groundbreaking products and technologies and bring innovations and ideas to the marketplace.<br>Innovating in<br>AI<br>Climate & sustainability<br>The future of education & work<br>Health<br>Quantum<br>Security<br>Space<br>News and stories<br>All Stories<br>Tackling quantum scalability with NIST-backed QMEC<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.sri.com/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.sri.com/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:21 +0800</pubDate>
-    </item>
-    <item>
-      <title>[9. Council on Foreign Relations, Global Health Program (CFR) --United States] Error 404 | Council on Foreign Relations</title>
+      <title><![CDATA[[9. Council on Foreign Relations, Global Health Program (CFR) --United States] Error 404 | Council on Foreign Relations]]></title>
       <link>http://www.cfr.org/projects/world/global-health-program/pr1240</link>
-      <description><![CDATA[<p>Error 404 | Council on Foreign Relations</p><br><hr><p><a href='http://www.cfr.org/projects/world/global-health-program/pr1240' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.cfr.org/projects/world/global-health-program/pr1240</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:21 +0800</pubDate>
+      <description><![CDATA[Error 404 | Council on Foreign Relations...]]></description>
+      <content:encoded><![CDATA[<div><p>Error 404 | Council on Foreign Relations</p><br><hr><p><a href='http://www.cfr.org/projects/world/global-health-program/pr1240' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.cfr.org/projects/world/global-health-program/pr1240</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:14 +0800</pubDate>
     </item>
     <item>
-      <title>[9. Center for Education Policy Research (CEPR) --United States] Access Denied</title>
+      <title><![CDATA[[9. Center for Education Policy Research (CEPR) --United States] Access Denied]]></title>
       <link>http://cepr.harvard.edu/</link>
-      <description><![CDATA[<p>Access Denied<br>You don't have permission to access "http://cepr.harvard.edu/" on this server.<br>Reference #18.b1332e17.1784639781.6253ad5<br>https://errors.edgesuite.net/18.b1332e17.1784639781.6253ad5</p><br><hr><p><a href='http://cepr.harvard.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://cepr.harvard.edu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:21 +0800</pubDate>
+      <description><![CDATA[Access Denied
+You don't have permission to access "http://cepr.harvard.edu/" on this server.
+Reference #18.3bc1c917.1784640074.1315bcf3
+https://errors.edgesuite.net/18.3bc1c917.1784640074.1315bcf3...]]></description>
+      <content:encoded><![CDATA[<div><p>Access Denied<br>You don't have permission to access "http://cepr.harvard.edu/" on this server.<br>Reference #18.3bc1c917.1784640074.1315bcf3<br>https://errors.edgesuite.net/18.3bc1c917.1784640074.1315bcf3</p><br><hr><p><a href='http://cepr.harvard.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://cepr.harvard.edu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:14 +0800</pubDate>
     </item>
     <item>
-      <title>[6. Mathematica Policy Research (MPR) --United States] Integrated expertise. Advanced analytics. Better outcomes.</title>
-      <link>https://mathematica-mpr.com/</link>
-      <description><![CDATA[<p>Integrated expertise. Advanced analytics. Better outcomes.<br>Organizations rely on Mathematica to connect data, technology, and policy expertise. We provide solutions that support timely decisions, deliver real-world results, and improve public well-being.<br>Solve Complex Challenges<br>See Real-World Impact</p><br><hr><p><a href='https://mathematica-mpr.com/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://mathematica-mpr.com/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:21 +0800</pubDate>
-    </item>
-    <item>
-      <title>[10. Center for Education Policy Analysis (CEPA) --United States] School Performance, Accountability and Waiver Reforms: Evidence from Louisiana</title>
+      <title><![CDATA[[10. Center for Education Policy Analysis (CEPA) --United States] School poverty—not racial composition—limits educational opportunity]]></title>
       <link>http://cepa.stanford.edu/</link>
-      <description><![CDATA[<p>Journal Articles<br>The moderating effect of neighborhood poverty on preschool effectiveness: Evidence from the Tennessee Voluntary Prekindergarten Experiment<br>Francis A. Pearman<br>2019<br>Working Papers<br>Uneven Progress: Recent Trends in Academic Performance Among U.S. School Districts<br>Kaylee T. Matheny<br>,<br>Marissa E. Thompson<br>,<br>Carrie Townley-Flores<br>,<br>sean f. reardon<br>2022<br>Download 10/2022<br>Journal Articles<br>Unmet Need: Evaluating Pell as a Lever for Equitable Dual Enrollment Participation and Outcomes<br>Eric P. Bettinger<br>,<br>Amanda Lu<br>,<br>Kaylee T. Matheny<br>,<br>Gregory S. Kienzl<br>2022<br>Working Papers<br>It is Surprisingly Difficult to Measure Income Segregation<br>Josh Leung-Gagne<br>,<br>sean f. reardon<br>2022<br>See More Research in Poverty and Inequality →</p><br><hr><p><a href='http://cepa.stanford.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://cepa.stanford.edu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:22 +0800</pubDate>
+      <description><![CDATA[Journal Articles
+The moderating effect of neighborhood poverty on preschool effectiveness: Evidence from the Tennessee Voluntary Prekindergarten Experiment
+Francis A. Pearman
+2019
+Working Papers
+Uneve...]]></description>
+      <content:encoded><![CDATA[<div><p>Journal Articles<br>The moderating effect of neighborhood poverty on preschool effectiveness: Evidence from the Tennessee Voluntary Prekindergarten Experiment<br>Francis A. Pearman<br>2019<br>Working Papers<br>Uneven Progress: Recent Trends in Academic Performance Among U.S. School Districts<br>Kaylee T. Matheny<br>,<br>Marissa E. Thompson<br>,<br>Carrie Townley-Flores<br>,<br>sean f. reardon<br>2022<br>Download 10/2022<br>Journal Articles<br>Unmet Need: Evaluating Pell as a Lever for Equitable Dual Enrollment Participation and Outcomes<br>Eric P. Bettinger<br>,<br>Amanda Lu<br>,<br>Kaylee T. Matheny<br>,<br>Gregory S. Kienzl<br>2022<br>Working Papers<br>It is Surprisingly Difficult to Measure Income Segregation<br>Josh Leung-Gagne<br>,<br>sean f. reardon<br>2022<br>See More Research in Poverty and Inequality →</p><br><hr><p><a href='http://cepa.stanford.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://cepa.stanford.edu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:15 +0800</pubDate>
     </item>
     <item>
-      <title>[5. John Hopkins Water Institute – U.S.] Sorry, you have been blocked</title>
+      <title><![CDATA[[5. Center for Education Policy, SRI International --United States] News and stories]]></title>
+      <link>https://www.sri.com/</link>
+      <description><![CDATA[Skip to content
+Research
+Advanced Technology & Systems
+Biosciences
+Education
+Information & Computing Sciences
+Integrated Systems & Solutions
+Commercialization
+Commercial R&D
+Ventures
+Center for Innova...]]></description>
+      <content:encoded><![CDATA[<div><p>Skip to content<br>Research<br>Advanced Technology & Systems<br>Biosciences<br>Education<br>Information & Computing Sciences<br>Integrated Systems & Solutions<br>Commercialization<br>Commercial R&D<br>Ventures<br>Center for Innovation, Strategy & Policy<br>Nomura-SRI Innovation Center<br>About<br>People<br>News & Stories<br>Events<br>Our History<br>Contact<br>Innovating In<br>AI<br>Climate & sustainability<br>The future of education & work<br>Health<br>Quantum<br>Security<br>Space<br>Careers<br>日本支社<br>Research<br>Advanced Technology & Systems<br>Biosciences<br>Education<br>Information & Computing Sciences<br>Integrated Systems & Solutions<br>Commercialization<br>Commercial R&D<br>Ventures<br>Center for Innovation, Strategy & Policy<br>Nomura-SRI Innovation Center<br>About<br>People<br>News & Stories<br>Events<br>Our History<br>Contact<br>Innovating In<br>AI<br>Climate & sustainability<br>The future of education & work<br>Health<br>Quantum<br>Security<br>Space<br>Careers<br>日本支社<br>Search sri.com<br>We create and deliver world-changing solutions for a safer, healthier, and more sustainable future.<br>A global leader in R&D with deep roots in Silicon Valley, SRI is an independent nonprofit research institute with a rich history of supporting government and industry. For almost 80 years, we have collaborated across technical and scientific disciplines to discover and develop groundbreaking products and technologies and bring innovations and ideas to the marketplace.<br>Innovating in<br>AI<br>Climate & sustainability<br>The future of education & work<br>Health<br>Quantum<br>Security<br>Space<br>News and stories<br>All Stories<br>Tackling quantum scalability with NIST-backed QMEC<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.sri.com/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.sri.com/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:15 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[5. John Hopkins Water Institute – U.S.] Sorry, you have been blocked]]></title>
       <link>https://ehe.jhu.edu/water/</link>
-      <description><![CDATA[<p>Please enable cookies.<br>Sorry, you have been blocked<br>You are unable to access<br>publichealth.jhu.edu<br>Why have I been blocked?<br>This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.<br>What can I do to resolve this?<br>You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.<br>Cloudflare Ray ID:<br>a1ea7acf6b06179d<br>•<br>Your IP:<br>Click to reveal<br>132.196.82.4<br>•<br>Performance & security by<br>Cloudflare</p><br><hr><p><a href='https://ehe.jhu.edu/water/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://ehe.jhu.edu/water/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:22 +0800</pubDate>
+      <description><![CDATA[Please enable cookies.
+Sorry, you have been blocked
+You are unable to access
+publichealth.jhu.edu
+Why have I been blocked?
+This website is using a security service to protect itself from online attack...]]></description>
+      <content:encoded><![CDATA[<div><p>Please enable cookies.<br>Sorry, you have been blocked<br>You are unable to access<br>publichealth.jhu.edu<br>Why have I been blocked?<br>This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.<br>What can I do to resolve this?<br>You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.<br>Cloudflare Ray ID:<br>a1ea81f9dc25a2b3<br>•<br>Your IP:<br>Click to reveal<br>20.171.127.99<br>•<br>Performance & security by<br>Cloudflare</p><br><hr><p><a href='https://ehe.jhu.edu/water/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://ehe.jhu.edu/water/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:15 +0800</pubDate>
     </item>
     <item>
-      <title>[2. Center for Water-Energy Efficiency, UC Davis – U.S.] Latest News</title>
+      <title><![CDATA[[2. Center for Water-Energy Efficiency, UC Davis – U.S.] Latest News]]></title>
       <link>https://cwee.ucdavis.edu/</link>
-      <description><![CDATA[<p>UCD News Water Leaks<br>NEWS ARTICLE<br>Leaks an Untapped Opportunity for Water Savings:<br>Reducing Leaks a Cost-Effective Way to Save Urban Water Without Draining Utilities<br>SPECIAL WEBINAR 0821<br>SPECIAL WEBINAR: Nov 9th, 2021 10:00 AM<br>WaterWatch Software: A Planning and Management Tool for the Whole Team<br>WATCH VIDEO<br>CostEffective<br>NEW PUBLICATION<br>The Cost-Effectiveness of Energy Savings Through Water Conservation:<br>a Utility-Scale Assessment<br>CostEffective<br>Saving Water Saves Energy and Reduces Greenhouse Gas Emissions<br>UC Davis and LADWP Collaborate on Landmark Energy-Water Conservation Study<br>Latest News<br>1028/2021 | SPECIAL WEBINAR (Nov. 9th, 2021):<br>WaterWatch Software: A Planning and Management Tool for the Whole Team<br>9/20/2021 | New Short paper:<br>A Visual Analytics System for Water Distribution System Optimization<br>8/9/2021 | SPECIAL WEBINAR (August 24, 2021):<br>Evaluating Water Loss Performance Standards – An Economic Leak Loss Reduction Model<br>6/1/2021 | New Publication:<br>Assessing Data Adequacy for Determining Utility-Specific Water Loss Reduction Standards<br>3/4/2021 | New Publication:<br>Estimating Agricultural Groundwater Withdrawals with Energy Data<br>Related Centers and Programs<br>Department of Civil and Environmental Engineering<br>Energy and Efficiency Institute<br>Western Cooling Efficiency Center<br>California Lighting Technology Center<br>World Water Initiative</p><br><hr><p><a href='https://cwee.ucdavis.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://cwee.ucdavis.edu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:22 +0800</pubDate>
+      <description><![CDATA[UCD News Water Leaks
+NEWS ARTICLE
+Leaks an Untapped Opportunity for Water Savings:
+Reducing Leaks a Cost-Effective Way to Save Urban Water Without Draining Utilities
+SPECIAL WEBINAR 0821
+SPECIAL WEBIN...]]></description>
+      <content:encoded><![CDATA[<div><p>UCD News Water Leaks<br>NEWS ARTICLE<br>Leaks an Untapped Opportunity for Water Savings:<br>Reducing Leaks a Cost-Effective Way to Save Urban Water Without Draining Utilities<br>SPECIAL WEBINAR 0821<br>SPECIAL WEBINAR: Nov 9th, 2021 10:00 AM<br>WaterWatch Software: A Planning and Management Tool for the Whole Team<br>WATCH VIDEO<br>CostEffective<br>NEW PUBLICATION<br>The Cost-Effectiveness of Energy Savings Through Water Conservation:<br>a Utility-Scale Assessment<br>CostEffective<br>Saving Water Saves Energy and Reduces Greenhouse Gas Emissions<br>UC Davis and LADWP Collaborate on Landmark Energy-Water Conservation Study<br>Latest News<br>1028/2021 | SPECIAL WEBINAR (Nov. 9th, 2021):<br>WaterWatch Software: A Planning and Management Tool for the Whole Team<br>9/20/2021 | New Short paper:<br>A Visual Analytics System for Water Distribution System Optimization<br>8/9/2021 | SPECIAL WEBINAR (August 24, 2021):<br>Evaluating Water Loss Performance Standards – An Economic Leak Loss Reduction Model<br>6/1/2021 | New Publication:<br>Assessing Data Adequacy for Determining Utility-Specific Water Loss Reduction Standards<br>3/4/2021 | New Publication:<br>Estimating Agricultural Groundwater Withdrawals with Energy Data<br>Related Centers and Programs<br>Department of Civil and Environmental Engineering<br>Energy and Efficiency Institute<br>Western Cooling Efficiency Center<br>California Lighting Technology Center<br>World Water Initiative</p><br><hr><p><a href='https://cwee.ucdavis.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://cwee.ucdavis.edu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:16 +0800</pubDate>
     </item>
     <item>
-      <title>[9. Consortium for Science, Policy, and Outcomes (CSPO) --United States] Just a moment...</title>
+      <title><![CDATA[[9. Consortium for Science, Policy, and Outcomes (CSPO) --United States] Just a moment...]]></title>
       <link>http://cspo.org/</link>
-      <description><![CDATA[<p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://cspo.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://cspo.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:22 +0800</pubDate>
+      <description><![CDATA[Enable JavaScript and cookies to continue...]]></description>
+      <content:encoded><![CDATA[<div><p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://cspo.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://cspo.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:16 +0800</pubDate>
     </item>
     <item>
-      <title>[6. Circle of Blue – U.S.] The Drying American West</title>
-      <link>https://www.circleofblue.org/</link>
-      <description><![CDATA[<p>Legionnaires’ Disease Surfaced 50 Years Ago. It’s Still Killing People.<br>America’s deadliest waterborne illness.<br>The AI Boom Is Prolonging Indiana’s Fossil Fuel Era, With Hidden Costs for Water<br>Forget Western Water War: Local Managers Choose Partnership<br>Circle of Blue Reports<br>Supply<br>Betting on Lake Mead’s Demise<br>An online prediction market offers wagers on a shrinking Lake Mead.<br>Opinion<br>Trump Moves to Open America’s Wildest Forests to the Bulldozer<br>A reckless plan to strip protections from millions of acres of roadless wilderness.<br>Supply<br>U.S. Homes Show Three-Decade Decline in Indoor Water Use<br>Long-term drop in residential use is a federal policy success story.<br>Great Lakes<br>Setting Fires On Purpose to Cut Risk of Catastrophic Wildfires<br>A centuries-old tool for safety.<br>Great Lakes<br>When Forests Burn, Lakes Suffer<br>Severe fires can damage soils, increase runoff, and degrade water quality in remote watersheds.<br>Opinion<br>Ethanol Was Marketed to Help Agriculture. But It Fouled Our Water and Injured Our Health.<br>The value proposition for fuel from corn turned out to be ruinous.<br>Agriculture<br>On Menominee Lakes, Wild Rice Is Coming Back. It Isn’t Easy.<br>New techniques, technology, and persistence make it possible.<br>Infrastructure<br>Broke and On Their Own: Small Water Systems Lose Ground as Federal Support Wavers<br>For systems serving rural and low-income communities, the finances were already precarious.<br>Water Policy<br>Illinois Fails to Pass Landmark Act Requiring ‘Responsible’ Data Center Energy an<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.circleofblue.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.circleofblue.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:22 +0800</pubDate>
+      <title><![CDATA[[6. Mathematica Policy Research (MPR) --United States] Integrated expertise. Advanced analytics. Better outcomes.]]></title>
+      <link>https://mathematica-mpr.com/</link>
+      <description><![CDATA[Integrated expertise. Advanced analytics. Better outcomes.
+Organizations rely on Mathematica to connect data, technology, and policy expertise. We provide solutions that support timely decisions, deli...]]></description>
+      <content:encoded><![CDATA[<div><p>Integrated expertise. Advanced analytics. Better outcomes.<br>Organizations rely on Mathematica to connect data, technology, and policy expertise. We provide solutions that support timely decisions, deliver real-world results, and improve public well-being.<br>Solve Complex Challenges<br>See Real-World Impact</p><br><hr><p><a href='https://mathematica-mpr.com/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://mathematica-mpr.com/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:16 +0800</pubDate>
     </item>
     <item>
-      <title>[10. RAND Corporation --United States] United States</title>
+      <title><![CDATA[[10. RAND Corporation --United States] United States]]></title>
       <link>http://www.rand.org/topics/united-states.html</link>
-      <description><![CDATA[<p>Skip to page content<br>Toggle Menu<br>Site-wide navigation<br>Topics<br>Trending<br>Global Security<br>Middle East<br>China<br>Adolescent Health<br>Artificial Intelligence<br>Topics<br>Children, Families, and Communities<br>Cyber and Data Sciences<br>Education and Literacy<br>Energy and Environment<br>Health, Health Care, and Aging<br>Homeland Security and Public Safety<br>Infrastructure and Transportation<br>International Affairs<br>Law and Business<br>National Security<br>Science and Technology<br>Workers and the Workplace<br>All Topics<br>Research & Commentary<br>Experts<br>About<br>Research Divisions<br>RAND's divisions conduct research on a uniquely broad front for clients around the globe.<br>U.S. research divisions<br>RAND Army Research Division<br>RAND Education, Employment, and Infrastructure<br>RAND Global and Emerging Risks<br>RAND Health<br>RAND Homeland Security Research Division<br>RAND National Security Research Division<br>RAND Project AIR FORCE<br>International research divisions<br>RAND Australia<br>RAND Europe<br>Services & Impact<br>Careers<br>Graduate School<br>Subscribe<br>Give<br>Cart<br>Toggle<br>Search<br>Search terms<br>Submit<br>RAND<br>Topics<br>United States<br>United States<br>United States<br>Related Topics<br>Atlantic States<br>Middle Atlantic States<br>Midwestern States<br>New England<br>North America<br>Northeastern States<br>Northwestern States<br>Pacific Northwest<br>Pacific States<br>Rocky Mountain Region<br>South Atlantic States<br>Southern States<br>Southwestern States<br>United States Virgin Islands<br>More<br>Expert Insights<br>Predicting Disconnection Among American Youth<br>Oct 29, 2025<br>Data Viz<br>Firearm Injury Hospitalizations in America<br>Jun 11, 2<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.rand.org/topics/united-states.html' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.rand.org/topics/united-states.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:23 +0800</pubDate>
+      <description><![CDATA[Skip to page content
+Toggle Menu
+Site-wide navigation
+Topics
+Trending
+Global Security
+Middle East
+China
+Adolescent Health
+Artificial Intelligence
+Topics
+Children, Families, and Communities
+Cyber and D...]]></description>
+      <content:encoded><![CDATA[<div><p>Skip to page content<br>Toggle Menu<br>Site-wide navigation<br>Topics<br>Trending<br>Global Security<br>Middle East<br>China<br>Adolescent Health<br>Artificial Intelligence<br>Topics<br>Children, Families, and Communities<br>Cyber and Data Sciences<br>Education and Literacy<br>Energy and Environment<br>Health, Health Care, and Aging<br>Homeland Security and Public Safety<br>Infrastructure and Transportation<br>International Affairs<br>Law and Business<br>National Security<br>Science and Technology<br>Workers and the Workplace<br>All Topics<br>Research & Commentary<br>Experts<br>About<br>Research Divisions<br>RAND's divisions conduct research on a uniquely broad front for clients around the globe.<br>U.S. research divisions<br>RAND Army Research Division<br>RAND Education, Employment, and Infrastructure<br>RAND Global and Emerging Risks<br>RAND Health<br>RAND Homeland Security Research Division<br>RAND National Security Research Division<br>RAND Project AIR FORCE<br>International research divisions<br>RAND Australia<br>RAND Europe<br>Services & Impact<br>Careers<br>Graduate School<br>Subscribe<br>Give<br>Cart<br>Toggle<br>Search<br>Search terms<br>Submit<br>RAND<br>Topics<br>United States<br>United States<br>United States<br>Related Topics<br>Atlantic States<br>Middle Atlantic States<br>Midwestern States<br>New England<br>North America<br>Northeastern States<br>Northwestern States<br>Pacific Northwest<br>Pacific States<br>Rocky Mountain Region<br>South Atlantic States<br>Southern States<br>Southwestern States<br>United States Virgin Islands<br>More<br>Expert Insights<br>Predicting Disconnection Among American Youth<br>Oct 29, 2025<br>Data Viz<br>Firearm Injury Hospitalizations in America<br>Jun 11, 2<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.rand.org/topics/united-states.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.rand.org/topics/united-states.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:16 +0800</pubDate>
     </item>
     <item>
-      <title>[2. Freedom House --United States] United States</title>
+      <title><![CDATA[[2. Freedom House --United States] United States]]></title>
       <link>https://freedomhouse.org/country/united-states</link>
-      <description><![CDATA[<p></p><br><hr><p><a href='https://freedomhouse.org/country/united-states' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://freedomhouse.org/country/united-states</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:23 +0800</pubDate>
+      <description><![CDATA[...]]></description>
+      <content:encoded><![CDATA[<div><p></p><br><hr><p><a href='https://freedomhouse.org/country/united-states' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://freedomhouse.org/country/united-states</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:16 +0800</pubDate>
     </item>
     <item>
-      <title>[10. Ash Center for Democratic Governance and Innovation --United States] Democracy demands new ideas.</title>
-      <link>https://ash.harvard.edu</link>
-      <description><![CDATA[<p>Ash Center Student Opportunities<br>Additional Resource<br>Ash Center Student Opportunities<br>Aug 6, 2025</p><br><hr><p><a href='https://ash.harvard.edu' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://ash.harvard.edu</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>[3. Natural Resource Governance Institute (NRGI), FKA Revenue Watch Institute --United States] Sorry, you have been blocked</title>
-      <link>http://www.resourcegovernance.org/</link>
-      <description><![CDATA[<p>Please enable cookies.<br>Sorry, you have been blocked<br>You are unable to access<br>resourcegovernance.org<br>Why have I been blocked?<br>This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.<br>What can I do to resolve this?<br>You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.<br>Cloudflare Ray ID:<br>a1ea7ad5e9d6f8d7<br>•<br>Your IP:<br>Click to reveal<br>132.196.82.4<br>•<br>Performance & security by<br>Cloudflare</p><br><hr><p><a href='http://www.resourcegovernance.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.resourcegovernance.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>[8. National Endowment for Democracy (NED) --United States] Captive Nations Week: Honoring the Courage of Those Who Resist Authoritarianism</title>
-      <link>http://www.ned.org/</link>
-      <description><![CDATA[<p>WORLD MOVEMENT FOR DEMOCRACY<br>A network of activists, practitioners, scholars, policy makers, and funders who work<br>READ MORE</p><br><hr><p><a href='http://www.ned.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.ned.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>[9. Center for Public Integrity (CPI) --United States] Home</title>
-      <link>https://www.publicintegrity.org/</link>
-      <description><![CDATA[<p>40 Acres and a Lie<br>Public Integrity’s “40 Acres and a Lie” project is honored by the Philip Meyer Journalism Awards<br>Accountability<br>Inside the scramble to stop the displacement of thousands of California foster children<br>WHO WE ARE<br>The<br>Center for Public Integrity<br>is a nonprofit newsroom investigating inequity and holding powerful interests accountable. Readers like you help us tackle inequity and threats to democracy and equip the public to make change.<br>ABOUT US<br>JOIN THE DISCUSSION<br>Facebook<br>X<br>LinkedIn<br>Instagram<br>TikTok<br>LATEST<br>Unhoused and Undercounted<br>Pennsylvania bill could prevent schools from barring homeless students<br>Health parity<br>Despite efforts to close gap, parity in mental health care remains elusive<br>Who Counts?<br>‘The restrictions are unbelievable’: States target voter registration drives<br>Addressing Anti-Asian Hate<br>Asian students face racism, harassment at school. What would make it stop?<br>Academic Freedom<br>In Idaho, don’t say ‘abortion’?<br>Addressing Anti-Asian Hate<br>Cut off from our past, Chinese American adoptees seek belonging<br>INVESTIGATIONS<br>Unequal Burden<br>State tax collectors push struggling people deeper into hardship<br>States across the country resort to punitive policies that make it harder for people to pay off their tax debt, from license suspensions to less help for low-income residents than the IRS.<br>by<br>Maya Srikrishnan<br>and<br>Ashley Clarke<br>High Courts, High Stakes<br>Not just the Supreme Court: Ethics troubles plague state high courts, too<br>North Carolina’s Supreme Court ch<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.publicintegrity.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.publicintegrity.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>[7. Center for Food Security and the Environment – U.S.] Center on Food Security and the Environment</title>
-      <link>https://fse.fsi.stanford.edu/</link>
-      <description><![CDATA[<p>Center on Food Security and the Environment<br>Center on Food Security and the Environment<br>Addressing critical global issues of hunger, poverty and environmental degradation by generating vital knowledge and policy-relevant solutions<br>Courtesy of the Stanford Woods Institute for the Environment<br>Who We Are<br>Stanford University’s Center on Food Security and the Environment (FSE) addresses critical global issues of hunger, poverty and environmental degradation. Our long-term goals focus on designing new approaches to solving food security’s global challenges by building an evolving research portfolio with a team of experts in relevant scientific, economic, and policy areas. FSE is a joint effort of the<br>Freeman Spogli Institute for International Studies<br>and the<br>Stanford Woods Institute for the Environment<br>.<br>Research<br>A majority of the roughly 800 million hungry people in the world depend on agriculture for their livelihoods. Improving agricultural productivity is central to alleviating hunger. We seek to generate solutions that address feeding the world without destroying the environment in the process.<br>Learn More<br>Learn More<br>Education<br>We offer courses for graduate and undergraduate students at Stanford interested in issues of hunger, rural development, global resource and environmental degradation, agricultural technology, climate impacts on food security, and agricultural trade and policy.<br>Learn more<br>Learn more<br>Featured Research<br>Achieving global food security in the 21st century requi<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://fse.fsi.stanford.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://fse.fsi.stanford.edu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>[10. World Resources Institute – U.S.] United States</title>
-      <link>https://www.wri.org/geography/united-states</link>
-      <description><![CDATA[<p>United States<br>WRI works at the federal, state and local levels across the United States to develop solutions to the most pressing environmental challenges.<br>As the world’s largest economy and the number-one historical emitter, the U.S. carries enormous influence as to whether climate challenges can be successfully addressed. WRI works at the federal, state, local, and corporate levels to develop solutions to the most pressing environmental challenges. We conduct rigorous, peer-reviewed research and convene stakeholders from the public and private sectors to identify practical solutions.<br>U.S. Climate<br>The United States needs an all-hands-on-deck approach to addressing the climate crisis. WRI is working to advance climate action on all levels of government and in high-emitting sectors to raise climate ambition through policy and economic recovery legislation.<br>U.S. Energy<br>WRI helps states, cities, corporates and other large-buyers accelerate the transition to a clean energy future. WRI focuses on addressing market barriers to clean energy, accelerating the transition to renewable resources and advancing innovative solutions for a low carbon grid.<br>Photo by: Cameron Venti/Unsplash<br>Featured Experts<br>Dan Lashof<br>Senior Fellow<br>Lori Bird<br>U.S. Director, WRI Polsky Energy Center<br>Christina DeConcini<br>Director, Government Affairs<br>Debbie Weyl<br>Deputy Director, WRI United States<br>Devashree Saha<br>Director, U.S. Clean Energy Economy Program, WRI U.S. Polsky Energy Center<br>Harriet Tregoning<br>Director, N<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.wri.org/geography/united-states' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.wri.org/geography/united-states</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:24 +0800</pubDate>
-    </item>
-    <item>
-      <title>[2. Bill &amp; Melinda Gates Foundation – U.S.] Gates Foundation</title>
-      <link>https://www.gatesfoundation.org/</link>
-      <description><![CDATA[<p>Unsupported browser detected<br>Your browser appears to be unsupported. Because of this, portions of the site may not function as intended.<br>Please install a current version of<br>Chrome<br>,<br>Firefox<br>,<br>Edge<br>, or<br>Safari<br>for a better experience.<br>Gates Foundation<br>Our efforts strive toward one goal<br>That every child, no matter where they are born, can reach their full potential.<br>See our three focus areas<br>The road to 2045<br>CEO Mark Suzman pens the foundation's 2026 Annual Letter.<br>Read it here<br>We can't stop at almost<br>2025 marks a heartbreaking milestone: for the first time this century, child deaths are set to rise. But the world has made incredible progress improving children’s health—and we have to keep going.<br>Read the new Goalkeepers report<br>Our mission is to create a world where<br>every<br>person has the opportunity to live a<br>healthy<br>, productive life.<br>Learn more about our role<br>Our<br>work<br>We work with partners around the world to tackle big challenges and improve people’s lives.<br>Learn more about our work<br>Our<br>story<br>For over 25 years, the Gates Foundation has been committed to tackling the greatest inequities in our world.<br>Explore our story<br>How does the work of our partners come to life? How does that work create potential around the world? Watch, read, and experience the stories of good people doing great things that can lead to even greater things.<br>Learn more<br>Ideas<br>Read more Ideas<br>Maternal and child health<br>Economic opportunity<br>Infectious diseases<br>How does a mother’s touch lead to a scientific brea<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.gatesfoundation.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.gatesfoundation.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:24 +0800</pubDate>
-    </item>
-    <item>
-      <title>[7. Cabot Institute, University of Bristol, houses Bristol&#x27;s Water Initiative – U.S.] Collaborate with us</title>
+      <title><![CDATA[[7. Cabot Institute, University of Bristol, houses Bristol's Water Initiative – U.S.] Collaborate with us]]></title>
       <link>http://www.bristol.ac.uk/cabot/</link>
-      <description><![CDATA[<p>Appointment of New Director for Cabot Institute for the Environment<br>11 May 2026</p><br><hr><p><a href='http://www.bristol.ac.uk/cabot/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.bristol.ac.uk/cabot/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:28 +0800</pubDate>
+      <description><![CDATA[Appointment of New Director for Cabot Institute for the Environment
+11 May 2026...]]></description>
+      <content:encoded><![CDATA[<div><p>Appointment of New Director for Cabot Institute for the Environment<br>11 May 2026</p><br><hr><p><a href='http://www.bristol.ac.uk/cabot/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.bristol.ac.uk/cabot/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[3. Natural Resource Governance Institute (NRGI), FKA Revenue Watch Institute --United States] Sorry, you have been blocked]]></title>
+      <link>http://www.resourcegovernance.org/</link>
+      <description><![CDATA[Please enable cookies.
+Sorry, you have been blocked
+You are unable to access
+resourcegovernance.org
+Why have I been blocked?
+This website is using a security service to protect itself from online atta...]]></description>
+      <content:encoded><![CDATA[<div><p>Please enable cookies.<br>Sorry, you have been blocked<br>You are unable to access<br>resourcegovernance.org<br>Why have I been blocked?<br>This website is using a security service to protect itself from online attacks. The action you just performed triggered the security solution. There are several actions that could trigger this block including submitting a certain word or phrase, a SQL command or malformed data.<br>What can I do to resolve this?<br>You can email the site owner to let them know you were blocked. Please include what you were doing when this page came up and the Cloudflare Ray ID found at the bottom of this page.<br>Cloudflare Ray ID:<br>a1ea8201bb91f039<br>•<br>Your IP:<br>Click to reveal<br>20.171.127.99<br>•<br>Performance & security by<br>Cloudflare</p><br><hr><p><a href='http://www.resourcegovernance.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.resourcegovernance.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[10. Ash Center for Democratic Governance and Innovation --United States] Democracy demands new ideas.]]></title>
+      <link>https://ash.harvard.edu</link>
+      <description><![CDATA[Ash Center Student Opportunities
+Additional Resource
+Ash Center Student Opportunities
+Aug 6, 2025...]]></description>
+      <content:encoded><![CDATA[<div><p>Ash Center Student Opportunities<br>Additional Resource<br>Ash Center Student Opportunities<br>Aug 6, 2025</p><br><hr><p><a href='https://ash.harvard.edu' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://ash.harvard.edu</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[8. National Endowment for Democracy (NED) --United States] Captive Nations Week: Honoring the Courage of Those Who Resist Authoritarianism]]></title>
+      <link>http://www.ned.org/</link>
+      <description><![CDATA[WORLD MOVEMENT FOR DEMOCRACY
+A network of activists, practitioners, scholars, policy makers, and funders who work
+READ MORE...]]></description>
+      <content:encoded><![CDATA[<div><p>WORLD MOVEMENT FOR DEMOCRACY<br>A network of activists, practitioners, scholars, policy makers, and funders who work<br>READ MORE</p><br><hr><p><a href='http://www.ned.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.ned.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[7. Center for Food Security and the Environment – U.S.] Center on Food Security and the Environment]]></title>
+      <link>https://fse.fsi.stanford.edu/</link>
+      <description><![CDATA[Center on Food Security and the Environment
+Center on Food Security and the Environment
+Addressing critical global issues of hunger, poverty and environmental degradation by generating vital knowledge...]]></description>
+      <content:encoded><![CDATA[<div><p>Center on Food Security and the Environment<br>Center on Food Security and the Environment<br>Addressing critical global issues of hunger, poverty and environmental degradation by generating vital knowledge and policy-relevant solutions<br>Courtesy of the Stanford Woods Institute for the Environment<br>Who We Are<br>Stanford University’s Center on Food Security and the Environment (FSE) addresses critical global issues of hunger, poverty and environmental degradation. Our long-term goals focus on designing new approaches to solving food security’s global challenges by building an evolving research portfolio with a team of experts in relevant scientific, economic, and policy areas. FSE is a joint effort of the<br>Freeman Spogli Institute for International Studies<br>and the<br>Stanford Woods Institute for the Environment<br>.<br>Research<br>A majority of the roughly 800 million hungry people in the world depend on agriculture for their livelihoods. Improving agricultural productivity is central to alleviating hunger. We seek to generate solutions that address feeding the world without destroying the environment in the process.<br>Learn More<br>Learn More<br>Education<br>We offer courses for graduate and undergraduate students at Stanford interested in issues of hunger, rural development, global resource and environmental degradation, agricultural technology, climate impacts on food security, and agricultural trade and policy.<br>Learn more<br>Learn more<br>Featured Research<br>Achieving global food security in the 21st century requi<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://fse.fsi.stanford.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://fse.fsi.stanford.edu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[10. World Resources Institute – U.S.] United States]]></title>
+      <link>https://www.wri.org/geography/united-states</link>
+      <description><![CDATA[United States
+WRI works at the federal, state and local levels across the United States to develop solutions to the most pressing environmental challenges.
+As the world’s largest economy and the numbe...]]></description>
+      <content:encoded><![CDATA[<div><p>United States<br>WRI works at the federal, state and local levels across the United States to develop solutions to the most pressing environmental challenges.<br>As the world’s largest economy and the number-one historical emitter, the U.S. carries enormous influence as to whether climate challenges can be successfully addressed. WRI works at the federal, state, local, and corporate levels to develop solutions to the most pressing environmental challenges. We conduct rigorous, peer-reviewed research and convene stakeholders from the public and private sectors to identify practical solutions.<br>U.S. Climate<br>The United States needs an all-hands-on-deck approach to addressing the climate crisis. WRI is working to advance climate action on all levels of government and in high-emitting sectors to raise climate ambition through policy and economic recovery legislation.<br>U.S. Energy<br>WRI helps states, cities, corporates and other large-buyers accelerate the transition to a clean energy future. WRI focuses on addressing market barriers to clean energy, accelerating the transition to renewable resources and advancing innovative solutions for a low carbon grid.<br>Photo by: Cameron Venti/Unsplash<br>Featured Experts<br>Dan Lashof<br>Senior Fellow<br>Lori Bird<br>U.S. Director, WRI Polsky Energy Center<br>Christina DeConcini<br>Director, Government Affairs<br>Debbie Weyl<br>Deputy Director, WRI United States<br>Devashree Saha<br>Director, U.S. Clean Energy Economy Program, WRI U.S. Polsky Energy Center<br>Harriet Tregoning<br>Director, N<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.wri.org/geography/united-states' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.wri.org/geography/united-states</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:17 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[9. Center for Public Integrity (CPI) --United States] Home]]></title>
+      <link>https://www.publicintegrity.org/</link>
+      <description><![CDATA[40 Acres and a Lie
+Public Integrity’s “40 Acres and a Lie” project is honored by the Philip Meyer Journalism Awards
+Accountability
+Inside the scramble to stop the displacement of thousands of Californ...]]></description>
+      <content:encoded><![CDATA[<div><p>40 Acres and a Lie<br>Public Integrity’s “40 Acres and a Lie” project is honored by the Philip Meyer Journalism Awards<br>Accountability<br>Inside the scramble to stop the displacement of thousands of California foster children<br>WHO WE ARE<br>The<br>Center for Public Integrity<br>is a nonprofit newsroom investigating inequity and holding powerful interests accountable. Readers like you help us tackle inequity and threats to democracy and equip the public to make change.<br>ABOUT US<br>JOIN THE DISCUSSION<br>Facebook<br>X<br>LinkedIn<br>Instagram<br>TikTok<br>LATEST<br>Unhoused and Undercounted<br>Pennsylvania bill could prevent schools from barring homeless students<br>Health parity<br>Despite efforts to close gap, parity in mental health care remains elusive<br>Who Counts?<br>‘The restrictions are unbelievable’: States target voter registration drives<br>Addressing Anti-Asian Hate<br>Asian students face racism, harassment at school. What would make it stop?<br>Academic Freedom<br>In Idaho, don’t say ‘abortion’?<br>Addressing Anti-Asian Hate<br>Cut off from our past, Chinese American adoptees seek belonging<br>INVESTIGATIONS<br>Unequal Burden<br>State tax collectors push struggling people deeper into hardship<br>States across the country resort to punitive policies that make it harder for people to pay off their tax debt, from license suspensions to less help for low-income residents than the IRS.<br>by<br>Maya Srikrishnan<br>and<br>Ashley Clarke<br>High Courts, High Stakes<br>Not just the Supreme Court: Ethics troubles plague state high courts, too<br>North Carolina’s Supreme Court ch<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.publicintegrity.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.publicintegrity.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:18 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[2. Bill & Melinda Gates Foundation – U.S.] Gates Foundation]]></title>
+      <link>https://www.gatesfoundation.org/</link>
+      <description><![CDATA[Unsupported browser detected
+Your browser appears to be unsupported. Because of this, portions of the site may not function as intended.
+Please install a current version of
+Chrome
+,
+Firefox
+,
+Edge
+, o...]]></description>
+      <content:encoded><![CDATA[<div><p>Unsupported browser detected<br>Your browser appears to be unsupported. Because of this, portions of the site may not function as intended.<br>Please install a current version of<br>Chrome<br>,<br>Firefox<br>,<br>Edge<br>, or<br>Safari<br>for a better experience.<br>Gates Foundation<br>Our efforts strive toward one goal<br>That every child, no matter where they are born, can reach their full potential.<br>See our three focus areas<br>The road to 2045<br>CEO Mark Suzman pens the foundation's 2026 Annual Letter.<br>Read it here<br>We can't stop at almost<br>2025 marks a heartbreaking milestone: for the first time this century, child deaths are set to rise. But the world has made incredible progress improving children’s health—and we have to keep going.<br>Read the new Goalkeepers report<br>Our mission is to create a world where<br>every<br>person has the opportunity to live a<br>healthy<br>, productive life.<br>Learn more about our role<br>Our<br>work<br>We work with partners around the world to tackle big challenges and improve people’s lives.<br>Learn more about our work<br>Our<br>story<br>For over 25 years, the Gates Foundation has been committed to tackling the greatest inequities in our world.<br>Explore our story<br>How does the work of our partners come to life? How does that work create potential around the world? Watch, read, and experience the stories of good people doing great things that can lead to even greater things.<br>Learn more<br>Ideas<br>Read more Ideas<br>Maternal and child health<br>Economic opportunity<br>Infectious diseases<br>How does a mother’s touch lead to a scientific brea<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.gatesfoundation.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.gatesfoundation.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:18 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[6. Circle of Blue – U.S.] The Drying American West]]></title>
+      <link>https://www.circleofblue.org/</link>
+      <description><![CDATA[Legionnaires’ Disease Surfaced 50 Years Ago. It’s Still Killing People.
+America’s deadliest waterborne illness.
+The AI Boom Is Prolonging Indiana’s Fossil Fuel Era, With Hidden Costs for Water
+Forget ...]]></description>
+      <content:encoded><![CDATA[<div><p>Legionnaires’ Disease Surfaced 50 Years Ago. It’s Still Killing People.<br>America’s deadliest waterborne illness.<br>The AI Boom Is Prolonging Indiana’s Fossil Fuel Era, With Hidden Costs for Water<br>Forget Western Water War: Local Managers Choose Partnership<br>Circle of Blue Reports<br>Supply<br>Betting on Lake Mead’s Demise<br>An online prediction market offers wagers on a shrinking Lake Mead.<br>Opinion<br>Trump Moves to Open America’s Wildest Forests to the Bulldozer<br>A reckless plan to strip protections from millions of acres of roadless wilderness.<br>Supply<br>U.S. Homes Show Three-Decade Decline in Indoor Water Use<br>Long-term drop in residential use is a federal policy success story.<br>Great Lakes<br>Setting Fires On Purpose to Cut Risk of Catastrophic Wildfires<br>A centuries-old tool for safety.<br>Great Lakes<br>When Forests Burn, Lakes Suffer<br>Severe fires can damage soils, increase runoff, and degrade water quality in remote watersheds.<br>Opinion<br>Ethanol Was Marketed to Help Agriculture. But It Fouled Our Water and Injured Our Health.<br>The value proposition for fuel from corn turned out to be ruinous.<br>Agriculture<br>On Menominee Lakes, Wild Rice Is Coming Back. It Isn’t Easy.<br>New techniques, technology, and persistence make it possible.<br>Infrastructure<br>Broke and On Their Own: Small Water Systems Lose Ground as Federal Support Wavers<br>For systems serving rural and low-income communities, the finances were already precarious.<br>Water Policy<br>Illinois Fails to Pass Landmark Act Requiring ‘Responsible’ Data Center Energy an<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.circleofblue.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.circleofblue.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:19 +0800</pubDate>
     </item>
   </channel>
 </rss>

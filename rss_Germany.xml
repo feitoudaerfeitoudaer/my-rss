@@ -1,241 +1,465 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title>智库全文订阅-Germany</title>
+    <title><![CDATA[智库全文订阅-Germany]]></title>
     <link>https://github.io_Germany.xml</link>
-    <description>自动抓取的 [Germany] 智库文章全文摘要（全量无损版）</description>
+    <description><![CDATA[自动抓取的 [Germany] 智库文章全文摘要（全量无损版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
     <item>
-      <title>[Konrad Adenauer Foundation (KAS) – Germany] Web Application Firewall</title>
+      <title><![CDATA[[Konrad Adenauer Foundation (KAS) – Germany] Web Application Firewall]]></title>
       <link>https://www.kas.de/en/about-us</link>
-      <description><![CDATA[<p>Ihre Anfrage wurde aus Sicherheitsgründen blockiert:<br>Fehler-ID : 0.7cd2f17.1784639731.1173fe2e<br>Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an:<br>liferay.portale@kas.de<br>Your request was blocked due to security reasons:<br>Event ID : 0.7cd2f17.1784639731.1173fe2e<br>If you think this was a mistake, please contact:<br>liferay.portale@kas.de</p><br><hr><p><a href='https://www.kas.de/en/about-us' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.kas.de/en/about-us</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:31 +0800</pubDate>
+      <description><![CDATA[Ihre Anfrage wurde aus Sicherheitsgründen blockiert:
+Fehler-ID : 0.26cfdb17.1784640017.15a942ea
+Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an:
+liferay.portale@...]]></description>
+      <content:encoded><![CDATA[<div><p>Ihre Anfrage wurde aus Sicherheitsgründen blockiert:<br>Fehler-ID : 0.26cfdb17.1784640017.15a942ea<br>Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an:<br>liferay.portale@kas.de<br>Your request was blocked due to security reasons:<br>Event ID : 0.26cfdb17.1784640017.15a942ea<br>If you think this was a mistake, please contact:<br>liferay.portale@kas.de</p><br><hr><p><a href='https://www.kas.de/en/about-us' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.kas.de/en/about-us</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:17 +0800</pubDate>
     </item>
     <item>
-      <title>[Transparency International (TI) --Germany] Transparency International&#x27;s 2025 annual report</title>
+      <title><![CDATA[[Transparency International (TI) --Germany] Transparency International's 2025 annual report]]></title>
       <link>https://www.transparency.org</link>
-      <description><![CDATA[<p>Financial intelligence units: Powerful tools against corruption if governments let them work<br>News •<br>24 June 2026<br>Financial intelligence units can help expose corrupt money flows – but only if governments give them the powers, access and independence to do the job.</p><br><hr><p><a href='https://www.transparency.org' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.transparency.org</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:32 +0800</pubDate>
+      <description><![CDATA[Financial intelligence units: Powerful tools against corruption if governments let them work
+News •
+24 June 2026
+Financial intelligence units can help expose corrupt money flows – but only if governme...]]></description>
+      <content:encoded><![CDATA[<div><p>Financial intelligence units: Powerful tools against corruption if governments let them work<br>News •<br>24 June 2026<br>Financial intelligence units can help expose corrupt money flows – but only if governments give them the powers, access and independence to do the job.</p><br><hr><p><a href='https://www.transparency.org' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.transparency.org</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:18 +0800</pubDate>
     </item>
     <item>
-      <title>[Konrad Adenauer Foundation (KAS) --Germany] Web Application Firewall</title>
+      <title><![CDATA[[Konrad Adenauer Foundation (KAS) --Germany] Web Application Firewall]]></title>
       <link>https://www.kas.de/en/</link>
-      <description><![CDATA[<p>Ihre Anfrage wurde aus Sicherheitsgründen blockiert:<br>Fehler-ID : 0.42cd2f17.1784639732.1306f2f<br>Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an:<br>liferay.portale@kas.de<br>Your request was blocked due to security reasons:<br>Event ID : 0.42cd2f17.1784639732.1306f2f<br>If you think this was a mistake, please contact:<br>liferay.portale@kas.de</p><br><hr><p><a href='https://www.kas.de/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.kas.de/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:33 +0800</pubDate>
+      <description><![CDATA[Ihre Anfrage wurde aus Sicherheitsgründen blockiert:
+Fehler-ID : 0.26cfdb17.1784640018.15a94d71
+Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an:
+liferay.portale@...]]></description>
+      <content:encoded><![CDATA[<div><p>Ihre Anfrage wurde aus Sicherheitsgründen blockiert:<br>Fehler-ID : 0.26cfdb17.1784640018.15a94d71<br>Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an:<br>liferay.portale@kas.de<br>Your request was blocked due to security reasons:<br>Event ID : 0.26cfdb17.1784640018.15a94d71<br>If you think this was a mistake, please contact:<br>liferay.portale@kas.de</p><br><hr><p><a href='https://www.kas.de/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.kas.de/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:19 +0800</pubDate>
     </item>
     <item>
-      <title>[Friedrich Ebert Foundation (FES) -- Germany] About us</title>
+      <title><![CDATA[[Friedrich Ebert Foundation (FES) -- Germany] About us]]></title>
       <link>https://dc.fes.de/about/friedrich-ebert-stiftung.html</link>
-      <description><![CDATA[<p>Cookie Settings<br>Essential<br>Functional<br>Accept all<br>Deny<br>Save<br>Show details<br>Hide details<br>Essential<br>Matomo<br>cookie_consent<br>Functional<br>YouTube<br>YouTube<br>Imprint<br>|<br>Datapolicy<br>Skip to content<br>Skip to footer section<br>fes.de<br>en<br>English<br>Search<br>fes.de<br>About<br>back<br>Friedrich-Ebert-Stiftung<br>Mission in USA and Canada<br>Internships & Scholarship Programs<br>Team<br>Contact<br>Topics<br>back<br>Overview: Topics<br>Foreign and Security Policy<br>Economic, Social, and Societal Policies<br>Pluralism and Democracy<br>Canada<br>Global Atlanticists<br>Publications<br>Events<br>Blog<br>Spotlights<br>Multimedia<br>English<br>English<br>About<br>close<br>About<br>Friedrich-Ebert-Stiftung<br>Mission in USA and Canada<br>Internships & Scholarship Programs<br>Team<br>Contact<br>Topics<br>close<br>Topics<br>Overview: Topics<br>Foreign and Security Policy<br>Economic, Social, and Societal Policies<br>Pluralism and Democracy<br>Canada<br>Global Atlanticists<br>Publications<br>Events<br>Blog<br>Spotlights<br>Multimedia<br>fes.de<br>Home<br>About<br>Friedrich-Ebert-Stiftung<br>About us<br>Friedrich-Ebert-Stiftung<br>Learn more<br>Image:<br>Creator:<br>FES<br>Friedrich-Ebert-Stiftung (FES) – The Foundation for Social Democracy!<br>About us<br>The Friedrich-Ebert-Stiftung (FES) is the oldest political foundation in Germany with a rich tradition in social democracy dating back to its foundation in 1925. The foundation owes its formation and its mission to the political legacy of its namesake Friedrich Ebert, the first democratically elected German President.<br>The work of our political foundation focuses on the core ideas and values of social democracy – freedom, justice and <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://dc.fes.de/about/friedrich-ebert-stiftung.html' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://dc.fes.de/about/friedrich-ebert-stiftung.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
+      <description><![CDATA[Cookie Settings
+Essential
+Functional
+Accept all
+Deny
+Save
+Show details
+Hide details
+Essential
+Matomo
+cookie_consent
+Functional
+YouTube
+YouTube
+Imprint
+|
+Datapolicy
+Skip to content
+Skip to footer secti...]]></description>
+      <content:encoded><![CDATA[<div><p>Cookie Settings<br>Essential<br>Functional<br>Accept all<br>Deny<br>Save<br>Show details<br>Hide details<br>Essential<br>Matomo<br>cookie_consent<br>Functional<br>YouTube<br>YouTube<br>Imprint<br>|<br>Datapolicy<br>Skip to content<br>Skip to footer section<br>fes.de<br>en<br>English<br>Search<br>fes.de<br>About<br>back<br>Friedrich-Ebert-Stiftung<br>Mission in USA and Canada<br>Internships & Scholarship Programs<br>Team<br>Contact<br>Topics<br>back<br>Overview: Topics<br>Foreign and Security Policy<br>Economic, Social, and Societal Policies<br>Pluralism and Democracy<br>Canada<br>Global Atlanticists<br>Publications<br>Events<br>Blog<br>Spotlights<br>Multimedia<br>English<br>English<br>About<br>close<br>About<br>Friedrich-Ebert-Stiftung<br>Mission in USA and Canada<br>Internships & Scholarship Programs<br>Team<br>Contact<br>Topics<br>close<br>Topics<br>Overview: Topics<br>Foreign and Security Policy<br>Economic, Social, and Societal Policies<br>Pluralism and Democracy<br>Canada<br>Global Atlanticists<br>Publications<br>Events<br>Blog<br>Spotlights<br>Multimedia<br>fes.de<br>Home<br>About<br>Friedrich-Ebert-Stiftung<br>About us<br>Friedrich-Ebert-Stiftung<br>Learn more<br>Image:<br>Creator:<br>FES<br>Friedrich-Ebert-Stiftung (FES) – The Foundation for Social Democracy!<br>About us<br>The Friedrich-Ebert-Stiftung (FES) is the oldest political foundation in Germany with a rich tradition in social democracy dating back to its foundation in 1925. The foundation owes its formation and its mission to the political legacy of its namesake Friedrich Ebert, the first democratically elected German President.<br>The work of our political foundation focuses on the core ideas and values of social democracy – freedom, justice and <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://dc.fes.de/about/friedrich-ebert-stiftung.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://dc.fes.de/about/friedrich-ebert-stiftung.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:20 +0800</pubDate>
     </item>
     <item>
-      <title>[Hanns Seidel Foundation (HSS) -- Germany] In the Service of Democracy, Peace and Development</title>
+      <title><![CDATA[[Hanns Seidel Foundation (HSS) -- Germany] In the Service of Democracy, Peace and Development]]></title>
       <link>https://www.hss.de/en/</link>
-      <description><![CDATA[<p>Contact<br>Sitemap<br>Imprint<br>Dataprotection<br>General terms and conditions of use<br>DE<br>|<br>EN<br>© Hanns-Seidel-Stiftung<br>all categories<br>in articles<br>in events<br>in publications<br>in media<br>in documents<br>close<br>DE<br>|<br>EN<br>Jump to main navigation<br>Jump to content<br>more<br>Login / Register<br>Enter your Email address and we will send you a secure personal link<br>E-Mail<br>Birthday<br>Email<br>Our<br>data protection information<br>provides you with information on how we handle your data.<br>OK<br>Check your Email Inbox<br>We have sent a secure link to your email.<br>					Click on the link to log in or register.<br>hss.de/en<br>peopleimages.com; HSS; adobe stock<br>In the Service of Democracy, Peace and Development<br>About Us<br>Democracy can survive only with a democratically-minded population.<br>The Hanns Seidel Foundation's mission<br>This lesson, learned from the failure of the first German Republic, the Weimar Republic, led the Federal Republic of Germany to establish political foundations. As an important part of political culture, these foundations would henceforth serve as a lasting and profound anchor for democratic awareness in our country. Former German President Roman Herzog accurately characterised them as “schools of democratic thought and action, testbeds for civil courage and common sense that bestow upon us the ethical principles without which our political system cannot function.” Today, six political foundations operate in Germany, spanning the political spectrum. Each is closely aligned with one party. Their legitimacy comes from nearly com<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.hss.de/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.hss.de/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
+      <description><![CDATA[Contact
+Sitemap
+Imprint
+Dataprotection
+General terms and conditions of use
+DE
+|
+EN
+© Hanns-Seidel-Stiftung
+all categories
+in articles
+in events
+in publications
+in media
+in documents
+close
+DE
+|
+EN
+Jump...]]></description>
+      <content:encoded><![CDATA[<div><p>Contact<br>Sitemap<br>Imprint<br>Dataprotection<br>General terms and conditions of use<br>DE<br>|<br>EN<br>© Hanns-Seidel-Stiftung<br>all categories<br>in articles<br>in events<br>in publications<br>in media<br>in documents<br>close<br>DE<br>|<br>EN<br>Jump to main navigation<br>Jump to content<br>more<br>Login / Register<br>Enter your Email address and we will send you a secure personal link<br>E-Mail<br>Birthday<br>Email<br>Our<br>data protection information<br>provides you with information on how we handle your data.<br>OK<br>Check your Email Inbox<br>We have sent a secure link to your email.<br>					Click on the link to log in or register.<br>hss.de/en<br>peopleimages.com; HSS; adobe stock<br>In the Service of Democracy, Peace and Development<br>About Us<br>Democracy can survive only with a democratically-minded population.<br>The Hanns Seidel Foundation's mission<br>This lesson, learned from the failure of the first German Republic, the Weimar Republic, led the Federal Republic of Germany to establish political foundations. As an important part of political culture, these foundations would henceforth serve as a lasting and profound anchor for democratic awareness in our country. Former German President Roman Herzog accurately characterised them as “schools of democratic thought and action, testbeds for civil courage and common sense that bestow upon us the ethical principles without which our political system cannot function.” Today, six political foundations operate in Germany, spanning the political spectrum. Each is closely aligned with one party. Their legitimacy comes from nearly com<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.hss.de/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.hss.de/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:21 +0800</pubDate>
     </item>
     <item>
-      <title>[Heinrich Böll Stiftung -- Germany] Security</title>
+      <title><![CDATA[[Heinrich Böll Stiftung -- Germany] Security]]></title>
       <link>https://www.boell.de/en</link>
-      <description><![CDATA[<p>Security<br>Sicherheitsüberprüfung<br>Unsere Systeme haben ungewöhnlichen Datenverkehr aus Ihrem Computernetzwerk festgestellt. Diese Seite überprüft, ob die Anfragen wirklich von Ihnen und nicht von einem Roboter gesendet werden.<br>Bitte klicken Sie<br>hier<br>, wenn Sie kein Roboter sind.<br>Security Check<br>Our systems have detected unusual traffic from your computer network. This page checks to see if it is really you sending the requests and not a bot.<br>Please click<br>here<br>to verify that you are not a bot.<br>Browser<br>Working<br>Myra<br>Working<br>Host<br>Working<br>What happened?<br>You ran into a security check to verify the validity of your request.<br>What can I do?<br>If you are a visitor of this website:<br>You must confirm that you are human.<br>If you are the owner of this website:<br>Please check your security settings.</p><br><hr><p><a href='https://www.boell.de/en' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.boell.de/en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
+      <description><![CDATA[Security
+Sicherheitsüberprüfung
+Unsere Systeme haben ungewöhnlichen Datenverkehr aus Ihrem Computernetzwerk festgestellt. Diese Seite überprüft, ob die Anfragen wirklich von Ihnen und nicht von einem ...]]></description>
+      <content:encoded><![CDATA[<div><p>Security<br>Sicherheitsüberprüfung<br>Unsere Systeme haben ungewöhnlichen Datenverkehr aus Ihrem Computernetzwerk festgestellt. Diese Seite überprüft, ob die Anfragen wirklich von Ihnen und nicht von einem Roboter gesendet werden.<br>Bitte klicken Sie<br>hier<br>, wenn Sie kein Roboter sind.<br>Security Check<br>Our systems have detected unusual traffic from your computer network. This page checks to see if it is really you sending the requests and not a bot.<br>Please click<br>here<br>to verify that you are not a bot.<br>Browser<br>Working<br>Myra<br>Working<br>Host<br>Working<br>What happened?<br>You ran into a security check to verify the validity of your request.<br>What can I do?<br>If you are a visitor of this website:<br>You must confirm that you are human.<br>If you are the owner of this website:<br>Please check your security settings.</p><br><hr><p><a href='https://www.boell.de/en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.boell.de/en</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:21 +0800</pubDate>
     </item>
     <item>
-      <title>[German Development Institute --Germany] Beyond 2030 - Die Zukunft globaler Nachhaltigkeit</title>
-      <link>http://www.die-gdi.de/</link>
-      <description><![CDATA[<p>IDOS<br>Suche:<br>Search<br>Deutsch<br>Englisch<br>Forschung<br>Forschung<br>Forschendes Direktorium<br>Inter- und transnationale Zusammenarbeit<br>Transformation der Wirtschafts- und Sozialsysteme<br>Umwelt-Governance<br>Transformation politischer (Un-)Ordnung<br>Laufende Projekte<br>Netzwerke<br>Querschnittsvorhaben – Nachhaltige Zukünfte (Sustainable Futures)<br>Regionalexpertise<br>Beratung<br>Team<br>Ausbildung<br>Ausbildung<br>Wissenskooperation<br>Postgraduate Programme for Sustainability Cooperation (PGP)<br>MGG Academy<br>Shaping Futures Academy<br>Promovieren<br>Duales Studium<br>Berufsausbildung<br>Bibliothek<br>Bibliothek<br>Forschungsdatenmanagement<br>Publikationen<br>Publikationen<br>Die aktuelle Kolumne<br>Policy Brief<br>Discussion Paper<br>Studies<br>Aufsätze und sonstige Publikationen<br>Buchveröffentlichungen<br>Blog<br>Jahresbericht des IDOS<br>Forschungsdaten<br>Online-Datenvisualisierungen<br>Zweiseiter<br>Two-Pager<br>Analysen und Stellungnahmen<br>Briefing Paper<br>Veranstaltungen<br>Presse<br>Presse<br>Pressekontakte<br>IDOS in den Medien<br>Newsletter abonnieren<br>Info-Mailings abonnieren<br>Pressemitteilungen<br>Über uns<br>Über uns<br>IDOS Mission und Vision<br>Organigramm (PDF)<br>Organe und Gremien<br>Sicherung guter wissenschaftlicher Praxis und Qualitätssicherung<br>Compliance und Integrität<br>Nachhaltigkeit<br>Beruf und Familie<br>Stellen & Praktika<br>Kontakt & Anfahrt<br>Auftragsvergaben<br>Barrierefreiheit<br>Gebärdensprache<br>Suche:<br>Search<br>German Institute of Development and Sustainability (IDOS)<br>Toggle mobile navigation<br>Deutsch<br>Englisch<br>Forschung<br>Forschendes Direktorium<br>Inter- und transnationale Zusammenarbeit<br>Transformation der Wirts<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.die-gdi.de/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.die-gdi.de/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:35 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Deutsche Bank Research  --Germany] Mapping the World&#x27;s Prices 2026</title>
+      <title><![CDATA[[Deutsche Bank Research  --Germany] Mapping the World's Prices 2026]]></title>
       <link>https://www.dbresearch.com/</link>
-      <description><![CDATA[<p>Topics:<br>Macro<br>July 13, 2026<br>Mapping the World's Prices 2026<br>Mapping the World’s Prices is the definitive guide to quality of life, rental costs and prices for phones, coffee, taxis and more in 69 cities from Abu Dhabi to Zurich.<br>Publication Type:<br>Featured Research</p><br><hr><p><a href='https://www.dbresearch.com/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.dbresearch.com/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:35 +0800</pubDate>
+      <description><![CDATA[Topics:
+Macro
+July 13, 2026
+Mapping the World's Prices 2026
+Mapping the World’s Prices is the definitive guide to quality of life, rental costs and prices for phones, coffee, taxis and more in 69 citi...]]></description>
+      <content:encoded><![CDATA[<div><p>Topics:<br>Macro<br>July 13, 2026<br>Mapping the World's Prices 2026<br>Mapping the World’s Prices is the definitive guide to quality of life, rental costs and prices for phones, coffee, taxis and more in 69 cities from Abu Dhabi to Zurich.<br>Publication Type:<br>Featured Research</p><br><hr><p><a href='https://www.dbresearch.com/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.dbresearch.com/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:21 +0800</pubDate>
     </item>
     <item>
-      <title>[Konrad Adenauer Foundation -- Germany] Web Application Firewall</title>
+      <title><![CDATA[[Konrad Adenauer Foundation -- Germany] Web Application Firewall]]></title>
       <link>http://www.kas.de/wf/en/</link>
-      <description><![CDATA[<p>Ihre Anfrage wurde aus Sicherheitsgründen blockiert:<br>Fehler-ID : 0.42cd2f17.1784639735.1307082<br>Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an:<br>liferay.portale@kas.de<br>Your request was blocked due to security reasons:<br>Event ID : 0.42cd2f17.1784639735.1307082<br>If you think this was a mistake, please contact:<br>liferay.portale@kas.de</p><br><hr><p><a href='http://www.kas.de/wf/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.kas.de/wf/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:35 +0800</pubDate>
+      <description><![CDATA[Ihre Anfrage wurde aus Sicherheitsgründen blockiert:
+Fehler-ID : 0.24cfdb17.1784640022.4f1bf6f4
+Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an:
+liferay.portale@...]]></description>
+      <content:encoded><![CDATA[<div><p>Ihre Anfrage wurde aus Sicherheitsgründen blockiert:<br>Fehler-ID : 0.24cfdb17.1784640022.4f1bf6f4<br>Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an:<br>liferay.portale@kas.de<br>Your request was blocked due to security reasons:<br>Event ID : 0.24cfdb17.1784640022.4f1bf6f4<br>If you think this was a mistake, please contact:<br>liferay.portale@kas.de</p><br><hr><p><a href='http://www.kas.de/wf/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.kas.de/wf/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:22 +0800</pubDate>
     </item>
     <item>
-      <title>[German Development Institute --Germany] Beyond 2030 - The future of global Sustainability</title>
-      <link>http://www.die-gdi.de/en/</link>
-      <description><![CDATA[<p>IDOS<br>Search:<br>Search<br>German<br>English<br>Research<br>Research<br>Directors<br>Inter- and Transnational Cooperation<br>Transformation of Economic and Social Systems<br>Environmental Governance<br>Transformation of Political (Dis-)order<br>Ongoing projects<br>Networks<br>Cross-Cutting Research – Sustainable Futures<br>Regional Expertise<br>Policy Advice<br>Team<br>Training<br>Training<br>Knowledge Cooperation<br>Postgraduate Programme for Sustainability Cooperation (PGP)<br>MGG Academy<br>Shaping Futures Academy<br>Doing your PhD<br>Dual study programme<br>Vocational Training<br>Library<br>Library<br>Research Data Management<br>Publications<br>Publications<br>The Current Column<br>Policy Brief<br>Discussion Paper<br>Studies<br>Articles and other Publications<br>Books<br>Blog<br>Annual Report of IDOS<br>Research data<br>Online data visualisations<br>Zweiseiter<br>Two Pager<br>Analysen und Stellungnahmen<br>Briefing Paper<br>Events<br>Press<br>Press<br>Contact Persons<br>Media Coverage<br>Newsletter<br>Stay informed<br>Press Releases<br>About us<br>About us<br>IDOS Mission and Vision<br>Organisational Structure (PDF)<br>Boards and Bodies<br>Safeguarding good scientific practice and research ethics<br>Compliance and Integrity<br>Sustainability<br>Working and Family Life<br>Career & Internships<br>Contact & Directions<br>Procurement<br>Declaration of accessibility<br>Sign Language<br>Search:<br>Search<br>German Institute of Development and Sustainability (IDOS)<br>Toggle mobile navigation<br>German<br>English<br>Research<br>Directors<br>Inter- and Transnational Cooperation<br>Transformation of Economic and Social Systems<br>Environmental Governance<br>Transformation of Political (Dis-)order<br>Ongoing projec<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.die-gdi.de/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.die-gdi.de/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:37 +0800</pubDate>
+      <title><![CDATA[[German Development Institute --Germany] Beyond 2030 - Die Zukunft globaler Nachhaltigkeit]]></title>
+      <link>http://www.die-gdi.de/</link>
+      <description><![CDATA[IDOS
+Suche:
+Search
+Deutsch
+Englisch
+Forschung
+Forschung
+Forschendes Direktorium
+Inter- und transnationale Zusammenarbeit
+Transformation der Wirtschafts- und Sozialsysteme
+Umwelt-Governance
+Transformat...]]></description>
+      <content:encoded><![CDATA[<div><p>IDOS<br>Suche:<br>Search<br>Deutsch<br>Englisch<br>Forschung<br>Forschung<br>Forschendes Direktorium<br>Inter- und transnationale Zusammenarbeit<br>Transformation der Wirtschafts- und Sozialsysteme<br>Umwelt-Governance<br>Transformation politischer (Un-)Ordnung<br>Laufende Projekte<br>Netzwerke<br>Querschnittsvorhaben – Nachhaltige Zukünfte (Sustainable Futures)<br>Regionalexpertise<br>Beratung<br>Team<br>Ausbildung<br>Ausbildung<br>Wissenskooperation<br>Postgraduate Programme for Sustainability Cooperation (PGP)<br>MGG Academy<br>Shaping Futures Academy<br>Promovieren<br>Duales Studium<br>Berufsausbildung<br>Bibliothek<br>Bibliothek<br>Forschungsdatenmanagement<br>Publikationen<br>Publikationen<br>Die aktuelle Kolumne<br>Policy Brief<br>Discussion Paper<br>Studies<br>Aufsätze und sonstige Publikationen<br>Buchveröffentlichungen<br>Blog<br>Jahresbericht des IDOS<br>Forschungsdaten<br>Online-Datenvisualisierungen<br>Zweiseiter<br>Two-Pager<br>Analysen und Stellungnahmen<br>Briefing Paper<br>Veranstaltungen<br>Presse<br>Presse<br>Pressekontakte<br>IDOS in den Medien<br>Newsletter abonnieren<br>Info-Mailings abonnieren<br>Pressemitteilungen<br>Über uns<br>Über uns<br>IDOS Mission und Vision<br>Organigramm (PDF)<br>Organe und Gremien<br>Sicherung guter wissenschaftlicher Praxis und Qualitätssicherung<br>Compliance und Integrität<br>Nachhaltigkeit<br>Beruf und Familie<br>Stellen & Praktika<br>Kontakt & Anfahrt<br>Auftragsvergaben<br>Barrierefreiheit<br>Gebärdensprache<br>Suche:<br>Search<br>German Institute of Development and Sustainability (IDOS)<br>Toggle mobile navigation<br>Deutsch<br>Englisch<br>Forschung<br>Forschendes Direktorium<br>Inter- und transnationale Zusammenarbeit<br>Transformation der Wirts<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.die-gdi.de/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.die-gdi.de/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:22 +0800</pubDate>
     </item>
     <item>
-      <title>[German Council on Foreign Relations (DGAP) --Germany] German Council on Foreign Relations</title>
+      <title><![CDATA[[German Council on Foreign Relations (DGAP) --Germany] German Council on Foreign Relations]]></title>
       <link>https://dgap.org/en</link>
-      <description><![CDATA[<p>Aufklären, Abschrecken, Verteidigen<br>Ein Konzept zur Abwehr des hybriden Krieges gegen Deutschland<br>Die Zeit der Weckrufe ist vorbei. Deutschland muss handeln, um hybride Angriffe wirksamer abzuwehren und auch abzuschrecken.<br>Author/s<br>Thomas Kleine-Brockhoff<br>Nico Lange<br>Jürgen-Joachim von Sandrart<br>et al.<br>White Paper<br>Jul 07, 2026<br>All rights reserved<br>DGAP<br>Zum Stand der deutsch-russischen Beziehungen<br>Die deutsch-russischen Beziehungen sind seit Beginn des russischen Angriffskriegs gegen die gesamte Ukraine 2022 auf einem Tiefstand seit dem Ende des Kalten Kriegs. Vor diesem Hintergrund diskutieren wir mit dem deutschen Botschafter in Moskau, Alexander Graf Lambsdorff, über den Stand der deutsch-russischen Beziehungen.<br>European Defense and Green Industry Need a Common Approach to Critical Minerals<br>Steps should be taken immediately by Germany and the EU to ensure a reliable, secure, and sustainable supply of critical minerals to European industry.<br>Author/s<br>Emil Archambault<br>Loyle Campbell<br>Nina Locher<br>Memo<br>Jul 08, 2026<br>How Non-EU Defense Companies Can Strengthen European Defense<br>Such companies should be bound into European industrial ecosystems to help reduce foreign dependencies in critical capabilities.<br>Author/s<br>Emil Archambault<br>Memo<br>Jul 15, 2026<br>The Restructuring of FCAS<br>A Learning Opportunity for European Defense<br>In its failures, FCAS demonstrates how the structural industrial, political, and strategic constraints that will affect all European defense projects can be managed to ensu<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://dgap.org/en' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://dgap.org/en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:37 +0800</pubDate>
+      <description><![CDATA[Aufklären, Abschrecken, Verteidigen
+Ein Konzept zur Abwehr des hybriden Krieges gegen Deutschland
+Die Zeit der Weckrufe ist vorbei. Deutschland muss handeln, um hybride Angriffe wirksamer abzuwehren u...]]></description>
+      <content:encoded><![CDATA[<div><p>Aufklären, Abschrecken, Verteidigen<br>Ein Konzept zur Abwehr des hybriden Krieges gegen Deutschland<br>Die Zeit der Weckrufe ist vorbei. Deutschland muss handeln, um hybride Angriffe wirksamer abzuwehren und auch abzuschrecken.<br>Author/s<br>Thomas Kleine-Brockhoff<br>Nico Lange<br>Jürgen-Joachim von Sandrart<br>et al.<br>White Paper<br>Jul 07, 2026<br>All rights reserved<br>DGAP<br>Zum Stand der deutsch-russischen Beziehungen<br>Die deutsch-russischen Beziehungen sind seit Beginn des russischen Angriffskriegs gegen die gesamte Ukraine 2022 auf einem Tiefstand seit dem Ende des Kalten Kriegs. Vor diesem Hintergrund diskutieren wir mit dem deutschen Botschafter in Moskau, Alexander Graf Lambsdorff, über den Stand der deutsch-russischen Beziehungen.<br>European Defense and Green Industry Need a Common Approach to Critical Minerals<br>Steps should be taken immediately by Germany and the EU to ensure a reliable, secure, and sustainable supply of critical minerals to European industry.<br>Author/s<br>Emil Archambault<br>Loyle Campbell<br>Nina Locher<br>Memo<br>Jul 08, 2026<br>How Non-EU Defense Companies Can Strengthen European Defense<br>Such companies should be bound into European industrial ecosystems to help reduce foreign dependencies in critical capabilities.<br>Author/s<br>Emil Archambault<br>Memo<br>Jul 15, 2026<br>The Restructuring of FCAS<br>A Learning Opportunity for European Defense<br>In its failures, FCAS demonstrates how the structural industrial, political, and strategic constraints that will affect all European defense projects can be managed to ensu<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://dgap.org/en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://dgap.org/en</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:23 +0800</pubDate>
     </item>
     <item>
-      <title>[Friedrich Ebert Foundation --Germany] Friedrich-Ebert-Stiftung in the United States and Canada</title>
+      <title><![CDATA[[German Development Institute --Germany] Beyond 2030 - The future of global Sustainability]]></title>
+      <link>http://www.die-gdi.de/en/</link>
+      <description><![CDATA[IDOS
+Search:
+Search
+German
+English
+Research
+Research
+Directors
+Inter- and Transnational Cooperation
+Transformation of Economic and Social Systems
+Environmental Governance
+Transformation of Political (...]]></description>
+      <content:encoded><![CDATA[<div><p>IDOS<br>Search:<br>Search<br>German<br>English<br>Research<br>Research<br>Directors<br>Inter- and Transnational Cooperation<br>Transformation of Economic and Social Systems<br>Environmental Governance<br>Transformation of Political (Dis-)order<br>Ongoing projects<br>Networks<br>Cross-Cutting Research – Sustainable Futures<br>Regional Expertise<br>Policy Advice<br>Team<br>Training<br>Training<br>Knowledge Cooperation<br>Postgraduate Programme for Sustainability Cooperation (PGP)<br>MGG Academy<br>Shaping Futures Academy<br>Doing your PhD<br>Dual study programme<br>Vocational Training<br>Library<br>Library<br>Research Data Management<br>Publications<br>Publications<br>The Current Column<br>Policy Brief<br>Discussion Paper<br>Studies<br>Articles and other Publications<br>Books<br>Blog<br>Annual Report of IDOS<br>Research data<br>Online data visualisations<br>Zweiseiter<br>Two Pager<br>Analysen und Stellungnahmen<br>Briefing Paper<br>Events<br>Press<br>Press<br>Contact Persons<br>Media Coverage<br>Newsletter<br>Stay informed<br>Press Releases<br>About us<br>About us<br>IDOS Mission and Vision<br>Organisational Structure (PDF)<br>Boards and Bodies<br>Safeguarding good scientific practice and research ethics<br>Compliance and Integrity<br>Sustainability<br>Working and Family Life<br>Career & Internships<br>Contact & Directions<br>Procurement<br>Declaration of accessibility<br>Sign Language<br>Search:<br>Search<br>German Institute of Development and Sustainability (IDOS)<br>Toggle mobile navigation<br>German<br>English<br>Research<br>Directors<br>Inter- and Transnational Cooperation<br>Transformation of Economic and Social Systems<br>Environmental Governance<br>Transformation of Political (Dis-)order<br>Ongoing projec<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.die-gdi.de/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.die-gdi.de/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:24 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Friedrich Ebert Foundation --Germany] Friedrich-Ebert-Stiftung in the United States and Canada]]></title>
       <link>http://www.fesdc.org/</link>
-      <description><![CDATA[<p>Gewerkschaftsmonitor / Vereinigte Staaten von Amerika (USA) (2025)<br>Berlin : Friedrich-Ebert-Stiftung, 2019-<br>Download publication</p><br><hr><p><a href='http://www.fesdc.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.fesdc.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:37 +0800</pubDate>
+      <description><![CDATA[Gewerkschaftsmonitor / Vereinigte Staaten von Amerika (USA) (2025)
+Berlin : Friedrich-Ebert-Stiftung, 2019-
+Download publication...]]></description>
+      <content:encoded><![CDATA[<div><p>Gewerkschaftsmonitor / Vereinigte Staaten von Amerika (USA) (2025)<br>Berlin : Friedrich-Ebert-Stiftung, 2019-<br>Download publication</p><br><hr><p><a href='http://www.fesdc.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.fesdc.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:24 +0800</pubDate>
     </item>
     <item>
-      <title>[Kiel Institute for the World Economy (IfW) --Germany] Kiel Institute for the World Economy - Understanding and Shaping Globalization</title>
+      <title><![CDATA[[Kiel Institute for the World Economy (IfW) --Germany] Kiel Institute for the World Economy - Understanding and Shaping Globalization]]></title>
       <link>http://www.ifw-kiel.de/</link>
-      <description><![CDATA[<p>News<br>15.07.2026<br>© stock.adobe.com | Amity<br>Electricity and CO2: European cooperation is being held back by mental borders</p><br><hr><p><a href='http://www.ifw-kiel.de/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.ifw-kiel.de/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:37 +0800</pubDate>
+      <description><![CDATA[News
+15.07.2026
+© stock.adobe.com | Amity
+Electricity and CO2: European cooperation is being held back by mental borders...]]></description>
+      <content:encoded><![CDATA[<div><p>News<br>15.07.2026<br>© stock.adobe.com | Amity<br>Electricity and CO2: European cooperation is being held back by mental borders</p><br><hr><p><a href='http://www.ifw-kiel.de/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.ifw-kiel.de/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:25 +0800</pubDate>
     </item>
     <item>
-      <title>[Bonn International Center for Conversion (BICC) --Germany] Bonn International Centre for Conflict Studies</title>
+      <title><![CDATA[[Bonn International Center for Conversion (BICC) --Germany] Bonn International Centre for Conflict Studies]]></title>
       <link>http://www.bicc.de/</link>
-      <description><![CDATA[<p>Topics<br>menu Topics<br>bicc's core expertise<br>CONDITIONS, DYNAMICS,<br>AND CONSEQUENCES OF<br>VIOLENT CONFLICTS<br>Building Peace and Social Cohesion<br>Agents and Patterns of Security and War<br>Militarisation and Arms Control<br>Violent Environments and Infrastructures<br>Migration and Forced Displacement<br>Projects<br>menu Projects<br>Afghanistan & Development<br>Arms exports<br>Breaking Patterns of Armed Violence (PAVE)<br>Chinas Belt and Road Initiative<br>Contested Borderland Elite Trajectories<br>coreNRW<br>Corruption, Patronage & Clientelism in Afghanistan<br>Decolonial Epistemologies?<br>Development. Security. Armament.<br>Drones as Weapons in Armed Conflicts<br>Dynamics of Jihadist Sieges in Mali<br>Engagement in Afghanistan<br>Enquete Commission<br>Everyday Peacescapes<br>Expert Group on Arms Exports<br>Forced Migration and Refugee Studies (FFVT)<br>GAPS in migrant return policies<br>Governing Jihad in Africa<br>How can the HDP Nexus Succeed?<br>Mobility - translocality and gendered violence<br>Navigating Towards Peace in Syria<br>Liquid Warfare<br>Preventing Islamism<br>Refugee Advisory Board Germany<br>Armed Groups in the Sahel<br>Return and belonging (Re-Mig)<br>SALW Control Africa<br>Shifting Power<br>Spaces of (Im)Mobility, Violence and Precarity<br>US-China Deterrence<br>Violent Futures<br>Well equipped for the Zeitenwende?<br>Archive<br>Publications<br>menu Publications<br>Journal article<br>bicc policy brief<br>bicc report<br>bicc annual report<br>Book<br>Staff<br>menu Staff<br>Director<br>Senior Management<br>Research, Advisory Services and Capacity Development<br>Communication<br>Finance and Administration<br>Research Infrastr<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.bicc.de/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.bicc.de/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:39 +0800</pubDate>
+      <description><![CDATA[Topics
+menu Topics
+bicc's core expertise
+CONDITIONS, DYNAMICS,
+AND CONSEQUENCES OF
+VIOLENT CONFLICTS
+Building Peace and Social Cohesion
+Agents and Patterns of Security and War
+Militarisation and Arms ...]]></description>
+      <content:encoded><![CDATA[<div><p>Topics<br>menu Topics<br>bicc's core expertise<br>CONDITIONS, DYNAMICS,<br>AND CONSEQUENCES OF<br>VIOLENT CONFLICTS<br>Building Peace and Social Cohesion<br>Agents and Patterns of Security and War<br>Militarisation and Arms Control<br>Violent Environments and Infrastructures<br>Migration and Forced Displacement<br>Projects<br>menu Projects<br>Afghanistan & Development<br>Arms exports<br>Breaking Patterns of Armed Violence (PAVE)<br>Chinas Belt and Road Initiative<br>Contested Borderland Elite Trajectories<br>coreNRW<br>Corruption, Patronage & Clientelism in Afghanistan<br>Decolonial Epistemologies?<br>Development. Security. Armament.<br>Drones as Weapons in Armed Conflicts<br>Dynamics of Jihadist Sieges in Mali<br>Engagement in Afghanistan<br>Enquete Commission<br>Everyday Peacescapes<br>Expert Group on Arms Exports<br>Forced Migration and Refugee Studies (FFVT)<br>GAPS in migrant return policies<br>Governing Jihad in Africa<br>How can the HDP Nexus Succeed?<br>Mobility - translocality and gendered violence<br>Navigating Towards Peace in Syria<br>Liquid Warfare<br>Preventing Islamism<br>Refugee Advisory Board Germany<br>Armed Groups in the Sahel<br>Return and belonging (Re-Mig)<br>SALW Control Africa<br>Shifting Power<br>Spaces of (Im)Mobility, Violence and Precarity<br>US-China Deterrence<br>Violent Futures<br>Well equipped for the Zeitenwende?<br>Archive<br>Publications<br>menu Publications<br>Journal article<br>bicc policy brief<br>bicc report<br>bicc annual report<br>Book<br>Staff<br>menu Staff<br>Director<br>Senior Management<br>Research, Advisory Services and Capacity Development<br>Communication<br>Finance and Administration<br>Research Infrastr<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.bicc.de/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.bicc.de/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:25 +0800</pubDate>
     </item>
     <item>
-      <title>[German Institute for International and Security Affairs of the Stiftung Wissenschaft und Politik (SWP) --Germany] Stiftung Wissenschaft und PolitikStiftung Wissenschaft und Politik Logoswp_logo_en</title>
+      <title><![CDATA[[German Institute for International and Security Affairs of the Stiftung Wissenschaft und Politik (SWP) --Germany] Stiftung Wissenschaft und PolitikStiftung Wissenschaft und Politik Logoswp_logo_en]]></title>
       <link>http://www.swp-berlin.org/en/</link>
-      <description><![CDATA[<p>Jump directly to page content<br>Stiftung Wissenschaft und Politik<br>Stiftung Wissenschaft und Politik Logo<br>swp_logo_en<br>Toggle navigation<br>Search<br>Search suggestions appear when at least 2 characters are entered. Use the arrow keys to navigate through the suggestions.<br>Submit search<br>Contact<br>Career<br>Media<br>DE<br>Deutsch<br>EN<br>English<br>Search<br>Search suggestions appear when at least 2 characters are entered. Use the arrow keys to navigate through the suggestions.<br>Submit search<br>Topics<br>Topics<br>close navigation<br>Overview: Topics<br>Research Areas<br>Research Areas<br>Sub-Saharan Africa<br>Asia<br>Digitalisation, cyber, technology<br>Energy, climate, environment<br>EU, Europe<br>Latin America and the Caribbean<br>Migration, development cooperation<br>Non-state violence<br>North Africa and Middle East<br>Russia, E. Europe, Central Asia<br>Security and defence policy<br>Turkey<br>UN, global governance, int. law<br>USA, Canada<br>Economics, trade, resources<br>Thematic Working Groups<br>Thematic Working Groups<br>International cooperation in the context of systemic rivalry<br>Reordering European security<br>The challenge of autocratisation<br>Economic and technological transformations<br>Dossiers<br>Dossiers<br>Cybersecurity and Digital Policy: The Role of the Digital in International Politics<br>The US and Transatlantic Relations<br>Energy Policy<br>European elections 2024 and the EU's next strategic agenda<br>Forced Displacement and Migration<br>United Nations and Sustainable Development<br>Climate Policy and Politics<br>Russia's war against Ukraine and its consequences<br>In Focus<br>In Focus<br>War in the <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.swp-berlin.org/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.swp-berlin.org/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:39 +0800</pubDate>
+      <description><![CDATA[Jump directly to page content
+Stiftung Wissenschaft und Politik
+Stiftung Wissenschaft und Politik Logo
+swp_logo_en
+Toggle navigation
+Search
+Search suggestions appear when at least 2 characters are ent...]]></description>
+      <content:encoded><![CDATA[<div><p>Jump directly to page content<br>Stiftung Wissenschaft und Politik<br>Stiftung Wissenschaft und Politik Logo<br>swp_logo_en<br>Toggle navigation<br>Search<br>Search suggestions appear when at least 2 characters are entered. Use the arrow keys to navigate through the suggestions.<br>Submit search<br>Contact<br>Career<br>Media<br>DE<br>Deutsch<br>EN<br>English<br>Search<br>Search suggestions appear when at least 2 characters are entered. Use the arrow keys to navigate through the suggestions.<br>Submit search<br>Topics<br>Topics<br>close navigation<br>Overview: Topics<br>Research Areas<br>Research Areas<br>Sub-Saharan Africa<br>Asia<br>Digitalisation, cyber, technology<br>Energy, climate, environment<br>EU, Europe<br>Latin America and the Caribbean<br>Migration, development cooperation<br>Non-state violence<br>North Africa and Middle East<br>Russia, E. Europe, Central Asia<br>Security and defence policy<br>Turkey<br>UN, global governance, int. law<br>USA, Canada<br>Economics, trade, resources<br>Thematic Working Groups<br>Thematic Working Groups<br>International cooperation in the context of systemic rivalry<br>Reordering European security<br>The challenge of autocratisation<br>Economic and technological transformations<br>Dossiers<br>Dossiers<br>Cybersecurity and Digital Policy: The Role of the Digital in International Politics<br>The US and Transatlantic Relations<br>Energy Policy<br>European elections 2024 and the EU's next strategic agenda<br>Forced Displacement and Migration<br>United Nations and Sustainable Development<br>Climate Policy and Politics<br>Russia's war against Ukraine and its consequences<br>In Focus<br>In Focus<br>War in the <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.swp-berlin.org/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.swp-berlin.org/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:26 +0800</pubDate>
     </item>
     <item>
-      <title>[Heinrich Böll Foundation (HBS) --Germany] Security</title>
+      <title><![CDATA[[Heinrich Böll Foundation (HBS) --Germany] Security]]></title>
       <link>http://www.boell.org/</link>
-      <description><![CDATA[<p>Security<br>Sicherheitsüberprüfung<br>Unsere Systeme haben ungewöhnlichen Datenverkehr aus Ihrem Computernetzwerk festgestellt. Diese Seite überprüft, ob die Anfragen wirklich von Ihnen und nicht von einem Roboter gesendet werden.<br>Bitte klicken Sie<br>hier<br>, wenn Sie kein Roboter sind.<br>Security Check<br>Our systems have detected unusual traffic from your computer network. This page checks to see if it is really you sending the requests and not a bot.<br>Please click<br>here<br>to verify that you are not a bot.<br>Browser<br>Working<br>Myra<br>Working<br>Host<br>Working<br>What happened?<br>You ran into a security check to verify the validity of your request.<br>What can I do?<br>If you are a visitor of this website:<br>You must confirm that you are human.<br>If you are the owner of this website:<br>Please check your security settings.</p><br><hr><p><a href='http://www.boell.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.boell.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:43 +0800</pubDate>
+      <description><![CDATA[Security
+Sicherheitsüberprüfung
+Unsere Systeme haben ungewöhnlichen Datenverkehr aus Ihrem Computernetzwerk festgestellt. Diese Seite überprüft, ob die Anfragen wirklich von Ihnen und nicht von einem ...]]></description>
+      <content:encoded><![CDATA[<div><p>Security<br>Sicherheitsüberprüfung<br>Unsere Systeme haben ungewöhnlichen Datenverkehr aus Ihrem Computernetzwerk festgestellt. Diese Seite überprüft, ob die Anfragen wirklich von Ihnen und nicht von einem Roboter gesendet werden.<br>Bitte klicken Sie<br>hier<br>, wenn Sie kein Roboter sind.<br>Security Check<br>Our systems have detected unusual traffic from your computer network. This page checks to see if it is really you sending the requests and not a bot.<br>Please click<br>here<br>to verify that you are not a bot.<br>Browser<br>Working<br>Myra<br>Working<br>Host<br>Working<br>What happened?<br>You ran into a security check to verify the validity of your request.<br>What can I do?<br>If you are a visitor of this website:<br>You must confirm that you are human.<br>If you are the owner of this website:<br>Please check your security settings.</p><br><hr><p><a href='http://www.boell.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.boell.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:31 +0800</pubDate>
     </item>
     <item>
-      <title>[Konrad Adenauer Foundation --Germany] Web Application Firewall</title>
+      <title><![CDATA[[Konrad Adenauer Foundation --Germany] Web Application Firewall]]></title>
       <link>https://www.kas.de/de/home</link>
-      <description><![CDATA[<p>Ihre Anfrage wurde aus Sicherheitsgründen blockiert:<br>Fehler-ID : 0.42cd2f17.1784639754.1307899<br>Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an:<br>liferay.portale@kas.de<br>Your request was blocked due to security reasons:<br>Event ID : 0.42cd2f17.1784639754.1307899<br>If you think this was a mistake, please contact:<br>liferay.portale@kas.de</p><br><hr><p><a href='https://www.kas.de/de/home' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.kas.de/de/home</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:54 +0800</pubDate>
+      <description><![CDATA[Ihre Anfrage wurde aus Sicherheitsgründen blockiert:
+Fehler-ID : 0.26cfdb17.1784640042.15a9f5e4
+Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an:
+liferay.portale@...]]></description>
+      <content:encoded><![CDATA[<div><p>Ihre Anfrage wurde aus Sicherheitsgründen blockiert:<br>Fehler-ID : 0.26cfdb17.1784640042.15a9f5e4<br>Wenn Sie glauben, dass es sich dabei um einen Fehler handelt, wenden Sie sich bitte an:<br>liferay.portale@kas.de<br>Your request was blocked due to security reasons:<br>Event ID : 0.26cfdb17.1784640042.15a9f5e4<br>If you think this was a mistake, please contact:<br>liferay.portale@kas.de</p><br><hr><p><a href='https://www.kas.de/de/home' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.kas.de/de/home</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:42 +0800</pubDate>
     </item>
     <item>
-      <title>[Ecologic Institute --Germany] Ecologic Institute – Science and Policy for a Sustainable World</title>
-      <link>http://ecologic.eu/</link>
-      <description><![CDATA[<p>Source: Adapted from Balesdent (1996); values from Le Quéré et al. (2014); graphic adapted by the 4 per 1000 Initiative. Extended to 4:3 using AI by Ecologic Institute (2026).<br>Ecologic Institute is Officially Part of the "4 per 1000" Initiative: Soils for Food Security and Climate<br>News<br>Date<br>6 July 2026<br>Location<br>Berlin,<br>            Germany<br>Ecologic Institute is proud to announce that it has officially joined the "4 per 1000" Initiative: Soils for Food Security and Climate. The initiative's objective is to highlight that agriculture, and in particular agricultural soils, can provide concrete solutions to both climate change and food security.<br>Read more</p><br><hr><p><a href='http://ecologic.eu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://ecologic.eu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:56 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Bertelsmann Foundation --Germany] Inspiring people.Shaping the future.</title>
-      <link>http://www.bertelsmann-stiftung.de/en/home/</link>
-      <description><![CDATA[<p>14.07.2026<br>Germany’s younger generation is more optimistic about the future of society<br>Weiterlesen</p><br><hr><p><a href='http://www.bertelsmann-stiftung.de/en/home/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.bertelsmann-stiftung.de/en/home/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:56 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Hanns Seidel Foundation (HSS) --Germany] In the Service of Democracy, Peace and Development</title>
+      <title><![CDATA[[Hanns Seidel Foundation (HSS) --Germany] In the Service of Democracy, Peace and Development]]></title>
       <link>http://www.hss.de/english.html</link>
-      <description><![CDATA[<p>Contact<br>Sitemap<br>Imprint<br>Dataprotection<br>General terms and conditions of use<br>DE<br>|<br>EN<br>© Hanns-Seidel-Stiftung<br>all categories<br>in articles<br>in events<br>in publications<br>in media<br>in documents<br>close<br>DE<br>|<br>EN<br>Jump to main navigation<br>Jump to content<br>more<br>Login / Register<br>Enter your Email address and we will send you a secure personal link<br>E-Mail<br>Birthday<br>Email<br>Our<br>data protection information<br>provides you with information on how we handle your data.<br>OK<br>Check your Email Inbox<br>We have sent a secure link to your email.<br>					Click on the link to log in or register.<br>hss.de/en<br>peopleimages.com; HSS; adobe stock<br>In the Service of Democracy, Peace and Development<br>About Us<br>Democracy can survive only with a democratically-minded population.<br>The Hanns Seidel Foundation's mission<br>This lesson, learned from the failure of the first German Republic, the Weimar Republic, led the Federal Republic of Germany to establish political foundations. As an important part of political culture, these foundations would henceforth serve as a lasting and profound anchor for democratic awareness in our country. Former German President Roman Herzog accurately characterised them as “schools of democratic thought and action, testbeds for civil courage and common sense that bestow upon us the ethical principles without which our political system cannot function.” Today, six political foundations operate in Germany, spanning the political spectrum. Each is closely aligned with one party. Their legitimacy comes from nearly com<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.hss.de/english.html' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.hss.de/english.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:56 +0800</pubDate>
+      <description><![CDATA[Contact
+Sitemap
+Imprint
+Dataprotection
+General terms and conditions of use
+DE
+|
+EN
+© Hanns-Seidel-Stiftung
+all categories
+in articles
+in events
+in publications
+in media
+in documents
+close
+DE
+|
+EN
+Jump...]]></description>
+      <content:encoded><![CDATA[<div><p>Contact<br>Sitemap<br>Imprint<br>Dataprotection<br>General terms and conditions of use<br>DE<br>|<br>EN<br>© Hanns-Seidel-Stiftung<br>all categories<br>in articles<br>in events<br>in publications<br>in media<br>in documents<br>close<br>DE<br>|<br>EN<br>Jump to main navigation<br>Jump to content<br>more<br>Login / Register<br>Enter your Email address and we will send you a secure personal link<br>E-Mail<br>Birthday<br>Email<br>Our<br>data protection information<br>provides you with information on how we handle your data.<br>OK<br>Check your Email Inbox<br>We have sent a secure link to your email.<br>					Click on the link to log in or register.<br>hss.de/en<br>peopleimages.com; HSS; adobe stock<br>In the Service of Democracy, Peace and Development<br>About Us<br>Democracy can survive only with a democratically-minded population.<br>The Hanns Seidel Foundation's mission<br>This lesson, learned from the failure of the first German Republic, the Weimar Republic, led the Federal Republic of Germany to establish political foundations. As an important part of political culture, these foundations would henceforth serve as a lasting and profound anchor for democratic awareness in our country. Former German President Roman Herzog accurately characterised them as “schools of democratic thought and action, testbeds for civil courage and common sense that bestow upon us the ethical principles without which our political system cannot function.” Today, six political foundations operate in Germany, spanning the political spectrum. Each is closely aligned with one party. Their legitimacy comes from nearly com<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.hss.de/english.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.hss.de/english.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:44 +0800</pubDate>
     </item>
     <item>
-      <title>[Friedrich Naumann Foundation (FNF) --Germany] 404 - Page not foundSorry, this page can&#x27;t be found.</title>
+      <title><![CDATA[[Ecologic Institute --Germany] Ecologic Institute – Science and Policy for a Sustainable World]]></title>
+      <link>http://ecologic.eu/</link>
+      <description><![CDATA[Source: Adapted from Balesdent (1996); values from Le Quéré et al. (2014); graphic adapted by the 4 per 1000 Initiative. Extended to 4:3 using AI by Ecologic Institute (2026).
+Ecologic Institute is Of...]]></description>
+      <content:encoded><![CDATA[<div><p>Source: Adapted from Balesdent (1996); values from Le Quéré et al. (2014); graphic adapted by the 4 per 1000 Initiative. Extended to 4:3 using AI by Ecologic Institute (2026).<br>Ecologic Institute is Officially Part of the "4 per 1000" Initiative: Soils for Food Security and Climate<br>News<br>Date<br>6 July 2026<br>Location<br>Berlin,<br>            Germany<br>Ecologic Institute is proud to announce that it has officially joined the "4 per 1000" Initiative: Soils for Food Security and Climate. The initiative's objective is to highlight that agriculture, and in particular agricultural soils, can provide concrete solutions to both climate change and food security.<br>Read more</p><br><hr><p><a href='http://ecologic.eu/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://ecologic.eu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:44 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Friedrich Naumann Foundation (FNF) --Germany] 404 - Page not foundSorry, this page can't be found.]]></title>
       <link>https://www.freiheit.org/welcome-friedrich-naumann-foundation-freedom</link>
-      <description><![CDATA[<p>Maybe you can find the content you are looking for on our<br>home<br>page.<br>Alternatively, we can help you directly. Please send us an email to<br>service@freiheit.org<br>.<br>Your team from<br>freiheit.org</p><br><hr><p><a href='https://www.freiheit.org/welcome-friedrich-naumann-foundation-freedom' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.freiheit.org/welcome-friedrich-naumann-foundation-freedom</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:56 +0800</pubDate>
+      <description><![CDATA[Maybe you can find the content you are looking for on our
+home
+page.
+Alternatively, we can help you directly. Please send us an email to
+service@freiheit.org
+.
+Your team from
+freiheit.org...]]></description>
+      <content:encoded><![CDATA[<div><p>Maybe you can find the content you are looking for on our<br>home<br>page.<br>Alternatively, we can help you directly. Please send us an email to<br>service@freiheit.org<br>.<br>Your team from<br>freiheit.org</p><br><hr><p><a href='https://www.freiheit.org/welcome-friedrich-naumann-foundation-freedom' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.freiheit.org/welcome-friedrich-naumann-foundation-freedom</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:44 +0800</pubDate>
     </item>
     <item>
-      <title>[Centre for Global Cooperation Research --Germany] Not Found</title>
+      <title><![CDATA[[Bertelsmann Foundation --Germany] Inspiring people.Shaping the future.]]></title>
+      <link>http://www.bertelsmann-stiftung.de/en/home/</link>
+      <description><![CDATA[14.07.2026
+Germany’s younger generation is more optimistic about the future of society
+Weiterlesen...]]></description>
+      <content:encoded><![CDATA[<div><p>14.07.2026<br>Germany’s younger generation is more optimistic about the future of society<br>Weiterlesen</p><br><hr><p><a href='http://www.bertelsmann-stiftung.de/en/home/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.bertelsmann-stiftung.de/en/home/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:46 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Centre for Global Cooperation Research --Germany] Not Found]]></title>
       <link>https://www.gcr21.org/en/welcome-to-the-centre-for-global-cooperation-research/cache/no_cache/</link>
-      <description><![CDATA[<p>Not Found<br>The requested URL was not found on this server.<br>Additionally, a 404 Not Found<br>error was encountered while trying to use an ErrorDocument to handle the request.</p><br><hr><p><a href='https://www.gcr21.org/en/welcome-to-the-centre-for-global-cooperation-research/cache/no_cache/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.gcr21.org/en/welcome-to-the-centre-for-global-cooperation-research/cache/no_cache/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:57 +0800</pubDate>
+      <description><![CDATA[Not Found
+The requested URL was not found on this server.
+Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request....]]></description>
+      <content:encoded><![CDATA[<div><p>Not Found<br>The requested URL was not found on this server.<br>Additionally, a 404 Not Found<br>error was encountered while trying to use an ErrorDocument to handle the request.</p><br><hr><p><a href='https://www.gcr21.org/en/welcome-to-the-centre-for-global-cooperation-research/cache/no_cache/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.gcr21.org/en/welcome-to-the-centre-for-global-cooperation-research/cache/no_cache/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:46 +0800</pubDate>
     </item>
     <item>
-      <title>[Koerber Foundation --Germany] 404 Nicht gefunden</title>
+      <title><![CDATA[[Koerber Foundation --Germany] 404 Nicht gefunden]]></title>
       <link>https://www.koerber-stiftung.de/en.html</link>
-      <description><![CDATA[<p>Seite nicht gefunden.<br>Gründe dafür könnten sein, dass Sie eine falsche oder veraltete URL aufgerufen haben – bitte überprüfen Sie diese noch einmal. Oder aber wir haben die betreffende Seite archiviert, verschoben oder umbenannt. Vielleicht können Sie den von Ihnen gewünschten Inhalt über unsere Startseite oder die Suche finden.<br>zur Startseite</p><br><hr><p><a href='https://www.koerber-stiftung.de/en.html' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.koerber-stiftung.de/en.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:58 +0800</pubDate>
+      <description><![CDATA[Seite nicht gefunden.
+Gründe dafür könnten sein, dass Sie eine falsche oder veraltete URL aufgerufen haben – bitte überprüfen Sie diese noch einmal. Oder aber wir haben die betreffende Seite archivier...]]></description>
+      <content:encoded><![CDATA[<div><p>Seite nicht gefunden.<br>Gründe dafür könnten sein, dass Sie eine falsche oder veraltete URL aufgerufen haben – bitte überprüfen Sie diese noch einmal. Oder aber wir haben die betreffende Seite archiviert, verschoben oder umbenannt. Vielleicht können Sie den von Ihnen gewünschten Inhalt über unsere Startseite oder die Suche finden.<br>zur Startseite</p><br><hr><p><a href='https://www.koerber-stiftung.de/en.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.koerber-stiftung.de/en.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:46 +0800</pubDate>
     </item>
     <item>
-      <title>[Duesseldorf Center for Competition Economics (DICE) --Germany] Not Found</title>
+      <title><![CDATA[[Duesseldorf Center for Competition Economics (DICE) --Germany] Not Found]]></title>
       <link>http://www.dice.hhu.de/en.html</link>
-      <description><![CDATA[<p>Not Found<br>The requested URL was not found on this server.<br>Apache/2.4.67 (Debian) Server at www.dice.hhu.de Port 443</p><br><hr><p><a href='http://www.dice.hhu.de/en.html' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.dice.hhu.de/en.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:58 +0800</pubDate>
+      <description><![CDATA[Not Found
+The requested URL was not found on this server.
+Apache/2.4.67 (Debian) Server at www.dice.hhu.de Port 443...]]></description>
+      <content:encoded><![CDATA[<div><p>Not Found<br>The requested URL was not found on this server.<br>Apache/2.4.67 (Debian) Server at www.dice.hhu.de Port 443</p><br><hr><p><a href='http://www.dice.hhu.de/en.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.dice.hhu.de/en.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:47 +0800</pubDate>
     </item>
     <item>
-      <title>[Potsdam Institute for Climate Impact Research --Germany] You might have been looking for…</title>
-      <link>https://www.pik-potsdam.de/pik-frontpage</link>
-      <description><![CDATA[<p>We apologize for the inconvenience, but the page you were trying to access is not at this address. You can use the links below to help you find what you are looking for.<br>If you are certain you have the correct web address but are encountering an error, please contact the<br>site administration<br>.<br>Thank you.<br>You might have been looking for…<br>Girls‘Day: Visiting climate scientists<br>04/27/2017 – 15 female students from Berlin and Brandenburg have visited the Potsdam Institute for Climate Impact Research (PIK) to inform themselves about  ...</p><br><hr><p><a href='https://www.pik-potsdam.de/pik-frontpage' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.pik-potsdam.de/pik-frontpage</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:58 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Jacques Delors Institut --Germany] Die besten online Casinos in der Übersicht</title>
+      <title><![CDATA[[Jacques Delors Institut --Germany] Die besten online Casinos in der Übersicht]]></title>
       <link>http://www.delorsinstitut.de/en/</link>
-      <description><![CDATA[<p>Delors Institut<br>Die besten online Casinos im Test<br>Start<br>Strategien<br>Ratgeber<br>Die besten online Casinos in der Übersicht<br>Die besten Online Casinos bieten heutzutage eine hervorragende Kombination aus aufregenden Spielen, sicheren Zahlungsmethoden und exzellentem Kundenservice. Sie sind von vertrauenswürdigen Behörden lizenziert und reguliert, was den Spielern Sicherheit und Fairness garantiert. Diese Top-Casinos bieten eine breite Palette an Spielen wie Slots, Tischspiele, Live-Casino und mehr, die von führenden Softwareentwicklern wie NetEnt, Microgaming und Playtech bereitgestellt werden.<br>Inhalte<br>Anzeigen<br>1<br>Die besten deutschen online Casinos 2026<br>2<br>Online Casinos ohne Limit<br>2.1<br>Beispiele für online Casinos, die möglicherweise weniger restriktive Limits haben:<br>3<br>Online Casinos ohne Oasis<br>4<br>Online Casinos ohne LUGAS<br>4.1<br>Aspekte bei der Suche nach Online-Casinos ohne LUGAS<br>4.2<br>Beispiele für lizenzierte Casinos ohne LUGAS:<br>4.3<br>Wichtige Hinweise<br>5<br>Online-Casinos ohne Verifizierung<br>5.1<br>Aspekte bei der Suche nach Casinos ohne Verifizierung<br>5.2<br>Beispiele für Casinos ohne Verifizierung<br>5.3<br>Wichtige Hinweise<br>6<br>Online Casinos ohne 5 Sekunden Regel<br>6.1<br>Aspekte bei der Suche nach Online-Casinos ohne 5-Sekunden-Regel<br>6.2<br>Beispiele für Casinos ohne 5-Sekunden-Regel<br>6.3<br>Wichtige Hinweise<br>Die besten deutschen online Casinos 2026<br>1<br>🏆Testsieger Slots:<br>RollingSlots<br>300% bis 3500 € + 550 FS<br>Tausende kostenlose Demo-Slots<br>5.0<br>Ohne Einschränkungen spielen<br>Jetzt anschauen!<br>Bewertung<br>2<br>🏆Testsieger S<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.delorsinstitut.de/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.delorsinstitut.de/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:59 +0800</pubDate>
+      <description><![CDATA[Delors Institut
+Die besten online Casinos im Test
+Start
+Strategien
+Ratgeber
+Die besten online Casinos in der Übersicht
+Die besten Online Casinos bieten heutzutage eine hervorragende Kombination aus au...]]></description>
+      <content:encoded><![CDATA[<div><p>Delors Institut<br>Die besten online Casinos im Test<br>Start<br>Strategien<br>Ratgeber<br>Die besten online Casinos in der Übersicht<br>Die besten Online Casinos bieten heutzutage eine hervorragende Kombination aus aufregenden Spielen, sicheren Zahlungsmethoden und exzellentem Kundenservice. Sie sind von vertrauenswürdigen Behörden lizenziert und reguliert, was den Spielern Sicherheit und Fairness garantiert. Diese Top-Casinos bieten eine breite Palette an Spielen wie Slots, Tischspiele, Live-Casino und mehr, die von führenden Softwareentwicklern wie NetEnt, Microgaming und Playtech bereitgestellt werden.<br>Inhalte<br>Anzeigen<br>1<br>Die besten deutschen online Casinos 2026<br>2<br>Online Casinos ohne Limit<br>2.1<br>Beispiele für online Casinos, die möglicherweise weniger restriktive Limits haben:<br>3<br>Online Casinos ohne Oasis<br>4<br>Online Casinos ohne LUGAS<br>4.1<br>Aspekte bei der Suche nach Online-Casinos ohne LUGAS<br>4.2<br>Beispiele für lizenzierte Casinos ohne LUGAS:<br>4.3<br>Wichtige Hinweise<br>5<br>Online-Casinos ohne Verifizierung<br>5.1<br>Aspekte bei der Suche nach Casinos ohne Verifizierung<br>5.2<br>Beispiele für Casinos ohne Verifizierung<br>5.3<br>Wichtige Hinweise<br>6<br>Online Casinos ohne 5 Sekunden Regel<br>6.1<br>Aspekte bei der Suche nach Online-Casinos ohne 5-Sekunden-Regel<br>6.2<br>Beispiele für Casinos ohne 5-Sekunden-Regel<br>6.3<br>Wichtige Hinweise<br>Die besten deutschen online Casinos 2026<br>1<br>🏆Testsieger Slots:<br>RollingSlots<br>300% bis 3500 € + 550 FS<br>Tausende kostenlose Demo-Slots<br>5.0<br>Ohne Einschränkungen spielen<br>Jetzt anschauen!<br>Bewertung<br>2<br>🏆Testsieger S<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.delorsinstitut.de/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.delorsinstitut.de/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:47 +0800</pubDate>
     </item>
     <item>
-      <title>[European Stability Initiative --Germany] Main navigation</title>
+      <title><![CDATA[[Potsdam Institute for Climate Impact Research --Germany] You might have been looking for…]]></title>
+      <link>https://www.pik-potsdam.de/pik-frontpage</link>
+      <description><![CDATA[We apologize for the inconvenience, but the page you were trying to access is not at this address. You can use the links below to help you find what you are looking for.
+If you are certain you have th...]]></description>
+      <content:encoded><![CDATA[<div><p>We apologize for the inconvenience, but the page you were trying to access is not at this address. You can use the links below to help you find what you are looking for.<br>If you are certain you have the correct web address but are encountering an error, please contact the<br>site administration<br>.<br>Thank you.<br>You might have been looking for…<br>Girls‘Day: Visiting climate scientists<br>04/27/2017 – 15 female students from Berlin and Brandenburg have visited the Potsdam Institute for Climate Impact Research (PIK) to inform themselves about  ...</p><br><hr><p><a href='https://www.pik-potsdam.de/pik-frontpage' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.pik-potsdam.de/pik-frontpage</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:48 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[European Stability Initiative --Germany] Main navigation]]></title>
       <link>https://www.esiweb.org</link>
-      <description><![CDATA[<p></p><br><hr><p><a href='https://www.esiweb.org' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.esiweb.org</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:00 +0800</pubDate>
+      <description><![CDATA[...]]></description>
+      <content:encoded><![CDATA[<div><p></p><br><hr><p><a href='https://www.esiweb.org' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.esiweb.org</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:49 +0800</pubDate>
     </item>
     <item>
-      <title>[The Centre for East European and International Studies --Germany] Page Not Found</title>
+      <title><![CDATA[[The Centre for East European and International Studies --Germany] Page Not Found]]></title>
       <link>https://en.zois-berlin.de</link>
-      <description><![CDATA[<p>404<br>Page Not Found<br>The page did not exist or was inaccessible. Reason: No site configuration found.<br>TYPO3 is an open source content management system. To maintain the quality of the system and to improve it, please help us by<br>donating<br>.<br>                Copyright © 1998-2026 Kasper Skårhøj. Extensions are copyright of their respective owners. Go to<br>typo3.org<br>for details.</p><br><hr><p><a href='https://en.zois-berlin.de' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://en.zois-berlin.de</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:01 +0800</pubDate>
+      <description><![CDATA[404
+Page Not Found
+The page did not exist or was inaccessible. Reason: No site configuration found.
+TYPO3 is an open source content management system. To maintain the quality of the system and to impr...]]></description>
+      <content:encoded><![CDATA[<div><p>404<br>Page Not Found<br>The page did not exist or was inaccessible. Reason: No site configuration found.<br>TYPO3 is an open source content management system. To maintain the quality of the system and to improve it, please help us by<br>donating<br>.<br>                Copyright © 1998-2026 Kasper Skårhøj. Extensions are copyright of their respective owners. Go to<br>typo3.org<br>for details.</p><br><hr><p><a href='https://en.zois-berlin.de' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://en.zois-berlin.de</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:49 +0800</pubDate>
     </item>
     <item>
-      <title>[Institute for the Study of Labor (IZA) --Germany] Cookie settings</title>
+      <title><![CDATA[[Institute for the Study of Labor (IZA) --Germany] Cookie settings]]></title>
       <link>http://www.iza.org/en/webcontent?lang=en&amp;-C=</link>
-      <description><![CDATA[<p>LISER<br>Policy Lab<br>World of Labour<br>Login<br>DE<br>EN<br>About us<br>Overview<br>Management team<br>Awards<br>History<br>Network<br>Overview<br>Research Fellows<br>Research Affiliates<br>Network Advisory Panel<br>Publications<br>Overview<br>Discussion Papers<br>World of Labour<br>Events<br>Overview<br>DE<br>EN<br>About us<br>Network<br>Publications<br>Events<br>LISER<br>Policy Lab<br>World of Labour<br>Login<br>Go back<br>We use cookies to provide you with the best possible website experience. This includes cookies that are necessary for the operation of the site, as well as cookies used for anonymous statistics, comfort settings, or displaying personalized content. You can decide which categories you want to allow. Please note that depending on your settings, some features of the website may not be available.<br>Configure consent<br>Accept all<br>Cookie settings<br>Necessary<br>These necessary cookies are required to enable the core functionality of the website. Opting out of these cookies is not possible.<br>cb-enable<br>This cookie stores the user's cookie consent status for the current domain. Expiry: 1 year.<br>laravel_session<br>Stores the session ID to recognize the user when the page reloads and to restore their login session. Expiry: 2 hours.<br>XSRF-TOKEN<br>Provides CSRF protection for forms. Expiry: 2 hours.<br>Privacy Policy<br>Accept<br>That page doesn't exist!<br>Sorry, the page you were looking for could not be found.<br>Try searching for something else…<br>Try searching for something else…<br>Or you can return to our<br>home page<br>, or<br>contact us<br>if you can't find what you are looking for.<br>Communications<br>Ma<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.iza.org/en/webcontent?lang=en&-C=' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.iza.org/en/webcontent?lang=en&amp;-C=</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:01 +0800</pubDate>
+      <description><![CDATA[LISER
+Policy Lab
+World of Labour
+Login
+DE
+EN
+About us
+Overview
+Management team
+Awards
+History
+Network
+Overview
+Research Fellows
+Research Affiliates
+Network Advisory Panel
+Publications
+Overview
+Discuss...]]></description>
+      <content:encoded><![CDATA[<div><p>LISER<br>Policy Lab<br>World of Labour<br>Login<br>DE<br>EN<br>About us<br>Overview<br>Management team<br>Awards<br>History<br>Network<br>Overview<br>Research Fellows<br>Research Affiliates<br>Network Advisory Panel<br>Publications<br>Overview<br>Discussion Papers<br>World of Labour<br>Events<br>Overview<br>DE<br>EN<br>About us<br>Network<br>Publications<br>Events<br>LISER<br>Policy Lab<br>World of Labour<br>Login<br>Go back<br>We use cookies to provide you with the best possible website experience. This includes cookies that are necessary for the operation of the site, as well as cookies used for anonymous statistics, comfort settings, or displaying personalized content. You can decide which categories you want to allow. Please note that depending on your settings, some features of the website may not be available.<br>Configure consent<br>Accept all<br>Cookie settings<br>Necessary<br>These necessary cookies are required to enable the core functionality of the website. Opting out of these cookies is not possible.<br>cb-enable<br>This cookie stores the user's cookie consent status for the current domain. Expiry: 1 year.<br>laravel_session<br>Stores the session ID to recognize the user when the page reloads and to restore their login session. Expiry: 2 hours.<br>XSRF-TOKEN<br>Provides CSRF protection for forms. Expiry: 2 hours.<br>Privacy Policy<br>Accept<br>That page doesn't exist!<br>Sorry, the page you were looking for could not be found.<br>Try searching for something else…<br>Try searching for something else…<br>Or you can return to our<br>home page<br>, or<br>contact us<br>if you can't find what you are looking for.<br>Communications<br>Ma<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.iza.org/en/webcontent?lang=en&-C=' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.iza.org/en/webcontent?lang=en&amp;-C=</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:50 +0800</pubDate>
     </item>
     <item>
-      <title>[Mercator Institute for the Global Commons --Germany] Complex Networks, Machine Learning &amp; Decision Theory</title>
+      <title><![CDATA[[Mercator Institute for the Global Commons --Germany] Land Use, Food, Water & Ecosystems]]></title>
       <link>https://www.mcc-berlin.net/</link>
-      <description><![CDATA[<p>From natural science to social science, from risks to solutions, from identifying Planetary Boundaries to managing Global Commons: The Potsdam Institute for Climate Impact Research (PIK) is advancing the frontier of integrated research for global sustainability, and for a safe and just climate future. A member of the Leibniz Association, the institute is based in Potsdam, Brandenburg and connected with the global scientific community. Drawing on excellent research, PIK provides relevant scientific advice for policy decision-making. The institute’s international staff of about 480 is led by a committed interdisciplinary team of<br>Directors<br>. This is science – for a safe tomorrow.</p><br><hr><p><a href='https://www.mcc-berlin.net/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.mcc-berlin.net/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:03 +0800</pubDate>
+      <description><![CDATA[From natural science to social science, from risks to solutions, from identifying Planetary Boundaries to managing Global Commons: The Potsdam Institute for Climate Impact Research (PIK) is advancing ...]]></description>
+      <content:encoded><![CDATA[<div><p>From natural science to social science, from risks to solutions, from identifying Planetary Boundaries to managing Global Commons: The Potsdam Institute for Climate Impact Research (PIK) is advancing the frontier of integrated research for global sustainability, and for a safe and just climate future. A member of the Leibniz Association, the institute is based in Potsdam, Brandenburg and connected with the global scientific community. Drawing on excellent research, PIK provides relevant scientific advice for policy decision-making. The institute’s international staff of about 480 is led by a committed interdisciplinary team of<br>Directors<br>. This is science – for a safe tomorrow.</p><br><hr><p><a href='https://www.mcc-berlin.net/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.mcc-berlin.net/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:51 +0800</pubDate>
     </item>
     <item>
-      <title>[9. Wuppertal Institute for Climate, Environment and Energy --Germany] GreenstageTakes it to theNext Level</title>
+      <title><![CDATA[[9. Wuppertal Institute for Climate, Environment and Energy --Germany] GreenstageTakes it to theNext Level]]></title>
       <link>https://wupperinst.org/en/</link>
-      <description><![CDATA[<p>The Institute<br>Topics<br>Research<br>Services<br>Publications<br>News & Press<br>DE<br>EN<br>The Institute<br>Topics<br>Research<br>Services<br>Publications<br>News & Press<br>DE<br>EN<br>Greenstage<br>Takes it to the<br>Next Level<br>The EU-funded Greenstage project promotes sustainability within the performing arts. In collaboration with local authorities, the aim is to enable cultural organisations to implement environmental sustainability effectively.<br>Circular Economy<br>Information<br>Ecosystem<br>A new In Brief from the Wuppertal Institute explains why digitisation is crucial for a functioning circular economy and which role the Circular Economy Information Ecosystem (CEIS) plays within this context.<br>Regenerative<br>Economics:<br>In Brief Published<br>The In Brief illustrates why existing strategies such as net zero, efficiency improvements and recycling are insufficient to tackle the current ecological crises. Instead, a new economic approach is needed – namely one that not only avoids damage but actively contributes to the restoration of ecosystems and integrates the regeneration of natural systems.<br>Transformation<br>of Energy and<br>Industry Systems<br>Wuppertal Institute strengthens research into transformation of energy and industry systems: Prof. Dr.-Ing. Clemens Rohde has been made Division Director at the Wuppertal Institute and appointed to a professorship at the University of Wuppertal.<br>Transition Research<br>How to design transition pathways to a more sustainable society? The Wuppertal Institute unites climate, environment and resource relate<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://wupperinst.org/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://wupperinst.org/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:21 +0800</pubDate>
+      <description><![CDATA[The Institute
+Topics
+Research
+Services
+Publications
+News & Press
+DE
+EN
+The Institute
+Topics
+Research
+Services
+Publications
+News & Press
+DE
+EN
+Greenstage
+Takes it to the
+Next Level
+The EU-funded Greens...]]></description>
+      <content:encoded><![CDATA[<div><p>The Institute<br>Topics<br>Research<br>Services<br>Publications<br>News & Press<br>DE<br>EN<br>The Institute<br>Topics<br>Research<br>Services<br>Publications<br>News & Press<br>DE<br>EN<br>Greenstage<br>Takes it to the<br>Next Level<br>The EU-funded Greenstage project promotes sustainability within the performing arts. In collaboration with local authorities, the aim is to enable cultural organisations to implement environmental sustainability effectively.<br>Circular Economy<br>Information<br>Ecosystem<br>A new In Brief from the Wuppertal Institute explains why digitisation is crucial for a functioning circular economy and which role the Circular Economy Information Ecosystem (CEIS) plays within this context.<br>Regenerative<br>Economics:<br>In Brief Published<br>The In Brief illustrates why existing strategies such as net zero, efficiency improvements and recycling are insufficient to tackle the current ecological crises. Instead, a new economic approach is needed – namely one that not only avoids damage but actively contributes to the restoration of ecosystems and integrates the regeneration of natural systems.<br>Transformation<br>of Energy and<br>Industry Systems<br>Wuppertal Institute strengthens research into transformation of energy and industry systems: Prof. Dr.-Ing. Clemens Rohde has been made Division Director at the Wuppertal Institute and appointed to a professorship at the University of Wuppertal.<br>Transition Research<br>How to design transition pathways to a more sustainable society? The Wuppertal Institute unites climate, environment and resource relate<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://wupperinst.org/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://wupperinst.org/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:15 +0800</pubDate>
     </item>
     <item>
-      <title>[2. Max Planck Institutes --Germany] Max Planck Institutes and Experts</title>
+      <title><![CDATA[[2. Max Planck Institutes --Germany] Max Planck Institutes and Experts]]></title>
       <link>https://www.mpg.de/institutes</link>
-      <description><![CDATA[<p>Max-Planck-Gesellschaft</p><br><hr><p><a href='https://www.mpg.de/institutes' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.mpg.de/institutes</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:23 +0800</pubDate>
+      <description><![CDATA[Max-Planck-Gesellschaft...]]></description>
+      <content:encoded><![CDATA[<div><p>Max-Planck-Gesellschaft</p><br><hr><p><a href='https://www.mpg.de/institutes' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.mpg.de/institutes</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:16 +0800</pubDate>
     </item>
     <item>
-      <title>[7. Center forDevelopment Research (ZEF) – Germany] Seite nicht gefunden / Page not found</title>
+      <title><![CDATA[[7. Center forDevelopment Research (ZEF) – Germany] Seite nicht gefunden / Page not found]]></title>
       <link>https://www.zef.de/zefhome.html</link>
-      <description><![CDATA[<p>Seite nicht gefunden / Page not found<br>Die aufgerufene Seite mit der URL<br>/zefhome.html<br>existiert leider nicht.<br>      Über den folgenden Link gelangen Sie zur Startseite:<br>https://www.zef.de<br>The requested page with URL<br>/zefhome.html<br>does not exist.<br>      Click here to reach the portal’s home page:<br>https://www.zef.de</p><br><hr><p><a href='https://www.zef.de/zefhome.html' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.zef.de/zefhome.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:23 +0800</pubDate>
+      <description><![CDATA[Seite nicht gefunden / Page not found
+Die aufgerufene Seite mit der URL
+/zefhome.html
+existiert leider nicht.
+      Über den folgenden Link gelangen Sie zur Startseite:
+https://www.zef.de
+The requeste...]]></description>
+      <content:encoded><![CDATA[<div><p>Seite nicht gefunden / Page not found<br>Die aufgerufene Seite mit der URL<br>/zefhome.html<br>existiert leider nicht.<br>      Über den folgenden Link gelangen Sie zur Startseite:<br>https://www.zef.de<br>The requested page with URL<br>/zefhome.html<br>does not exist.<br>      Click here to reach the portal’s home page:<br>https://www.zef.de</p><br><hr><p><a href='https://www.zef.de/zefhome.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.zef.de/zefhome.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:17 +0800</pubDate>
     </item>
   </channel>
 </rss>

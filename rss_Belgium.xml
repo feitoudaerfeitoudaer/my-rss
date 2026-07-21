@@ -1,108 +1,140 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title>智库全文订阅-Belgium</title>
+    <title><![CDATA[智库全文订阅-Belgium]]></title>
     <link>https://github.io_Belgium.xml</link>
-    <description>自动抓取的 [Belgium] 智库文章全文摘要（全量无损版）</description>
+    <description><![CDATA[自动抓取的 [Belgium] 智库文章全文摘要（全量无损版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
     <item>
-      <title>[Bruegel --Belgium] Just a moment...</title>
+      <title><![CDATA[[Bruegel --Belgium] Just a moment...]]></title>
       <link>http://bruegel.org/</link>
-      <description><![CDATA[<p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://bruegel.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://bruegel.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:31 +0800</pubDate>
+      <description><![CDATA[Enable JavaScript and cookies to continue...]]></description>
+      <content:encoded><![CDATA[<div><p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://bruegel.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://bruegel.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:17 +0800</pubDate>
     </item>
     <item>
-      <title>[International Crisis Group (ICG) --Belgium] Just a moment...</title>
+      <title><![CDATA[[International Crisis Group (ICG) --Belgium] Just a moment...]]></title>
       <link>https://www.crisisgroup.org/</link>
-      <description><![CDATA[<p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='https://www.crisisgroup.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.crisisgroup.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:32 +0800</pubDate>
+      <description><![CDATA[Enable JavaScript and cookies to continue...]]></description>
+      <content:encoded><![CDATA[<div><p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='https://www.crisisgroup.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.crisisgroup.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:18 +0800</pubDate>
     </item>
     <item>
-      <title>[European Political Strategy Centre (EPSC) --Belgium] Forbidden</title>
+      <title><![CDATA[[European Political Strategy Centre (EPSC) --Belgium] Forbidden]]></title>
       <link>http://ec.europa.eu/epsc/</link>
-      <description><![CDATA[<p>Forbidden<br>You don't have permission to access this resource.</p><br><hr><p><a href='http://ec.europa.eu/epsc/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://ec.europa.eu/epsc/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:34 +0800</pubDate>
+      <description><![CDATA[Forbidden
+You don't have permission to access this resource....]]></description>
+      <content:encoded><![CDATA[<div><p>Forbidden<br>You don't have permission to access this resource.</p><br><hr><p><a href='http://ec.europa.eu/epsc/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://ec.europa.eu/epsc/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:21 +0800</pubDate>
     </item>
     <item>
-      <title>[Centre for European Policy Studies --Belgium] Thinking ahead for Europe</title>
+      <title><![CDATA[[Centre for European Policy Studies --Belgium] Thinking ahead for Europe]]></title>
       <link>http://www.ceps.eu/</link>
-      <description><![CDATA[<p>Cookie Information<br>We use cookies and external services to improve our online services. You can choose to accept all or customise your settings.<br>Accept All<br>Customise<br>Customise Cookie Settings<br>Necessary Cookies<br>These are essential for the website to function properly.<br>Analytics Cookies<br>These help us understand how visitors interact with our website by collecting anonymous information.<br>Third-Party Content & Functionality<br>Accepting these allows us to embed content from services like YouTube.<br>Save Settings<br>Reject All<br>Tuesday | 21 Jul 2026<br>SUBSCRIBE<br>News<br>About Us<br>Our Team<br>Annual Report<br>Research Priorities 2024-2025<br>Press Page<br>Diversity, Equity & Inclusion<br>CEPS Alumni Network<br>Careers<br>Contact<br>Home<br>Research<br>CEPS Topics<br>View All Topics<br>Agriculture, food security, rural and regional development<br>AI, digitalisation and innovation<br>Data Science<br>Diversity, Equality & Inclusion<br>Economic and monetary affairs<br>CEPS Topics<br>Employment, social affairs and inclusion<br>Energy, climate change and the environment<br>EU budget and public investment<br>EU institutions and policymaking<br>Finance<br>Foreign and security policy<br>CEPS Topics<br>Health<br>Human rights and justice<br>Migration, asylum and borders<br>Russia, Ukraine and European security<br>Taxation<br>Trade<br>CEPS Units<br>View All Units<br>Agricultural Policy and Food Security<br>Economic Policy<br>Energy, Resources and Climate Change<br>Financial Markets and Institutions<br>Foreign Policy<br>GRID<br>Institutions<br>Jobs and Skills<br>Justice and Home Affairs<br>Publications<br>Events<br>Activities<br>Overview<br>ALL T<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.ceps.eu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.ceps.eu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:36 +0800</pubDate>
+      <description><![CDATA[Cookie Information
+We use cookies and external services to improve our online services. You can choose to accept all or customise your settings.
+Accept All
+Customise
+Customise Cookie Settings
+Necessar...]]></description>
+      <content:encoded><![CDATA[<div><p>Cookie Information<br>We use cookies and external services to improve our online services. You can choose to accept all or customise your settings.<br>Accept All<br>Customise<br>Customise Cookie Settings<br>Necessary Cookies<br>These are essential for the website to function properly.<br>Analytics Cookies<br>These help us understand how visitors interact with our website by collecting anonymous information.<br>Third-Party Content & Functionality<br>Accepting these allows us to embed content from services like YouTube.<br>Save Settings<br>Reject All<br>Tuesday | 21 Jul 2026<br>SUBSCRIBE<br>News<br>About Us<br>Our Team<br>Annual Report<br>Research Priorities 2024-2025<br>Press Page<br>Diversity, Equity & Inclusion<br>CEPS Alumni Network<br>Careers<br>Contact<br>Home<br>Research<br>CEPS Topics<br>View All Topics<br>Agriculture, food security, rural and regional development<br>AI, digitalisation and innovation<br>Data Science<br>Diversity, Equality & Inclusion<br>Economic and monetary affairs<br>CEPS Topics<br>Employment, social affairs and inclusion<br>Energy, climate change and the environment<br>EU budget and public investment<br>EU institutions and policymaking<br>Finance<br>Foreign and security policy<br>CEPS Topics<br>Health<br>Human rights and justice<br>Migration, asylum and borders<br>Russia, Ukraine and European security<br>Taxation<br>Trade<br>CEPS Units<br>View All Units<br>Agricultural Policy and Food Security<br>Economic Policy<br>Energy, Resources and Climate Change<br>Financial Markets and Institutions<br>Foreign Policy<br>GRID<br>Institutions<br>Jobs and Skills<br>Justice and Home Affairs<br>Publications<br>Events<br>Activities<br>Overview<br>ALL T<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.ceps.eu/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.ceps.eu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:22 +0800</pubDate>
     </item>
     <item>
-      <title>[European Policy Centre (EPC) --Belgium] Just a moment...</title>
+      <title><![CDATA[[European Policy Centre (EPC) --Belgium] Just a moment...]]></title>
       <link>http://www.epc.eu/</link>
-      <description><![CDATA[<p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://www.epc.eu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.epc.eu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:39 +0800</pubDate>
+      <description><![CDATA[Enable JavaScript and cookies to continue...]]></description>
+      <content:encoded><![CDATA[<div><p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://www.epc.eu/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.epc.eu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:27 +0800</pubDate>
     </item>
     <item>
-      <title>[Carnegie Europe --Belgium] Europe from Scratch: Visions for a New European Order</title>
+      <title><![CDATA[[Carnegie Europe --Belgium] Europe from Scratch: Visions for a New European Order]]></title>
       <link>http://carnegieeurope.eu/</link>
-      <description><![CDATA[<p>Commentary<br>Strategic Europe<br>Why Russia Could Escalate Hybrid Warfare Against Europe<br>Maksym Beznosiuk</p><br><hr><p><a href='http://carnegieeurope.eu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://carnegieeurope.eu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:42 +0800</pubDate>
+      <description><![CDATA[Commentary
+Strategic Europe
+Why Russia Could Escalate Hybrid Warfare Against Europe
+Maksym Beznosiuk...]]></description>
+      <content:encoded><![CDATA[<div><p>Commentary<br>Strategic Europe<br>Why Russia Could Escalate Hybrid Warfare Against Europe<br>Maksym Beznosiuk</p><br><hr><p><a href='http://carnegieeurope.eu/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://carnegieeurope.eu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:29 +0800</pubDate>
     </item>
     <item>
-      <title>[European Centre for International Political Economy (ECIPE) --Belgium] Latest Publications</title>
+      <title><![CDATA[[European Centre for International Political Economy (ECIPE) --Belgium] Latest Publications]]></title>
       <link>http://www.ecipe.org/</link>
-      <description><![CDATA[<p>Beijing Is Not Coercing Spain: Madrid Is Providing the Influence for Free<br>By:<br>Hosuk Lee-Makiyama<br>Spain is not a case of "weaponisation".</p><br><hr><p><a href='http://www.ecipe.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.ecipe.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:42 +0800</pubDate>
+      <description><![CDATA[Beijing Is Not Coercing Spain: Madrid Is Providing the Influence for Free
+By:
+Hosuk Lee-Makiyama
+Spain is not a case of "weaponisation"....]]></description>
+      <content:encoded><![CDATA[<div><p>Beijing Is Not Coercing Spain: Madrid Is Providing the Influence for Free<br>By:<br>Hosuk Lee-Makiyama<br>Spain is not a case of "weaponisation".</p><br><hr><p><a href='http://www.ecipe.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.ecipe.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:30 +0800</pubDate>
     </item>
     <item>
-      <title>[Egmont - Royal Institute for International Relations --Belgium] Latest publications</title>
+      <title><![CDATA[[Egmont - Royal Institute for International Relations --Belgium] Latest publications]]></title>
       <link>http://www.egmontinstitute.be/</link>
-      <description><![CDATA[<p>European Policy Briefs<br>Belarus has shifted from a balancing state between East and West to a highly dependent ally of Russia under Aliaksandr Lukashenka’s authoritarian rule. Following the 2020–21 protests and subsequent repression, […]<br>Securing the Eastern Flank: Understanding Belarus’ Role in European Security and Future Prospects<br>By<br>Paulinka Mickiewicz<br>,<br>Amanda Paul<br>,<br>16 July 2026</p><br><hr><p><a href='http://www.egmontinstitute.be/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.egmontinstitute.be/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:43 +0800</pubDate>
+      <description><![CDATA[European Policy Briefs
+Belarus has shifted from a balancing state between East and West to a highly dependent ally of Russia under Aliaksandr Lukashenka’s authoritarian rule. Following the 2020–21 pro...]]></description>
+      <content:encoded><![CDATA[<div><p>European Policy Briefs<br>Belarus has shifted from a balancing state between East and West to a highly dependent ally of Russia under Aliaksandr Lukashenka’s authoritarian rule. Following the 2020–21 protests and subsequent repression, […]<br>Securing the Eastern Flank: Understanding Belarus’ Role in European Security and Future Prospects<br>By<br>Paulinka Mickiewicz<br>,<br>Amanda Paul<br>,<br>16 July 2026</p><br><hr><p><a href='http://www.egmontinstitute.be/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.egmontinstitute.be/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:30 +0800</pubDate>
     </item>
     <item>
-      <title>[Friends of Europe --Belgium] Preparing for the world we already live in</title>
+      <title><![CDATA[[Friends of Europe --Belgium] Preparing for the world we already live in]]></title>
       <link>http://www.friendsofeurope.org/</link>
-      <description><![CDATA[<p>Read more about "Building Europe's biotechnology future: from discovery to delivery"<br>Building Europe's biotechnology future: from discovery to delivery<br>Next event<br>In person<br>08<br>Sep<br>2026<br>Area of Expertise<br>Sustainable Livelihoods</p><br><hr><p><a href='http://www.friendsofeurope.org/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.friendsofeurope.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:57 +0800</pubDate>
+      <description><![CDATA[Read more about "Building Europe's biotechnology future: from discovery to delivery"
+Building Europe's biotechnology future: from discovery to delivery
+Next event
+In person
+08
+Sep
+2026
+Area of Experti...]]></description>
+      <content:encoded><![CDATA[<div><p>Read more about "Building Europe's biotechnology future: from discovery to delivery"<br>Building Europe's biotechnology future: from discovery to delivery<br>Next event<br>In person<br>08<br>Sep<br>2026<br>Area of Expertise<br>Sustainable Livelihoods</p><br><hr><p><a href='http://www.friendsofeurope.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.friendsofeurope.org/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:45 +0800</pubDate>
     </item>
     <item>
-      <title>[Lisbon Council for Economic Competitiveness and Social Renewal --Belgium] </title>
+      <title><![CDATA[[Lisbon Council for Economic Competitiveness and Social Renewal --Belgium] ]]></title>
       <link>http://www.lisboncouncil.net/</link>
-      <description><![CDATA[<p>Skip to content<br>VIEW ALL RESULTS -<br>Generic selectors<br>Exact matches only<br>Search in title<br>Search in content<br>Post Type Selectors<br>VIEW ALL RESULTS -<br>Generic selectors<br>Exact matches only<br>Search in title<br>Search in content<br>Post Type Selectors<br>VIEW ALL RESULTS -<br>Generic selectors<br>Exact matches only<br>Search in title<br>Search in content<br>Post Type Selectors<br>VIEW ALL RESULTS -<br>Generic selectors<br>Exact matches only<br>Search in title<br>Search in content<br>Post Type Selectors<br>NEWSLETTER<br>ANNUAL REPORT<br>JOBS<br>CONTACT<br>News<br>Summits<br>The Forum<br>Projects<br>Publications<br>Media<br>About<br>Contact<br>Social Media Bans for Kids<br>Evidence<br>Hub<br>The<br>Web<br>Young People Want<br>We rarely hear directly from young people about their online experience. The Lisbon Council convened the<br>High-Level Roundtable on ‘The Web Young People Want: Building a Digital Future on Agency and Equality,’<br>an opportunity for decision-makers to listen to youth representatives and discuss how to redesign an online world that works for them.<br>‹<br>Previous<br>1<br>/<br>›<br>Next<br>Scaling<br>Europe Summit 2026<br>Competitiveness remains at the top of the policy agenda, and the work of the Lisbon Council to help ensure Europe’s future is shaped for and by its founders continues just as strongly. The Lisbon Council convened the<br>Scaling Europe Summit 2026,<br>bringing together leading European entrepreneurs and policymakers for a dialogue on what comes next for a thriving European startup and scale-up ecosystem.<br>‹<br>Previous<br>2<br>/<br>›<br>Next<br>Sovereignty<br>in Practice<br>How to truly achieve digital sovere<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.lisboncouncil.net/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.lisboncouncil.net/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:57 +0800</pubDate>
+      <description><![CDATA[Skip to content
+VIEW ALL RESULTS -
+Generic selectors
+Exact matches only
+Search in title
+Search in content
+Post Type Selectors
+VIEW ALL RESULTS -
+Generic selectors
+Exact matches only
+Search in title
+Se...]]></description>
+      <content:encoded><![CDATA[<div><p>Skip to content<br>VIEW ALL RESULTS -<br>Generic selectors<br>Exact matches only<br>Search in title<br>Search in content<br>Post Type Selectors<br>VIEW ALL RESULTS -<br>Generic selectors<br>Exact matches only<br>Search in title<br>Search in content<br>Post Type Selectors<br>VIEW ALL RESULTS -<br>Generic selectors<br>Exact matches only<br>Search in title<br>Search in content<br>Post Type Selectors<br>VIEW ALL RESULTS -<br>Generic selectors<br>Exact matches only<br>Search in title<br>Search in content<br>Post Type Selectors<br>NEWSLETTER<br>ANNUAL REPORT<br>JOBS<br>CONTACT<br>News<br>Summits<br>The Forum<br>Projects<br>Publications<br>Media<br>About<br>Contact<br>Social Media Bans for Kids<br>Evidence<br>Hub<br>The<br>Web<br>Young People Want<br>We rarely hear directly from young people about their online experience. The Lisbon Council convened the<br>High-Level Roundtable on ‘The Web Young People Want: Building a Digital Future on Agency and Equality,’<br>an opportunity for decision-makers to listen to youth representatives and discuss how to redesign an online world that works for them.<br>‹<br>Previous<br>1<br>/<br>›<br>Next<br>Scaling<br>Europe Summit 2026<br>Competitiveness remains at the top of the policy agenda, and the work of the Lisbon Council to help ensure Europe’s future is shaped for and by its founders continues just as strongly. The Lisbon Council convened the<br>Scaling Europe Summit 2026,<br>bringing together leading European entrepreneurs and policymakers for a dialogue on what comes next for a thriving European startup and scale-up ecosystem.<br>‹<br>Previous<br>2<br>/<br>›<br>Next<br>Sovereignty<br>in Practice<br>How to truly achieve digital sovere<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.lisboncouncil.net/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.lisboncouncil.net/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:46 +0800</pubDate>
     </item>
     <item>
-      <title>[Wilfried Martens Centre for European Studies (WMCES) --Belgium] </title>
+      <title><![CDATA[[Wilfried Martens Centre for European Studies (WMCES) --Belgium] ]]></title>
       <link>https://www.martenscentre.eu/wilfried-martens-centre-european-studies</link>
-      <description><![CDATA[<p>Oops, This Page Could Not Be Found!<br>Error 404<br>Sorry we just changed the URL of this page. Please click on the menu to find the page<br>back to homepage</p><br><hr><p><a href='https://www.martenscentre.eu/wilfried-martens-centre-european-studies' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.martenscentre.eu/wilfried-martens-centre-european-studies</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:58 +0800</pubDate>
+      <description><![CDATA[Oops, This Page Could Not Be Found!
+Error 404
+Sorry we just changed the URL of this page. Please click on the menu to find the page
+back to homepage...]]></description>
+      <content:encoded><![CDATA[<div><p>Oops, This Page Could Not Be Found!<br>Error 404<br>Sorry we just changed the URL of this page. Please click on the menu to find the page<br>back to homepage</p><br><hr><p><a href='https://www.martenscentre.eu/wilfried-martens-centre-european-studies' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.martenscentre.eu/wilfried-martens-centre-european-studies</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:47 +0800</pubDate>
     </item>
     <item>
-      <title>[European Organisation for Security --Belgium] Joint Statement for an Ambitious FP10: Investing in Europe’s Future Competitiveness through Collaborative Research, Development, and Innovation</title>
-      <link>http://www.eos-eu.com/default.aspx?page=home</link>
-      <description><![CDATA[<p>Home<br>About Us<br>What is EOS?<br>Board of Directors<br>Team<br>Members<br>Policy<br>Cyber and Physical Security<br>Digital Homeland Security<br>Research and Innovation<br>SSD Technologies<br>Research<br>Ongoing Projects<br>ATHENA<br>ENACT<br>COcyber<br>PRESERVE<br>Past Projects<br>AI4EU<br>AI4CYBER<br>AI-ARC<br>CAPITAL<br>CORE<br>COURAGE<br>EU-CIP<br>EU-HYBNET<br>CYSPA<br>DRIVER+<br>i-LEAD<br>EUROSKY<br>LINKS<br>MEDEA<br>PRECINCT<br>HERMENEUT<br>RISKPACC<br>MEDI@4SEC<br>SAFETY4RAILS<br>MiNDb4ACT<br>SECURE4ALL<br>POP-ALERT<br>SAFECARE<br>SHIELD<br>STRATEGY<br>SAYSO<br>SOURCE<br>STEPWISE<br>TRANSCEND<br>SPIRIT<br>TENSOR<br>Publications<br>Events<br>Upcoming Events<br>Past Events<br>News<br>Join Us<br>integrated BORDER SECURITY<br>EOS facilitates the development and uptake of better technology solutions for border<br>security<br>both at border checkpoints, and along maritime and land borders.<br>Critical Infrastructures Protection<br>EOS’ Cyber and Physical Security Working Group promotes a comprehensive cyber-physical approach to European security.<br>It aims to facilitate the development and uptake of technological solutions that will enable the EU to effectively prevent,<br>manage and recover from crises caused by hybrid and other threats.<br>Research and Innovation<br>The Research and Innovation Working Group focuses on defining and promoting strategic R&I priorities tackling needs<br>and gaps across the various security domains. It also contributes to shaping future development of security solutions<br>by facilitating its members’ participation to ongoing EU-security related programmes.<br>Security screening and detection technologies<br>"test"<br>Applications for SSD tech<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.eos-eu.com/default.aspx?page=home' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.eos-eu.com/default.aspx?page=home</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:59 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Foundation for European Progressive Studies (FEPS) --Belgium] Economy</title>
+      <title><![CDATA[[Foundation for European Progressive Studies (FEPS) --Belgium] Economy]]></title>
       <link>https://www.feps-europe.eu</link>
-      <description><![CDATA[<p>Economy</p><br><hr><p><a href='https://www.feps-europe.eu' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.feps-europe.eu</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:02 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Foreign Policy Centre (FPC) --Belgium] Join our mailing list</title>
-      <link>http://fpc.org.uk/</link>
-      <description><![CDATA[<p>20/07/26<br>No Shortcuts to Trust: Education, Civic Habits, and Social Resilience in Central Asia<br>In Central Asia, citizens have not simply lost faith in institutions. They have stopped expecting institutions to deserve it.   Citizens are curious about reform, transparency, opportunity, participation, and modernisation.…<br>Article<br>by<br>				Farrukh Irnazarov</p><br><hr><p><a href='http://fpc.org.uk/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://fpc.org.uk/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:02 +0800</pubDate>
+      <description><![CDATA[Economy...]]></description>
+      <content:encoded><![CDATA[<div><p>Economy</p><br><hr><p><a href='https://www.feps-europe.eu' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.feps-europe.eu</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:52 +0800</pubDate>
     </item>
   </channel>
 </rss>

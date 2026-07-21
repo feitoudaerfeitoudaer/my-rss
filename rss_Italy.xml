@@ -1,80 +1,141 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title>智库全文订阅-Italy</title>
+    <title><![CDATA[智库全文订阅-Italy]]></title>
     <link>https://github.io_Italy.xml</link>
-    <description>自动抓取的 [Italy] 智库文章全文摘要（全量无损版）</description>
+    <description><![CDATA[自动抓取的 [Italy] 智库文章全文摘要（全量无损版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
     <item>
-      <title>[Institute for International Political Studies (ISPI) – Italy] 403 Forbidden</title>
+      <title><![CDATA[[Institute for International Political Studies (ISPI) – Italy] 403 Forbidden]]></title>
       <link>https://www.ispionline.it/en</link>
-      <description><![CDATA[<p>403 Forbidden<br>openresty</p><br><hr><p><a href='https://www.ispionline.it/en' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.ispionline.it/en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:32 +0800</pubDate>
+      <description><![CDATA[403 Forbidden
+openresty...]]></description>
+      <content:encoded><![CDATA[<div><p>403 Forbidden<br>openresty</p><br><hr><p><a href='https://www.ispionline.it/en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.ispionline.it/en</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:18 +0800</pubDate>
     </item>
     <item>
-      <title>[Istituto Affari Internazionali (IAI) --Italy] Topics</title>
+      <title><![CDATA[[Istituto Affari Internazionali (IAI) --Italy] Topics]]></title>
       <link>http://www.iai.it/en</link>
-      <description><![CDATA[<p>Skip to main content<br>The Institute<br>About Us<br>Boards<br>Experts<br>Staff<br>Library<br>Research Programmes<br>Internships & Jobs<br>Members login<br>Email Us<br>it<br>Search<br>Topics<br>Africa<br>Asia<br>Defence<br>EU, politics and institutions<br>Energy, climate and resources<br>International political economy, global governance<br>Italian foreign policy<br>Mediterranean and Middle East<br>Non-proliferation and disarmament<br>Russia, Turkey, Balkans, Eastern Europe<br>Security<br>Space<br>US and the Americas<br>Youth<br>Publications<br>Events<br>Education<br>Media<br>Topics<br>Image<br>Spotlight<br>Publication<br>The False Equivalence of Sovereignty in Melnichenko’s Essay in the Economist<br>Image<br>Spotlight<br>Publication<br>Vertical and Multi-level: A Coordinated EU Governance for Technological Competitiveness<br>Image<br>Spotlight<br>Publication<br>Stabilising Syria without Reinforcing Authoritarianism: Priorities for Italy and Europe<br>Image<br>Spotlight<br>Podcast<br>Odeta Barbullushi: Women, security and European integration<br>Our Topics<br>Africa<br>Asia<br>Defence<br>Energy, climate and resources<br>EU, politics and institutions<br>International political economy, global governance<br>Italian foreign policy<br>Mediterranean and Middle East<br>Non-proliferation and disarmament<br>Russia, Turkey, Balkans, Eastern Europe<br>Security<br>Space<br>US and the Americas<br>Youth<br>Publications<br>Data pubblicazione<br>20/07/2026<br>Stabilising Syria without Reinforcing Authoritarianism: Priorities for Italy and Europe<br>Autori<br>Akram Ezzamouri<br>Details<br>Rome, IAI, July 2026, 10 p.<br>In: IAI Briefs<br>                                  26|35<br>Read more about <br>Stabilising S<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.iai.it/en' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.iai.it/en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:37 +0800</pubDate>
+      <description><![CDATA[Skip to main content
+The Institute
+About Us
+Boards
+Experts
+Staff
+Library
+Research Programmes
+Internships & Jobs
+Members login
+Email Us
+it
+Search
+Topics
+Africa
+Asia
+Defence
+EU, politics and institution...]]></description>
+      <content:encoded><![CDATA[<div><p>Skip to main content<br>The Institute<br>About Us<br>Boards<br>Experts<br>Staff<br>Library<br>Research Programmes<br>Internships & Jobs<br>Members login<br>Email Us<br>it<br>Search<br>Topics<br>Africa<br>Asia<br>Defence<br>EU, politics and institutions<br>Energy, climate and resources<br>International political economy, global governance<br>Italian foreign policy<br>Mediterranean and Middle East<br>Non-proliferation and disarmament<br>Russia, Turkey, Balkans, Eastern Europe<br>Security<br>Space<br>US and the Americas<br>Youth<br>Publications<br>Events<br>Education<br>Media<br>Topics<br>Image<br>Spotlight<br>Publication<br>The False Equivalence of Sovereignty in Melnichenko’s Essay in the Economist<br>Image<br>Spotlight<br>Publication<br>Vertical and Multi-level: A Coordinated EU Governance for Technological Competitiveness<br>Image<br>Spotlight<br>Publication<br>Stabilising Syria without Reinforcing Authoritarianism: Priorities for Italy and Europe<br>Image<br>Spotlight<br>Podcast<br>Odeta Barbullushi: Women, security and European integration<br>Our Topics<br>Africa<br>Asia<br>Defence<br>Energy, climate and resources<br>EU, politics and institutions<br>International political economy, global governance<br>Italian foreign policy<br>Mediterranean and Middle East<br>Non-proliferation and disarmament<br>Russia, Turkey, Balkans, Eastern Europe<br>Security<br>Space<br>US and the Americas<br>Youth<br>Publications<br>Data pubblicazione<br>20/07/2026<br>Stabilising Syria without Reinforcing Authoritarianism: Priorities for Italy and Europe<br>Autori<br>Akram Ezzamouri<br>Details<br>Rome, IAI, July 2026, 10 p.<br>In: IAI Briefs<br>                                  26|35<br>Read more about <br>Stabilising S<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.iai.it/en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.iai.it/en</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:24 +0800</pubDate>
     </item>
     <item>
-      <title>[Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) --Italy] Research Institutes</title>
+      <title><![CDATA[[Centro Euro-Mediterraneo sui Cambiamenti Climatici (CMCC) --Italy] Research Institutes]]></title>
       <link>http://www.cmcc.it/</link>
-      <description><![CDATA[<p>About us<br>–<br>The CMCC Foundation<br>Our Team<br>Where we are<br>Contact us<br>–<br>Communication and Outreach<br>Tenders and announcements<br>Careers<br>social-icons-megamenu<br>.vc_custom_1713534553102{margin-bottom: 0px !important;padding-top: 20px !important;}.vc_custom_1719578964236{margin-bottom: 0px !important;}.vc_custom_1719578971031{margin-bottom: 0px !important;}<br>What we do<br>–<br>Research Institutes<br>Strategic Programs<br>Publications<br>Projects<br>–<br>Advanced Digital Innovation Center<br>Advanced Training and Education Center<br>High Performance Computing Center – HPCC<br>–<br>Fellowship Programs<br>Data, Services and Products<br>Models<br>Our network<br>–<br>News<br>Events<br>social-icon-mm<br>.vc_custom_1713534553102{margin-bottom: 0px !important;padding-top: 20px !important;}.vc_custom_1719578964236{margin-bottom: 0px !important;}.vc_custom_1719578971031{margin-bottom: 0px !important;}<br>CMCC Foresight<br>search-widget<br>All<br>News<br>Events<br>Projects<br>Models<br>People<br>Publications<br>Pages<br>.vc_custom_1713779694422{margin: 0px !important;padding: 0px !important;border: 0px initial  !important;}.vc_custom_1713786000500{margin: 0px !important;padding: 0px !important;}<br>Useful links<br>The CMCC Foundation<br>Strategic Programs<br>Contact us<br>Where we are<br>EN<br>Language Selector<br>English<br>Italiano<br>English<br>Italiano<br>English<br>Italiano<br>EN<br>X<br>English<br>Italiano<br>Home<br>About us<br>–<br>The CMCC Foundation<br>Our Team<br>Where we are<br>Contact us<br>–<br>Communication and Outreach<br>Tenders and announcements<br>Careers<br>social-icons-megamenu<br>What we do<br>–<br>Research Institutes<br>Strategic Programs<br>Publications<br>Projects<br>–<br><br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.cmcc.it/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.cmcc.it/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:41 +0800</pubDate>
+      <description><![CDATA[About us
+–
+The CMCC Foundation
+Our Team
+Where we are
+Contact us
+–
+Communication and Outreach
+Tenders and announcements
+Careers
+social-icons-megamenu
+.vc_custom_1713534553102{margin-bottom: 0px !import...]]></description>
+      <content:encoded><![CDATA[<div><p>About us<br>–<br>The CMCC Foundation<br>Our Team<br>Where we are<br>Contact us<br>–<br>Communication and Outreach<br>Tenders and announcements<br>Careers<br>social-icons-megamenu<br>.vc_custom_1713534553102{margin-bottom: 0px !important;padding-top: 20px !important;}.vc_custom_1719578964236{margin-bottom: 0px !important;}.vc_custom_1719578971031{margin-bottom: 0px !important;}<br>What we do<br>–<br>Research Institutes<br>Strategic Programs<br>Publications<br>Projects<br>–<br>Advanced Digital Innovation Center<br>Advanced Training and Education Center<br>High Performance Computing Center – HPCC<br>–<br>Fellowship Programs<br>Data, Services and Products<br>Models<br>Our network<br>–<br>News<br>Events<br>social-icon-mm<br>.vc_custom_1713534553102{margin-bottom: 0px !important;padding-top: 20px !important;}.vc_custom_1719578964236{margin-bottom: 0px !important;}.vc_custom_1719578971031{margin-bottom: 0px !important;}<br>CMCC Foresight<br>search-widget<br>All<br>News<br>Events<br>Projects<br>Models<br>People<br>Publications<br>Pages<br>.vc_custom_1713779694422{margin: 0px !important;padding: 0px !important;border: 0px initial  !important;}.vc_custom_1713786000500{margin: 0px !important;padding: 0px !important;}<br>Useful links<br>The CMCC Foundation<br>Strategic Programs<br>Contact us<br>Where we are<br>EN<br>Language Selector<br>English<br>Italiano<br>English<br>Italiano<br>English<br>Italiano<br>EN<br>X<br>English<br>Italiano<br>Home<br>About us<br>–<br>The CMCC Foundation<br>Our Team<br>Where we are<br>Contact us<br>–<br>Communication and Outreach<br>Tenders and announcements<br>Careers<br>social-icons-megamenu<br>What we do<br>–<br>Research Institutes<br>Strategic Programs<br>Publications<br>Projects<br>–<br><br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.cmcc.it/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.cmcc.it/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:28 +0800</pubDate>
     </item>
     <item>
-      <title>[Istituto Bruno Leoni (IBL) --Italy] Riforma ETS e nuovi obiettivi di elettrificazione: quando la politica industriale distrugge gli obiettivi ambientali</title>
+      <title><![CDATA[[Istituto Bruno Leoni (IBL) --Italy] Riforma ETS e nuovi obiettivi di elettrificazione: quando la politica industriale distrugge gli obiettivi ambientali]]></title>
       <link>http://www.brunoleoni.it/</link>
-      <description><![CDATA[<p>Istituto Bruno Leoni<br>Istituto Bruno Leoni<br>Chi siamo<br>Consiglio di amministrazione<br>Team<br>Comitato di indirizzo<br>Riconoscimenti<br>Contatti<br>Ricerche<br>Eventi<br>Corsi online<br>Discorso Bruno Leoni<br>Premio Bruno Leoni<br>Cicli di Seminari<br>Seminario Mises<br>Articoli<br>IBL libri<br>Comitato editoriale<br>Book club<br>IBL nelle scuole<br>I nostri moduli tematici<br>Percorso ex PCTO Storia Economica<br>Percorso ex PCTO imprenditorialità<br>Sostienici<br>0<br>Idee per il libero mercato<br>Ambiente e Energia<br>Diritto e Regolamentazione<br>Economia e Mercato<br>Politiche pubbliche<br>Teoria e scienze sociali<br>post<br>Riforma ETS e nuovi obiettivi di elettrificazione: quando la politica industriale distrugge gli obiettivi ambientali<br>Un regalo ai ai gruppi di interesse che fanno a gara ad aggiudicarsi l’incentivo o il regolamento che più li avvantaggia<br>di /<br>IBL<br>Editoriale<br>13 Luglio 2026<br>Usare i soldi della sanità per salvare imprese inefficienti fa male alla salute<br>Ciò che si vede e ciò che non si vede. Il Santa Lucia è salvo. Il conto è stato soltanto spostato<br>Vedi tutti gli editoriali<br>Rassegna stampa<br>La Provincia di Sondrio<br>20 Luglio 2026<br>/<br>Carlo Lottieri<br>La rivoluzione dei lidi resta solo venderli<br>Quest'estate rincaro del 6%, inviso agli utenti che ritengono poco trasparente in meccanismo delle concessioni. Dal 2027 bandi trasparenti; ma per ora nessuno ha pensato all'alienazione.<br>Il Giornale<br>14 Luglio 2026<br>/<br>Carlo Lottieri<br>Un progetto demagogico che non serve a niente<br>Tassare i milionari è un progetto iniquo, ingiusto e controproducente.<br>Gazzetta <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.brunoleoni.it/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.brunoleoni.it/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:43 +0800</pubDate>
+      <description><![CDATA[Istituto Bruno Leoni
+Istituto Bruno Leoni
+Chi siamo
+Consiglio di amministrazione
+Team
+Comitato di indirizzo
+Riconoscimenti
+Contatti
+Ricerche
+Eventi
+Corsi online
+Discorso Bruno Leoni
+Premio Bruno Leoni...]]></description>
+      <content:encoded><![CDATA[<div><p>Istituto Bruno Leoni<br>Istituto Bruno Leoni<br>Chi siamo<br>Consiglio di amministrazione<br>Team<br>Comitato di indirizzo<br>Riconoscimenti<br>Contatti<br>Ricerche<br>Eventi<br>Corsi online<br>Discorso Bruno Leoni<br>Premio Bruno Leoni<br>Cicli di Seminari<br>Seminario Mises<br>Articoli<br>IBL libri<br>Comitato editoriale<br>Book club<br>IBL nelle scuole<br>I nostri moduli tematici<br>Percorso ex PCTO Storia Economica<br>Percorso ex PCTO imprenditorialità<br>Sostienici<br>0<br>Idee per il libero mercato<br>Ambiente e Energia<br>Diritto e Regolamentazione<br>Economia e Mercato<br>Politiche pubbliche<br>Teoria e scienze sociali<br>post<br>Riforma ETS e nuovi obiettivi di elettrificazione: quando la politica industriale distrugge gli obiettivi ambientali<br>Un regalo ai ai gruppi di interesse che fanno a gara ad aggiudicarsi l’incentivo o il regolamento che più li avvantaggia<br>di /<br>IBL<br>Editoriale<br>13 Luglio 2026<br>Usare i soldi della sanità per salvare imprese inefficienti fa male alla salute<br>Ciò che si vede e ciò che non si vede. Il Santa Lucia è salvo. Il conto è stato soltanto spostato<br>Vedi tutti gli editoriali<br>Rassegna stampa<br>La Provincia di Sondrio<br>20 Luglio 2026<br>/<br>Carlo Lottieri<br>La rivoluzione dei lidi resta solo venderli<br>Quest'estate rincaro del 6%, inviso agli utenti che ritengono poco trasparente in meccanismo delle concessioni. Dal 2027 bandi trasparenti; ma per ora nessuno ha pensato all'alienazione.<br>Il Giornale<br>14 Luglio 2026<br>/<br>Carlo Lottieri<br>Un progetto demagogico che non serve a niente<br>Tassare i milionari è un progetto iniquo, ingiusto e controproducente.<br>Gazzetta <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.brunoleoni.it/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.brunoleoni.it/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:35 +0800</pubDate>
     </item>
     <item>
-      <title>[Centro Studi Internazionali (Ce.S.I.) --Italy] Programmes</title>
+      <title><![CDATA[[Centro Studi Internazionali (Ce.S.I.) --Italy] Programmes]]></title>
       <link>https://www.cesi-italia.org/en/homepage</link>
-      <description><![CDATA[<p>Pagina non trovata<br>La pagina che stavi cercando all'indirizzo "/en/homepage" potrebbe essere stata rimossa, spostata, rinominata o non essere mai esistita.<br>Torna alla homepage</p><br><hr><p><a href='https://www.cesi-italia.org/en/homepage' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.cesi-italia.org/en/homepage</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:56 +0800</pubDate>
+      <description><![CDATA[Pagina non trovata
+La pagina che stavi cercando all'indirizzo "/en/homepage" potrebbe essere stata rimossa, spostata, rinominata o non essere mai esistita.
+Torna alla homepage...]]></description>
+      <content:encoded><![CDATA[<div><p>Pagina non trovata<br>La pagina che stavi cercando all'indirizzo "/en/homepage" potrebbe essere stata rimossa, spostata, rinominata o non essere mai esistita.<br>Torna alla homepage</p><br><hr><p><a href='https://www.cesi-italia.org/en/homepage' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.cesi-italia.org/en/homepage</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:44 +0800</pubDate>
     </item>
     <item>
-      <title>[Action Institute --Italy] Not Found</title>
-      <link>http://www.actioninstitute.org/en/</link>
-      <description><![CDATA[<p>Not Found<br>The requested URL was not found on this server.<br>Additionally, a 404 Not Found<br>error was encountered while trying to use an ErrorDocument to handle the request.</p><br><hr><p><a href='http://www.actioninstitute.org/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.actioninstitute.org/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:58 +0800</pubDate>
-    </item>
-    <item>
-      <title>[European University Institute --Italy] European University Institute</title>
+      <title><![CDATA[[European University Institute --Italy] European University Institute]]></title>
       <link>https://www.eui.eu</link>
-      <description><![CDATA[<p>Research story<br>More than copies: Velizar Kirilov on biosimilars and pharmaceutical innovation<br>In this #MyEUIResearch story, Velizar Kirilov explains why biosimilars can be more than cheaper versions of existing medicines, and what competition law has to do with their role in pharmaceutical innovation.<br>Read more<br>More than copies: Velizar Kirilov on biosimilars and pharmaceutical innovation</p><br><hr><p><a href='https://www.eui.eu' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.eui.eu</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:58 +0800</pubDate>
+      <description><![CDATA[Research story
+More than copies: Velizar Kirilov on biosimilars and pharmaceutical innovation
+In this #MyEUIResearch story, Velizar Kirilov explains why biosimilars can be more than cheaper versions o...]]></description>
+      <content:encoded><![CDATA[<div><p>Research story<br>More than copies: Velizar Kirilov on biosimilars and pharmaceutical innovation<br>In this #MyEUIResearch story, Velizar Kirilov explains why biosimilars can be more than cheaper versions of existing medicines, and what competition law has to do with their role in pharmaceutical innovation.<br>Read more<br>More than copies: Velizar Kirilov on biosimilars and pharmaceutical innovation</p><br><hr><p><a href='https://www.eui.eu' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.eui.eu</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:47 +0800</pubDate>
     </item>
     <item>
-      <title>[Fondazione Eni Enrico Mattei (FEEM) --Italy] Resta aggiornato.Iscriviti alla newsletter di FEEM</title>
+      <title><![CDATA[[Action Institute --Italy] Not Found]]></title>
+      <link>http://www.actioninstitute.org/en/</link>
+      <description><![CDATA[Not Found
+The requested URL was not found on this server.
+Additionally, a 404 Not Found
+error was encountered while trying to use an ErrorDocument to handle the request....]]></description>
+      <content:encoded><![CDATA[<div><p>Not Found<br>The requested URL was not found on this server.<br>Additionally, a 404 Not Found<br>error was encountered while trying to use an ErrorDocument to handle the request.</p><br><hr><p><a href='http://www.actioninstitute.org/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.actioninstitute.org/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:47 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Fondazione Eni Enrico Mattei (FEEM) --Italy] Resta aggiornato.Iscriviti alla newsletter di FEEM]]></title>
       <link>http://www.feem.it/</link>
-      <description><![CDATA[<p>Modelling the Energy Transition<br>Modelling the Energy Transition - MET è un programma di ricerca volto allo studio della transizione energetica in un contesto dinamico e caratterizzato da incertezza [...]<br>SCOPRI DI PIÙ<br>Technologies for the Energy Transition<br>La transizione energetica rappresenta una delle sfide globali più urgenti del nostro tempo [...]<br>SCOPRI DI PIÙ<br>Climate Change Adaptation<br>Il programma Climate Change Adaptation – Adapt@VE sviluppa modelli integrati e multidisciplinari per l’adattamento climatico, con un approccio multilivello ai processi decisionali e alle dinamiche complesse dei socio-ecosistemi [...]<br>SCOPRI DI PIÙ<br>Econometrics of the Energy Transition<br>Negli ultimi anni gli economisti applicati hanno dedicato crescente attenzione all’osservazione e allo studio del comportamento e delle interrelazioni tra le principali variabili energetiche, gli indicatori di cambiamento climatico, le grandezze macroeconomiche, i mercati finanziari e delle commodities [...]<br>SCOPRI DI PIÙ<br>Labour in the Low-carbon Transition<br>Il programma di ricerca Labour in the Low-Carbon Transition - LiLT si pone l’obiettivo di studiare temi relativi agli effetti delle policy climatiche, dei sussidi verdi e dei Green Deal sulla struttura economica [...]<br>SCOPRI DI PIÙ<br>RAw Materials for the Energy Transition<br>La transizione energetica è un pilastro delle politiche climatiche [...]<br>SCOPRI DI PIÙ<br>Sustainable Mobility<br>I Paesi dell’Unione Europea sono impegnati a conseguire la neutralità climatica <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.feem.it/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.feem.it/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:59 +0800</pubDate>
+      <description><![CDATA[Modelling the Energy Transition
+Modelling the Energy Transition - MET è un programma di ricerca volto allo studio della transizione energetica in un contesto dinamico e caratterizzato da incertezza [....]]></description>
+      <content:encoded><![CDATA[<div><p>Modelling the Energy Transition<br>Modelling the Energy Transition - MET è un programma di ricerca volto allo studio della transizione energetica in un contesto dinamico e caratterizzato da incertezza [...]<br>SCOPRI DI PIÙ<br>Technologies for the Energy Transition<br>La transizione energetica rappresenta una delle sfide globali più urgenti del nostro tempo [...]<br>SCOPRI DI PIÙ<br>Climate Change Adaptation<br>Il programma Climate Change Adaptation – Adapt@VE sviluppa modelli integrati e multidisciplinari per l’adattamento climatico, con un approccio multilivello ai processi decisionali e alle dinamiche complesse dei socio-ecosistemi [...]<br>SCOPRI DI PIÙ<br>Econometrics of the Energy Transition<br>Negli ultimi anni gli economisti applicati hanno dedicato crescente attenzione all’osservazione e allo studio del comportamento e delle interrelazioni tra le principali variabili energetiche, gli indicatori di cambiamento climatico, le grandezze macroeconomiche, i mercati finanziari e delle commodities [...]<br>SCOPRI DI PIÙ<br>Labour in the Low-carbon Transition<br>Il programma di ricerca Labour in the Low-Carbon Transition - LiLT si pone l’obiettivo di studiare temi relativi agli effetti delle policy climatiche, dei sussidi verdi e dei Green Deal sulla struttura economica [...]<br>SCOPRI DI PIÙ<br>RAw Materials for the Energy Transition<br>La transizione energetica è un pilastro delle politiche climatiche [...]<br>SCOPRI DI PIÙ<br>Sustainable Mobility<br>I Paesi dell’Unione Europea sono impegnati a conseguire la neutralità climatica <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.feem.it/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.feem.it/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:48 +0800</pubDate>
     </item>
     <item>
-      <title>[International Center for Climate Governance (ICCG) --Italy] Aïe ! Cette page est introuvable.</title>
+      <title><![CDATA[[International Center for Climate Governance (ICCG) --Italy] Aïe ! Cette page est introuvable.]]></title>
       <link>http://www.iccgov.org/en/</link>
-      <description><![CDATA[<p>Aller au contenu<br>Menu<br>Menu<br>Maison-Énergie<br>Immobilier<br>Travaux<br>Business<br>Finance<br>Assurance<br>Aïe ! Cette page est introuvable.<br>Contenu introuvable. L’outil de recherche vous remettra peut-être sur la voie ?<br>Rechercher :<br>ICCG : pensons habitat & entreprenariat durable.<br>Rénover énergétiquement un logement ou créer une société est un parcours semé d'embuches. Le cabinet de conseil en énergie ICCGOV est là pour vous guider. Grâce à notre expertise dans l'immobilier, le bâtiment et tout ce qui gravite autour (financement, investissements, gestion d'entreprise), vous en aurez pour votre temps et votre argent !<br>CONTACTEZ-NOUS<br>ICCG<br>24 rue Saint-Catherine<br>64 000 PAU<br>+33 6 54 21 32 888<br>© ICCGOV<br>Mentions légales<br>Plan du site<br>Fermer<br>Maison-Énergie<br>Immobilier<br>Travaux<br>Business<br>Finance<br>Assurance<br>Rechercher :</p><br><hr><p><a href='http://www.iccgov.org/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.iccgov.org/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:01 +0800</pubDate>
-    </item>
-    <item>
-      <title>[Torino World Affairs Institute --Italy] Former and Current Partners</title>
-      <link>https://www.twai.it</link>
-      <description><![CDATA[<p>Linkedin<br>Facebook<br>Instagram<br>Twitter<br>Youtube<br>Join our newsletter<br>MENU<br>MENU<br>Mission & Experts<br>Programs<br>Global China<br>Assessing the impact of China on global governance in the age of power diffusion<br>READ MORE<br>Indo-Pacific<br>Investigating the players, institutions and narratives driving political and economic dynamics across fast-emerging Asia<br>READ MORE<br>Violence & Security<br>Emerging trends in transnational security: from the rise of non-state actors to force privatization<br>READ MORE<br>Publications<br>T.notes<br>Collection of policy notes addressing the major issues driving international debate at the global level<br>ACCESS<br>OrizzonteCina<br>Biannual journal on the politics, foreign policy and socio-political dynamics of contemporary China<br>ACCESS<br>RISE<br>Biannual journal on the international relations and international political economy of South-East Asia<br>ACCESS<br>Human Security<br>Quarterly journal investigating the extended concept of security and the human dimension of conflict<br>ACCESS<br>Research & Policy Papers<br>Scientific analyses carried-out by T.wai's Research Fellows<br>ACCESS<br>Training<br>All Programs<br>Training programs combining advanced academic instruction with innovative scenario-building techniques<br>TOChina Summer School<br>World-class summer program on the politics, foreign policy, and political economy of contemporary China<br>TOASEAN Summer School<br>Intensive summer program dedicated to exploring Southeast Asia’s development trajectories<br>CMBP - China Management & Business Program<br>Advanced training program for fu<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.twai.it' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.twai.it</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:01 +0800</pubDate>
+      <description><![CDATA[Aller au contenu
+Menu
+Menu
+Maison-Énergie
+Immobilier
+Travaux
+Business
+Finance
+Assurance
+Aïe ! Cette page est introuvable.
+Contenu introuvable. L’outil de recherche vous remettra peut-être sur la voie ...]]></description>
+      <content:encoded><![CDATA[<div><p>Aller au contenu<br>Menu<br>Menu<br>Maison-Énergie<br>Immobilier<br>Travaux<br>Business<br>Finance<br>Assurance<br>Aïe ! Cette page est introuvable.<br>Contenu introuvable. L’outil de recherche vous remettra peut-être sur la voie ?<br>Rechercher :<br>ICCG : pensons habitat & entreprenariat durable.<br>Rénover énergétiquement un logement ou créer une société est un parcours semé d'embuches. Le cabinet de conseil en énergie ICCGOV est là pour vous guider. Grâce à notre expertise dans l'immobilier, le bâtiment et tout ce qui gravite autour (financement, investissements, gestion d'entreprise), vous en aurez pour votre temps et votre argent !<br>CONTACTEZ-NOUS<br>ICCG<br>24 rue Saint-Catherine<br>64 000 PAU<br>+33 6 54 21 32 888<br>© ICCGOV<br>Mentions légales<br>Plan du site<br>Fermer<br>Maison-Énergie<br>Immobilier<br>Travaux<br>Business<br>Finance<br>Assurance<br>Rechercher :</p><br><hr><p><a href='http://www.iccgov.org/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.iccgov.org/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:50 +0800</pubDate>
     </item>
   </channel>
 </rss>

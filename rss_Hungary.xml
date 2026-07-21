@@ -1,59 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title>智库全文订阅-Hungary</title>
+    <title><![CDATA[智库全文订阅-Hungary]]></title>
     <link>https://github.io_Hungary.xml</link>
-    <description>自动抓取的 [Hungary] 智库文章全文摘要（全量无损版）</description>
+    <description><![CDATA[自动抓取的 [Hungary] 智库文章全文摘要（全量无损版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
     <item>
-      <title>[Center for Policy Studies (CPS) --Hungary] User menu</title>
-      <link>http://cps.ceu.hu/</link>
-      <description><![CDATA[<p>Video of SUPERA Institutional video. Subs: English</p><br><hr><p><a href='http://cps.ceu.hu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://cps.ceu.hu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:41 +0800</pubDate>
-    </item>
-    <item>
-      <title>[10. Center for Security and Defense Studies (CSDS) --Hungary] Blog</title>
+      <title><![CDATA[[10. Center for Security and Defense Studies (CSDS) --Hungary] Blog]]></title>
       <link>http://bhkka.hu/en/</link>
-      <description><![CDATA[<p>Tinder-kiégés? Így hozd vissza a lelkesedésedet!<br>2026.04.08<br>Részletek >><br>A digitális randizás világában létezik egy jelenség, amit modern korunk csak "dating burnout"-ként, vagyis társkeresési kiégésként emleget. Ismerős az érzés, amikor már gépiesen, é ...<br>Társkeresés</p><br><hr><p><a href='http://bhkka.hu/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://bhkka.hu/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:01 +0800</pubDate>
+      <description><![CDATA[Tinder-kiégés? Így hozd vissza a lelkesedésedet!
+2026.04.08
+Részletek >>
+A digitális randizás világában létezik egy jelenség, amit modern korunk csak "dating burnout"-ként, vagyis társkeresési kiégésk...]]></description>
+      <content:encoded><![CDATA[<div><p>Tinder-kiégés? Így hozd vissza a lelkesedésedet!<br>2026.04.08<br>Részletek >><br>A digitális randizás világában létezik egy jelenség, amit modern korunk csak "dating burnout"-ként, vagyis társkeresési kiégésként emleget. Ismerős az érzés, amikor már gépiesen, é ...<br>Társkeresés</p><br><hr><p><a href='http://bhkka.hu/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://bhkka.hu/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:51 +0800</pubDate>
     </item>
     <item>
-      <title>[30. Institute of World Economics of the Hungarian Academy of Sciences --Hungary] 404 Not Found</title>
+      <title><![CDATA[[30. Institute of World Economics of the Hungarian Academy of Sciences --Hungary] 404 Not Found]]></title>
       <link>http://vki3.vki.hu/evki.shtml</link>
-      <description><![CDATA[<p>404<br>Not Found<br>Please forward this error screen to vki3.vki.hu's<br>WebMaster<br>.<br>The server cannot find the requested page:<br>vki3.vki.hu/evki.shtml (port 80)<br>Copyright © 2016 cPanel, Inc.</p><br><hr><p><a href='http://vki3.vki.hu/evki.shtml' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://vki3.vki.hu/evki.shtml</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:03 +0800</pubDate>
+      <description><![CDATA[404
+Not Found
+Please forward this error screen to vki3.vki.hu's
+WebMaster
+.
+The server cannot find the requested page:
+vki3.vki.hu/evki.shtml (port 80)
+Copyright © 2016 cPanel, Inc....]]></description>
+      <content:encoded><![CDATA[<div><p>404<br>Not Found<br>Please forward this error screen to vki3.vki.hu's<br>WebMaster<br>.<br>The server cannot find the requested page:<br>vki3.vki.hu/evki.shtml (port 80)<br>Copyright © 2016 cPanel, Inc.</p><br><hr><p><a href='http://vki3.vki.hu/evki.shtml' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://vki3.vki.hu/evki.shtml</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:53 +0800</pubDate>
     </item>
     <item>
-      <title>[40. TARKI Social Research Institute --Hungary] Az oldal nem található</title>
+      <title><![CDATA[[40. TARKI Social Research Institute --Hungary] Az oldal nem található]]></title>
       <link>http://www.tarki.hu/en/</link>
-      <description><![CDATA[<p>Az oldal nem található</p><br><hr><p><a href='http://www.tarki.hu/en/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.tarki.hu/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:04 +0800</pubDate>
+      <description><![CDATA[Az oldal nem található...]]></description>
+      <content:encoded><![CDATA[<div><p>Az oldal nem található</p><br><hr><p><a href='http://www.tarki.hu/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.tarki.hu/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:54 +0800</pubDate>
     </item>
     <item>
-      <title>[21. Institute for Foreign Affairs and Trade (IFAT) --Hungary] Magyar Külügyi Intézet</title>
+      <title><![CDATA[[21. Institute for Foreign Affairs and Trade (IFAT) --Hungary] Magyar Külügyi Intézet]]></title>
       <link>http://kki.gov.hu/en</link>
-      <description><![CDATA[<p>MKI Nézőpont<br>2026.07.21<br>Felmelegített barátság: közeledés Kína és Észak-Korea között<br>Nagy Angelina Zsófia és Salát Gergely elemzése<br>Tovább olvasom</p><br><hr><p><a href='http://kki.gov.hu/en' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://kki.gov.hu/en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:04 +0800</pubDate>
+      <description><![CDATA[MKI Nézőpont
+2026.07.21
+Felmelegített barátság: közeledés Kína és Észak-Korea között
+Nagy Angelina Zsófia és Salát Gergely elemzése
+Tovább olvasom...]]></description>
+      <content:encoded><![CDATA[<div><p>MKI Nézőpont<br>2026.07.21<br>Felmelegített barátság: közeledés Kína és Észak-Korea között<br>Nagy Angelina Zsófia és Salát Gergely elemzése<br>Tovább olvasom</p><br><hr><p><a href='http://kki.gov.hu/en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://kki.gov.hu/en</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:55 +0800</pubDate>
     </item>
     <item>
-      <title>[73. Centre for Euro-Atlantic Integration and Democracy (CEID) --Hungary] CEID - Centre for Euro-Atlantic Integration and Democracy</title>
-      <link>http://ceid.hu/</link>
-      <description><![CDATA[<p>The Disinformation Game: Can you spot and unravel online deception?<br>A joint project on interregional connections and coalitions implemented by V4 organizations.   The Centre for Euro-Atlantic Integration and Democracy – CEID  has collaborated in the project led by PRINCEPS Risk Intelligence Institute together with Adapt Institute and Klub Jagielloński on the project “The...<br>Read more</p><br><hr><p><a href='http://ceid.hu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://ceid.hu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:07 +0800</pubDate>
-    </item>
-    <item>
-      <title>[92. Danube Institute --Hungary] A Message from John O&#x27;Sullivan, President of the Danube Institute</title>
+      <title><![CDATA[[92. Danube Institute --Hungary] A Message from John O'Sullivan, President of the Danube Institute]]></title>
       <link>http://www.danubeinstitute.hu/</link>
-      <description><![CDATA[<p>Research<br>17/07/2026<br>Europe's Two Flags: Recovering the Conservative Telos of the European Project</p><br><hr><p><a href='http://www.danubeinstitute.hu/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.danubeinstitute.hu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:09 +0800</pubDate>
+      <description><![CDATA[Research
+17/07/2026
+Europe's Two Flags: Recovering the Conservative Telos of the European Project...]]></description>
+      <content:encoded><![CDATA[<div><p>Research<br>17/07/2026<br>Europe's Two Flags: Recovering the Conservative Telos of the European Project</p><br><hr><p><a href='http://www.danubeinstitute.hu/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.danubeinstitute.hu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:21:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

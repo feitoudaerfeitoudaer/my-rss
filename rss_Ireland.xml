@@ -1,17 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title>智库全文订阅-Ireland</title>
+    <title><![CDATA[智库全文订阅-Ireland]]></title>
     <link>https://github.io_Ireland.xml</link>
-    <description>自动抓取的 [Ireland] 智库文章全文摘要（全量无损版）</description>
+    <description><![CDATA[自动抓取的 [Ireland] 智库文章全文摘要（全量无损版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
     <item>
-      <title>[Economic and Social Research Institute --Ireland] Informed Policy for a Better Ireland</title>
+      <title><![CDATA[[Economic and Social Research Institute --Ireland] Informed Policy for a Better Ireland]]></title>
       <link>http://www.esri.ie/</link>
-      <description><![CDATA[<p>Informed Policy for a Better Ireland<br>Latest publications<br>Fiscal impact of migration and welfare receipt among immigrants<br>Domestic economy continues to perform despite global challenges<br>Latest News<br>Nowcast (as of 16 July 2026)<br>16 Jul, 2026<br>Female leadership rising across financial services<br>14 Jul, 2026<br>ESRI Newsletter | June 2026<br>02 Jul, 2026<br>View all News<br>Recent Publications<br>Women in Finance Charter: Fourth Annual Report<br>13 Jul, 2026<br>Equivalisation (once again)<br>06 Jul, 2026<br>Perceptions of safety and fairness in road spaces shared by pedestrians, cyclists and drivers<br>02 Jul, 2026<br>View all Publications<br>Upcoming Events<br>Trials and Tribulations: Lessons from Field Experiments<br>23 Jul, 2026<br>Save the Date: Poverty, Income Inequality and Living Standards in Ireland<br>08 Sep, 2026<br>Bridging the gap: The role of energy diversification in delivering a just transition for residential heat decarbonisation<br>10 Sep, 2026<br>View all Events<br>Research Areas<br>The mission of the Economic and Social Research Institute is to advance evidence-based policymaking that supports economic sustainability and social progress in Ireland. ESRI researchers apply the highest standards of academic excellence to challenges facing policymakers, focusing on 12 areas of critical importance to 21st Century Ireland.<br>Behavioural Science<br>Climate<br>Competitiveness, Trade and FDI<br>Education<br>Energy and Environment<br>Health and Quality of Life<br>Housing<br>Labour Markets and Skills<br>Macroeconomics<br>Migration, Integration and Demography<br>Social<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.esri.ie/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.esri.ie/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:59 +0800</pubDate>
+      <description><![CDATA[Informed Policy for a Better Ireland
+Latest publications
+Fiscal impact of migration and welfare receipt among immigrants
+Domestic economy continues to perform despite global challenges
+Latest News
+Now...]]></description>
+      <content:encoded><![CDATA[<div><p>Informed Policy for a Better Ireland<br>Latest publications<br>Fiscal impact of migration and welfare receipt among immigrants<br>Domestic economy continues to perform despite global challenges<br>Latest News<br>Nowcast (as of 16 July 2026)<br>16 Jul, 2026<br>Female leadership rising across financial services<br>14 Jul, 2026<br>ESRI Newsletter | June 2026<br>02 Jul, 2026<br>View all News<br>Recent Publications<br>Women in Finance Charter: Fourth Annual Report<br>13 Jul, 2026<br>Equivalisation (once again)<br>06 Jul, 2026<br>Perceptions of safety and fairness in road spaces shared by pedestrians, cyclists and drivers<br>02 Jul, 2026<br>View all Publications<br>Upcoming Events<br>Trials and Tribulations: Lessons from Field Experiments<br>23 Jul, 2026<br>Save the Date: Poverty, Income Inequality and Living Standards in Ireland<br>08 Sep, 2026<br>Bridging the gap: The role of energy diversification in delivering a just transition for residential heat decarbonisation<br>10 Sep, 2026<br>View all Events<br>Research Areas<br>The mission of the Economic and Social Research Institute is to advance evidence-based policymaking that supports economic sustainability and social progress in Ireland. ESRI researchers apply the highest standards of academic excellence to challenges facing policymakers, focusing on 12 areas of critical importance to 21st Century Ireland.<br>Behavioural Science<br>Climate<br>Competitiveness, Trade and FDI<br>Education<br>Energy and Environment<br>Health and Quality of Life<br>Housing<br>Labour Markets and Skills<br>Macroeconomics<br>Migration, Integration and Demography<br>Social<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.esri.ie/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.esri.ie/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:47 +0800</pubDate>
     </item>
   </channel>
 </rss>

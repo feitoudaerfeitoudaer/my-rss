@@ -1,45 +1,104 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title>智库全文订阅-Denmark</title>
+    <title><![CDATA[智库全文订阅-Denmark]]></title>
     <link>https://github.io_Denmark.xml</link>
-    <description>自动抓取的 [Denmark] 智库文章全文摘要（全量无损版）</description>
+    <description><![CDATA[自动抓取的 [Denmark] 智库文章全文摘要（全量无损版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:16:47 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
     <item>
-      <title>[Danish Institute for International Studies --Denmark] </title>
+      <title><![CDATA[[Danish Institute for International Studies --Denmark] ]]></title>
       <link>https://www.diis.dk/</link>
-      <description><![CDATA[<p>Gå til hovedindhold<br>Search<br>Alle<br>Publikationer<br>Eksperter<br>English<br>Servicemenu<br>Find os<br>Search<br>Menu<br>Hovedmenu<br>Forskning<br>Emner<br>Forsvar og sikkerhed<br>Udenrigspolitik<br>Udvikling<br>Fred og konflikt<br>Migration<br>Global økonomi<br>Naturressourcer og klima<br>Regioner<br>Arktis<br>Nordiske lande og Baltikum<br>Europa og Nordamerika<br>Østeuropa og Rusland<br>Asien<br>Mellemøsten og Nordafrika<br>Afrika syd for Sahara<br>Latinamerika<br>Oceanien<br>Publikationer<br>Søg publikation på diis.dk<br>Søg på DIIS Forskningsportal<br>Akademiske publikationer<br>DIIS Policy Briefs<br>DIIS Reports<br>DIIS Working Papers<br>DIIS Comments<br>DIIS i medierne<br>DIIS Podcasts<br>Danish Foreign Policy Review<br>Projekter, enheder & centre<br>Projekter<br>Forskningsenheder<br>Centre<br>Eksperter<br>Events<br>Om DIIS<br>Instituttet<br>Om DIIS<br>Find medarbejder<br>Ledelse<br>Forskningsenheder<br>Til DIIS' ansatte<br>Whistleblowerordning<br>Adfærdskodeks vedr. seksuelt misbrug<br>Anti-korruptionspolitik for DIIS<br>Finansiel antiterrorpolitik<br>CSR-politik i DIIS<br>Kontakt<br>Nyheder og presse<br>Pressekontakt<br>Nyheder om DIIS<br>Newsletter<br>Pressebilleder<br>Logoer<br>Job og karriere<br>Ledige stillinger<br>DIIS som arbejdsplads<br>Karriere-muligheder<br>Når du søger job hos DIIS<br>Bibliotek<br>Luk<br>Hovedmenu<br>Forskning<br>close/open button<br>Emner<br>close/open button<br>Forsvar og sikkerhed<br>Udenrigspolitik<br>Udvikling<br>Fred og konflikt<br>Migration<br>Global økonomi<br>Naturressourcer og klima<br>Regioner<br>close/open button<br>Arktis<br>Nordiske lande og Baltikum<br>Europa og Nordamerika<br>Østeuropa og Rusland<br>Asien<br>Mellemøsten og Nordafrika<br>Afrika syd for Sahara<br>Latinamerika<br>Oceanien<br>Publikationer<br><br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.diis.dk/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.diis.dk/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:36 +0800</pubDate>
+      <description><![CDATA[Gå til hovedindhold
+Search
+Alle
+Publikationer
+Eksperter
+English
+Servicemenu
+Find os
+Search
+Menu
+Hovedmenu
+Forskning
+Emner
+Forsvar og sikkerhed
+Udenrigspolitik
+Udvikling
+Fred og konflikt
+Migration
+Glob...]]></description>
+      <content:encoded><![CDATA[<div><p>Gå til hovedindhold<br>Search<br>Alle<br>Publikationer<br>Eksperter<br>English<br>Servicemenu<br>Find os<br>Search<br>Menu<br>Hovedmenu<br>Forskning<br>Emner<br>Forsvar og sikkerhed<br>Udenrigspolitik<br>Udvikling<br>Fred og konflikt<br>Migration<br>Global økonomi<br>Naturressourcer og klima<br>Regioner<br>Arktis<br>Nordiske lande og Baltikum<br>Europa og Nordamerika<br>Østeuropa og Rusland<br>Asien<br>Mellemøsten og Nordafrika<br>Afrika syd for Sahara<br>Latinamerika<br>Oceanien<br>Publikationer<br>Søg publikation på diis.dk<br>Søg på DIIS Forskningsportal<br>Akademiske publikationer<br>DIIS Policy Briefs<br>DIIS Reports<br>DIIS Working Papers<br>DIIS Comments<br>DIIS i medierne<br>DIIS Podcasts<br>Danish Foreign Policy Review<br>Projekter, enheder & centre<br>Projekter<br>Forskningsenheder<br>Centre<br>Eksperter<br>Events<br>Om DIIS<br>Instituttet<br>Om DIIS<br>Find medarbejder<br>Ledelse<br>Forskningsenheder<br>Til DIIS' ansatte<br>Whistleblowerordning<br>Adfærdskodeks vedr. seksuelt misbrug<br>Anti-korruptionspolitik for DIIS<br>Finansiel antiterrorpolitik<br>CSR-politik i DIIS<br>Kontakt<br>Nyheder og presse<br>Pressekontakt<br>Nyheder om DIIS<br>Newsletter<br>Pressebilleder<br>Logoer<br>Job og karriere<br>Ledige stillinger<br>DIIS som arbejdsplads<br>Karriere-muligheder<br>Når du søger job hos DIIS<br>Bibliotek<br>Luk<br>Hovedmenu<br>Forskning<br>close/open button<br>Emner<br>close/open button<br>Forsvar og sikkerhed<br>Udenrigspolitik<br>Udvikling<br>Fred og konflikt<br>Migration<br>Global økonomi<br>Naturressourcer og klima<br>Regioner<br>close/open button<br>Arktis<br>Nordiske lande og Baltikum<br>Europa og Nordamerika<br>Østeuropa og Rusland<br>Asien<br>Mellemøsten og Nordafrika<br>Afrika syd for Sahara<br>Latinamerika<br>Oceanien<br>Publikationer<br><br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.diis.dk/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.diis.dk/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:23 +0800</pubDate>
     </item>
     <item>
-      <title>[Danish Institute for International Studies --Denmark] </title>
+      <title><![CDATA[[Danish Institute for International Studies --Denmark] ]]></title>
       <link>https://www.diis.dk/en</link>
-      <description><![CDATA[<p>Skip to main content<br>Search<br>All<br>Publications<br>Experts<br>Dansk<br>Servicemenu<br>Find us<br>Search<br>Menu<br>Hovedmenu<br>Research<br>Topics<br>Defence and security<br>Foreign Policy<br>Development policy<br>Peace and conflict<br>Migration<br>Global economy<br>Natural resources and environment<br>Regions<br>Arctic<br>Nordic & Baltic Countries<br>Europe & North America<br>Eastern Europe & Russia<br>Asia<br>Middle East & North Africa<br>Sub-Saharan Africa<br>Latin America<br>Oceania<br>Publications<br>All publications on diis.dk<br>The DIIS Research Portal<br>Academic publications<br>DIIS Policy Briefs<br>DIIS Reports<br>DIIS Working Papers<br>DIIS Comments<br>DIIS in the media<br>DIIS Podcasts<br>Danish Foreign Policy Review<br>Projects, units & centres<br>Projects<br>Research units<br>Centres<br>Experts<br>Events<br>About DIIS<br>The Institute<br>About DIIS<br>List of staff<br>Management<br>Research units<br>For DIIS's employees<br>Whistleblower scheme<br>Code of conduct on PSEAH<br>Anti-corruption policy for DIIS<br>Financial anti-terror policy<br>Contact<br>News and press<br>Press contact<br>News about DIIS<br>Newsletter<br>Press photos<br>Logos<br>Job and career<br>Vacancies<br>DIIS as a workplace<br>Career opportunities<br>When you apply for a job at DIIS<br>Library<br>Luk<br>Hovedmenu<br>Research<br>close/open button<br>Topics<br>close/open button<br>Defence and security<br>Foreign Policy<br>Development policy<br>Peace and conflict<br>Migration<br>Global economy<br>Natural resources and environment<br>Regions<br>close/open button<br>Arctic<br>Nordic & Baltic Countries<br>Europe & North America<br>Eastern Europe & Russia<br>Asia<br>Middle East & North Africa<br>Sub-Saharan Africa<br>Latin America<br>Oceania<br>Publications<br>close/open butto<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.diis.dk/en' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>https://www.diis.dk/en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:38 +0800</pubDate>
+      <description><![CDATA[Skip to main content
+Search
+All
+Publications
+Experts
+Dansk
+Servicemenu
+Find us
+Search
+Menu
+Hovedmenu
+Research
+Topics
+Defence and security
+Foreign Policy
+Development policy
+Peace and conflict
+Migration...]]></description>
+      <content:encoded><![CDATA[<div><p>Skip to main content<br>Search<br>All<br>Publications<br>Experts<br>Dansk<br>Servicemenu<br>Find us<br>Search<br>Menu<br>Hovedmenu<br>Research<br>Topics<br>Defence and security<br>Foreign Policy<br>Development policy<br>Peace and conflict<br>Migration<br>Global economy<br>Natural resources and environment<br>Regions<br>Arctic<br>Nordic & Baltic Countries<br>Europe & North America<br>Eastern Europe & Russia<br>Asia<br>Middle East & North Africa<br>Sub-Saharan Africa<br>Latin America<br>Oceania<br>Publications<br>All publications on diis.dk<br>The DIIS Research Portal<br>Academic publications<br>DIIS Policy Briefs<br>DIIS Reports<br>DIIS Working Papers<br>DIIS Comments<br>DIIS in the media<br>DIIS Podcasts<br>Danish Foreign Policy Review<br>Projects, units & centres<br>Projects<br>Research units<br>Centres<br>Experts<br>Events<br>About DIIS<br>The Institute<br>About DIIS<br>List of staff<br>Management<br>Research units<br>For DIIS's employees<br>Whistleblower scheme<br>Code of conduct on PSEAH<br>Anti-corruption policy for DIIS<br>Financial anti-terror policy<br>Contact<br>News and press<br>Press contact<br>News about DIIS<br>Newsletter<br>Press photos<br>Logos<br>Job and career<br>Vacancies<br>DIIS as a workplace<br>Career opportunities<br>When you apply for a job at DIIS<br>Library<br>Luk<br>Hovedmenu<br>Research<br>close/open button<br>Topics<br>close/open button<br>Defence and security<br>Foreign Policy<br>Development policy<br>Peace and conflict<br>Migration<br>Global economy<br>Natural resources and environment<br>Regions<br>close/open button<br>Arctic<br>Nordic & Baltic Countries<br>Europe & North America<br>Eastern Europe & Russia<br>Asia<br>Middle East & North Africa<br>Sub-Saharan Africa<br>Latin America<br>Oceania<br>Publications<br>close/open butto<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.diis.dk/en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://www.diis.dk/en</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:25 +0800</pubDate>
     </item>
     <item>
-      <title>[Centre for Political Studies (CEPOS) --Denmark] About CEPOS</title>
+      <title><![CDATA[[Centre for Political Studies (CEPOS) --Denmark] About CEPOS]]></title>
       <link>http://www.cepos.dk/english</link>
-      <description><![CDATA[<p>Hjælp os med at rykke Danmark i en borgerlig-liberal retning<br>I CEPOS kæmper vi for individets frihed, det private initiativ, lavere skat og en begrænset statsmagt. Vi arbejder for, at de offentlige finanser bruges fornuftigt, og råderummet omsættes til reformer, der styrker Danmarks fremtid.<br>Læs mere her</p><br><hr><p><a href='http://www.cepos.dk/english' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://www.cepos.dk/english</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:57 +0800</pubDate>
+      <description><![CDATA[Hjælp os med at rykke Danmark i en borgerlig-liberal retning
+I CEPOS kæmper vi for individets frihed, det private initiativ, lavere skat og en begrænset statsmagt. Vi arbejder for, at de offentlige fi...]]></description>
+      <content:encoded><![CDATA[<div><p>Hjælp os med at rykke Danmark i en borgerlig-liberal retning<br>I CEPOS kæmper vi for individets frihed, det private initiativ, lavere skat og en begrænset statsmagt. Vi arbejder for, at de offentlige finanser bruges fornuftigt, og råderummet omsættes til reformer, der styrker Danmarks fremtid.<br>Læs mere her</p><br><hr><p><a href='http://www.cepos.dk/english' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://www.cepos.dk/english</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:46 +0800</pubDate>
     </item>
     <item>
-      <title>[Think EUROPA --Denmark] </title>
+      <title><![CDATA[[Think EUROPA --Denmark] ]]></title>
       <link>http://thinkeuropa.dk</link>
-      <description><![CDATA[<p>Gå til hovedindhold<br>Search<br>Servicemenu<br>Stocktaking EU<br>Advisory board<br>Partnerskaber<br>Presse<br>Om os<br>Mission<br>Organisation<br>Finansiering<br>Bestyrelse<br>Medarbejdere<br>Job<br>Nyt fra tænketanken<br>Cookiepolitik<br>Privatlivspolitik<br>Diversitetspolitik<br>en<br>Search<br>Menu<br>Hovedmenu<br>Emner<br>Sikkerhed og forsvar<br>Økonomi og industripolitik<br>Digital transformation<br>Udvidelse og Institutioner<br>Den grønne omstilling<br>Europæisk politik<br>Analyser<br>Arrangementer<br>Eksperter<br>Hovedmenu - mobil<br>Emner<br>Sikkerhed og forsvar<br>Økonomi og industripolitik<br>Digital transformation<br>Udvidelse og Institutioner<br>Den grønne omstilling<br>Europæisk politik<br>Analyser<br>Arrangementer<br>Eksperter<br>Servicemenu - mobil<br>Stocktaking EU<br>Advisory board<br>Partnerskaber<br>Presse<br>Om os<br>Mission<br>Organisation<br>Finansiering<br>Bestyrelse<br>Medarbejdere<br>Job<br>Nyt fra tænketanken<br>Cookiepolitik<br>Privatlivspolitik<br>Diversitetspolitik<br>en<br>Efter dommen over Le Pen - hvad nu?<br>Marine Le Pen stiller op til det franske valg i 2027, selvom to retsinstanser har dømt hende for misbrug af EU-midler. Hvad driver beslutningen - og hvad betyder det for EU?<br>Læs mere<br>Advisory boards<br>Tænketanken EUROPA rådgives af Danmarks og Europas skarpeste stemmer inden for europæisk politik og økonomi via vores forskellige advisory boards.<br>Se alle medlemmer her<br>Copyright<br>Thomas Lekfeldt / Scanpix<br>Seneste analyser<br>Digital transformation<br>Regeringen er på kollisionskurs med EU over datacentre<br>7.07.2026<br>Digital transformation<br>DMA/DSA Tracker<br>6.07.2026<br>Digital transformation<br>EU vil for meget med for få midler i ny tech<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://thinkeuropa.dk' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://thinkeuropa.dk</guid>
-      <pubDate>Tue, 21 Jul 2026 13:15:58 +0800</pubDate>
+      <description><![CDATA[Gå til hovedindhold
+Search
+Servicemenu
+Stocktaking EU
+Advisory board
+Partnerskaber
+Presse
+Om os
+Mission
+Organisation
+Finansiering
+Bestyrelse
+Medarbejdere
+Job
+Nyt fra tænketanken
+Cookiepolitik
+Privatli...]]></description>
+      <content:encoded><![CDATA[<div><p>Gå til hovedindhold<br>Search<br>Servicemenu<br>Stocktaking EU<br>Advisory board<br>Partnerskaber<br>Presse<br>Om os<br>Mission<br>Organisation<br>Finansiering<br>Bestyrelse<br>Medarbejdere<br>Job<br>Nyt fra tænketanken<br>Cookiepolitik<br>Privatlivspolitik<br>Diversitetspolitik<br>en<br>Search<br>Menu<br>Hovedmenu<br>Emner<br>Sikkerhed og forsvar<br>Økonomi og industripolitik<br>Digital transformation<br>Udvidelse og Institutioner<br>Den grønne omstilling<br>Europæisk politik<br>Analyser<br>Arrangementer<br>Eksperter<br>Hovedmenu - mobil<br>Emner<br>Sikkerhed og forsvar<br>Økonomi og industripolitik<br>Digital transformation<br>Udvidelse og Institutioner<br>Den grønne omstilling<br>Europæisk politik<br>Analyser<br>Arrangementer<br>Eksperter<br>Servicemenu - mobil<br>Stocktaking EU<br>Advisory board<br>Partnerskaber<br>Presse<br>Om os<br>Mission<br>Organisation<br>Finansiering<br>Bestyrelse<br>Medarbejdere<br>Job<br>Nyt fra tænketanken<br>Cookiepolitik<br>Privatlivspolitik<br>Diversitetspolitik<br>en<br>Efter dommen over Le Pen - hvad nu?<br>Marine Le Pen stiller op til det franske valg i 2027, selvom to retsinstanser har dømt hende for misbrug af EU-midler. Hvad driver beslutningen - og hvad betyder det for EU?<br>Læs mere<br>Advisory boards<br>Tænketanken EUROPA rådgives af Danmarks og Europas skarpeste stemmer inden for europæisk politik og økonomi via vores forskellige advisory boards.<br>Se alle medlemmer her<br>Copyright<br>Thomas Lekfeldt / Scanpix<br>Seneste analyser<br>Digital transformation<br>Regeringen er på kollisionskurs med EU over datacentre<br>7.07.2026<br>Digital transformation<br>DMA/DSA Tracker<br>6.07.2026<br>Digital transformation<br>EU vil for meget med for få midler i ny tech<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://thinkeuropa.dk' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://thinkeuropa.dk</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:47 +0800</pubDate>
     </item>
     <item>
-      <title>[Institute of Military Studies --Denmark] Centre for Military Studies</title>
+      <title><![CDATA[[Institute of Military Studies --Denmark] Centre for Military Studies]]></title>
       <link>http://cms.polsci.ku.dk/english/</link>
-      <description><![CDATA[<p>2026.06.30<br>New CMS Report: Non-Criminal Transitional Justice in Ukraine<br>How can the international community promote accountability for Russia’s internationally wrongful…</p><br><hr><p><a href='http://cms.polsci.ku.dk/english/' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>]]></description>
-      <guid>http://cms.polsci.ku.dk/english/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:16:00 +0800</pubDate>
+      <description><![CDATA[2026.06.30
+New CMS Report: Non-Criminal Transitional Justice in Ukraine
+How can the international community promote accountability for Russia’s internationally wrongful…...]]></description>
+      <content:encoded><![CDATA[<div><p>2026.06.30<br>New CMS Report: Non-Criminal Transitional Justice in Ukraine<br>How can the international community promote accountability for Russia’s internationally wrongful…</p><br><hr><p><a href='http://cms.polsci.ku.dk/english/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://cms.polsci.ku.dk/english/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:20:48 +0800</pubDate>
     </item>
   </channel>
 </rss>
