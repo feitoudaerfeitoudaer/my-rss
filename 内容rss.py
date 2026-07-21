@@ -14,7 +14,7 @@ import warnings
 # ==========================================
 # ⚙️ 配置区域：项目真实公网托管链接
 # ==========================================
-DEPLOYED_BASE_URL = "https://github.io"
+DEPLOYED_BASE_URL = "https://feitoudaerfeitoudaer.github.io"
 
 # 1. 禁用所有难看的黄色警告提示
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
