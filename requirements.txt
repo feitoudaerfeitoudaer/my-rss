@@ -1,6 +1,6 @@
 pandas
+openpyxl
 requests
 beautifulsoup4
 rfeed
-openpyxl
-urllib3
+curl_cffi
