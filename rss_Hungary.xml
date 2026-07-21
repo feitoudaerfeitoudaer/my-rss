@@ -1,28 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
-    <title><![CDATA[智库深度全文订阅-Hungary]]></title>
-    <link>https://feitoudaerfeitoudaer.github.io/my-rss/rss_Hungary.xml</link>
+    <title><![CDATA[Hungary智库最新报告]]></title>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_Hungary.xml</link>
     <atom:link href="http://appspot.com" rel="hub" />
-    <atom:link href="https://feitoudaerfeitoudaer.github.io/my-rss/rss_Hungary.xml" rel="self" type="application/rss+xml" />
-    <description><![CDATA[自动透传的 [Hungary] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Hungary.xml" rel="self" type="application/rss+xml" />
+    <description><![CDATA[Hungary 智库具体文章报告详细全文]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:22:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:27:49 +0800</lastBuildDate>
     <item>
-      <title><![CDATA[[10. Center for Security and Defense Studies (CSDS) --Hungary] Tinder-kiégés? Így hozd vissza a lelkesedésedet!]]></title>
-      <link>http://bhkka.hu/en/blog/tinder-kieges-igy-hozd-vissza-a-lelkesedesedet</link>
-      <description><![CDATA[Tinder-kiégés? Így hozd vissza a lelkesedésedet!]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='http://bhkka.hu/en/blog/tinder-kieges-igy-hozd-vissza-a-lelkesedesedet' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://bhkka.hu/en/blog/tinder-kieges-igy-hozd-vissza-a-lelkesedesedet</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:00 +0800</pubDate>
+      <title><![CDATA[Institutional transformation]]></title>
+      <link>http://cps.ceu.hu/article/2021-06-11/institutional-transformation</link>
+      <description><![CDATA[After 20 years of existence the CEU Center for Policy Studies has merged into CEU's flagship research endeavor, the newl...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>After 20 years of existence the CEU Center for Policy Studies has merged into CEU's flagship research endeavor, the newly established Democracy Institute. The internal institutional transformations are still ongoing and we will conclude our ongoing research initiatives under the brand and identity of CEU CPS.</p><p style="margin-bottom:1.5em; text-indent:2em;">For new ideas and possibilities of future cooperation please have a look at the research agenda of thedemocracyinstitute.ceu.eduand contactdemocracyinstitute@ceu.eduor your main CPS research counterpart.</p><p style="margin-bottom:1.5em; text-indent:2em;">Thank you for being part of our journey of the last 20 years!</p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://cps.ceu.hu/article/2021-06-11/institutional-transformation</guid>
+      <pubDate>Tue, 21 Jul 2026 14:25:47 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[10. Center for Security and Defense Studies (CSDS) --Hungary] Érzelmi evés és túlsúly – Miért eszünk, ha nem vagyunk éhesek?]]></title>
+      <title><![CDATA[Comparative overview of the digital preparedness of education systems in selected CEE countries]]></title>
+      <link>http://cps.ceu.hu/article/2021-06-10/comparative-overview-digital-preparedness-education-systems-selected-cee</link>
+      <description><![CDATA[The final study of the EDUC project is about the digital preparedness of education systems, authored by Nina Begicevic R...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>The final study of the EDUC project is about the digital preparedness of education systems, authored by Nina Begicevic Redep, professor at University of Zagreb.</p><p style="margin-bottom:1.5em; text-indent:2em;">This thematic comparative study is focused on assessing the actual digital preparedness of the educational systems and the institutional conditions of further development in the CEE countries. In preparing this study, analysis of policies, programmes and school evaluation reports were done as well as analysis and interpretation of various statistical data sets and available data on student achievement. Relevant documents and statements issued by the government, government agencies, EU agencies or stakeholder organizations were also analyzed and results are presented in this comparative study.</p><p style="margin-bottom:1.5em; text-indent:2em;">Comparative overview of the digital preparedness of education systems in selected CEE countries(Download)</p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://cps.ceu.hu/article/2021-06-10/comparative-overview-digital-preparedness-education-systems-selected-cee</guid>
+      <pubDate>Tue, 21 Jul 2026 14:25:48 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Tinder-kiégés? Így hozd vissza a lelkesedésedet!]]></title>
+      <link>http://bhkka.hu/en/blog/tinder-kieges-igy-hozd-vissza-a-lelkesedesedet</link>
+      <description><![CDATA[最新报告: Tinder-kiégés? Így hozd vissza a lelkesedésedet!。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: Tinder-kiégés? Így hozd vissza a lelkesedésedet!。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://bhkka.hu/en/blog/tinder-kieges-igy-hozd-vissza-a-lelkesedesedet</guid>
+      <pubDate>Tue, 21 Jul 2026 14:26:22 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Érzelmi evés és túlsúly – Miért eszünk, ha nem vagyunk éhesek?]]></title>
       <link>http://bhkka.hu/en/blog/erzelmi-eves-es-tulsuly-miert-eszunk-ha-nem-vagyunk-ehesek</link>
-      <description><![CDATA[Érzelmi evés és túlsúly – Miért eszünk, ha nem vagyunk éhesek?]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='http://bhkka.hu/en/blog/erzelmi-eves-es-tulsuly-miert-eszunk-ha-nem-vagyunk-ehesek' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[最新报告: Érzelmi evés és túlsúly – Miért eszünk, ha nem vagyunk éhesek?。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: Érzelmi evés és túlsúly – Miért eszünk, ha nem vagyunk éhesek?。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
       <guid isPermaLink="true">http://bhkka.hu/en/blog/erzelmi-eves-es-tulsuly-miert-eszunk-ha-nem-vagyunk-ehesek</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:01 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:26:23 +0800</pubDate>
     </item>
   </channel>
 </rss>

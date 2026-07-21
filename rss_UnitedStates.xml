@@ -1,188 +1,188 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
-    <title><![CDATA[智库深度全文订阅-UnitedStates]]></title>
-    <link>https://feitoudaerfeitoudaer.github.io/my-rss/rss_UnitedStates.xml</link>
+    <title><![CDATA[UnitedStates智库最新报告]]></title>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_UnitedStates.xml</link>
     <atom:link href="http://appspot.com" rel="hub" />
-    <atom:link href="https://feitoudaerfeitoudaer.github.io/my-rss/rss_UnitedStates.xml" rel="self" type="application/rss+xml" />
-    <description><![CDATA[自动透传的 [UnitedStates] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_UnitedStates.xml" rel="self" type="application/rss+xml" />
+    <description><![CDATA[UnitedStates 智库具体文章报告详细全文]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:22:25 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:27:49 +0800</lastBuildDate>
     <item>
-      <title><![CDATA[[Peterson Institute for International Economics (PIIE) --United States] PIIE Insider LIVE]]></title>
+      <title><![CDATA[PIIE Insider LIVE]]></title>
       <link>https://piie.com/event-series/piie-insider-live</link>
-      <description><![CDATA[PIIE Insider LIVE]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>PIIE Insider LIVE</p><p>June 9, 2026</p><br><hr><p><a href='https://piie.com/event-series/piie-insider-live' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[PIIE Insider LIVE...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>PIIE Insider LIVE</p></div>]]></content:encoded>
       <guid isPermaLink="true">https://piie.com/event-series/piie-insider-live</guid>
-      <pubDate>Tue, 21 Jul 2026 14:20:05 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:25:28 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Peterson Institute for International Economics (PIIE) --United States] What Now, Europe?]]></title>
+      <title><![CDATA[What Now, Europe?]]></title>
       <link>https://piie.com/event-series/what-now-europe</link>
-      <description><![CDATA[What Now, Europe?]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>What Now, Europe?</p><p>July 23, 2026</p><br><hr><p><a href='https://piie.com/event-series/what-now-europe' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[What Now, Europe?...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>What Now, Europe?</p></div>]]></content:encoded>
       <guid isPermaLink="true">https://piie.com/event-series/what-now-europe</guid>
-      <pubDate>Tue, 21 Jul 2026 14:20:05 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:25:28 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Americans for Tax Reform (ATR) --United States] Pledge Database]]></title>
-      <link>https://atr.org/pledge-database/</link>
-      <description><![CDATA[Pledge Database]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://atr.org/pledge-database/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://atr.org/pledge-database/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:20:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Americans for Tax Reform (ATR) --United States] 2025 Pledge Signers]]></title>
-      <link>https://atr.org/2025-pledge-signers/</link>
-      <description><![CDATA[2025 Pledge Signers]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://atr.org/2025-pledge-signers/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://atr.org/2025-pledge-signers/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:20:06 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Acton Institute for the Study of Religion and Liberty --United States] Emerging Leaders Program]]></title>
+      <title><![CDATA[Emerging Leaders Program]]></title>
       <link>https://acton.org/elp</link>
-      <description><![CDATA[Emerging Leaders Program]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://acton.org/elp' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[最新报告: Emerging Leaders Program。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: Emerging Leaders Program。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
       <guid isPermaLink="true">https://acton.org/elp</guid>
-      <pubDate>Tue, 21 Jul 2026 14:20:07 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:25:29 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Acton Institute for the Study of Religion and Liberty --United States] Acton Grants & Awards]]></title>
+      <title><![CDATA[Acton Grants & Awards]]></title>
       <link>https://acton.org/awards</link>
-      <description><![CDATA[Acton Grants & Awards]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://acton.org/awards' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[最新报告: Acton Grants & Awards。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: Acton Grants & Awards。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
       <guid isPermaLink="true">https://acton.org/awards</guid>
-      <pubDate>Tue, 21 Jul 2026 14:20:07 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:25:29 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Center on International Cooperation --United States] NEW: Policy Guidance for Effective National Prevention Strategies]]></title>
+      <title><![CDATA[Pledge Database]]></title>
+      <link>https://atr.org/pledge-database/</link>
+      <description><![CDATA[最新报告: Pledge Database。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: Pledge Database。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://atr.org/pledge-database/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:25:29 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[2025 Pledge Signers]]></title>
+      <link>https://atr.org/2025-pledge-signers/</link>
+      <description><![CDATA[最新报告: 2025 Pledge Signers。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: 2025 Pledge Signers。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://atr.org/2025-pledge-signers/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:25:30 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[NEW: Policy Guidance for Effective National Prevention Strategies]]></title>
       <link>https://cic.nyu.edu/policy-guidance-effective-national-prevention-strategies/</link>
-      <description><![CDATA[NEW: Policy Guidance for Effective National Prevention Strategies]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://cic.nyu.edu/policy-guidance-effective-national-prevention-strategies/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[最新报告: NEW: Policy Guidance for Effective National Prevention Strategies。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: NEW: Policy Guidance for Effective National Prevention Strategies。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
       <guid isPermaLink="true">https://cic.nyu.edu/policy-guidance-effective-national-prevention-strategies/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:20:08 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:25:32 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Center on International Cooperation --United States] Prevention and Peacebuilding]]></title>
+      <title><![CDATA[Prevention and Peacebuilding]]></title>
       <link>https://cic.nyu.edu/program/prevention-peacebuilding/</link>
-      <description><![CDATA[Prevention and Peacebuilding]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://cic.nyu.edu/program/prevention-peacebuilding/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[最新报告: Prevention and Peacebuilding。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: Prevention and Peacebuilding。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
       <guid isPermaLink="true">https://cic.nyu.edu/program/prevention-peacebuilding/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:20:08 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:25:32 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[10. Center for Education Policy Analysis (CEPA) --United States] Child Development]]></title>
-      <link>http://cepa.stanford.edu/topic-areas/child-development</link>
-      <description><![CDATA[Child Development]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>Jessica Drescher</p><p>Ben Domingue</p><p>Jessica Drescher</p><p>Lily Steyer</p><p>Carrie Townley-Flores</p><p>Keith Humphreys</p><p>Carrie Townley-Flores</p><p>Amy Gerstein</p><p>Ciaran S. Phibbs</p><p>Lee M. Sanders</p><p>Jelena Obradović</p><p>Emma Armstrong-Carter</p><p>Jelena Obradović</p><p>Michael T. Willoughby</p><p>Francis A. Pearman</p><p>Matthew Springer</p><p>Mark Lipsey</p><p>Mark Lachowicz</p><p>Dale Farran</p><p>Walker Swain</p><p>Daphna Bassok</p><p>Scott Latham</p><p>Jelena Obradović</p><p>Jenna Finch</p><p>Ximena Portilla</p><p>Muneera Rasheed</p><p>Nicole Tirado-Strayer</p><p>Aisha K. Yousafzai</p><p>Allison Atteberry</p><p>Daphna Bassok</p><p>Vivian C. Wong</p><p>Kalena E. Cortes</p><p>Hans Fricke</p><p>Susanna Loeb</p><p>David S. Song</p><p>Harry Brighouse</p><p>Helen F. Ladd</p><p>Susanna Loeb</p><p>Christopher Doss</p><p>Sarah Bardack</p><p>Jelena Obradović</p><p>Benjamin Strauber</p><p>Piya Sorcar</p><p>Prashant Loyalka</p><p>Shelley Goldman</p><p>Susanna Loeb</p><p>Heather Hough</p><p>Daphna Bassok</p><p>Maria Fitzpatrick</p><p>Erica Greenberg</p><p>Susanna Loeb</p><p>Susanna Loeb</p><p>Chengchao Zhou</p><p>Sean Sylvia</p><p>Linxiu Zhang</p><p>Chengfang Liu</p><p>Yaojiang Shi</p><p>Prashant Loyalka</p><p>Alexis Medina</p><p>Scott Rozelle</p><p>Hans Henrik Sievertsen</p><br><hr><p><a href='http://cepa.stanford.edu/topic-areas/child-development' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://cepa.stanford.edu/topic-areas/child-development</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:41 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[10. Center for Education Policy Analysis (CEPA) --United States] Curriculum and Instruction]]></title>
-      <link>http://cepa.stanford.edu/topic-areas/curriculum-and-instruction</link>
-      <description><![CDATA[Curriculum and Instruction]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>Sade Bonilla</p><p>Thomas S. Dee</p><p>Emily K. Penner</p><p>Igor Chirikov</p><p>Tatiana Semenova</p><p>Natalia Maloshonok</p><p>Eric Bettinger</p><p>René F. Kizilcec</p><p>Thomas S. Dee</p><p>Benjamin W. Domingue</p><p>Hans Fricke</p><p>Michael Lechner</p><p>Andreas Steinmayr</p><p>Hans Fricke</p><p>Jeffrey Grogger</p><p>Andreas Steinmayr</p><p>Sorathan Chaturapruek</p><p>Ramesh Johari</p><p>René F. Kizilcec</p><p>Mitchell L. Stevens</p><p>Emily Penner</p><p>Prashant Loyalka</p><p>Andrey Zakharov</p><p>Eric P. Bettinger</p><p>Bridget Terry Long</p><p>Eric S. Taylor</p><p>Rachel A. Valentino</p><p>Sean F. Reardon</p><p>Benjamin Master</p><p>Susanna Loeb</p><p>James Wyckoff</p><p>Ilana Umansky</p><p>Rachel Valentino</p><p>Sean F. Reardon</p><p>Brent J. Evans</p><p>Rachel Baker</p><p>Deborah Stipek</p><p>Rachel A. Valentino</p><p>Eric S. Taylor</p><p>Ilana Umansky</p><p>Sean F. Reardon</p><p>Chrishana M. Lloyda</p><p>Pamela A. Morrisba</p><p>Ximena A. Portilla</p><p>Andrey Zakharov</p><p>Martin Carnoy</p><p>Prashant Loyalka</p><p>Pamela Grossman</p><p>Susanna Loeb</p><p>Julia Cohen</p><p>James Wyckoff</p><p>Brent Evans</p><p>John Willinsky</p><p>Brian A. Jacob</p><p>Nathaniel Schwartz</p><p>Michael W. Kirst</p><p>Alan Schoenfeld</p><p>Deborah Stipek</p><p>Deborah Stipek</p><p>Alan Schoenfeld</p><p>Deanna Gomby</p><p>Brian A. Jacob</p><p>Martin R. West</p><p>Deborah Stipek</p><p>Stephen Newton</p><p>Amita Chudgar</p><p>Thomas J. Kane</p><p>Eric S. Taylor</p><p>John H. Tyler</p><p>Amy L. Wooten</p><p>John H. Tyler</p><p>Eric S. Taylor</p><p>Thomas J. Kane</p><p>Amy L. Wooten</p><p>Eric P. Bettinger</p><p>Bridget Long</p><p>Eric P. Bettinger</p><p>Bridget Long</p><p>Susanna Loeb</p><p>Margaret Bridges</p><p>Daphna Bassok</p><p>Bruce Fuller</p><p>Russ Rumberger</p><p>Deborah Stipek</p><p>Deborah Stipek</p><p>Deborah Stipek</p><p>Eric P. Bettinger</p><p>Bridget Long</p><p>Deborah Stipek</p><p>Deborah Stipek</p><p>Patricia Byler</p><p>Penny Hauser-Cram</p><p>Selcuk Sirin</p><p>Deborah Stipek</p><p>Deborah Stipek</p><p>Deborah Stipek</p><br><hr><p><a href='http://cepa.stanford.edu/topic-areas/curriculum-and-instruction' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://cepa.stanford.edu/topic-areas/curriculum-and-instruction</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[2. Center for Water-Energy Efficiency, UC Davis – U.S.] Become an Affiliate]]></title>
-      <link>https://cwee.ucdavis.edu/affiliates/become-an-affiliate/</link>
-      <description><![CDATA[Become an Affiliate]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>The UC Davis Center for Water-Energy Efficiency (CWEE) invites strategically minded stakeholders and leaders to join our efforts to address the water-energy-climate nexus by advancing water management solutions.Our affiliate members are integral in advancing our mission and translating research into practice. CWEE encourages affiliate members to be active participants in our research program and help us prioritize research efforts that align with pressing concerns important to their organization, industry, and beyond. Members benefit from the integrated solutions and research insights developed from their sponsorship.</p><p>Affiliate member benefits include access to industry experts at CWEE, updates and insights from current research, and the advancement of shared research interest into real world application. Affiliates help direct key focus areas in CWEE research initiatives that aim to advance research or policy in critical topic areas. Affiliates also receive access to the tools and resources that come out of our research and have access to our campus and external networks.</p><p>Industry AdviceOur researchers and faculty have in-depth knowledge of the water and water-energy landscape as experts in their field. Affiliate members may request one-on-one meetings to discuss current and emerging research, newly published research findings, and other insights unique to their organization. Key expert advising and research areas include:</p><p>-Water system energy efficiency, intensity, and load shifting-Water & energy data systems, data architecture, and integration-Evaluation of efficiency programs-Hydraulic model calibration and use-Water loss control and more</p><p>Advance Research InitiativesInitiatives are critical topics required to advance research or policy. CWEE can perform basic research to advise the state/sector or to gain the proof of concept needed to seek greater impact through grant funding. Current research initiatives include:</p><p>-Water loss Control (leak Loss, pressure manag</p><p></p><p>...(详细内容较长，已自动折叠)...</p><br><hr><p><a href='https://cwee.ucdavis.edu/affiliates/become-an-affiliate/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://cwee.ucdavis.edu/affiliates/become-an-affiliate/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[2. Center for Water-Energy Efficiency, UC Davis – U.S.] Webinars and Videos]]></title>
-      <link>https://cwee.ucdavis.edu/webinars-and-videos/</link>
-      <description><![CDATA[Webinars and Videos]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>WaterWatch Software: A Planning and Management Tool for the Whole Team</p><p>Watch Video</p><p>Evaluating Water Loss Performance Standards – An Economic Leak Loss Reduction Model (8/24/2021)</p><p>Presenters:</p><p>Download Presentation Slides</p><p>How Onsite Non Potable Water Reuse Systems Can Secure California’s Water Future Barriers, Solutions (11/22/2019)</p><p>Presenters:</p><p>Download Presentation Slides</p><p>Ensure Effective Water Delivery and Optimize Energy Use (8/29/2019)</p><p>Presenters:</p><p>Download Presentation Slides</p><br><hr><p><a href='https://cwee.ucdavis.edu/webinars-and-videos/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://cwee.ucdavis.edu/webinars-and-videos/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[2. Freedom House --United States] Invest in Freedom’s Future. Support Freedom House.]]></title>
-      <link>https://freedomhouse.org/country/united-states/investing-freedoms-future</link>
-      <description><![CDATA[Invest in Freedom’s Future. Support Freedom House.]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://freedomhouse.org/country/united-states/investing-freedoms-future' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://freedomhouse.org/country/united-states/investing-freedoms-future</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[2. Freedom House --United States] Policy Recommendations]]></title>
-      <link>https://freedomhouse.org/country/united-states/index.php/policy-recommendations</link>
-      <description><![CDATA[Policy Recommendations]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://freedomhouse.org/country/united-states/index.php/policy-recommendations' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://freedomhouse.org/country/united-states/index.php/policy-recommendations</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:43 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[6. Mathematica Policy Research (MPR) --United States] Global Health and Development]]></title>
+      <title><![CDATA[Global Health and Development]]></title>
       <link>https://mathematica-mpr.com/sectors/global-health-and-development</link>
-      <description><![CDATA[Global Health and Development]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://mathematica-mpr.com/sectors/global-health-and-development' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[最新报告: Global Health and Development。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: Global Health and Development。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
       <guid isPermaLink="true">https://mathematica-mpr.com/sectors/global-health-and-development</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:42 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:26:58 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[6. Mathematica Policy Research (MPR) --United States] Healthcare and Life Sciences]]></title>
+      <title><![CDATA[Healthcare and Life Sciences]]></title>
       <link>https://mathematica-mpr.com/sectors/healthcare-and-life-sciences</link>
-      <description><![CDATA[Healthcare and Life Sciences]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://mathematica-mpr.com/sectors/healthcare-and-life-sciences' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[最新报告: Healthcare and Life Sciences。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: Healthcare and Life Sciences。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
       <guid isPermaLink="true">https://mathematica-mpr.com/sectors/healthcare-and-life-sciences</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:44 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:26:58 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[10. Ash Center for Democratic Governance and Innovation --United States] What We Work On]]></title>
-      <link>https://ash.harvard.edu/issues/</link>
-      <description><![CDATA[What We Work On]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://ash.harvard.edu/issues/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://ash.harvard.edu/issues/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:44 +0800</pubDate>
+      <title><![CDATA[Child Development]]></title>
+      <link>http://cepa.stanford.edu/topic-areas/child-development</link>
+      <description><![CDATA[Jessica Drescher Jessica Drescher Carrie Townley-Flores Carrie Townley-Flores Ciaran S. Phibbs Jelena Obradović Emma Arm...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>Jessica Drescher</p><p style="margin-bottom:1.5em; text-indent:2em;">Jessica Drescher</p><p style="margin-bottom:1.5em; text-indent:2em;">Carrie Townley-Flores</p><p style="margin-bottom:1.5em; text-indent:2em;">Carrie Townley-Flores</p><p style="margin-bottom:1.5em; text-indent:2em;">Ciaran S. Phibbs</p><p style="margin-bottom:1.5em; text-indent:2em;">Jelena Obradović</p><p style="margin-bottom:1.5em; text-indent:2em;">Emma Armstrong-Carter</p><p style="margin-bottom:1.5em; text-indent:2em;">Jelena Obradović</p><p style="margin-bottom:1.5em; text-indent:2em;">Michael T. Willoughby</p><p style="margin-bottom:1.5em; text-indent:2em;">Francis A. Pearman</p><p style="margin-bottom:1.5em; text-indent:2em;">Matthew Springer</p><p style="margin-bottom:1.5em; text-indent:2em;">Jelena Obradović</p><p style="margin-bottom:1.5em; text-indent:2em;">Nicole Tirado-Strayer</p><p style="margin-bottom:1.5em; text-indent:2em;">Aisha K. Yousafzai</p><p style="margin-bottom:1.5em; text-indent:2em;">Allison Atteberry</p><p style="margin-bottom:1.5em; text-indent:2em;">Kalena E. Cortes</p><p style="margin-bottom:1.5em; text-indent:2em;">Christopher Doss</p><p style="margin-bottom:1.5em; text-indent:2em;">Jelena Obradović</p><p style="margin-bottom:1.5em; text-indent:2em;">Benjamin Strauber</p><p style="margin-bottom:1.5em; text-indent:2em;">Prashant Loyalka</p><p style="margin-bottom:1.5em; text-indent:2em;">Maria Fitzpatrick</p><p style="margin-bottom:1.5em; text-indent:2em;">Prashant Loyalka</p><p style="margin-bottom:1.5em; text-indent:2em;">Hans Henrik Sievertsen</p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://cepa.stanford.edu/topic-areas/child-development</guid>
+      <pubDate>Tue, 21 Jul 2026 14:26:58 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[10. Ash Center for Democratic Governance and Innovation --United States] Multiracial Democracy]]></title>
-      <link>https://ash.harvard.edu/issues/multiracialdemocracy/</link>
-      <description><![CDATA[Multiracial Democracy]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://ash.harvard.edu/issues/multiracialdemocracy/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://ash.harvard.edu/issues/multiracialdemocracy/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:44 +0800</pubDate>
+      <title><![CDATA[Curriculum and Instruction]]></title>
+      <link>http://cepa.stanford.edu/topic-areas/curriculum-and-instruction</link>
+      <description><![CDATA[Tatiana Semenova Natalia Maloshonok René F. Kizilcec Benjamin W. Domingue Andreas Steinmayr Andreas Steinmayr Sorathan C...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>Tatiana Semenova</p><p style="margin-bottom:1.5em; text-indent:2em;">Natalia Maloshonok</p><p style="margin-bottom:1.5em; text-indent:2em;">René F. Kizilcec</p><p style="margin-bottom:1.5em; text-indent:2em;">Benjamin W. Domingue</p><p style="margin-bottom:1.5em; text-indent:2em;">Andreas Steinmayr</p><p style="margin-bottom:1.5em; text-indent:2em;">Andreas Steinmayr</p><p style="margin-bottom:1.5em; text-indent:2em;">Sorathan Chaturapruek</p><p style="margin-bottom:1.5em; text-indent:2em;">René F. Kizilcec</p><p style="margin-bottom:1.5em; text-indent:2em;">Mitchell L. Stevens</p><p style="margin-bottom:1.5em; text-indent:2em;">Prashant Loyalka</p><p style="margin-bottom:1.5em; text-indent:2em;">Eric P. Bettinger</p><p style="margin-bottom:1.5em; text-indent:2em;">Bridget Terry Long</p><p style="margin-bottom:1.5em; text-indent:2em;">Rachel A. Valentino</p><p style="margin-bottom:1.5em; text-indent:2em;">Rachel Valentino</p><p style="margin-bottom:1.5em; text-indent:2em;">Rachel A. Valentino</p><p style="margin-bottom:1.5em; text-indent:2em;">Chrishana M. Lloyda</p><p style="margin-bottom:1.5em; text-indent:2em;">Pamela A. Morrisba</p><p style="margin-bottom:1.5em; text-indent:2em;">Ximena A. Portilla</p><p style="margin-bottom:1.5em; text-indent:2em;">Prashant Loyalka</p><p style="margin-bottom:1.5em; text-indent:2em;">Nathaniel Schwartz</p><p style="margin-bottom:1.5em; text-indent:2em;">Michael W. Kirst</p><p style="margin-bottom:1.5em; text-indent:2em;">Eric P. Bettinger</p><p style="margin-bottom:1.5em; text-indent:2em;">Eric P. Bettinger</p><p style="margin-bottom:1.5em; text-indent:2em;">Margaret Bridges</p><p style="margin-bottom:1.5em; text-indent:2em;">Eric P. Bettinger</p><p style="margin-bottom:1.5em; text-indent:2em;">Penny Hauser-Cram</p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://cepa.stanford.edu/topic-areas/curriculum-and-instruction</guid>
+      <pubDate>Tue, 21 Jul 2026 14:26:59 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[9. Center for Public Integrity (CPI) --United States] High Courts, High Stakes]]></title>
+      <title><![CDATA[Invest in Freedom’s Future. Support Freedom House.]]></title>
+      <link>https://freedomhouse.org/country/united-states/investing-freedoms-future</link>
+      <description><![CDATA[最新报告: Invest in Freedom’s Future. Support Freedom House.。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: Invest in Freedom’s Future. Support Freedom House.。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://freedomhouse.org/country/united-states/investing-freedoms-future</guid>
+      <pubDate>Tue, 21 Jul 2026 14:27:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Policy Recommendations]]></title>
+      <link>https://freedomhouse.org/country/united-states/index.php/policy-recommendations</link>
+      <description><![CDATA[最新报告: Policy Recommendations。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: Policy Recommendations。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://freedomhouse.org/country/united-states/index.php/policy-recommendations</guid>
+      <pubDate>Tue, 21 Jul 2026 14:27:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[High Courts, High Stakes]]></title>
       <link>https://publicintegrity.org/topics/politics/high-courts-high-stakes/</link>
-      <description><![CDATA[High Courts, High Stakes]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>A Center for Public Integrity investigation that revealed an under-the-radar effort pushing state high courts rightward — with far-reaching consequences — is a finalist for a Toner Prize honoring excellence in political reporting. “High Courts, High Stakes” is one of six projects recognized in the journalism contest’s national category. Other finalists include ProPublica’s investigative reporting […]</p><br><hr><p><a href='https://publicintegrity.org/topics/politics/high-courts-high-stakes/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[A Center for Public Integrity investigation that revealed an under-the-radar effort pushing state high courts rightward ...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>A Center for Public Integrity investigation that revealed an under-the-radar effort pushing state high courts rightward — with far-reaching consequences — is a finalist for a Toner Prize honoring excellence in political reporting. “High Courts, High Stakes” is one of six projects recognized in the journalism contest’s national category. Other finalists include ProPublica’s investigative reporting […]</p></div>]]></content:encoded>
       <guid isPermaLink="true">https://publicintegrity.org/topics/politics/high-courts-high-stakes/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:44 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:27:00 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[9. Center for Public Integrity (CPI) --United States] ECONOMIC WELL-BEING]]></title>
+      <title><![CDATA[ECONOMIC WELL-BEING]]></title>
       <link>https://publicintegrity.org/economic-well-being-mission/</link>
-      <description><![CDATA[ECONOMIC WELL-BEING]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>The wealth gap between Black and white Americans is wider today than when civil rights legislation was passed in the 1960s, one glaring indicator of a society in which economic inequality in this country is tipping toward crisis. Public Integrity’s reporting confronts the discriminatory systems that have overlapped and compounded to redistribute wealth to the rich through the rules of work, access to credit, home ownership and entrepreneurship, state and federal tax policy and government subsidies.</p><p>BY THE NUMBERS</p><p>Share of income Washington state’s poorest contribute to state and local taxes, compared with 3% for the wealthy</p><p>How much more in net worth the average white family had in 2019 compared with the average Black family</p><p>Among employers repeatedly cited for wage theft, the share the federal government ultimately fined from 2005 to 2020</p><p>TAKE ACTION IN YOUR COMMUNITY</p><p>We made public a dataset showing employers the federal government investigated for wrongfully underpaying workers.</p><p>We wanted to see how discrimination shaped one city. Here’s how you can get answers about your own community.</p><p>What are your rights as a homeless student?</p><p>Questions about our economicwell-being stories or coverage? Email media@publicintegrity.org.</p><p>All but a handful of states make poor residents contribute a greater share of their income to taxes than wealthy people do, making inequality worse instead of better.Read more…</p><p>COLLABORATE WITH US</p><p>Interested in our stories? Read how to republish our work and our guidelines.</p><p>Are you a journalist? Join our email list for opportunities to partner with us.</p><p>Our work is possible thanks to support from people like you. Here is how to donate.</p><p>Interested in collaborating or have questions about how to use our investigations? Email us.</p><p>Undocumented immigrants enduring abuses from employers such as wage theft, safety infractions and gender discrimination can now obtain deportation relief when they report workplace violations to a government agency, the U.S.</p><p></p><p>...(详细内容较长，已自动折叠)...</p><br><hr><p><a href='https://publicintegrity.org/economic-well-being-mission/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[The wealth gap between Black and white Americans is wider today than when civil rights legislation was passed in the 196...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>The wealth gap between Black and white Americans is wider today than when civil rights legislation was passed in the 1960s, one glaring indicator of a society in which economic inequality in this country is tipping toward crisis. Public Integrity’s reporting confronts the discriminatory systems that have overlapped and compounded to redistribute wealth to the rich through the rules of work, access to credit, home ownership and entrepreneurship, state and federal tax policy and government subsidies.</p><p style="margin-bottom:1.5em; text-indent:2em;">Share of income Washington state’s poorest contribute to state and local taxes, compared with 3% for the wealthy</p><p style="margin-bottom:1.5em; text-indent:2em;">How much more in net worth the average white family had in 2019 compared with the average Black family</p><p style="margin-bottom:1.5em; text-indent:2em;">Among employers repeatedly cited for wage theft, the share the federal government ultimately fined from 2005 to 2020</p><p style="margin-bottom:1.5em; text-indent:2em;">TAKE ACTION IN YOUR COMMUNITY</p><p style="margin-bottom:1.5em; text-indent:2em;">We made public a dataset showing employers the federal government investigated for wrongfully underpaying workers.</p><p style="margin-bottom:1.5em; text-indent:2em;">We wanted to see how discrimination shaped one city. Here’s how you can get answers about your own community.</p><p style="margin-bottom:1.5em; text-indent:2em;">What are your rights as a homeless student?</p><p style="margin-bottom:1.5em; text-indent:2em;">Questions about our economicwell-being stories or coverage? Email media@publicintegrity.org.</p><p style="margin-bottom:1.5em; text-indent:2em;">All but a handful of states make poor residents contribute a greater share of their income to taxes than wealthy people do, making inequality worse instead of better.Read more…</p><p style="margin-bottom:1.5em; text-indent:2em;">COLLABORATE WITH US</p><p style="margin-bottom:1.5em; text-indent:2em;">Interested in our stories? Read how to republish our work and our guidelines.</p><p style="margin-bottom:1.5em; text-indent:2em;">Are you a journalist? Join our email list for opportunities to partner with us.</p><p style="margin-bottom:1.5em; text-indent:2em;">Our work is possible thanks to support from people like you. Here is how to donate.</p><p style="margin-bottom:1.5em; text-indent:2em;">Interested in collaborating or have questions about how to use our investigations? Email us.</p><p style="margin-bottom:1.5em; text-indent:2em;">Undocumented immigrants enduring abuses from employers such as wage theft, safety infractions and gender discrimination can now obtain deportation relief when they report workplace violations to a government agency, the U.S. Department of </p><p style="margin-bottom:1.5em; text-indent:2em;"></p><p style="margin-bottom:1.5em; text-indent:2em;">...(详细报告正文较长，已自动折叠)...</p></div>]]></content:encoded>
       <guid isPermaLink="true">https://publicintegrity.org/economic-well-being-mission/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:44 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:27:01 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[7. Center for Food Security and the Environment – U.S.] Postdoctoral Fellowship]]></title>
+      <title><![CDATA[What We Work On]]></title>
+      <link>https://ash.harvard.edu/issues/</link>
+      <description><![CDATA[最新报告: What We Work On。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: What We Work On。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://ash.harvard.edu/issues/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:27:01 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Multiracial Democracy]]></title>
+      <link>https://ash.harvard.edu/issues/multiracialdemocracy/</link>
+      <description><![CDATA[最新报告: Multiracial Democracy。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>最新报告: Multiracial Democracy。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。</p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://ash.harvard.edu/issues/multiracialdemocracy/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:27:01 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Become an Affiliate]]></title>
+      <link>https://cwee.ucdavis.edu/affiliates/become-an-affiliate/</link>
+      <description><![CDATA[The UC Davis Center for Water-Energy Efficiency (CWEE) invites strategically minded stakeholders and leaders to join our...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>The UC Davis Center for Water-Energy Efficiency (CWEE) invites strategically minded stakeholders and leaders to join our efforts to address the water-energy-climate nexus by advancing water management solutions.Our affiliate members are integral in advancing our mission and translating research into practice. CWEE encourages affiliate members to be active participants in our research program and help us prioritize research efforts that align with pressing concerns important to their organization, industry, and beyond. Members benefit from the integrated solutions and research insights developed from their sponsorship.</p><p style="margin-bottom:1.5em; text-indent:2em;">Affiliate member benefits include access to industry experts at CWEE, updates and insights from current research, and the advancement of shared research interest into real world application. Affiliates help direct key focus areas in CWEE research initiatives that aim to advance research or policy in critical topic areas. Affiliates also receive access to the tools and resources that come out of our research and have access to our campus and external networks.</p><p style="margin-bottom:1.5em; text-indent:2em;">Industry AdviceOur researchers and faculty have in-depth knowledge of the water and water-energy landscape as experts in their field. Affiliate members may request one-on-one meetings to discuss current and emerging research, newly published research findings, and other insights unique to their organization. Key expert advising and research areas include:</p><p style="margin-bottom:1.5em; text-indent:2em;">-Water system energy efficiency, intensity, and load shifting-Water & energy data systems, data architecture, and integration-Evaluation of efficiency programs-Hydraulic model calibration and use-Water loss control and more</p><p style="margin-bottom:1.5em; text-indent:2em;">Advance Research InitiativesInitiatives are critical topics required to advance research or policy. CWEE can perform basic research to advise the state/sector or to gain the proof of concept needed to seek greater impact through grant funding. Current research initiatives include:</p><p style="margin-bottom:1.5em; text-indent:2em;">-Water loss Control (leak Loss, pressure manag</p><p style="margin-bottom:1.5em; text-indent:2em;"></p><p style="margin-bottom:1.5em; text-indent:2em;">...(详细报告正文较长，已自动折叠)...</p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://cwee.ucdavis.edu/affiliates/become-an-affiliate/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:27:00 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Webinars and Videos]]></title>
+      <link>https://cwee.ucdavis.edu/webinars-and-videos/</link>
+      <description><![CDATA[WaterWatch Software: A Planning and Management Tool for the Whole Team Evaluating Water Loss Performance Standards – An ...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>WaterWatch Software: A Planning and Management Tool for the Whole Team</p><p style="margin-bottom:1.5em; text-indent:2em;">Evaluating Water Loss Performance Standards – An Economic Leak Loss Reduction Model (8/24/2021)</p><p style="margin-bottom:1.5em; text-indent:2em;">Download Presentation Slides</p><p style="margin-bottom:1.5em; text-indent:2em;">How Onsite Non Potable Water Reuse Systems Can Secure California’s Water Future Barriers, Solutions (11/22/2019)</p><p style="margin-bottom:1.5em; text-indent:2em;">Download Presentation Slides</p><p style="margin-bottom:1.5em; text-indent:2em;">Ensure Effective Water Delivery and Optimize Energy Use (8/29/2019)</p><p style="margin-bottom:1.5em; text-indent:2em;">Download Presentation Slides</p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://cwee.ucdavis.edu/webinars-and-videos/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:27:01 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[Postdoctoral Fellowship]]></title>
       <link>https://fse.fsi.stanford.edu/fse-postdoctoral-fellowship</link>
-      <description><![CDATA[Postdoctoral Fellowship]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>FSE Postdoctoral Fellowship</p><p>Postdoctoral Fellowship</p><p>Awarded to young scholars focused on research related to global hunger, poverty alleviation, and environmental degradation</p><p>About the Fellowship</p><p>Thank you for your interest! The application for Fall 2026 is now closed.</p><br><hr><p><a href='https://fse.fsi.stanford.edu/fse-postdoctoral-fellowship' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[FSE Postdoctoral Fellowship Postdoctoral Fellowship Awarded to young scholars focused on research related to global hung...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>FSE Postdoctoral Fellowship</p><p style="margin-bottom:1.5em; text-indent:2em;">Postdoctoral Fellowship</p><p style="margin-bottom:1.5em; text-indent:2em;">Awarded to young scholars focused on research related to global hunger, poverty alleviation, and environmental degradation</p><p style="margin-bottom:1.5em; text-indent:2em;">Thank you for your interest! The application for Fall 2026 is now closed.</p></div>]]></content:encoded>
       <guid isPermaLink="true">https://fse.fsi.stanford.edu/fse-postdoctoral-fellowship</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:44 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:27:01 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[7. Center for Food Security and the Environment – U.S.] Rainfall tipping point predicts drought risk for crops]]></title>
+      <title><![CDATA[Rainfall tipping point predicts drought risk for crops]]></title>
       <link>https://fse.fsi.stanford.edu/news/rainfall-tipping-point-predicts-drought-risk-crops</link>
-      <description><![CDATA[Rainfall tipping point predicts drought risk for crops]]></description>
-      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>It matters where the rain that irrigates your food comes from. In one of the first global analyses tracing the origins of rainfall for major crops, researchers at Stanford University and the University of California San Diego used satellite data and physical models to map where rainwater is recycled from land versus drawn from oceans. They found that regions relying more on land-sourced moisture—such as the U.S. Midwest, southern Africa, and parts of Asia—face greater drought risk and crop yield losses when rainfall falters.</p><p>Thestudy, published recently inNature Sustainability, offers a new way to pinpoint vulnerable farming regions and guide adaptation strategies. It also identifies a key threshold—when roughly a third of rainwater comes from land sources—beyond which crops become far more likely to suffer water stress.</p><p>Below, study coauthorsJen Burney, the deputy director of theStanford Center for Food Security and the Environment, and Yan Jiang, a postdoctoral scholar at the University of California San Diego, explain what this means for global agriculture, why it matters for food prices and policy, and how science is helping farmers anticipate water scarcity before it strikes.</p><p>Burney: More than 80% of the world’s cropland is rainfed, and all of that water originates either from evaporation of ocean water, or evapotranspiration from land. It was not clear to us prior to this study whether these two sources are equally reliable from a cropping and food security perspective, and it turns out they are not. So in short, tracking where rain comes from helps us understand crop vulnerability in a new way and even guides adaptation and resilience efforts.</p><p>Burney:This 36% value is a critical empirical dividing line that emerged in our analysis. It effectively separates global croplands into two groups: one that is generally water-secure and the other that tends to be highly water-stressed. Regions where cropland depends more on land-originating water – beyond the 36% thre</p><p></p><p>...(详细内容较长，已自动折叠)...</p><br><hr><p><a href='https://fse.fsi.stanford.edu/news/rainfall-tipping-point-predicts-drought-risk-crops' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <description><![CDATA[It matters where the rain that irrigates your food comes from. In one of the first global analyses tracing the origins o...]]></description>
+      <content:encoded><![CDATA[<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'><p style='margin-bottom:1.5em; text-indent:2em;'>It matters where the rain that irrigates your food comes from. In one of the first global analyses tracing the origins of rainfall for major crops, researchers at Stanford University and the University of California San Diego used satellite data and physical models to map where rainwater is recycled from land versus drawn from oceans. They found that regions relying more on land-sourced moisture—such as the U.S. Midwest, southern Africa, and parts of Asia—face greater drought risk and crop yield losses when rainfall falters.</p><p style="margin-bottom:1.5em; text-indent:2em;">Thestudy, published recently inNature Sustainability, offers a new way to pinpoint vulnerable farming regions and guide adaptation strategies. It also identifies a key threshold—when roughly a third of rainwater comes from land sources—beyond which crops become far more likely to suffer water stress.</p><p style="margin-bottom:1.5em; text-indent:2em;">Below, study coauthorsJen Burney, the deputy director of theStanford Center for Food Security and the Environment, and Yan Jiang, a postdoctoral scholar at the University of California San Diego, explain what this means for global agriculture, why it matters for food prices and policy, and how science is helping farmers anticipate water scarcity before it strikes.</p><p style="margin-bottom:1.5em; text-indent:2em;">Burney: More than 80% of the world’s cropland is rainfed, and all of that water originates either from evaporation of ocean water, or evapotranspiration from land. It was not clear to us prior to this study whether these two sources are equally reliable from a cropping and food security perspective, and it turns out they are not. So in short, tracking where rain comes from helps us understand crop vulnerability in a new way and even guides adaptation and resilience efforts.</p><p style="margin-bottom:1.5em; text-indent:2em;">Burney:This 36% value is a critical empirical dividing line that emerged in our analysis. It effectively separates global croplands into two groups: one that is generally water-secure and the other that tends to be highly water-stressed. Regions where cropland depends more on land-originating water – beyond the 36% thre</p><p style="margin-bottom:1.5em; text-indent:2em;"></p><p style="margin-bottom:1.5em; text-indent:2em;">...(详细报告正文较长，已自动折叠)...</p></div>]]></content:encoded>
       <guid isPermaLink="true">https://fse.fsi.stanford.edu/news/rainfall-tipping-point-predicts-drought-risk-crops</guid>
-      <pubDate>Tue, 21 Jul 2026 14:21:44 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:27:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
