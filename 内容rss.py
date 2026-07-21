@@ -71,8 +71,6 @@ def fetch_single_site(row):
         
         if title_element and content_element:
             title_text = title_element.get_text(strip=True)
-            
-            # 🌟【智能降维瘦身】提取干净的纯文本
             raw_text = content_element.get_text(separator="\n", strip=True)
             
             # 限制前 1500 个字作为核心摘要
@@ -80,18 +78,31 @@ def fetch_single_site(row):
             if len(raw_text) > 1500:
                 summary_text += "\n\n...(报告正文较长已自动隐藏后半部分)..."
             
-            # 嵌入直达原文超链接
-            html_read_more = f"<p>{summary_text.replace('\n', '<br>')}</p><br><hr><p><a href='{site_url}' target='_blank' style='color:#1a73e8;font-weight:bold;'>👉 点击这里，阅读该智库官方原文全文</a></p>"
+            # 1. 纯文本摘要：Feedly 列表流预览
+            description_text = summary_text[:200] + "..."
             
-            # 清洗非法字符
+            # 2. 富文本正文：Feedly 内部沉浸式阅读器所需的 HTML 结构
+            # 转换换行符为标准破行，并构建干净的内联样式链接
+            html_content = f"<div><p>{summary_text.replace('\n', '<br>')}</p><br><hr><p><a href='{site_url}' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>"
+            
+            # 清洗非法控制字符
             title_clean = clean_xml_string(title_text)
-            content_clean = clean_xml_string(html_read_more)
-            content_safe = content_clean.replace("]]>", "]]&gt;")
+            description_clean = clean_xml_string(description_text)
+            html_clean = clean_xml_string(html_content)
+            
+            # 核心安全处理：防止 CDATA 提前闭合崩溃
+            title_safe = title_clean.replace("]]>", "]]&gt;")
+            description_safe = description_clean.replace("]]>", "]]&gt;")
+            html_safe = html_clean.replace("]]>", "]]&gt;")
+            
+            # 对 URL 进行标准的 XML 实体转义
+            url_safe = html.escape(site_url)
             
             item = {
-                "title": html.escape(f"[{site_name}] {title_clean}"),
-                "link": html.escape(site_url),
-                "description": f"<![CDATA[{content_safe}]]>", 
+                "title": f"<![CDATA[[{site_name}] {title_safe}]]>",
+                "link": url_safe,
+                "description": f"<![CDATA[{description_safe}]]>", 
+                "content_encoded": f"<![CDATA[{html_safe}]]>",
                 "pub_date": datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
             }
             return (country, item)
@@ -113,13 +124,12 @@ with ThreadPoolExecutor(max_workers=30) as executor:
             if country not in country_feeds:
                 country_feeds[country] = []
             country_feeds[country].append(item)
-            print(f"   ✅ [属地:{country}] 成功抓取: {item['title'][:20]}...")
+            print(f"   ✅ [属地:{country}] 成功抓取: {item['title'][:30]}...")
 
-# 6. 【原生字符串一国单包输出 - 全量无损】
+# 6. 【针对 Feedly 特性优化的 RSS 输出】
 print("\n📦 开始按国别（一国一包一链接）打包 RSS 文件...")
 
 for country, items in country_feeds.items():
-    # 🌟【核心修改】彻底解除数量限制，全量保留
     safe_items = items  
     
     safe_country_name = "".join([c for c in country if c.isalpha() or c.isdigit() or c=='_']).strip()
@@ -128,13 +138,14 @@ for country, items in country_feeds.items():
         
     current_time = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
     
+    # 核心优化：引入 content 命名空间 (xmlns:content)，这是 Feedly 完美解析 HTML 的工业标准
     rss_parts = [
         '<?xml version="1.0" encoding="utf-8"?>',
-        '<rss version="2.0">',
+        '<rss version="2.0" xmlns:content="http://purl.org">',
         '  <channel>',
-        f'    <title>智库全文订阅-{safe_country_name}</title>',
+        f'    <title><![CDATA[智库全文订阅-{safe_country_name}]]></title>',
         f'    <link>https://github.io_{safe_country_name}.xml</link>',
-        f'    <description>自动抓取的 [{safe_country_name}] 智库文章全文摘要（全量无损版）</description>',
+        f'    <description><![CDATA[自动抓取的 [{safe_country_name}] 智库文章全文摘要（全量无损版）]]></description>',
         '    <language>zh-cn</language>',
         f'    <lastBuildDate>{current_time}</lastBuildDate>'
     ]
@@ -143,8 +154,16 @@ for country, items in country_feeds.items():
         rss_parts.append('    <item>')
         rss_parts.append(f'      <title>{item["title"]}</title>')
         rss_parts.append(f'      <link>{item["link"]}</link>')
+        
+        # 优化项：description 只放纯文本，作为 Feedly 列表视图下的预览语
         rss_parts.append(f'      <description>{item["description"]}</description>')
-        rss_parts.append(f'      <guid>{item["link"]}</guid>')
+        
+        # 优化项：用 content:encoded 专门存放 HTML 富文本，Feedly 会优先用它在详情页渲染
+        rss_parts.append(f'      <content:encoded>{item["content_encoded"]}</content:encoded>')
+        
+        # 优化项：显式标明 guid 是永久链接，防止 Feedly 重复推文、识别错乱
+        rss_parts.append(f'      <guid isPermaLink="true">{item["link"]}</guid>')
+        
         rss_parts.append(f'      <pubDate>{item["pub_date"]}</pubDate>')
         rss_parts.append('    </item>')
         
@@ -160,4 +179,4 @@ for country, items in country_feeds.items():
     actual_mb = len(full_xml_content.encode('utf-8')) / (1024 * 1024)
     print(f"   💾 成功同步国家文件: {filename} (包含 {len(safe_items)} 条，大小仅为: {actual_mb:.2f} MB)")
 
-print(f"\n==== 🚀 运行结束！全量无损输出完毕，完美适配 Feedly 免费版额度 ====")
+print(f"\n==== 🚀 运行结束！全量无损输出完毕，完美适配 Feedly 规范 ====")
