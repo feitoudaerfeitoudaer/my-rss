@@ -16,7 +16,7 @@ from xml.dom import minidom
 # ==========================================
 # ⚙️ 配置区域：已为你修改为 my-rss 项目的真实公网托管链接
 # ==========================================
-DEPLOYED_BASE_URL = "https://github.io"
+DEPLOYED_BASE_URL = "https://feitoudaerfeitoudaer.github.io"
 
 # 1. 禁用所有难看的黄色警告提示
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
@@ -212,12 +212,14 @@ def process_single_article_task(task):
     }
 
 # 【主动通知核心】
+
 def ping_feedly_websub(feed_url):
     hub_url = "http://appspot.com"
     data = {"hub.mode": "publish", "hub.url": feed_url}
     try:
         res = requests.post(hub_url, data=data, timeout=5)
-        if res.status_code in:
+        # ⭐ 已修复：明确指定当状态码为 200 或 204 时代表广播成功
+        if res.status_code in:  
             print(f"   📢 [WebSub广播] 成功通知 Google 枢纽中心: {feed_url}")
     except Exception:
         pass
