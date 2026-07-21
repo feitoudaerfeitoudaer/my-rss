@@ -49,7 +49,7 @@ def clean_xml_string(v):
         return ""
     return re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x84\x86-\x9F]', '', v)
 
-# 【二级联动核心 1】：智能剥离侧边栏，保留最纯净的文本行
+# 【二级联动核心 1】：深入具体报告页，抠出封面图以及最纯净的正文段落
 def fetch_article_detail(article_url, headers):
     try:
         try:
@@ -60,16 +60,23 @@ def fetch_article_detail(article_url, headers):
         res.encoding = res.apparent_encoding
         soup = BeautifulSoup(res.text, 'html.parser')
         
-        # 清除所有无关和垃圾标签
+        # 提取封面图（完美配合 Feedly 的列表左侧配图机制）
+        img_url = ""
+        main_img = soup.find('meta', property='og:image') or soup.find('meta', name='twitter:image')
+        if main_img and main_img.get('content'):
+            img_url = main_img['content']
+        else:
+            # 备选：从正文区域抓第一张大图
+            first_img = soup.find('img', src=re.compile(r'uploads|article|wp-content', re.I))
+            if first_img and first_img.get('src'):
+                img_url = first_img['src']
+                if img_url.startswith('/'):
+                    img_url = 'https://' + article_url.split('/')[2] + img_url
+
+        # 清除干扰标签
         for junk in soup.find_all(['nav', 'footer', 'script', 'style', 'header', 'noscript', 'aside']):
             junk.decompose()
-            
-        # 清除动态加载、JS 禁用等无用报错文本
-        for t in soup.find_all(string=re.compile(r'JavaScript|javascript|禁用|noscript|Enable JS', re.I)):
-            if t.parent:
-                t.parent.decompose()
 
-        # 寻找正文包裹器
         article_body = (
             soup.find('article') or 
             soup.find('div', class_=re.compile(r'article-content|post-content|story-body|entry-content|report-body')) or
@@ -90,20 +97,17 @@ def fetch_article_detail(article_url, headers):
                     best_div = div
             article_body = best_div
 
+        paragraphs = []
         if article_body:
-            # 严格提取有价值的段落，过滤掉少于 15 字的短句（通常是侧边栏标签）
             paragraphs = [p.get_text(strip=True) for p in article_body.find_all('p') if len(p.get_text(strip=True)) > 15]
-            if paragraphs:
-                return "\n".join(paragraphs)
             
-            # 兜底清理直接文本
-            text_lines = [line.strip() for line in article_body.get_text(separator="\n").split("\n") if len(line.strip()) > 20]
-            return "\n".join(text_lines)
+        full_txt = "\n".join(paragraphs) if paragraphs else "点击下方链接阅读智库官方原文。"
+        return img_url, full_txt
     except Exception:
         pass
-    return ""
+    return "", ""
 
-# 【二级联动核心 2】：生成极致清爽的列表与右侧居中详情
+# 【二级联动核心 2】：严格筛选大西洋理事会等站内具体链接，过滤任何干扰项
 def fetch_single_site(row):
     site_name = row['网站名称']
     base_url = row['网站链接']
@@ -136,56 +140,64 @@ def fetch_single_site(row):
                 if href.startswith('//'): href = 'https:' + href
                 else: href = base_url.rstrip('/') + href
             
-            if not href.startswith('http') or base_url.replace('www.', '') not in href or href.rstrip('/') == base_url.rstrip('/'):
+            # 【高能过滤】：严防死守。必须包含当前智库的特定核心域名，排除任何跨站外链
+            domain_keyword = base_url.replace('https://', '').replace('http://', '').replace('www.', '').split('/')[0]
+            if domain_keyword not in href or href.rstrip('/') == base_url.rstrip('/'):
                 continue
-            if any(x in href.lower() for x in ['about', 'contact', 'search', 'privacy', 'terms', 'twitter', 'facebook', 'linkedin', 'careers']):
+                
+            # 剔除常见的非报告性质的死角链接
+            if any(x in href.lower() for x in ['about', 'contact', 'search', 'privacy', 'terms', 'twitter', 'facebook', 'linkedin', 'careers', 'experts', 'events', 'donate']):
                 continue
                 
             link_text = link.get_text(strip=True)
-            if len(link_text) < 15 or href in seen_urls: 
+            # 过滤短文本，确保抓出来的是货真价实的长报告标题
+            if len(link_text) < 20 or href in seen_urls: 
                 continue
                 
             seen_urls.add(href)
             
-            full_detail_text = fetch_article_detail(href, headers)
-            
-            # 💡 优化 1：如果抓取内容为空，绝不显示“无内容”，而是直接用标题兜底，防止列表变形
-            if not full_detail_text or len(full_detail_text.strip()) < 10:
-                full_detail_text = f"最新报告: {link_text}。详细报告全文已发布，请点击下方链接直接前往智库官网阅读。"
+            # 深入二级联动抓取
+            img_url, full_detail_text = fetch_article_detail(href, headers)
+            if not full_detail_text:
+                continue
                 
-            # 💡 优化 2：生成极其干净的纯文本预览，作为中间栏列表的精简摘要
-            list_preview = full_detail_text[:120].replace('\n', ' ') + "..."
+            # 💡 还原截图核心：在 description 里面塞入精简图文样式，Feedly 列表视图会完美提取图片到左侧
+            if img_url:
+                list_description = f"<img src='{img_url}' style='float:left; margin-right:10px; width:120px; height:80px; object-fit:cover;' />网站专栏报告。作者: 智库研究员。 这篇智库文章初次发表在{site_name}官方网站上。"
+            else:
+                list_description = f"网站专栏报告。作者: 智库研究员。 这篇智库文章初次发表在{site_name}官方网站上。"
             
             summary_text = full_detail_text[:2000]
             if len(full_detail_text) > 2000:
-                summary_text += "\n\n...(详细报告正文较长，已自动折叠)..."
+                summary_text += "\n\n...(详细内容较长，已自动折叠)..."
                 
-            # 💡 优化 3：右侧详情窗口排版——强制锁定标准中轴线最大 660px 宽度，段落严格隔离，完美配合 Feedly 的右侧滑出面板
+            # 右侧沉浸式详情面板排版
             html_content = (
-                f"<div style='max-width:660px; margin:0 auto; padding:10px 0; font-family:-apple-system,BlinkMacSystemFont,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif; font-size:16px; line-height:1.75; color:#222;'>"
+                f"<div style='max-width:660px; margin:0 auto; font-family:-apple-system,BlinkMacSystemFont,sans-serif; font-size:16px; line-height:1.8; color:#333;'>"
+                f"<h2>{link_text}</h2>"
+                f"<p style='color:#666; font-size:14px;'>发布源: {site_name} | 抓取时间: {datetime.datetime.now().strftime('%Y-%m-%d')}</p><hr/>"
                 f"<p style='margin-bottom:1.5em; text-indent:2em;'>"
                 f"{summary_text.replace('\n', '</p><p style=\"margin-bottom:1.5em; text-indent:2em;\">')}"
                 f"</p>"
+                f"<br/><p><a href='{href}' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p>"
                 f"</div>"
             )
             
             title_clean = clean_xml_string(link_text).replace("]]>", "]]&gt;")
-            list_clean = clean_xml_string(list_preview).replace("]]>", "]]&gt;")
+            list_clean = clean_xml_string(list_description).replace("]]>", "]]&gt;")
             html_clean = clean_xml_string(html_content).replace("]]>", "]]&gt;")
             
             item = {
-                # 列表标题去掉不必要的括号，保持极简
                 "title": f"<![CDATA[{title_clean}]]>",
                 "link": html.escape(href),
-                # description 对应中间栏的摘要流，只给纯文本
                 "description": f"<![CDATA[{list_clean}]]>", 
-                # content_encoded 对应右侧点开后的沉浸正文
                 "content_encoded": f"<![CDATA[{html_clean}]]>",
                 "pub_date": datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
             }
             extracted_items.append(item)
             
-            if len(extracted_items) >= 2:
+            # 严格控制单站只保留最新 3 篇，严防信息轰炸和列表变形
+            if len(extracted_items) >= 3:
                 break
     except Exception:
         pass 
@@ -225,7 +237,8 @@ with ThreadPoolExecutor(max_workers=20) as executor:
                 country_feeds[country].extend(items_list)
                 print(f"   ✅ [属地:{country}] 成功抓取该智库最新文章 {len(items_list)} 篇")
 
-# 6. 【按国别打包输出标准的规范化 RSS 文件 + 附加 WebSub 标签】（安全纯文本防吞版）
+# =====================================================================
+# 6. 【按国别打包输出标准的规范化 RSS 文件 + 附加 WebSub 标签】（终极防吞版）
 # =====================================================================
 print("\n📦 开始按国别（一国一包）打包生成完美适配 Feedly 规范的 RSS 订阅源...")
 generated_feeds = []
@@ -240,22 +253,24 @@ for country, items in country_feeds.items():
     filename = f"rss_{safe_country_name}.xml"
     this_feed_url = f"{DEPLOYED_BASE_URL.rstrip('/')}/{filename}"
     
-    # 使用安全的字符替换方式，防止含有尖括号的标签被传输机制吞掉
-    rss_parts = [
-        '<?xml version="1.0" encoding="utf-8"?>',
-        '<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">',
-        '  <channel>',
-        f'    <title><![CDATA[{safe_country_name}智库最新报告]]></title>',
-        f'    <link>{this_feed_url}</link>',
-        '    <atom:link href="http://appspot.com" rel="hub" />',
-        f'    <atom:link href="{this_feed_url}" rel="self" type="application/rss+xml" />',
-        f'    <description><![CDATA[{safe_country_name} 智库具体文章报告详细全文]]></description>',
-        '    <language>zh-cn</language>',
-        f'    <lastBuildDate>{current_time}</lastBuildDate>'
-    ]
+    # 🌟 用纯字符串拼接初始化头部，彻底解决标签变空白的问题
+    rss_parts = []
+    rss_parts.append('?' + 'xml version="1.0" encoding="utf-8"?')
+    # 给第一行补上两边的尖括号
+    rss_parts[0] = '<' + rss_parts[0] + '>'
     
+    rss_parts.append('<' + 'rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org"' + '>')
+    rss_parts.append('  <' + 'channel' + '>')
+    rss_parts.append('    <' + 'title' + '><!' + f'[CDATA[{safe_country_name}智库最新报告]]' + '><' + '/title' + '>')
+    rss_parts.append('    <' + 'link' + '>' + this_feed_url + '<' + '/link' + '>')
+    rss_parts.append('    <' + 'atom:link href="http://appspot.com" rel="hub" /' + '>')
+    rss_parts.append('    <' + 'atom:link href="' + this_feed_url + '" rel="self" type="application/rss+xml" /' + '>')
+    rss_parts.append('    <' + 'description' + '><!' + f'[CDATA[{safe_country_name} 智库具体文章报告详细全文]]' + '><' + '/description' + '>')
+    rss_parts.append('    <' + 'language' + '>zh-cn<' + '/language' + '>')
+    rss_parts.append('    <' + 'lastBuildDate' + '>' + current_time + '<' + '/lastBuildDate' + '>')
+    
+    # 遍历补齐每一篇文章
     for item in items:
-        # 通过显式定义标签名称来确保绝对不会丢失任何符号
         t_item_start = '    ' + '<' + 'item' + '>'
         t_title = '      ' + '<' + 'title' + '>' + item["title"] + '<' + '/title' + '>'
         t_link = '      ' + '<' + 'link' + '>' + item["link"] + '<' + '/link' + '>'
@@ -274,8 +289,9 @@ for country, items in country_feeds.items():
         rss_parts.append(t_date)
         rss_parts.append(t_item_end)
         
-    rss_parts.append('  </channel>')
-    rss_parts.append('</rss>')
+    # 🌟 闭合标签也用纯字符串拼接，绝对防吞
+    rss_parts.append('  <' + '/channel' + '>')
+    rss_parts.append('<' + '/rss' + '>')
     
     full_xml_content = "\n".join(rss_parts)
     
