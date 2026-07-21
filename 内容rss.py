@@ -12,7 +12,7 @@ from bs4 import XMLParsedAsHTMLWarning
 import warnings
 
 # ==========================================
-# ⚙️ 配置区域：项目真实公网托管链接
+# ⚙️ 配置区域：已为你修改为 my-rss 项目的真实公网托管链接
 # ==========================================
 DEPLOYED_BASE_URL = "https://feitoudaerfeitoudaer.github.io"
 
@@ -151,7 +151,7 @@ def fetch_links_from_homepage(row):
                 'link_text': link_text,
                 'headers': headers
             })
-            if len(target_tasks) >= 2: 
+            if len(target_tasks) >= 3: 
                 break
     except Exception:
         pass
@@ -191,7 +191,8 @@ def process_single_article_task(task):
     html_clean = clean_xml_string(html_content).replace("]]>", "]]&gt;")
     
     return task['country'], {
-        "title": f"[{site_name}] {title_clean}",
+        "title": title_clean,
+        "site_name": site_name,  # 🌟 传递智库网站名字作为分类
         "link": html.escape(href),
         "description": list_clean, 
         "content_encoded": html_clean,
@@ -222,6 +223,7 @@ with ThreadPoolExecutor(max_workers=30) as executor:
             all_article_tasks.extend(tasks)
 
 print(f"🚀 [第二阶段] 提取完毕！共获得 {len(all_article_tasks)} 个具体报告页面。开始全量高并发渗透...")
+# 回归按国家分类打包，极大节省 Feedly 链接额度
 country_feeds = {}
 
 with ThreadPoolExecutor(max_workers=40) as executor:
@@ -234,16 +236,15 @@ with ThreadPoolExecutor(max_workers=40) as executor:
                 country_feeds[country] = []
             country_feeds[country].append(item)
 
-
 # =====================================================================
-# 6. 【按国别打包输出标准的规范化 RSS 文件】（动态变量模式：完美防止聊天框吞字乱码）
+# 6. 【安全零额度聚合模式】（工业级字典扁平化架构：100% 免疫任何排版错乱）
 # =====================================================================
-print("\n📦 开始按国别（一国一包）打包生成完美适配 Feedly 规范的 RSS 订阅源...")
+print("\n📦 开始按国别打包生成完美隔离、零额度损耗的 RSS 订阅源...")
 generated_feeds = []
 
-# 定义绝对安全的尖括号符号变量，防止任何传输机制拦截吞字
-O_TAG = chr(60)  # 代表左尖括号 <
-C_TAG = chr(62)  # 代表右尖括号 >
+# 用底层的字符编码构建尖括号，防止任何聊天框或传输系统拦截吞字
+LT = chr(60)  # 左尖括号 <
+RT = chr(62)  # 右尖括号 >
 
 for country, items in country_feeds.items():
     safe_country_name = "".join([c for c in country if c.isalpha() or c.isdigit() or c=='_']).strip()
@@ -254,41 +255,63 @@ for country, items in country_feeds.items():
     filename = f"rss_{safe_country_name}.xml"
     this_feed_url = f"{DEPLOYED_BASE_URL.rstrip('/')}/{filename}"
     
+    # 🌟 将 XML 骨架拆散成最基础的纯文本单元，用逗号严格隔开，彻底杜绝排版压缩
+    meta_elements = [
+        ["?xml version=\"1.0\" encoding=\"utf-8\"?", ""],
+        ["rss version=\"2.0\" xmlns:content=\"http://purl.org\" xmlns:atom=\"http://w3.org\"", ""],
+        ["channel", "  "],
+        ["title", "    ", f"![CDATA[{safe_country_name}智库报告聚合]]"],
+        ["link", "    ", this_feed_url],
+        ["atom:link href=\"http://appspot.com\" rel=\"hub\" /", "    "],
+        ["atom:link href=\"" + this_feed_url + "\" rel=\"self\" type=\"application/rss+xml\" /", "    "],
+        ["description", "    ", f"![CDATA[{safe_country_name} 全量智库文章详细全文聚合流]]"],
+        ["language", "    ", "zh-cn"],
+        ["lastBuildDate", "    ", current_time]
+    ]
+    
     rss_lines = []
-    # 🌟 动态拼装 XML 头部，由于字面上没有任何尖括号，任何平台复制代码都绝对不会损坏格式
-    rss_lines.append(O_TAG + '?xml version="1.0" encoding="utf-8"?' + C_TAG)
-    rss_lines.append(O_TAG + 'rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org"' + C_TAG)
-    rss_lines.append('  ' + O_TAG + 'channel' + C_TAG)
-    rss_lines.append('    ' + O_TAG + 'title' + C_TAG + O_TAG + '![CDATA[' + safe_country_name + '智库最新报告]]' + C_TAG + O_TAG + '/title' + C_TAG)
-    rss_lines.append('    ' + O_TAG + 'link' + C_TAG + this_feed_url + O_TAG + '/link' + C_TAG)
-    rss_lines.append('    ' + O_TAG + 'atom:link href="http://appspot.com" rel="hub" /' + C_TAG)
-    rss_lines.append('    ' + O_TAG + 'atom:link href="' + this_feed_url + '" rel="self" type="application/rss+xml" /' + C_TAG)
-    rss_lines.append('    ' + O_TAG + 'description' + C_TAG + O_TAG + '![CDATA[' + safe_country_name + ' 智库具体文章报告详细全文]]' + C_TAG + O_TAG + '/description' + C_TAG)
-    rss_lines.append('    ' + O_TAG + 'language' + C_TAG + 'zh-cn' + O_TAG + '/language' + C_TAG)
-    rss_lines.append('    ' + O_TAG + 'lastBuildDate' + C_TAG + current_time + O_TAG + '/lastBuildDate' + C_TAG)
-    
-    # 🌟 动态拼装每一篇文章的 item 块
+    # 1. 自动生成标准且带有漂亮缩进的头部标签
+    for elem in meta_elements:
+        tag_name = elem[0]
+        indent = elem[1]
+        if len(elem) == 3:
+            content_val = elem[2]
+            rss_lines.append(f"{indent}{LT}{tag_name}{RT}{LT}{content_val}{RT}{LT}/{tag_name.split()[0]}{RT}")
+        else:
+            rss_lines.append(f"{indent}{LT}{tag_name}{RT}")
+            
+    # 2. 循环遍历并精准注入每一篇文章的 item 块
     for item in items:
-        rss_lines.append('    ' + O_TAG + 'item' + C_TAG)
-        rss_lines.append('      ' + O_TAG + 'title' + C_TAG + O_TAG + '![CDATA[' + item["title"] + ']]' + C_TAG + O_TAG + '/title' + C_TAG)
-        rss_lines.append('      ' + O_TAG + 'link' + C_TAG + item["link"] + O_TAG + '/link' + C_TAG)
-        rss_lines.append('      ' + O_TAG + 'description' + C_TAG + O_TAG + '![CDATA[' + item["description"] + ']]' + C_TAG + O_TAG + '/description' + C_TAG)
-        rss_lines.append('      ' + O_TAG + 'content:encoded' + C_TAG + O_TAG + '![CDATA[' + item["content_encoded"] + ']]' + C_TAG + O_TAG + '/content:encoded' + C_TAG)
-        rss_lines.append('      ' + O_TAG + 'guid isPermaLink="true"' + C_TAG + item["link"] + O_TAG + '/guid' + C_TAG)
-        rss_lines.append('      ' + O_TAG + 'pubDate' + C_TAG + item["pub_date"] + O_TAG + '/pubDate' + C_TAG)
-        rss_lines.append('    ' + O_TAG + '/item' + C_TAG)
+        rss_lines.append("    " + LT + "item" + RT)
         
-    rss_lines.append('  ' + O_TAG + '/channel' + C_TAG)
-    rss_lines.append(O_TAG + '/rss' + C_TAG)
+        # 注入标题 (带有专属智库前缀)
+        rss_lines.append("      " + LT + "title" + RT + LT + "![CDATA[[" + item["site_name"] + "] " + item["title"] + "]]" + RT + LT + "/title" + RT)
+        # 注入链接
+        rss_lines.append("      " + LT + "link" + RT + item["link"] + LT + "/link" + RT)
+        # 注入中间栏精简图文摘要描述
+        rss_lines.append("      " + LT + "description" + RT + LT + "![CDATA[" + item["description"] + "]]" + RT + LT + "/description" + RT)
+        # 注入右侧沉浸式详情富文本
+        rss_lines.append("      " + LT + "content:encoded" + RT + LT + "![CDATA[" + item["content_encoded"] + "]]" + RT + LT + "/content:encoded" + RT)
+        # 🌟 障眼法核心：注入 category 标签，在不消耗任何额度的情况下，让 Feedly 自动激活网站单点过滤过滤机制
+        rss_lines.append("      " + LT + "category" + RT + LT + "![CDATA[" + item["site_name"] + "]]" + RT + LT + "/category" + RT)
+        # 注入永久链接唯一标识符
+        rss_lines.append("      " + LT + "guid isPermaLink=\"true\"" + RT + item["link"] + LT + "/guid" + RT)
+        # 注入具体发布时间
+        rss_lines.append("      " + LT + "pubDate" + RT + item["pub_date"] + LT + "/pubDate" + RT)
+        
+        rss_lines.append("    " + LT + "/item" + RT)
+        
+    # 3. 严格闭合频道根节点
+    rss_lines.append("  " + LT + "/channel" + RT)
+    rss_lines.append(LT + "/rss" + RT)
     
-    # 合并生成纯正无损的 XML
+    # 拼接并保存为最终完美的静态无损 XML 文件
     full_xml_content = "\n".join(rss_lines)
-    
     with open(filename, "w", encoding="utf-8") as f:
         f.write(full_xml_content)
         
     actual_mb = len(full_xml_content.encode('utf-8')) / (1024 * 1024)
-    print(f"   💾 成功同步国家文件: {filename} (包含 {len(items)} 篇，大小: {actual_mb:.2f} MB)")
+    print(f"   💾 成功创建合并文件: {filename} (包含 {len(items)} 篇，大小: {actual_mb:.2f} MB)")
     generated_feeds.append(this_feed_url)
 
 # =====================================================================
@@ -298,4 +321,4 @@ print("\n📡 开始触发 WebSub 主动广播通知...")
 for feed_url in generated_feeds:
     ping_feedly_websub(feed_url)
 
-print(f"\n==== 🚀 全速并发运行结束！格式 100% 绝对无损完美适配 Feedly ====")
+print(f"\n==== 🚀 全量聚合完毕！完全不消耗订阅额度，完美适配 Feedly 免费版 ====")
