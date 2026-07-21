@@ -1,239 +1,254 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>智库全文订阅-Ireland</title><link>https://github.io_Ireland.xml</link><description>自动抓取的 [Ireland] 智库文章全文</description><language>zh-cn</language><lastBuildDate>Tue, 21 Jul 2026 12:59:15 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Economic and Social Research Institute --Ireland] Informed Policy for a Better Ireland</title><link>http://www.esri.ie/</link><description>&lt;![CDATA[ &lt;article class="homepage"&gt;
-&lt;div class="homepage__header bg-primary"&gt;
-&lt;div class="homepage__header-inner layout-contained layout-contained--medium padding-horizontal"&gt;
-&lt;div class="homepage__title"&gt;
-&lt;h1&gt;Informed Policy for a Better Ireland&lt;/h1&gt;
-&lt;/div&gt;
-&lt;div class="homepage__header-links"&gt;
-&lt;div class="homepage__header-link"&gt;
-&lt;a href="https://www.esri.ie/publications/browse"&gt;Latest publications&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="building-blocks field__items"&gt;
-&lt;div class="building-block"&gt;
-&lt;div class="leaflets leaflets--large layout-contained padding-horizontal"&gt;
-&lt;div class="leaflets__items"&gt;
-&lt;div class="leaflet"&gt;
-&lt;div class="leaflet__image"&gt;
-&lt;article class="media media--type-image media--view-mode-widescreen-television"&gt;
-&lt;div class="field field--name-field-m-image-image field--type-image field--label-hidden"&gt;
-&lt;div class="field__items"&gt;
-&lt;div class="field__item"&gt; &lt;img alt="A person standing in an airport terminal, holding the handle of a gray, ribbed suitcase. The person is wearing a gray coat, blue jeans, and black shoes. The background shows large windows and reflections on the shiny floor." class="image-style-widescreen-television" height="900" loading="lazy" src="/system/files/styles/widescreen_television/private/media/images/2025-07/migration_0.png?itok=shnX2FMC" width="1600"/&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/article&gt;
-&lt;/div&gt;
-&lt;div class="leaflet__content"&gt;
-&lt;a class="leaflet__title h2" href="https://www.esri.ie/news/the-fiscal-impact-of-migration-and-welfare-receipt-among-immigrants" id="leaflettitle-62-60"&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>智库全文订阅-Ireland</title>
+    <link>https://github.io_Ireland.xml</link>
+    <description>自动抓取的 [Ireland] 智库文章全文</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Jul 2026 13:03:17 +0800</lastBuildDate>
+    <item>
+      <title>[Economic and Social Research Institute --Ireland] Informed Policy for a Better Ireland</title>
+      <link>http://www.esri.ie/</link>
+      <description><![CDATA[<article class="homepage">
+<div class="homepage__header bg-primary">
+<div class="homepage__header-inner layout-contained layout-contained--medium padding-horizontal">
+<div class="homepage__title">
+<h1>Informed Policy for a Better Ireland</h1>
+</div>
+<div class="homepage__header-links">
+<div class="homepage__header-link">
+<a href="https://www.esri.ie/publications/browse">Latest publications</a>
+</div>
+</div>
+</div>
+</div>
+<div class="building-blocks field__items">
+<div class="building-block">
+<div class="leaflets leaflets--large layout-contained padding-horizontal">
+<div class="leaflets__items">
+<div class="leaflet">
+<div class="leaflet__image">
+<article class="media media--type-image media--view-mode-widescreen-television">
+<div class="field field--name-field-m-image-image field--type-image field--label-hidden">
+<div class="field__items">
+<div class="field__item"> <img alt="A person standing in an airport terminal, holding the handle of a gray, ribbed suitcase. The person is wearing a gray coat, blue jeans, and black shoes. The background shows large windows and reflections on the shiny floor." class="image-style-widescreen-television" height="900" loading="lazy" src="/system/files/styles/widescreen_television/private/media/images/2025-07/migration_0.png?itok=shnX2FMC" width="1600"/>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="leaflet__content">
+<a class="leaflet__title h2" href="https://www.esri.ie/news/the-fiscal-impact-of-migration-and-welfare-receipt-among-immigrants" id="leaflettitle-62-60">
             Fiscal impact of migration and welfare receipt among immigrants
-          &lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="leaflet"&gt;
-&lt;div class="leaflet__image"&gt;
-&lt;article class="media media--type-image media--view-mode-widescreen-television"&gt;
-&lt;div class="field field--name-field-m-image-image field--type-image field--label-hidden"&gt;
-&lt;div class="field__items"&gt;
-&lt;div class="field__item"&gt; &lt;img alt="Aerial photo of the Liffey in Dublin City Centre" class="image-style-widescreen-television" height="901" loading="lazy" src="/system/files/styles/widescreen_television/private/media/images/2024-09/Updating%20Website%20Home%20Page%20IMAGE%20%282%29.png?itok=WF7DjZSk" width="1600"/&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/article&gt;
-&lt;/div&gt;
-&lt;div class="leaflet__content"&gt;
-&lt;a class="leaflet__title h2" href="https://www.esri.ie/news/domestic-economy-continues-to-perform-despite-global-challenges" id="leaflettitle-62-61"&gt;
+          </a>
+</div>
+</div>
+<div class="leaflet">
+<div class="leaflet__image">
+<article class="media media--type-image media--view-mode-widescreen-television">
+<div class="field field--name-field-m-image-image field--type-image field--label-hidden">
+<div class="field__items">
+<div class="field__item"> <img alt="Aerial photo of the Liffey in Dublin City Centre" class="image-style-widescreen-television" height="901" loading="lazy" src="/system/files/styles/widescreen_television/private/media/images/2024-09/Updating%20Website%20Home%20Page%20IMAGE%20%282%29.png?itok=WF7DjZSk" width="1600"/>
+</div>
+</div>
+</div>
+</article>
+</div>
+<div class="leaflet__content">
+<a class="leaflet__title h2" href="https://www.esri.ie/news/domestic-economy-continues-to-perform-despite-global-challenges" id="leaflettitle-62-61">
             Domestic economy continues to perform despite global challenges
-          &lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="layout-contained padding-horizontal"&gt;
-&lt;section class="homepage__lists"&gt;
-&lt;div class="homepage__list"&gt;
-&lt;div class="views-element-container"&gt;
-&lt;div class="list list--minimal view view-minimal view-id-minimal view-display-id-embed_news js-view-dom-id-6f4e0b3f995ece044b342afb13b9d17afa7b6f7164dccacb680d1ce9b34422b4"&gt;
-&lt;div class="view-header"&gt;
-&lt;h2 class="list__title"&gt;Latest News&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="view-content"&gt;
-&lt;div class="views-row"&gt;
-&lt;article class="minimal"&gt;
-&lt;a href="/news/nowcast-as-of-16-july-2026" rel="bookmark"&gt;
-&lt;h3 class="minimal__title"&gt;
+          </a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="layout-contained padding-horizontal">
+<section class="homepage__lists">
+<div class="homepage__list">
+<div class="views-element-container">
+<div class="list list--minimal view view-minimal view-id-minimal view-display-id-embed_news js-view-dom-id-6f4e0b3f995ece044b342afb13b9d17afa7b6f7164dccacb680d1ce9b34422b4">
+<div class="view-header">
+<h2 class="list__title">Latest News</h2>
+</div>
+<div class="view-content">
+<div class="views-row">
+<article class="minimal">
+<a href="/news/nowcast-as-of-16-july-2026" rel="bookmark">
+<h3 class="minimal__title">
         Nowcast (as of 16 July 2026)
-      &lt;/h3&gt;
-&lt;div class="minimal__date"&gt;
+      </h3>
+<div class="minimal__date">
       16 Jul, 2026
-    &lt;/div&gt;
-&lt;/a&gt;
-&lt;/article&gt;
-&lt;/div&gt;
-&lt;div class="views-row"&gt;
-&lt;article class="minimal"&gt;
-&lt;a href="/news/female-leadership-rising-across-financial-services" rel="bookmark"&gt;
-&lt;h3 class="minimal__title"&gt;
+    </div>
+</a>
+</article>
+</div>
+<div class="views-row">
+<article class="minimal">
+<a href="/news/female-leadership-rising-across-financial-services" rel="bookmark">
+<h3 class="minimal__title">
         Female leadership rising across financial services
-      &lt;/h3&gt;
-&lt;div class="minimal__date"&gt;
+      </h3>
+<div class="minimal__date">
       14 Jul, 2026
-    &lt;/div&gt;
-&lt;/a&gt;
-&lt;/article&gt;
-&lt;/div&gt;
-&lt;div class="views-row"&gt;
-&lt;article class="minimal"&gt;
-&lt;a href="/news/esri-newsletter-june-2026" rel="bookmark"&gt;
-&lt;h3 class="minimal__title"&gt;
+    </div>
+</a>
+</article>
+</div>
+<div class="views-row">
+<article class="minimal">
+<a href="/news/esri-newsletter-june-2026" rel="bookmark">
+<h3 class="minimal__title">
         ESRI Newsletter | June 2026
-      &lt;/h3&gt;
-&lt;div class="minimal__date"&gt;
+      </h3>
+<div class="minimal__date">
       02 Jul, 2026
-    &lt;/div&gt;
-&lt;/a&gt;
-&lt;/article&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="more-link"&gt;&lt;a href="/news"&gt;View all News&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="homepage__list"&gt;
-&lt;div class="views-element-container"&gt;
-&lt;div class="list list--minimal view view-minimal view-id-minimal view-display-id-embed_publications js-view-dom-id-b2cbdf777762949dee8b1c90b4fea2d4a4e003903f87a058a4b2b133da0f2e23"&gt;
-&lt;div class="view-header"&gt;
-&lt;h2 class="list__title"&gt;Recent Publications&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="view-content"&gt;
-&lt;div class="views-row"&gt;
-&lt;article class="minimal"&gt;
-&lt;a href="/publications/women-in-finance-charter-fourth-annual-report" rel="bookmark"&gt;
-&lt;h3 class="minimal__title"&gt;
+    </div>
+</a>
+</article>
+</div>
+</div>
+<div class="more-link"><a href="/news">View all News</a></div>
+</div>
+</div>
+</div>
+<div class="homepage__list">
+<div class="views-element-container">
+<div class="list list--minimal view view-minimal view-id-minimal view-display-id-embed_publications js-view-dom-id-b2cbdf777762949dee8b1c90b4fea2d4a4e003903f87a058a4b2b133da0f2e23">
+<div class="view-header">
+<h2 class="list__title">Recent Publications</h2>
+</div>
+<div class="view-content">
+<div class="views-row">
+<article class="minimal">
+<a href="/publications/women-in-finance-charter-fourth-annual-report" rel="bookmark">
+<h3 class="minimal__title">
         Women in Finance Charter: Fourth Annual Report
-      &lt;/h3&gt;
-&lt;div class="minimal__date"&gt;
+      </h3>
+<div class="minimal__date">
       13 Jul, 2026
-    &lt;/div&gt;
-&lt;/a&gt;
-&lt;/article&gt;
-&lt;/div&gt;
-&lt;div class="views-row"&gt;
-&lt;article class="minimal"&gt;
-&lt;a href="/publications/equivalisation-once-again" rel="bookmark"&gt;
-&lt;h3 class="minimal__title"&gt;
+    </div>
+</a>
+</article>
+</div>
+<div class="views-row">
+<article class="minimal">
+<a href="/publications/equivalisation-once-again" rel="bookmark">
+<h3 class="minimal__title">
         Equivalisation (once again)
-      &lt;/h3&gt;
-&lt;div class="minimal__date"&gt;
+      </h3>
+<div class="minimal__date">
       06 Jul, 2026
-    &lt;/div&gt;
-&lt;/a&gt;
-&lt;/article&gt;
-&lt;/div&gt;
-&lt;div class="views-row"&gt;
-&lt;article class="minimal"&gt;
-&lt;a href="/publications/perceptions-of-safety-and-fairness-in-road-spaces-shared-by-pedestrians-cyclists-and" rel="bookmark"&gt;
-&lt;h3 class="minimal__title"&gt;
+    </div>
+</a>
+</article>
+</div>
+<div class="views-row">
+<article class="minimal">
+<a href="/publications/perceptions-of-safety-and-fairness-in-road-spaces-shared-by-pedestrians-cyclists-and" rel="bookmark">
+<h3 class="minimal__title">
         Perceptions of safety and fairness in road spaces shared by pedestrians, cyclists and drivers
-      &lt;/h3&gt;
-&lt;div class="minimal__date"&gt;
+      </h3>
+<div class="minimal__date">
       02 Jul, 2026
-    &lt;/div&gt;
-&lt;/a&gt;
-&lt;/article&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="more-link"&gt;&lt;a href="/publications/browse"&gt;View all Publications&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="homepage__list"&gt;
-&lt;div class="views-element-container"&gt;
-&lt;div class="list list--minimal view view-minimal view-id-minimal view-display-id-embed_events js-view-dom-id-6b1f945e5d9d75b98449f1b4fe0aaf448dc1d2f7350a286902289579d2e81b6f"&gt;
-&lt;div class="view-header"&gt;
-&lt;h2 class="list__title"&gt;Upcoming Events&lt;/h2&gt;
-&lt;/div&gt;
-&lt;div class="view-content"&gt;
-&lt;div class="views-row"&gt;
-&lt;article class="minimal"&gt;
-&lt;a href="/events/trials-and-tribulations-lessons-from-field-experiments" rel="bookmark"&gt;
-&lt;h3 class="minimal__title"&gt;
+    </div>
+</a>
+</article>
+</div>
+</div>
+<div class="more-link"><a href="/publications/browse">View all Publications</a></div>
+</div>
+</div>
+</div>
+<div class="homepage__list">
+<div class="views-element-container">
+<div class="list list--minimal view view-minimal view-id-minimal view-display-id-embed_events js-view-dom-id-6b1f945e5d9d75b98449f1b4fe0aaf448dc1d2f7350a286902289579d2e81b6f">
+<div class="view-header">
+<h2 class="list__title">Upcoming Events</h2>
+</div>
+<div class="view-content">
+<div class="views-row">
+<article class="minimal">
+<a href="/events/trials-and-tribulations-lessons-from-field-experiments" rel="bookmark">
+<h3 class="minimal__title">
         Trials and Tribulations: Lessons from Field Experiments
-      &lt;/h3&gt;
-&lt;div class="minimal__date"&gt;
+      </h3>
+<div class="minimal__date">
       23 Jul, 2026
-    &lt;/div&gt;
-&lt;/a&gt;
-&lt;/article&gt;
-&lt;/div&gt;
-&lt;div class="views-row"&gt;
-&lt;article class="minimal"&gt;
-&lt;a href="/events/save-the-date-poverty-income-inequality-and-living-standards-in-ireland" rel="bookmark"&gt;
-&lt;h3 class="minimal__title"&gt;
+    </div>
+</a>
+</article>
+</div>
+<div class="views-row">
+<article class="minimal">
+<a href="/events/save-the-date-poverty-income-inequality-and-living-standards-in-ireland" rel="bookmark">
+<h3 class="minimal__title">
         Save the Date: Poverty, Income Inequality and Living Standards in Ireland
-      &lt;/h3&gt;
-&lt;div class="minimal__date"&gt;
+      </h3>
+<div class="minimal__date">
       08 Sep, 2026
-    &lt;/div&gt;
-&lt;/a&gt;
-&lt;/article&gt;
-&lt;/div&gt;
-&lt;div class="views-row"&gt;
-&lt;article class="minimal"&gt;
-&lt;a href="/events/bridging-the-gap-the-role-of-energy-diversification-in-delivering-a-just-transition-for" rel="bookmark"&gt;
-&lt;h3 class="minimal__title"&gt;
+    </div>
+</a>
+</article>
+</div>
+<div class="views-row">
+<article class="minimal">
+<a href="/events/bridging-the-gap-the-role-of-energy-diversification-in-delivering-a-just-transition-for" rel="bookmark">
+<h3 class="minimal__title">
         Bridging the gap: The role of energy diversification in delivering a just transition for residential heat decarbonisation
-      &lt;/h3&gt;
-&lt;div class="minimal__date"&gt;
+      </h3>
+<div class="minimal__date">
       10 Sep, 2026
-    &lt;/div&gt;
-&lt;/a&gt;
-&lt;/article&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="more-link"&gt;&lt;a href="/events"&gt;View all Events&lt;/a&gt;&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/section&gt;
-&lt;/div&gt;
-&lt;section class="homepage__post-script" style="background-image: url('/system/files/styles/square_2x/private/media/images/2019-01/Dublin%20city%20skyline_0.jpg?itok=MRbOYUWL')"&gt;
-&lt;div class="homepage__post-script-inner layout-contained padding-horizontal"&gt;
-&lt;h2 class="homepage__post-script-title"&gt;
-&lt;div class="clearfix text-formatted field field--name-field-hp-ps-title field--type-text field--label-hidden"&gt;
-&lt;div class="field__items"&gt;
-&lt;div class="field__item"&gt;&lt;p&gt;Research Areas&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/h2&gt;
-&lt;div class="homepage__post-script-text"&gt;
-&lt;div class="clearfix text-formatted field field--name-field-hp-ps-text field--type-text-long field--label-hidden"&gt;
-&lt;div class="field__items"&gt;
-&lt;div class="field__item"&gt;&lt;p&gt;The mission of the Economic and Social Research Institute is to advance evidence-based policymaking that supports economic sustainability and social progress in Ireland. ESRI researchers apply the highest standards of academic excellence to challenges facing policymakers, focusing on 12 areas of critical importance to 21st Century Ireland.&lt;/p&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;ul class="homepage__post-script-list"&gt;
-&lt;li class="field__item"&gt;&lt;a href="/bru" hreflang="en"&gt;Behavioural Science&lt;/a&gt;&lt;/li&gt;
-&lt;li class="field__item"&gt;&lt;a href="/research-areas/climate" hreflang="en"&gt;Climate&lt;/a&gt;&lt;/li&gt;
-&lt;li class="field__item"&gt;&lt;a href="/research-areas/competitiveness-trade-and-fdi" hreflang="en"&gt;Competitiveness, Trade and FDI&lt;/a&gt;&lt;/li&gt;
-&lt;li class="field__item"&gt;&lt;a href="/research-areas/education" hreflang="en"&gt;Education&lt;/a&gt;&lt;/li&gt;
-&lt;li class="field__item"&gt;&lt;a href="/research-areas/energy-and-environment" hreflang="en"&gt;Energy and Environment &lt;/a&gt;&lt;/li&gt;
-&lt;li class="field__item"&gt;&lt;a href="/research-areas/health-and-quality-of-life" hreflang="en"&gt;Health and Quality of Life&lt;/a&gt;&lt;/li&gt;
-&lt;li class="field__item"&gt;&lt;a href="/research-areas/housing" hreflang="en"&gt;Housing&lt;/a&gt;&lt;/li&gt;
-&lt;li class="field__item"&gt;&lt;a href="/research-areas/labour-markets-and-skills" hreflang="en"&gt;Labour Markets and Skills&lt;/a&gt;&lt;/li&gt;
-&lt;li class="field__item"&gt;&lt;a href="/research-areas/macroeconomics" hreflang="en"&gt;Macroeconomics&lt;/a&gt;&lt;/li&gt;
-&lt;li class="field__item"&gt;&lt;a href="/research-areas/migration-integration-and-demography" hreflang="en"&gt;Migration, Integration and Demography&lt;/a&gt;&lt;/li&gt;
-&lt;li class="field__item"&gt;&lt;a href="/research-areas/social-inclusion-and-equality" hreflang="en"&gt;Social Inclusion and Equality&lt;/a&gt;&lt;/li&gt;
-&lt;li class="field__item"&gt;&lt;a href="/research-areas/taxation-welfare-and-pensions" hreflang="en"&gt;Taxation, Welfare and Pensions&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/section&gt;
-&lt;/article&gt; ]]&gt;</description><pubDate>Tue, 21 Jul 2026 12:58:17 GMT</pubDate><guid isPermaLink="true">http://www.esri.ie/</guid></item></channel></rss>
+    </div>
+</a>
+</article>
+</div>
+</div>
+<div class="more-link"><a href="/events">View all Events</a></div>
+</div>
+</div>
+</div>
+</section>
+</div>
+<section class="homepage__post-script" style="background-image: url('/system/files/styles/square_2x/private/media/images/2019-01/Dublin%20city%20skyline_0.jpg?itok=MRbOYUWL')">
+<div class="homepage__post-script-inner layout-contained padding-horizontal">
+<h2 class="homepage__post-script-title">
+<div class="clearfix text-formatted field field--name-field-hp-ps-title field--type-text field--label-hidden">
+<div class="field__items">
+<div class="field__item"><p>Research Areas</p>
+</div>
+</div>
+</div>
+</h2>
+<div class="homepage__post-script-text">
+<div class="clearfix text-formatted field field--name-field-hp-ps-text field--type-text-long field--label-hidden">
+<div class="field__items">
+<div class="field__item"><p>The mission of the Economic and Social Research Institute is to advance evidence-based policymaking that supports economic sustainability and social progress in Ireland. ESRI researchers apply the highest standards of academic excellence to challenges facing policymakers, focusing on 12 areas of critical importance to 21st Century Ireland.</p>
+</div>
+</div>
+</div>
+</div>
+<ul class="homepage__post-script-list">
+<li class="field__item"><a href="/bru" hreflang="en">Behavioural Science</a></li>
+<li class="field__item"><a href="/research-areas/climate" hreflang="en">Climate</a></li>
+<li class="field__item"><a href="/research-areas/competitiveness-trade-and-fdi" hreflang="en">Competitiveness, Trade and FDI</a></li>
+<li class="field__item"><a href="/research-areas/education" hreflang="en">Education</a></li>
+<li class="field__item"><a href="/research-areas/energy-and-environment" hreflang="en">Energy and Environment </a></li>
+<li class="field__item"><a href="/research-areas/health-and-quality-of-life" hreflang="en">Health and Quality of Life</a></li>
+<li class="field__item"><a href="/research-areas/housing" hreflang="en">Housing</a></li>
+<li class="field__item"><a href="/research-areas/labour-markets-and-skills" hreflang="en">Labour Markets and Skills</a></li>
+<li class="field__item"><a href="/research-areas/macroeconomics" hreflang="en">Macroeconomics</a></li>
+<li class="field__item"><a href="/research-areas/migration-integration-and-demography" hreflang="en">Migration, Integration and Demography</a></li>
+<li class="field__item"><a href="/research-areas/social-inclusion-and-equality" hreflang="en">Social Inclusion and Equality</a></li>
+<li class="field__item"><a href="/research-areas/taxation-welfare-and-pensions" hreflang="en">Taxation, Welfare and Pensions</a></li>
+</ul>
+</div>
+</section>
+</article>]]></description>
+      <guid>http://www.esri.ie/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:02:27 +0800</pubDate>
+    </item>
+  </channel>
+</rss>

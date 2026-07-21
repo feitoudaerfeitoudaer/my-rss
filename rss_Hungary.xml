@@ -1,105 +1,155 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>智库全文订阅-Hungary</title><link>https://github.io_Hungary.xml</link><description>自动抓取的 [Hungary] 智库文章全文</description><language>zh-cn</language><lastBuildDate>Tue, 21 Jul 2026 12:59:15 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Center for Policy Studies (CPS) --Hungary] User menu</title><link>http://cps.ceu.hu/</link><description>&lt;![CDATA[ &lt;div class="content"&gt;
-&lt;div class="media-youtube-video media-youtube-1"&gt;
-&lt;iframe allowfullscreen="" class="media-youtube-player" frameborder="0" height="334" name="SUPERA Institutional video. Subs: English" src="https://www.youtube.com/embed/KBYsWhSwVLI?wmode=opaque&amp;amp;controls=&amp;amp;modestbranding=1&amp;amp;list=PLv8a55xF0XP61vUT_OJnFZcd1UFNe5MVD" title="SUPERA Institutional video. Subs: English" width="100%"&gt;Video of SUPERA Institutional video. Subs: English&lt;/iframe&gt;
-&lt;/div&gt;
-&lt;/div&gt; ]]&gt;</description><pubDate>Tue, 21 Jul 2026 12:57:58 GMT</pubDate><guid isPermaLink="true">http://cps.ceu.hu/</guid></item><item><title>[10. Center for Security and Defense Studies (CSDS) --Hungary] Blog</title><link>http://bhkka.hu/en/</link><description>&lt;![CDATA[ &lt;article class="post post-modern post-modern-classic post-modern-classic-full"&gt;
-&lt;!-- Post media--&gt;
-&lt;header class="post-media"&gt;&lt;img alt="Társkeresés" class="img-responsive img-cover" height="480" src="/kep/5965/tarskereses.jpg" width="770"/&gt;
-&lt;/header&gt;
-&lt;!-- Post content--&gt;
-&lt;section class="post-content text-left"&gt;
-&lt;!-- Post Title--&gt;
-&lt;div class="post-title offset-top-8"&gt;
-&lt;h4 class="text-bold"&gt;&lt;a href="/blog/tinder-kieges-igy-hozd-vissza-a-lelkesedesedet"&gt;Tinder-kiégés? Így hozd vissza a lelkesedésedet!&lt;/a&gt;&lt;/h4&gt;
-&lt;/div&gt;
-&lt;ul class="list-inline list-inline-dashed"&gt;
-&lt;li&gt;2026.04.08&lt;/li&gt;
-&lt;li&gt;&lt;a class="text-primary" href="/blog/tinder-kieges-igy-hozd-vissza-a-lelkesedesedet"&gt;Részletek &amp;gt;&amp;gt;&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;!-- Post Body--&gt;
-&lt;div class="post-body"&gt;
-&lt;p class="fading"&gt;A digitális randizás világában létezik egy jelenség, amit modern korunk csak "dating burnout"-ként, vagyis társkeresési kiégésként emleget. Ismerős az érzés, amikor már gépiesen, é ...								  &lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="tags group group-sm"&gt;&lt;a class="btn-tag btn btn-default" href="/kategoria/tarskereses"&gt;Társkeresés&lt;/a&gt;
-&lt;/div&gt;
-&lt;/section&gt;
-&lt;/article&gt; ]]&gt;</description><pubDate>Tue, 21 Jul 2026 12:58:20 GMT</pubDate><guid isPermaLink="true">http://bhkka.hu/en/</guid></item><item><title>[30. Institute of World Economics of the Hungarian Academy of Sciences --Hungary] 404 Not Found</title><link>http://vki3.vki.hu/evki.shtml</link><description>&lt;![CDATA[ &lt;body&gt;
-&lt;div class="container"&gt;
-&lt;secion class="response-info"&gt;
-&lt;span class="status-code"&gt;404&lt;/span&gt;
-&lt;span class="status-reason"&gt;Not Found&lt;/span&gt;
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+  <channel>
+    <title>智库全文订阅-Hungary</title>
+    <link>https://github.io_Hungary.xml</link>
+    <description>自动抓取的 [Hungary] 智库文章全文</description>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 21 Jul 2026 13:03:17 +0800</lastBuildDate>
+    <item>
+      <title>[Center for Policy Studies (CPS) --Hungary] User menu</title>
+      <link>http://cps.ceu.hu/</link>
+      <description><![CDATA[<div class="content">
+<div class="media-youtube-video media-youtube-1">
+<iframe allowfullscreen="" class="media-youtube-player" frameborder="0" height="334" name="SUPERA Institutional video. Subs: English" src="https://www.youtube.com/embed/KBYsWhSwVLI?wmode=opaque&amp;controls=&amp;modestbranding=1&amp;list=PLv8a55xF0XP61vUT_OJnFZcd1UFNe5MVD" title="SUPERA Institutional video. Subs: English" width="100%">Video of SUPERA Institutional video. Subs: English</iframe>
+</div>
+</div>]]></description>
+      <guid>http://cps.ceu.hu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:02:09 +0800</pubDate>
+    </item>
+    <item>
+      <title>[10. Center for Security and Defense Studies (CSDS) --Hungary] Blog</title>
+      <link>http://bhkka.hu/en/</link>
+      <description><![CDATA[<article class="post post-modern post-modern-classic post-modern-classic-full">
+<!-- Post media-->
+<header class="post-media"><img alt="Társkeresés" class="img-responsive img-cover" height="480" src="/kep/5965/tarskereses.jpg" width="770"/>
+</header>
+<!-- Post content-->
+<section class="post-content text-left">
+<!-- Post Title-->
+<div class="post-title offset-top-8">
+<h4 class="text-bold"><a href="/blog/tinder-kieges-igy-hozd-vissza-a-lelkesedesedet">Tinder-kiégés? Így hozd vissza a lelkesedésedet!</a></h4>
+</div>
+<ul class="list-inline list-inline-dashed">
+<li>2026.04.08</li>
+<li><a class="text-primary" href="/blog/tinder-kieges-igy-hozd-vissza-a-lelkesedesedet">Részletek &gt;&gt;</a></li>
+</ul>
+<!-- Post Body-->
+<div class="post-body">
+<p class="fading">A digitális randizás világában létezik egy jelenség, amit modern korunk csak "dating burnout"-ként, vagyis társkeresési kiégésként emleget. Ismerős az érzés, amikor már gépiesen, é ...								  </p>
+</div>
+<div class="tags group group-sm"><a class="btn-tag btn btn-default" href="/kategoria/tarskereses">Társkeresés</a>
+</div>
+</section>
+</article>]]></description>
+      <guid>http://bhkka.hu/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:02:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>[30. Institute of World Economics of the Hungarian Academy of Sciences --Hungary] 404 Not Found</title>
+      <link>http://vki3.vki.hu/evki.shtml</link>
+      <description><![CDATA[<body>
+<div class="container">
+<secion class="response-info">
+<span class="status-code">404</span>
+<span class="status-reason">Not Found</span>
 
-&lt;section class="contact-info"&gt;
-                Please forward this error screen to vki3.vki.hu's &lt;a href="mailto:biro.daniel@krtk.mta.hu?subject=Error message [404] (none) for vki3.vki.hu/evki.shtml port 80 on Tuesday, 21-Jul-2026 14:58:22 CEST"&gt; WebMaster&lt;/a&gt;.
-            &lt;/section&gt;
-&lt;p class="reason-text"&gt;The server cannot find the requested page:&lt;/p&gt;
-&lt;/secion&gt;&lt;/div&gt;
-&lt;section class="additional-info"&gt;
-&lt;div class="container"&gt;
-&lt;div class="additional-info-items"&gt;
-&lt;ul&gt;
-&lt;li&gt;
-&lt;img class="info-image" src="/img-sys/server_misconfigured.png"/&gt;
-&lt;div class="info-heading"&gt;
+<section class="contact-info">
+                Please forward this error screen to vki3.vki.hu's <a href="mailto:biro.daniel@krtk.mta.hu?subject=Error message [404] (none) for vki3.vki.hu/evki.shtml port 80 on Tuesday, 21-Jul-2026 15:02:31 CEST"> WebMaster</a>.
+            </section>
+<p class="reason-text">The server cannot find the requested page:</p>
+</secion></div>
+<section class="additional-info">
+<div class="container">
+<div class="additional-info-items">
+<ul>
+<li>
+<img class="info-image" src="/img-sys/server_misconfigured.png"/>
+<div class="info-heading">
                                 vki3.vki.hu/evki.shtml (port 80)
-                            &lt;/div&gt;
-&lt;/li&gt;
-&lt;li class="info-server"&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/section&gt;
-&lt;footer&gt;
-&lt;div class="container"&gt;
-&lt;a href="http://cpanel.com/?utm_source=cpanelwhm&amp;amp;utm_medium=cplogo&amp;amp;utm_content=logolink&amp;amp;utm_campaign=404referral" target="cpanel" title="cPanel, Inc."&gt;
-&lt;img alt="cPanel, Inc." height="20" src="/img-sys/powered_by_cpanel.svg"/&gt;
-&lt;div class="copyright"&gt;Copyright © 2016 cPanel, Inc.&lt;/div&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/footer&gt;
-&lt;/body&gt; ]]&gt;</description><pubDate>Tue, 21 Jul 2026 12:58:22 GMT</pubDate><guid isPermaLink="true">http://vki3.vki.hu/evki.shtml</guid></item><item><title>[40. TARKI Social Research Institute --Hungary] Az oldal nem található</title><link>http://www.tarki.hu/en/</link><description>&lt;![CDATA[ &lt;div class="content"&gt;
-&lt;h1 class="page-title"&gt;Az oldal nem található&lt;/h1&gt;
-&lt;/div&gt; ]]&gt;</description><pubDate>Tue, 21 Jul 2026 12:58:23 GMT</pubDate><guid isPermaLink="true">http://www.tarki.hu/en/</guid></item><item><title>[21. Institute for Foreign Affairs and Trade (IFAT) --Hungary] Magyar Külügyi Intézet</title><link>http://kki.gov.hu/en</link><description>&lt;![CDATA[ &lt;article class="o-category-card"&gt;
-&lt;a aria-label="Olvass tovább: Felmelegített barátság: közeledés Kína és Észak-Korea között" class="o-category-card__thumb" href="https://hiia.hu/felmelegitett-baratsag-kozeledes-kina-es-eszak-korea-kozott/"&gt;
-&lt;div class="o-img-container o-img-container--card"&gt;
-&lt;img alt="Felmelegített barátság: közeledés Kína és Észak-Korea között" data-lazy="[https://hiia.hu/wp-content/uploads/2026/07/kina_eszakkorea_web-400x250.jpg, small], [https://hiia.hu/wp-content/uploads/2026/07/kina_eszakkorea_web-800x500.jpg, medium]" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-&lt;div class="o-category-card__body"&gt;
-&lt;header&gt;
-&lt;span&gt;MKI Nézőpont&lt;/span&gt;
-&lt;time datetime="2026-07-21T12:13:35+02:00"&gt;2026.07.21&lt;/time&gt;
-&lt;/header&gt;
-&lt;h3&gt;&lt;a href="https://hiia.hu/felmelegitett-baratsag-kozeledes-kina-es-eszak-korea-kozott/"&gt;Felmelegített barátság: közeledés Kína és Észak-Korea között&lt;/a&gt;&lt;/h3&gt;
-&lt;div class="o-category-card__excerpt"&gt;
-            Nagy Angelina Zsófia és Salát Gergely elemzése        &lt;/div&gt;
-&lt;a class="o-more-link" href="https://hiia.hu/felmelegitett-baratsag-kozeledes-kina-es-eszak-korea-kozott/"&gt;Tovább olvasom &lt;span class="icon-arrow-right"&gt;&lt;/span&gt;&lt;/a&gt;
-&lt;/div&gt;
-&lt;/article&gt; ]]&gt;</description><pubDate>Tue, 21 Jul 2026 12:58:23 GMT</pubDate><guid isPermaLink="true">http://kki.gov.hu/en</guid></item><item><title>[92. Danube Institute --Hungary] A Message from John O'Sullivan, President of the Danube Institute</title><link>http://www.danubeinstitute.hu/</link><description>&lt;![CDATA[ &lt;article class="news-article news-article-"&gt;
-&lt;div class="news-article-content"&gt;
-&lt;div class="row align-items-center"&gt;
-&lt;div class="col-12 col-md-6 col-lg-4"&gt;
-&lt;h2 class="mb-3"&gt;Research&lt;/h2&gt;
-&lt;div class="d-block my-3"&gt;
-&lt;div class="d-flex align-items-center"&gt;
-&lt;div class="news-date small ml-0"&gt;
-                                17/07/2026                    &lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="news-title pt-0"&gt;
-&lt;h3 class="display-4"&gt;
-&lt;a href="/en/research/europe-s-two-flags-recovering-the-conservative-telos-of-the-european-project" title="Europe's Two Flags: Recovering the Conservative Telos of the European Project"&gt;
-            Europe's Two Flags: Recovering the Conservative Telos of the European Project        &lt;/a&gt;
-&lt;/h3&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;div class="col-12 col-md-6 col-lg-8"&gt;
-&lt;a href="/en/research/europe-s-two-flags-recovering-the-conservative-telos-of-the-european-project"&gt;
-&lt;div class="news-image bg-news-35174 bg-img-cover"&gt;
-&lt;/div&gt;
-&lt;/a&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/article&gt; ]]&gt;</description><pubDate>Tue, 21 Jul 2026 12:58:29 GMT</pubDate><guid isPermaLink="true">http://www.danubeinstitute.hu/</guid></item></channel></rss>
+                            </div>
+</li>
+<li class="info-server"></li>
+</ul>
+</div>
+</div>
+</section>
+<footer>
+<div class="container">
+<a href="http://cpanel.com/?utm_source=cpanelwhm&amp;utm_medium=cplogo&amp;utm_content=logolink&amp;utm_campaign=404referral" target="cpanel" title="cPanel, Inc.">
+<img alt="cPanel, Inc." height="20" src="/img-sys/powered_by_cpanel.svg"/>
+<div class="copyright">Copyright © 2016 cPanel, Inc.</div>
+</a>
+</div>
+</footer>
+</body>]]></description>
+      <guid>http://vki3.vki.hu/evki.shtml</guid>
+      <pubDate>Tue, 21 Jul 2026 13:02:31 +0800</pubDate>
+    </item>
+    <item>
+      <title>[40. TARKI Social Research Institute --Hungary] Az oldal nem található</title>
+      <link>http://www.tarki.hu/en/</link>
+      <description><![CDATA[<div class="content">
+<h1 class="page-title">Az oldal nem található</h1>
+</div>]]></description>
+      <guid>http://www.tarki.hu/en/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:02:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>[21. Institute for Foreign Affairs and Trade (IFAT) --Hungary] Magyar Külügyi Intézet</title>
+      <link>http://kki.gov.hu/en</link>
+      <description><![CDATA[<article class="o-category-card">
+<a aria-label="Olvass tovább: Felmelegített barátság: közeledés Kína és Észak-Korea között" class="o-category-card__thumb" href="https://hiia.hu/felmelegitett-baratsag-kozeledes-kina-es-eszak-korea-kozott/">
+<div class="o-img-container o-img-container--card">
+<img alt="Felmelegített barátság: közeledés Kína és Észak-Korea között" data-lazy="[https://hiia.hu/wp-content/uploads/2026/07/kina_eszakkorea_web-400x250.jpg, small], [https://hiia.hu/wp-content/uploads/2026/07/kina_eszakkorea_web-800x500.jpg, medium]" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"/>
+</div>
+</a>
+<div class="o-category-card__body">
+<header>
+<span>MKI Nézőpont</span>
+<time datetime="2026-07-21T12:13:35+02:00">2026.07.21</time>
+</header>
+<h3><a href="https://hiia.hu/felmelegitett-baratsag-kozeledes-kina-es-eszak-korea-kozott/">Felmelegített barátság: közeledés Kína és Észak-Korea között</a></h3>
+<div class="o-category-card__excerpt">
+            Nagy Angelina Zsófia és Salát Gergely elemzése        </div>
+<a class="o-more-link" href="https://hiia.hu/felmelegitett-baratsag-kozeledes-kina-es-eszak-korea-kozott/">Tovább olvasom <span class="icon-arrow-right"></span></a>
+</div>
+</article>]]></description>
+      <guid>http://kki.gov.hu/en</guid>
+      <pubDate>Tue, 21 Jul 2026 13:02:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>[92. Danube Institute --Hungary] A Message from John O&#x27;Sullivan, President of the Danube Institute</title>
+      <link>http://www.danubeinstitute.hu/</link>
+      <description><![CDATA[<article class="news-article news-article-">
+<div class="news-article-content">
+<div class="row align-items-center">
+<div class="col-12 col-md-6 col-lg-4">
+<h2 class="mb-3">Research</h2>
+<div class="d-block my-3">
+<div class="d-flex align-items-center">
+<div class="news-date small ml-0">
+                                17/07/2026                    </div>
+</div>
+</div>
+<div class="news-title pt-0">
+<h3 class="display-4">
+<a href="/en/research/europe-s-two-flags-recovering-the-conservative-telos-of-the-european-project" title="Europe's Two Flags: Recovering the Conservative Telos of the European Project">
+            Europe's Two Flags: Recovering the Conservative Telos of the European Project        </a>
+</h3>
+</div>
+</div>
+<div class="col-12 col-md-6 col-lg-8">
+<a href="/en/research/europe-s-two-flags-recovering-the-conservative-telos-of-the-european-project">
+<div class="news-image bg-news-35174 bg-img-cover">
+</div>
+</a>
+</div>
+</div>
+</div>
+</article>]]></description>
+      <guid>http://www.danubeinstitute.hu/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:02:38 +0800</pubDate>
+    </item>
+  </channel>
+</rss>
