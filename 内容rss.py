@@ -9,6 +9,12 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 import html
 import time
 
+# ==========================================
+# ⚙️ 配置区域：请在此处填写你最终部署后的实际公网 URL 前缀
+# ==========================================
+# 例如你打算用 GitHub Pages 托管，则修改为: "https://github.io"
+DEPLOYED_BASE_URL = "https://feitoudaerfeitoudaer.github.io/my-rss"
+
 # 1. 禁用 SSL 警告提示
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
@@ -99,7 +105,6 @@ def fetch_single_site(row):
             
             # 补全相对路径链接
             if href.startswith('/'):
-                # 兼容处理 // 域名的特殊情况
                 if href.startswith('//'):
                     href = 'https:' + href
                 else:
@@ -123,7 +128,7 @@ def fetch_single_site(row):
             if not full_detail_text:
                 full_detail_text = "未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。"
                 
-            # 截取前 2000 字，保留深度阅读价值，同时防止 XML 超过 Feedly 单文件大小限制
+            # 截取前 2000 字，保留深度阅读价值，同时防止 XML 超过单文件大小限制
             summary_text = full_detail_text[:2000]
             if len(full_detail_text) > 2000:
                 summary_text += "\n\n...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)..."
@@ -153,7 +158,23 @@ def fetch_single_site(row):
         
     return (country, extracted_items)
 
-# 5. 【多线程并发抓取控制区域】（已适配列表返回格式）
+# 【主动通知核心】：向 Google WebSub 枢纽发送广播，迫使 Feedly 实时秒级抓取
+def ping_feedly_websub(feed_url):
+    hub_url = "http://appspot.com"
+    data = {
+        "hub.mode": "publish",
+        "hub.url": feed_url
+    }
+    try:
+        res = requests.post(hub_url, data=data, timeout=5)
+        if res.status_code in:
+            print(f"   📢 [WebSub广播] 成功通知 Google 枢纽中心，Feedly 将在数秒内同步: {feed_url}")
+        else:
+            print(f"   ⚠️ [WebSub广播] 枢纽中心返回状态码异常: {res.status_code}")
+    except Exception as e:
+        print(f"   ❌ [WebSub广播] 投递失败: {e}")
+
+# 5. 【多线程并发抓取控制区域】
 print(f"🚀 开始二级联动多线程并发抓取，总计 {len(df)} 个智库网站...")
 country_feeds = {}
 
@@ -164,15 +185,16 @@ with ThreadPoolExecutor(max_workers=20) as executor:
         result = future.result()
         if result:
             country, items_list = result
-            if items_list: # 只有抓取到了具体文章，才塞入归档
+            if items_list: 
                 if country not in country_feeds:
                     country_feeds[country] = []
-                # 注意：使用 extend 将返回的文章列表拼接到国家分类中
+                # 核心修正：平铺合并多行文章字典列表
                 country_feeds[country].extend(items_list)
                 print(f"   ✅ [属地:{country}] 成功抓取该智库最新文章 {len(items_list)} 篇")
 
-# 6. 【按国别打包输出标准的规范化 RSS 文件】
+# 6. 【按国别打包输出标准的规范化 RSS 文件 + 附加 WebSub 标签】
 print("\n📦 开始按国别（一国一包）打包生成完美适配 Feedly 规范的 RSS 订阅源...")
+generated_feeds = []
 
 for country, items in country_feeds.items():
     safe_country_name = "".join([c for c in country if c.isalpha() or c.isdigit() or c=='_']).strip()
@@ -181,12 +203,20 @@ for country, items in country_feeds.items():
         
     current_time = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
     
+    # 动态拼装该国家 RSS 订阅源文件的公网访问直链
+    filename = f"rss_{safe_country_name}.xml"
+    this_feed_url = f"{DEPLOYED_BASE_URL.rstrip('/')}/{filename}"
+    
+    # 核心优化：同时引入 content 和 atom 命名空间
     rss_parts = [
         '<?xml version="1.0" encoding="utf-8"?>',
-        '<rss version="2.0" xmlns:content="http://purl.org">',
+        '<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">',
         '  <channel>',
         f'    <title><![CDATA[智库深度全文订阅-{safe_country_name}]]></title>',
-        f'    <link>https://github.io_{safe_country_name}.xml</link>',
+        f'    <link>{this_feed_url}</link>',
+        # 🌟 核心突破：写入 WebSub 声明标签，允许 Feedly 进行实时轻量订阅
+        '    <atom:link href="http://appspot.com" rel="hub" />',
+        f'    <atom:link href="{this_feed_url}" rel="self" type="application/rss+xml" />',
         f'    <description><![CDATA[自动透传的 [{safe_country_name}] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>',
         '    <language>zh-cn</language>',
         f'    <lastBuildDate>{current_time}</lastBuildDate>'
@@ -198,7 +228,6 @@ for country, items in country_feeds.items():
         rss_parts.append(f'      <link>{item["link"]}</link>')
         rss_parts.append(f'      <description>{item["description"]}</description>')
         rss_parts.append(f'      <content:encoded>{item["content_encoded"]}</content:encoded>')
-        # 核心优化：将文章各自真实的真实具体 URL 作为永久不重复的唯一 guid 标识
         rss_parts.append(f'      <guid isPermaLink="true">{item["link"]}</guid>')
         rss_parts.append(f'      <pubDate>{item["pub_date"]}</pubDate>')
         rss_parts.append('    </item>')
@@ -208,11 +237,18 @@ for country, items in country_feeds.items():
     
     full_xml_content = "\n".join(rss_parts)
     
-    filename = f"rss_{safe_country_name}.xml"
     with open(filename, "w", encoding="utf-8") as f:
         f.write(full_xml_content)
         
     actual_mb = len(full_xml_content.encode('utf-8')) / (1024 * 1024)
     print(f"   💾 成功同步国家文件: {filename} (包含 {len(items)} 篇详细文章，大小: {actual_mb:.2f} MB)")
+    
+    # 记录成功生成的订阅源公网直链，待全部写入完成后统一推送
+    generated_feeds.append(this_feed_url)
 
-print(f"\n==== 🚀 运行结束！二级联动无损输出完毕，请在 Feedly 中刷新查看具体内容标题与详细正文 ====")
+# 7. 【全量同步完后触发主动推送】
+print("\n📡 开始触发 WebSub 主动广播通知，引导 Feedly 极速抓取...")
+for feed_url in generated_feeds:
+    ping_feedly_websub(feed_url)
+
+print(f"\n==== 🚀 运行结束！全量无损输出并广播完毕，请在 Feedly 中刷新查看具体内容标题与详细正文 ====")
