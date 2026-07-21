@@ -65,7 +65,7 @@ def fetch_article_detail(article_url, headers):
             junk.decompose()
             
         # 2. 精准过滤常见的动态加载错误提示词
-        for t in soup.find_all(text=re.compile(r'JavaScript|javascript|禁用|noscript|Enable JS', re.I)):
+        for t in soup.find_all(string=re.compile(r'JavaScript|javascript|禁用|noscript|Enable JS', re.I)):
             if t.parent:
                 t.parent.decompose()
 
