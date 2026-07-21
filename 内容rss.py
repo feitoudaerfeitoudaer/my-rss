@@ -35,16 +35,22 @@ df = pd.read_excel("penn_library_deduplicated_think_tanks.xlsx")
 country_column = '描述' 
 df[country_column] = df[country_column].fillna('Other').astype(str).str.strip()
 
-# 4. 初始化网络连接器与代理
+# 4. 初始化网络连接器与智能自适应代理
 session = requests.Session()
 adapter = CustomSSLAdapter()
 session.mount('https://', adapter)
 session.mount('http://', adapter)
 
-proxies = {
-    'http': 'http://127.0.0.1:6917',
-    'https': 'http://127.0.0.1:6917'
-}
+# 智能自适应代理测试
+PROXIES_CONFIG = None
+try:
+    test_proxies = {'http': 'http://127.0.0.1:6917', 'https': 'http://127.0.0.1:6917'}
+    test_res = requests.get('https://google.com', proxies=test_proxies, timeout=1.5)
+    if test_res.status_code == 200:
+        PROXIES_CONFIG = test_proxies
+        print("   💡 [网络状态] 检测到本地代理有效，已成功启用 6917 转发加速机制。")
+except Exception:
+    print("   💡 [网络状态] 未检测到本地局域网代理（或正运行于 GitHub 云端），已切换为原生直连模式。")
 
 # 辅助函数：清洗 XML 非法控制字符
 def clean_xml_string(v):
@@ -52,18 +58,13 @@ def clean_xml_string(v):
         return ""
     return re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x84\x86-\x9F]', '', v)
 
-# 【极速任务 1】：深入具体报告页，抓取封面和纯净正文（超时缩短至 5 秒，大幅提速）
+# 【极速任务 1】：深入具体报告页，抓取封面和纯净正文
 def fetch_article_detail(article_url, headers):
     try:
-        try:
-            res = session.get(article_url, headers=headers, timeout=5, verify=False, proxies=proxies)
-        except Exception:
-            res = session.get(article_url, headers=headers, timeout=5, verify=False)
-            
+        res = session.get(article_url, headers=headers, timeout=4, verify=False, proxies=PROXIES_CONFIG)
         res.encoding = res.apparent_encoding
         soup = BeautifulSoup(res.text, 'html.parser')
         
-        # 提取封面图
         img_url = ""
         main_img = soup.find('meta', property='og:image') or soup.find('meta', name='twitter:image')
         if main_img and main_img.get('content'):
@@ -73,7 +74,7 @@ def fetch_article_detail(article_url, headers):
             if first_img and first_img.get('src'):
                 img_url = first_img['src']
                 if img_url.startswith('/'):
-                    img_url = 'https://' + article_url.split('/')[2] + img_url
+                    img_url = 'https://' + article_url.split('/') + img_url
 
         for junk in soup.find_all(['nav', 'footer', 'script', 'style', 'header', 'noscript', 'aside']):
             junk.decompose()
@@ -104,7 +105,7 @@ def fetch_article_detail(article_url, headers):
         pass
     return "", ""
 
-# 【极速任务 2】：主页多线并发透传，只抽链接，绝不串行等待（耗时压缩至毫秒级）
+# 【极速任务 2】：主页多线并发透传，只抽链接
 def fetch_links_from_homepage(row):
     site_name = row['网站名称']
     base_url = row['网站链接']
@@ -119,11 +120,7 @@ def fetch_links_from_homepage(row):
     
     target_tasks = []
     try:
-        try:
-            response = session.get(base_url, headers=headers, timeout=5, verify=False, proxies=proxies)
-        except Exception:
-            response = session.get(base_url, headers=headers, timeout=5, verify=False)
-            
+        response = session.get(base_url, headers=headers, timeout=4, verify=False, proxies=PROXIES_CONFIG)
         response.encoding = response.apparent_encoding 
         soup = BeautifulSoup(response.text, 'html.parser')
         
@@ -136,7 +133,7 @@ def fetch_links_from_homepage(row):
                 if href.startswith('//'): href = 'https:' + href
                 else: href = base_url.rstrip('/') + href
             
-            domain_keyword = base_url.replace('https://', '').replace('http://', '').replace('www.', '').split('/')[0]
+            domain_keyword = base_url.replace('https://', '').replace('http://', '').replace('www.', '').split('/')
             if domain_keyword not in href or href.rstrip('/') == base_url.rstrip('/'):
                 continue
             if any(x in href.lower() for x in ['about', 'contact', 'search', 'privacy', 'terms', 'twitter', 'facebook', 'linkedin', 'careers', 'experts', 'events', 'donate']):
@@ -147,7 +144,6 @@ def fetch_links_from_homepage(row):
                 continue
                 
             seen_urls.add(href)
-            # 💡 提速核心：只打包任务参数，不在这里发起网络请求，直接返回
             target_tasks.append({
                 'site_name': site_name,
                 'country': country,
@@ -155,13 +151,13 @@ def fetch_links_from_homepage(row):
                 'link_text': link_text,
                 'headers': headers
             })
-            if len(target_tasks) >= 2: # 单站依然保持限额 2 篇
+            if len(target_tasks) >= 2: 
                 break
     except Exception:
         pass
     return target_tasks
 
-# 单条子文章任务处理函数（用于线程池全扁平化爆发并发）
+# 单条子文章任务处理函数
 def process_single_article_task(task):
     href = task['href']
     headers = task['headers']
@@ -175,14 +171,14 @@ def process_single_article_task(task):
     if img_url:
         list_description = f"<img src='{img_url}' style='float:left; margin-right:10px; width:120px; height:80px; object-fit:cover;' />网站专栏报告。作者: 智库研究员。 这篇智库文章初次发表在{site_name}官方网站上。"
     else:
-        list_description = f"网站专栏报告。作者: 智库研究员。 这篇智库文章初次发表在{site_name}官方网站上。"
+        list_description = f"网站专栏报告. 作者: 智库研究员. 这篇智库文章初次发表在{site_name}官方网站上。"
     
     summary_text = full_detail_text[:2000]
     if len(full_detail_text) > 2000:
         summary_text += "\n\n...(详细内容较长，已自动折叠)..."
         
     html_content = (
-        f"<div style='max-width:660px; margin:0 auto; font-family:-apple-system,BlinkMacSystemFont,sans-serif; font-size:16px; line-height:1.8; color:#333 Triton;'>"
+        f"<div style='max-width:660px; margin:0 auto; font-family:-apple-system,BlinkMacSystemFont,sans-serif; font-size:16px; line-height:1.8; color:#333;'>"
         f"<h2>{link_text}</h2>"
         f"<p style='color:#666; font-size:14px;'>发布源: {site_name} | 抓取时间: {datetime.datetime.now().strftime('%Y-%m-%d')}</p><hr/>"
         f"<p style='margin-bottom:1.5em; text-indent:2em;'>{summary_text.replace('\n', '</p><p style=\"margin-bottom:1.5em; text-indent:2em;\">')}</p>"
@@ -195,10 +191,10 @@ def process_single_article_task(task):
     html_clean = clean_xml_string(html_content).replace("]]>", "]]&gt;")
     
     return task['country'], {
-        "title": f"<![CDATA[{title_clean}]]>",
+        "title": f"[{site_name}] {title_clean}",
         "link": html.escape(href),
-        "description": f"<![CDATA[{list_clean}]]>", 
-        "content_encoded": f"<![CDATA[{html_clean}]]>",
+        "description": list_clean, 
+        "content_encoded": html_clean,
         "pub_date": datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
     }
 
@@ -218,7 +214,6 @@ def ping_feedly_websub(feed_url):
 # ==========================================
 print(f"🚀 [第一阶段] 正在秒级提取所有智库主页的文章链接...")
 all_article_tasks = []
-# 满载 30 线程同时并发秒刷主页链接
 with ThreadPoolExecutor(max_workers=30) as executor:
     futures = {executor.submit(fetch_links_from_homepage, row): row for _, row in df.iterrows()}
     for future in as_completed(futures):
@@ -226,10 +221,9 @@ with ThreadPoolExecutor(max_workers=30) as executor:
         if tasks:
             all_article_tasks.extend(tasks)
 
-print(f"🚀 [第二阶段] 提取完毕！共获得 {len(all_article_tasks)} 个具体报告页面。开始全量并发渗透...")
+print(f"🚀 [第二阶段] 提取完毕！共获得 {len(all_article_tasks)} 个具体报告页面。开始全量高并发渗透...")
 country_feeds = {}
 
-# 提升至 40 个极限线程，饱和式多线同开同时深挖具体正文
 with ThreadPoolExecutor(max_workers=40) as executor:
     article_futures = {executor.submit(process_single_article_task, task): task for task in all_article_tasks}
     for future in as_completed(article_futures):
@@ -240,12 +234,16 @@ with ThreadPoolExecutor(max_workers=40) as executor:
                 country_feeds[country] = []
             country_feeds[country].append(item)
 
+
 # =====================================================================
-# 6. 【按国别打包输出标准的规范化 RSS 文件】（Base64 工业级零误差防变形版）
+# 6. 【按国别打包输出标准的规范化 RSS 文件】（动态变量模式：完美防止聊天框吞字乱码）
 # =====================================================================
 print("\n📦 开始按国别（一国一包）打包生成完美适配 Feedly 规范的 RSS 订阅源...")
-import base64
 generated_feeds = []
+
+# 定义绝对安全的尖括号符号变量，防止任何传输机制拦截吞字
+O_TAG = chr(60)  # 代表左尖括号 <
+C_TAG = chr(62)  # 代表右尖括号 >
 
 for country, items in country_feeds.items():
     safe_country_name = "".join([c for c in country if c.isalpha() or c.isdigit() or c=='_']).strip()
@@ -256,37 +254,35 @@ for country, items in country_feeds.items():
     filename = f"rss_{safe_country_name}.xml"
     this_feed_url = f"{DEPLOYED_BASE_URL.rstrip('/')}/{filename}"
     
-    # 🌟 核心突破：利用密文直接在内存中还原带尖括号的完美标准头尾，任何系统都无法损坏其格式
-    xml_header_b64 = b'PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4KPHJzcyB2ZXJzaW9uPSIyLjAiIHhtbG5zOmNvbnRlbnQ9Imh0dHA6Ly9wdXJsLm9yZy9yc3MvMS4wL21vZHVsZXMvY29udGVudC8iIHhtbG5zOmF0b209Imh0dHA6Ly93d3cub3JnLzIwMDUvQXRvbSI+CiAgPGNoYW5uZWw+CiAgICA8dGl0bGU+PCFbQ0RBVEFbX3NDT1VOVFJZX19f5pm65bqc5pyA5paw5oql5ZWRXV0+PC90aXRsZT4KICAgIDxsaW5rPl9zRkVFRFVSTF9fPC9saW5rPgogICAgPGF0b206bGluayBocmVmPSJodHRwOi8vcHVic3ViaHViYnViLmFwcHNwb3QuY29tLyIgcmVsPSJodWIiIC8+CiAgICA8YXRvbTpsaW5rIGhyZWY9Il9zRkVFRFVSTF9fIiByZWw9InNlbGYiIHR5cGU9ImFwcGxpY2F0aW9uL3Jzcyt4bWwiIC8+CiAgICA8ZGVzY3JpcHRpb24+PCFbQ0RBVEFbX3NDT1VOVFJZX19fIOaZpumbu+S9p+aWh+aKpeWRiuivSemhuuWFqOaWh11dPjwvZGVzY3JpcHRpb24+CiAgICA8bGFuZ3VhZ2U+emgtY248L2xhbmd1YWdlPgogICAgPGxhc3RCdWlsZERhdGU+X3NDVVJUSU1FX188L2xhc3RCdWlsZERhdGU+'
-    xml_footer_b64 = b'ICA8L2NoYW5uZWw+CjwvcnNzPg=='
+    rss_lines = []
+    # 🌟 动态拼装 XML 头部，由于字面上没有任何尖括号，任何平台复制代码都绝对不会损坏格式
+    rss_lines.append(O_TAG + '?xml version="1.0" encoding="utf-8"?' + C_TAG)
+    rss_lines.append(O_TAG + 'rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org"' + C_TAG)
+    rss_lines.append('  ' + O_TAG + 'channel' + C_TAG)
+    rss_lines.append('    ' + O_TAG + 'title' + C_TAG + O_TAG + '![CDATA[' + safe_country_name + '智库最新报告]]' + C_TAG + O_TAG + '/title' + C_TAG)
+    rss_lines.append('    ' + O_TAG + 'link' + C_TAG + this_feed_url + O_TAG + '/link' + C_TAG)
+    rss_lines.append('    ' + O_TAG + 'atom:link href="http://appspot.com" rel="hub" /' + C_TAG)
+    rss_lines.append('    ' + O_TAG + 'atom:link href="' + this_feed_url + '" rel="self" type="application/rss+xml" /' + C_TAG)
+    rss_lines.append('    ' + O_TAG + 'description' + C_TAG + O_TAG + '![CDATA[' + safe_country_name + ' 智库具体文章报告详细全文]]' + C_TAG + O_TAG + '/description' + C_TAG)
+    rss_lines.append('    ' + O_TAG + 'language' + C_TAG + 'zh-cn' + O_TAG + '/language' + C_TAG)
+    rss_lines.append('    ' + O_TAG + 'lastBuildDate' + C_TAG + current_time + O_TAG + '/lastBuildDate' + C_TAG)
     
-    # 解密出最纯正的头部标签
-    xml_header = xml_header_b64.decode('base64') if hasattr(str, 'decode') else base64.b64decode(xml_header_b64).decode('utf-8')
-    xml_footer = xml_footer_b64.decode('base64') if hasattr(str, 'decode') else base64.b64decode(xml_footer_b64).decode('utf-8')
-    
-    # 动态注入当前国家名、URL 和时间戳
-    xml_header = xml_header.replace('_sCOUNTRY___', safe_country_name).replace('_sFEEDURL__', this_feed_url).replace('_sCURTIME__', current_time)
-    
-    rss_parts = [xml_header]
-    
-    # 遍历补齐每一篇文章的 item 块
+    # 🌟 动态拼装每一篇文章的 item 块
     for item in items:
-        item_string = (
-            "    <item>\n"
-            f"      <title>{item['title']}</title>\n"
-            f"      <link>{item['link']}</link>\n"
-            f"      <description>{item['description']}</description>\n"
-            f"      <content:encoded>{item['content_encoded']}</content:encoded>\n"
-            f"      <guid isPermaLink=\"true\">{item['link']}</guid>\n"
-            f"      <pubDate>{item['pub_date']}</pubDate>\n"
-            "    </item>"
-        )
-        rss_parts.append(item_string)
+        rss_lines.append('    ' + O_TAG + 'item' + C_TAG)
+        rss_lines.append('      ' + O_TAG + 'title' + C_TAG + O_TAG + '![CDATA[' + item["title"] + ']]' + C_TAG + O_TAG + '/title' + C_TAG)
+        rss_lines.append('      ' + O_TAG + 'link' + C_TAG + item["link"] + O_TAG + '/link' + C_TAG)
+        rss_lines.append('      ' + O_TAG + 'description' + C_TAG + O_TAG + '![CDATA[' + item["description"] + ']]' + C_TAG + O_TAG + '/description' + C_TAG)
+        rss_lines.append('      ' + O_TAG + 'content:encoded' + C_TAG + O_TAG + '![CDATA[' + item["content_encoded"] + ']]' + C_TAG + O_TAG + '/content:encoded' + C_TAG)
+        rss_lines.append('      ' + O_TAG + 'guid isPermaLink="true"' + C_TAG + item["link"] + O_TAG + '/guid' + C_TAG)
+        rss_lines.append('      ' + O_TAG + 'pubDate' + C_TAG + item["pub_date"] + O_TAG + '/pubDate' + C_TAG)
+        rss_lines.append('    ' + O_TAG + '/item' + C_TAG)
         
-    rss_parts.append(xml_footer)
+    rss_lines.append('  ' + O_TAG + '/channel' + C_TAG)
+    rss_lines.append(O_TAG + '/rss' + C_TAG)
     
-    # 用标准的换行符拼装出最终的无损 XML
-    full_xml_content = "\n".join(rss_parts)
+    # 合并生成纯正无损的 XML
+    full_xml_content = "\n".join(rss_lines)
     
     with open(filename, "w", encoding="utf-8") as f:
         f.write(full_xml_content)
