@@ -1,18 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Egypt]]></title>
-    <link>https://github.io_Egypt.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_Egypt.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Egypt.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Egypt] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
+    <item>
+      <title><![CDATA[[Al-Ahram Center for Political and Strategic Studies --Egypt] إصدارات إلكترونية]]></title>
+      <link>http://acpss.ahram.org.eg/EsdaratALl.aspx</link>
+      <description><![CDATA[إصدارات إلكترونية]]></description>
+      <content:encoded><![CDATA[<div><p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://acpss.ahram.org.eg/EsdaratALl.aspx' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://acpss.ahram.org.eg/EsdaratALl.aspx</guid>
+      <pubDate>Tue, 21 Jul 2026 14:05:07 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Al-Ahram Center for Political and Strategic Studies --Egypt] أخبار وفعاليات]]></title>
+      <link>http://acpss.ahram.org.eg/Portal/29/أخبار-وفعاليات/0.aspx</link>
+      <description><![CDATA[أخبار وفعاليات]]></description>
+      <content:encoded><![CDATA[<div><p>Enable JavaScript and cookies to continue</p><br><hr><p><a href='http://acpss.ahram.org.eg/Portal/29/أخبار-وفعاليات/0.aspx' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://acpss.ahram.org.eg/Portal/29/أخبار-وفعاليات/0.aspx</guid>
+      <pubDate>Tue, 21 Jul 2026 14:05:07 +0800</pubDate>
+    </item>
     <item>
       <title><![CDATA[[Economic Research Forum --Egypt] Research Programs]]></title>
       <link>http://erf.org.eg/programs/</link>
       <description><![CDATA[Research Programs]]></description>
       <content:encoded><![CDATA[<div><p>Home<br>><br>Research Programs<br>Research Programs<br>Leading the production of independent, high-quality policy-relevant economic research and facilitating much needed access to timely data.<br><br>ERF research work aims to address emerging regional challenges and opportunities; to strengthen resilience to crises; and to continuously promote regional economic development. <br><br>From the outset, we have been committed to undertaking and managing research to fill glaring knowledge gaps about key development challenges facing the region. <br>ERF has proudly contributed to generating new knowledge and in-depths frontier research that combines both strong academic credibility and policy relevance.<br>0<br>SHARES<br>A<br>A<br>Ongoing Projects<br>STAPLES<br>Sustainable Transition for Agricultural Production and Livelihood in European and Southern Neighborhoods (STAPLES)<br>STAPLES( ("Sustainable Transition for Agricultural Production and Livelihood in European and Southern Neighborhoods") is a prima project that<br>...<br>Read More<br>July 01,2024<br>ELMPS<br>Egypt Labor Market Panel Survey 2023<br>STAPLES( ("Sustainable Transition for Agricultural Production and Livelihood in European and Southern Neighborhoods") is a prima project that<br>...<br>Read More<br>January 15,2023<br>Euromed Clusters Forward<br>EuroMED Cluster Forward<br>STAPLES( ("Sustainable Transition for Agricultural Production and Livelihood in European and Southern Neighborhoods") is a prima project that<br>...<br>Read More<br>June 01,2022<br>1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20<br>21<br>22<br>23<br>of<br>23<br>Completed Projects<br>Stabilization and Adjustment: Towards Inclusive and Sustainable Policies in MENA<br>Stabilization and Adjustment:  Towards Inclusive and Sustainable Policies in MENA<br>In some ways, the economic and financial situations in several MENA countries resemble those that prevailed in the<br>...<br>Read More<br>December 01,2021<br>The Economic Impact of COVID-19 in MENA Region<br>The Economic Impact of COVID-19 in MENA Region<br>The rapid unprecedent spread of Covid-19 pandemic confronted mankind with<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='http://erf.org.eg/programs/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://erf.org.eg/programs/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:43 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:09 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Economic Research Forum --Egypt] Publications]]></title>
@@ -20,7 +38,7 @@
       <description><![CDATA[Publications]]></description>
       <content:encoded><![CDATA[<div><p>Home<br>><br>Publications<br>Publications<br>Connecting People and Ideas...<br><br>Through its impartial, independent and timely analysis of economic problems on the one hand and a well-established publications process on the other, ERF seeks maximize impact of development research and to inform policy debate and policy discussions. <br><br>Our portfolio includes a Series of Working Papers and Series of Policy Reports, Policy Briefs and Policy Perspectives.<br>0<br>SHARES<br>A<br>A<br>Latest ERF Publications<br>Policy Briefs<br>From Pressure to Prosperity: Can Jordan Translate Demographic...<br>Caroline Krafft<br>,<br>Ragui Assaad<br>and<br>Nouf Abushehab<br>In a nutshell Jordan’s population growth has slowed over 2016-2025 The total fertility<br>...<br>Read More<br>Date<br>June, 2026<br>No.<br>PB 165<br>Working Papers<br>The Impact of Early Childhood Care and Education...<br>Caroline Krafft<br>,<br>Ragui Assaad<br>,<br>Paloma Avendano<br>and<br>Ruotong Li<br>In a nutshell Jordan’s population growth has slowed over 2016-2025 The total fertility<br>...<br>Read More<br>Date<br>June, 2026<br>No.<br>1828<br>Topic<br>I2. Education and Research Institutions<br>J2. Demand and Supply of Labor<br>J1. Demographic Economics<br>Policy Briefs<br>Syrian Refugees in Jordan: Progress on Education and...<br>Caroline Krafft<br>and<br>Abdulrazzak Tamim<br>In a nutshell Jordan’s population growth has slowed over 2016-2025 The total fertility<br>...<br>Read More<br>Date<br>June, 2026<br>No.<br>PB 162<br>Working Papers<br>Syrian Refugees in Jordan: Demographics, Labor Market Outcomes...<br>Caroline Krafft<br>and<br>Abdulrazzak Tamim<br>In a nutshell Jordan’s population growth has slowed over 2016-2025 The total fertility<br>...<br>Read More<br>Date<br>June, 2026<br>No.<br>SWP 2026-8<br>Topic<br>F2. International Factor Movements and International Business<br>I3. Welfare, Well-Being, and Poverty<br>J2. Demand and Supply of Labor<br>Policy Briefs<br>The Twin Transition in Jordan’s Labor Market: Why...<br>Jack Duncan<br>and<br>Salma Shaheen<br>In a nutshell Jordan’s population growth has slowed over 2016-2025 The total fertility<br>...<br>Read More<br>Date<br>June, 2026<br>No.<br>PB 168<br>Full List of ERF Publications<br>Policy Briefs<br>From Pressur<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='http://erf.org.eg/publications/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://erf.org.eg/publications/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:45 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:10 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Sweden]]></title>
-    <link>https://github.io_Sweden.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_Sweden.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Sweden.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Sweden] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[Timbro --Sweden] Jobba hos oss]]></title>
       <link>https://timbro.se/in-english/om-oss/jobba-hos-oss/</link>
       <description><![CDATA[Jobba hos oss]]></description>
       <content:encoded><![CDATA[<div><p>Producent / grafisk formgivare<br>Timbro söker en producent och grafisk formgivare som vill bidra till att utveckla vår visuella kommunikation.<br>Läs mer här.<br>Reformakademin söker studentmedarbetare<br>Inför Reformakademin söker vi på Timbro en studentmedarbetare som praktiskt kan bistå Fredrik Kopsch under utbildningshelgerna.<br>Läs mer här.<br>Skriv en opinionsbildande rapport<br>Varje år ger vi ut rapporter och briefing papers framför allt inom ramen för våra prioriterade programområden. Om du tycker dig ha en god idé eller förslag, kontakta oss. Tänk på att din rapportidé ska vara konkret och väl avgränsad, och bidra med nya perspektiv och ny fakta till samhällsdebatten.<br>Fredrik Kopsch<br>, chefsekonom, fredrik.kopsch@timbro.se<br>Adam Danieli<br>, idéchef, adam.danieli@timbro.se<br>Ge ut en bok<br>Timbro förlag<br>ger årligen ut ett 20-tal böcker. Om du har ett ett manus som du tror skulle intressera oss, kontakta vår förläggare<br>Andreas Johansson Heinö<br>. För att förlaget ska kunna ta ställning till ditt projekt krävs ett synopsis samt ett provkapitel.</p><br><hr><p><a href='https://timbro.se/in-english/om-oss/jobba-hos-oss/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://timbro.se/in-english/om-oss/jobba-hos-oss/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:59 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:18 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Timbro --Sweden] Programområden]]></title>
@@ -20,7 +22,7 @@
       <description><![CDATA[Programområden]]></description>
       <content:encoded><![CDATA[<div><p>Ekonomi<br>Timbro arbetar för reformer som minskar regleringarna och skapar bättre förutsättningar för entreprenörskap och tillväxt. Inom den ekonomiska politiken arbetar vi särskilt med skatter, pensioner, bostäder och kommuner.<br>Miljö<br>En effektiv klimatpolitik behöver både värna svensk konkurrenskraft och främja marknadsbaserade lösningar. I stället för särregleringar och subventioner bör den som släpper ut betala för sig genom generella miljöskatter.<br>Arbetsmarknad<br>Sveriges utanförskap växer när fackförbunden vägrar släppa in de mest utsatta på arbetsmarknaden. Inom området arbetsmarknad arbetar vi för en mer modern, dynamisk och inkluderande arbetsmarknad.<br>Välfärd<br>Inom programområdet Välfärd utvecklar vi reformförslag för att välfärden ska bli bättre. Det handlar inte minst om att skapa utrymme för mer privat finansiering.<br>Rättsstat<br>Inom programområdet Rättsstat utvecklar vi reformförslag för att stärka rättsstaten och trygga medborgarens fri- och rättigheter.<br>Europa<br>Inom programområdet Europa utvecklar vi reformförslag för att stärka Europeiska unionen, och bidrar till en levande svensk idédebatt om Europas framtid.</p><br><hr><p><a href='https://timbro.se/in-english/programomraden/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://timbro.se/in-english/programomraden/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:00 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:19 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[The Ratio Institute – SwedenThis link opens in a new window] Publications]]></title>
@@ -28,7 +30,7 @@
       <description><![CDATA[Publications]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='http://ratio.se/en/en/publications' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://ratio.se/en/en/publications</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:26 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:52 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[The Ratio Institute – SwedenThis link opens in a new window] News archive]]></title>
@@ -36,7 +38,7 @@
       <description><![CDATA[News archive]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='http://ratio.se/en/en/news-archive' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://ratio.se/en/en/news-archive</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:28 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:53 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Institute for Security and Development Policy --Sweden] Publications »]]></title>
@@ -44,7 +46,7 @@
       <description><![CDATA[Publications »]]></description>
       <content:encoded><![CDATA[<div><p>Search</p><br><hr><p><a href='http://isdp.eu/publications-isdp' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://isdp.eu/publications-isdp</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:29 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:54 +0800</pubDate>
     </item>
   </channel>
 </rss>

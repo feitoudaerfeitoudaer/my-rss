@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Ghana]]></title>
-    <link>https://github.io_Ghana.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_Ghana.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Ghana.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Ghana] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[IMANI Center for Policy and Education --Ghana] Publications]]></title>
       <link>http://imaniafrica.org/publications/</link>
       <description><![CDATA[Publications]]></description>
       <content:encoded><![CDATA[<div><p>Publications<br>Home<br>Publications<br>Publications<br>IMANI’s 2025 Annual Report: A Year of Evidence, Engagement and Impact<br>Addressing the Impact of Government Interventionism on Free Market Principles in Ghana<br>Balancing Regulation and Free Market: Lessons from Ghana’s Cement and LPG Sector Reforms<br>Tackling Market Access Barriers: Causes of Delays in Port Clearance and High Handling Charges at the Tema Port<br>Policy Brief: Governance and Market Constraints Slowing Green Business Growth in Ghana<br>Does Ghana’s Business Environment Support  Green Businesses ?   A Governance And Market Readiness Assessment<br>Critical Analysis of the 120-day Social Contract of  President John Dramani Mahama<br>3rd IMANI-OXFAM FISCAL RECKLESSNESS INDEX 2024<br>Promoting Social Accountability To Enhance Spending Efficiency At Local Government Level<br>Financing Ghana’s Energy Transition: National and International Public-Private Sources<br>Assessment of the profitability and environmental sustainability of cocoa farming models in Ghana.<br>New Report: Financing Ghana’s Climate Action: Raising the Needed Resources to Achieve Country’s Climate Targets<br>Breaking The Cycle of IMF Support: Addressing Governance Inefficiencies and Drivers of Public Debt in Ghana<br>Policy Brief: Women Need Secured Lands to Jump out of Poverty<br>Tema LNG Import Terminal Case Study<br>Impact of the 1.5 percent tax on electronic transactions (E-levy) on Ghanaians and coping strategies<br>2ND IMANI FISCAL RECKLESSNESS INDEX (2020)-FULL REPORT<br>Public Procurement Reforms: An Analysis of the Drivers of Procurement Irregularities in Ghana-Full Report<br>Applied Political Economy Analysis of the Tema Port. (Abridged Version)<br>Addressing Challenges to Property Registration in Ghana<br>[EVENT REPORT] Addressing Challenges to Property Registration in Ghana<br>IMANI Alert: Noguchi, Professor Ampofo & Frontier Healthcare: Moonlighting, Tax Avoidance or PPP?<br>VIDEO TRAILER: Addressing the Challenges to Property Registration In Ghana<br>Vision 2021: The Future of Ghana as Promised b<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='http://imaniafrica.org/publications/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://imaniafrica.org/publications/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:53 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:21 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Institute for Fiscal Studies (IFS) --Ghana] [email protected]]]></title>
@@ -20,7 +22,7 @@
       <description><![CDATA[[email protected]]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='http://ifsghana.org/cdn-cgi/l/email-protection' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://ifsghana.org/cdn-cgi/l/email-protection</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:06 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:36 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Institute for Democratic Governance- IDEG --Ghana] Mission, Vision & Our Values]]></title>
@@ -28,7 +30,7 @@
       <description><![CDATA[Mission, Vision & Our Values]]></description>
       <content:encoded><![CDATA[<div><p>Your name<br>Your email<br>Subject<br>Your message (optional)</p><br><hr><p><a href='https://ideg.org/mission-vision-our-values/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://ideg.org/mission-vision-our-values/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:05 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:36 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Institute for Democratic Governance- IDEG --Ghana] Management & Team]]></title>
@@ -36,7 +38,7 @@
       <description><![CDATA[Management & Team]]></description>
       <content:encoded><![CDATA[<div><p>Your name<br>Your email<br>Subject<br>Your message (optional)</p><br><hr><p><a href='https://ideg.org/management/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://ideg.org/management/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:07 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Venezuela]]></title>
-    <link>https://github.io_Venezuela.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_Venezuela.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Venezuela.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Venezuela] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[Consejo Venezolano de Relaciones Internacionales --Venezuela] ¿Quienes somos?]]></title>
       <link>http://covri.com.ve/index.php/quienes-somos/</link>
       <description><![CDATA[¿Quienes somos?]]></description>
       <content:encoded><![CDATA[<div><p>Estimados amigos y seguidores:<br>Me siento muy complacido en poder presentarles el Consejo Venezolano de Relaciones Internacionales / Venezuelan Council on Foreign Relations (COVRI / VCFR), primer centro de pensamiento venezolano dedicado exclusivamente la reflexión de las principales dinámicas y debates internacionales, el cual busca una inserción inteligente y constructiva de Venezuela en la región y el Mundo.<br>La misión del COVRI / VCFR es desarrollar trabajos, actividades y discusiones sobre temas de actualidad internacional y muy particularmente sobre las relaciones exteriores de Venezuela con una visión pragmática y no partidista. Sus trabajos han sido útiles para la toma de decisiones de los agentes venezolanos -públicos y privados-, que trabajan en el plano internacional. Asimismo, los estudios realizados han servido para promover el conocimiento de la realidad venezolana, en aquellos escenarios estratégicos en los que se desarrollan nuestros intereses. Con todo ello, nos proponemos contribuir a consolidar a Venezuela como potencia media y asegurar un papel más eficaz en su apoyo al multilateralismo, la integración regional, los valores democráticos, la seguridad internacional y el desarrollo sostenible.<br>Nos sentimos muy complacidos de ser que una fuente reconocida de puntos de vista venezolanos en el Mundo, y una plataforma de diálogo reconocida a nivel nacional sobre los principales temas de la agenda global.<br>Finalmente, pero no por ello menos importante, nos hemos propuesto construir relaciones de cooperación con centros de pensamiento homólogos del Mundo, así como participar en las diferentes redes de<br>think tanks<br>existentes a nivel regional y mundial.<br>Dr. Kenneth Ramírez<br>Presidente del COVRI / VCFR<br>Naturaleza, Objetivos y Financiamiento:<br>COVRI / VCFR ha sido constituida como una fundación cuyo objetivo central es promover del estudio y la investigación aplicada en Relaciones Internacionales, especialmente en lo tocante a Venezuela, y los asuntos y problemas<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='http://covri.com.ve/index.php/quienes-somos/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://covri.com.ve/index.php/quienes-somos/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:15 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:36 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Consejo Venezolano de Relaciones Internacionales --Venezuela] Hemisferio Occidental]]></title>
@@ -20,7 +22,7 @@
       <description><![CDATA[Hemisferio Occidental]]></description>
       <content:encoded><![CDATA[<div><p>La retórica apocalíptica de Trump – Por Alon Ben-Meir (*) Es difícil exagerar las graves implicaciones de la publicación de Trump del 7 de abril en la red Truth Social, donde afirmaba que “toda una civilización morirá esta noche, para no volver jamás”, si no se llegaba a un acuerdo con Irán. Una declaración tan…</p><br><hr><p><a href='http://covri.com.ve/index.php/category/hemisferio-occidental/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://covri.com.ve/index.php/category/hemisferio-occidental/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:16 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

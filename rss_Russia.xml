@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Russia]]></title>
-    <link>https://github.io_Russia.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_Russia.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Russia.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Russia] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[Carnegie Endowment for International Peace Moscow Center – Russia] Publications]]></title>
       <link>https://carnegie.ru/?lang=en/publications/?lang=en</link>
       <description><![CDATA[Publications]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://carnegie.ru/?lang=en/publications/?lang=en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://carnegie.ru/?lang=en/publications/?lang=en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:46 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:03 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Carnegie Endowment for International Peace Moscow Center – Russia] Carnegie China]]></title>
@@ -20,7 +22,7 @@
       <description><![CDATA[Carnegie China]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://carnegie.ru/?lang=en/carnegiechina' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://carnegie.ru/?lang=en/carnegiechina</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:46 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:03 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[47. Russian International Affairs Council (RIAC) --Russia] RUSSIAN INTERNATIONAL AFFAIRS COUNCIL]]></title>
@@ -28,7 +30,7 @@
       <description><![CDATA[RUSSIAN INTERNATIONAL AFFAIRS COUNCIL]]></description>
       <content:encoded><![CDATA[<div><p>RUSSIAN INTERNATIONAL AFFAIRS COUNCIL<br>About RIAC<br>General information<br>Co-founders<br>RIAC News<br>Partners<br>Activities<br>Management<br>Individual Members<br>Corporate Members<br>General Meeting<br>Board of Trustees<br>Presidium<br>Vice-presidents<br>Staff<br>News<br>Press Center<br>For Media<br>Calendar<br>Media partnerships<br>Request expert commentary<br>Contacts<br>My account<br>Account Login<br>Sign in for registered users<br>Forgot your password?<br>Register<br>You can also sign in using:<br>Рус<br>Eng<br>Search</p><br><hr><p><a href='http://russiancouncil.ru/en/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://russiancouncil.ru/en/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:35 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:01 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[47. Russian International Affairs Council (RIAC) --Russia] Individual Members]]></title>
@@ -36,7 +38,7 @@
       <description><![CDATA[Individual Members]]></description>
       <content:encoded><![CDATA[<div><p>RUSSIAN INTERNATIONAL AFFAIRS COUNCIL<br>About RIAC<br>General information<br>Co-founders<br>RIAC News<br>Partners<br>Activities<br>Management<br>Individual Members<br>Corporate Members<br>General Meeting<br>Board of Trustees<br>Presidium<br>Vice-presidents<br>Staff<br>News<br>Press Center<br>For Media<br>Calendar<br>Media partnerships<br>Request expert commentary<br>Contacts<br>My account<br>Account Login<br>Sign in for registered users<br>Forgot your password?<br>Register<br>You can also sign in using:<br>Рус<br>Eng<br>Search</p><br><hr><p><a href='http://russiancouncil.ru/en/en/management/members/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://russiancouncil.ru/en/en/management/members/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:37 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:03 +0800</pubDate>
     </item>
   </channel>
 </rss>

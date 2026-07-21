@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Azerbaijan]]></title>
-    <link>https://github.io_Azerbaijan.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_Azerbaijan.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Azerbaijan.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Azerbaijan] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[Economic Research Center (ERC) --Azerbaijan] Məsuliyyətli oyun]]></title>
       <link>http://erc.az/az/#responsible-gambling/</link>
       <description><![CDATA[Məsuliyyətli oyun]]></description>
       <content:encoded><![CDATA[<div><p>idman<br>bonus<br>Maksimum<br>%160<br>BONUSU AL VƏ MƏRC ET</p><br><hr><p><a href='http://erc.az/az/#responsible-gambling/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://erc.az/az/#responsible-gambling/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:39 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:07:12 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Economic Research Center (ERC) --Azerbaijan] Kuki siyasəti]]></title>
@@ -20,7 +22,7 @@
       <description><![CDATA[Kuki siyasəti]]></description>
       <content:encoded><![CDATA[<div><p>idman<br>bonus<br>Maksimum<br>%160<br>BONUSU AL VƏ MƏRC ET</p><br><hr><p><a href='http://erc.az/az/#cookie-policy/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://erc.az/az/#cookie-policy/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:40 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:07:13 +0800</pubDate>
     </item>
   </channel>
 </rss>

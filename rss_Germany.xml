@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Germany]]></title>
-    <link>https://github.io_Germany.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_Germany.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Germany.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Germany] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[German Council on Foreign Relations (DGAP) --Germany] 70 Jahre DGAP]]></title>
       <link>https://dgap.org/en/70-jahre-dgap-aussenpolitik-neu-denken</link>
       <description><![CDATA[70 Jahre DGAP]]></description>
       <content:encoded><![CDATA[<div><p>Content navigation<br>Amid upheavals in foreign policy, DGAP is turning 70 – and is now needed as a source of ideas and as a platform for strategic debate in Germany more than ever.<br>For a complete overview of all the activities related to DGAP’s 70th anniversary celebration, please visit the German version of this webpage at<br>70 Jahre DGAP. Außenpolitik new denken.<br>Image<br>Im Mittelpunkt stehen zwei Veranstaltungen, die unterschiedliche Perspektiven und Zielgruppen zusammenbringen:<br>23. September 2025 – Strategic Youth Congress (SYC)<br>Ein Tag für die Zukunft der Außenpolitik: Mit dem Strategic Youth Congress (SYC) bringt die Junge DGAP erstmals junge außenpolitische Perspektiven auf eine große Bühne – in der italienischen Botschaft in Berlin. Die Konferenz ist Plattform, Denkraum und Impulsgeber zugleich: Konzipiert von und für junge Menschen, diskutiert sie die globalen Herausforderungen unserer Zeit – von Machtpolitik bis Klimagerechtigkeit.<br>Mehr Informationen zum SYC hier<br>24. September 2025 – Festakt: 70 Jahre DGAP<br>Im Beisein von prominenten Gästen aus Politik, Wirtschaft, Wissenschaft sowie Mitgliedern und Förderern feiert die DGAP ihr 70-jähriges Bestehen. Ein großer Abend der deutschen Außen- und Außenwirtschaftspolitik kündigt sich an – in Gebäude und Garten der DGAP in Berlin-Tiergarten.<br>Nur für geladene Gäste.<br>Image<br>License<br>All rights reserved<br>Copyright owner<br>© Anita Back<br>Image<br>License<br>All rights reserved<br>Copyright owner<br>© Anita Back<br>Image<br>License<br>All rights reserved<br>Copyright owner<br>© Anita Back<br>Image<br>License<br>All rights reserved<br>Copyright owner<br>© Anita Back<br>Image<br>License<br>All rights reserved<br>Copyright owner<br>© Anita Back<br>Image<br>License<br>All rights reserved<br>Copyright owner<br>© Anita Back<br>Image<br>License<br>All rights reserved<br>Copyright owner<br>© Anita Back<br>Image<br>License<br>All rights reserved<br>Copyright owner<br>© Anita Back<br>Image<br>License<br>All rights reserved<br>Copyright owner<br>© Anita Back<br>Image<br>License<br>All rights reserved<br>Copyright owner<br>© Anita Back<br>Image<br>License<br>All rights reserved<br>Cop<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://dgap.org/en/70-jahre-dgap-aussenpolitik-neu-denken' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://dgap.org/en/70-jahre-dgap-aussenpolitik-neu-denken</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:48 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:07 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[German Council on Foreign Relations (DGAP) --Germany] Publications]]></title>
@@ -20,7 +22,7 @@
       <description><![CDATA[Publications]]></description>
       <content:encoded><![CDATA[<div><p>We are sorry, the page you are looking for could not be found.<br>One reason might be that<br>dgap.org<br>has been relaunched recently and some addresses have changed.<br>Another reason could be that we are currently relaunching our journal<br>Internationale Politik<br>.<br>Share</p><br><hr><p><a href='https://dgap.org/en/en/publications' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://dgap.org/en/en/publications</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:49 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:08 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Ecologic Institute --Germany] Publications]]></title>
@@ -28,7 +30,7 @@
       <description><![CDATA[Publications]]></description>
       <content:encoded><![CDATA[<div><p>Publication:<br>Article<br>Although pharmaceuticals are indispensable for public healthcare, their environmental impacts are rarely considered during prescribing or dispensing. A newly developed Environmental Pharmaceutical Index (EPI) aims to integrate environmental information systematically into pharmaceutical and medical decision-making. The objective is to balance therapeutical needs and environmental impacts by supporting the selection of therapeutically equivalent medicines with lower environmental impacts without compromising patient care.<br>Environmental Pharmaceutical Index – a practical information, classification and dissemination system for medication in Germany<br>Year<br>2026<br>Read more</p><br><hr><p><a href='http://ecologic.eu/publications' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://ecologic.eu/publications</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:20 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:43 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Ecologic Institute --Germany] Presentations]]></title>
@@ -36,7 +38,7 @@
       <description><![CDATA[Presentations]]></description>
       <content:encoded><![CDATA[<div><p>Presentation:<br>Speech<br>On 6 July 2026, Dr. Stephan Sina, Senior Fellow at Ecologic Institute, participated as an expert in a public hearing of the German Bundestag’s Committee on Legal Affairs and Consumer Protection on the Federal Government’s draft bill to amend criminal law.<br>Expert Hearing on the Federal Government’s Draft Bill to Transpose the Environmental Crime Directive<br>6 July 2026<br>Dr. Stephan Sina<br>Read more</p><br><hr><p><a href='http://ecologic.eu/presentations' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://ecologic.eu/presentations</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:22 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:45 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[European Stability Initiative --Germany] HintergrundWie AfD-Spin funktioniert26 June 2026]]></title>
@@ -44,7 +46,7 @@
       <description><![CDATA[HintergrundWie AfD-Spin funktioniert26 June 2026]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://esiweb.org/pdf/ESI_Wie-AfD-Spin-funktioniert-VG-K%C3%B6ln-Beschluss_2026-06-26.pdf' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://esiweb.org/pdf/ESI_Wie-AfD-Spin-funktioniert-VG-K%C3%B6ln-Beschluss_2026-06-26.pdf</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:26 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:50 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[European Stability Initiative --Germany] Former head of Amnesty International in Europe on migration]]></title>
@@ -52,7 +54,7 @@
       <description><![CDATA[Former head of Amnesty International in Europe on migration]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://esiweb.org/pdf/JD Wyborcza article English 5 April 2024.pdf' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://esiweb.org/pdf/JD Wyborcza article English 5 April 2024.pdf</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:27 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:52 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[9. Wuppertal Institute for Climate, Environment and Energy --Germany] The Institute]]></title>
@@ -60,7 +62,7 @@
       <description><![CDATA[The Institute]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://wupperinst.org/en/en/the-institute/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://wupperinst.org/en/en/the-institute/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:08 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:39 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[9. Wuppertal Institute for Climate, Environment and Energy --Germany] Publications]]></title>
@@ -68,7 +70,7 @@
       <description><![CDATA[Publications]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://wupperinst.org/en/en/publications/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://wupperinst.org/en/en/publications/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:09 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:41 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Canada]]></title>
-    <link>https://github.io_Canada.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_Canada.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Canada.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Canada] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[Eco-Fiscal Commission --Canada] READ THE OPEN LETTER]]></title>
       <link>https://ecofiscal.ca/2024/03/26/open-letter-economists-canadian-carbon-pricing/</link>
       <description><![CDATA[READ THE OPEN LETTER]]></description>
       <content:encoded><![CDATA[<div><p>An Open Letter from Economists on Canadian Carbon Pricing<br>Mar 26,<br>2024<br>Climate and Energy<br>Pollution<br>Technology and Innovation<br>Carbon Pricing<br>As economists from across Canada, we are concerned about the significant threats from climate change. We encourage governments to use economically sensible policies to reduce emissions at a low cost, address Canadians’ affordability concerns, maintain business competitiveness, and support Canada’s transition to a low-carbon economy. Canada’s carbon-pricing policies do all those things.<br>There is plenty of discussion about carbon pricing in Canada today. Healthy public debate is good, but it should be based on sound evidence and facts. Let’s examine some of the claims made by critics of carbon pricing and compare them with what the evidence shows.<br>Critics’ Claim #1: Carbon pricing won’t reduce GHG emissions.<br>What the evidence shows: Not only does carbon pricing reduce emissions, but it does so at a lower cost than other approaches.<br>Since federal carbon pricing took effect in 2019, Canada’s GHG emissions have fallen by almost 8 percent, although other policies were also at work. A new report from the Canadian Climate Institute shows that federal and provincial carbon pricing, for industries and consumers, is expected to account for almost half of Canada’s emissions reductions by 2030.<br>The reason carbon pricing works is simple: when something costs more (in this case fossil fuels), people use less of it. That is basic economics, and common sense.<br>Carbon pricing is the lowest cost approach because it gives each person and business the flexibility to choose the best way to reduce their carbon footprint. Other methods, such as direct regulations, tend to be more intrusive and inflexible, and cost more.<br>That is not to say that carbon pricing should be Canada’s only climate policy. Other complementary policies are also needed. But the more we use the lowest-cost policies to achieve our climate goals, the more resources will be available<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://ecofiscal.ca/2024/03/26/open-letter-economists-canadian-carbon-pricing/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://ecofiscal.ca/2024/03/26/open-letter-economists-canadian-carbon-pricing/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:08 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:29 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Eco-Fiscal Commission --Canada] What is Ecofiscal?]]></title>
@@ -20,7 +22,7 @@
       <description><![CDATA[What is Ecofiscal?]]></description>
       <content:encoded><![CDATA[<div><p>An Open Letter from Economists on Canadian Carbon Pricing<br>2024-03-28<br>As economists from across Canada, we are concerned about the significant threats from climate change. We encourage governments to use economically sensible policies to reduce emissions at a low cost, address Canadians’ affordability concerns, maintain business competitiveness, and support Canada’s transition to a low-carbon economy. Canada’s carbon-pricing policies do all those things.<br>There is plenty of discussion about carbon pricing in Canada today. Healthy public debate is good, but it should be based on sound evidence and facts. Let’s examine some of the claims made by critics of carbon pricing and compare them with what the evidence shows.<br>READ THE OPEN LETTER</p><br><hr><p><a href='https://ecofiscal.ca/what-is-ecofiscal/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://ecofiscal.ca/what-is-ecofiscal/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:08 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:29 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Mowat Center --Canada] Sustainable Logistics: The Future of Eco-Friendly Freight Forwarding Solutions]]></title>
@@ -28,7 +30,7 @@
       <description><![CDATA[Sustainable Logistics: The Future of Eco-Friendly Freight Forwarding Solutions]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://mowatcentre.ca/sustainable-logistics/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://mowatcentre.ca/sustainable-logistics/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:08 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:30 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Mowat Center --Canada] Navigating Regulatory Challenges in International Shipping – Strategies for Success]]></title>
@@ -36,7 +38,7 @@
       <description><![CDATA[Navigating Regulatory Challenges in International Shipping – Strategies for Success]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://mowatcentre.ca/navigating-regulatory-challenges-international-shipping/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://mowatcentre.ca/navigating-regulatory-challenges-international-shipping/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:08 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:30 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Public Policy Forum (PPF) --Canada] Learn MoreEvents]]></title>
@@ -44,7 +46,7 @@
       <description><![CDATA[Learn MoreEvents]]></description>
       <content:encoded><![CDATA[<div><p>Search<br>Upcoming<br>Frank McKenna Awards<br>The Frank McKenna Awards celebrate leaders whose vision, ingenuity and commitment have strengthened Atlantic Canada and the country through exceptional contributions to public policy. This is an opportunity to recognize individuals within your professional networks whose leadership has made a meaningful difference.<br><br>About the Frank McKenna Awards<br>Since 2013, PPF has honoured outstanding Atlantic Canadians in recognition of their contributions to public policy in the spirit of Frank McKenna—one of the region's most respected public leaders.<br>Past Event<br>Building a Made in Canada Strategy for Health and Life Sciences<br>Virtual invitation-only member event<br>Testimonial Dinner 2026 Honouree Speeches<br>Past Event<br>Canada Growth Summit 2026: Seizing the Moment<br>Register now for the biggest policy event of the year.<br>Past Event<br>Testimonial Dinner 2026<br>A celebration of distinguished Canadians who have made outstanding contributions to public policy and good governance<br>Past Event<br>Securing Growth, Securing Canada: Strategic Investment Choices in a New Geopolitical Era<br>Virtual invitation-only member event<br>Let’s build a better Canada together. Whether you’re looking to support our mission by<br>becoming a member<br>,<br>partnering with us<br>on a project or<br>sponsoring an event<br>, your engagement helps drive informed, inclusive policy across the country.<br>Past Event<br>Unlocking Health Data for Public Good<br>Virtual invitation-only member event<br>Past Event<br>Innovative Approaches to Revitalize Community News<br>Virtual invitation-only member event<br>Past Event<br>AI and Canada’s Productivity Puzzle: Cracking the code to unlock investment<br>Virtual invitation-only member event<br>Past Event<br>Mind the Gap: Strengthening Canada’s health security partnerships<br>Invitation-only member event<br>Past Event<br>Fall Lecture 2024: Canada’s relationship with the U.S.<br>Past Event<br>Annual Testimonial Dinner Honour Roll 2025<br>An annual celebration of distinguished Canadians who have made outstanding contribut<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='http://ppforum.ca/ppf-events/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://ppforum.ca/ppf-events/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:12 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:31 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Public Policy Forum (PPF) --Canada] Learn MoreLearning Programs]]></title>
@@ -52,7 +54,7 @@
       <description><![CDATA[Learn MoreLearning Programs]]></description>
       <content:encoded><![CDATA[<div><p>Learning Programs<br>Innovative training for mid-career policy professionals, designed and delivered by leading experts.<br>Read more<br>Action Canada Fellowship Program<br>Action Canada, a non-partisan organization housed within the Public Policy Forum, is building the next generation of exceptional Canadian leadership.<br>Read more</p><br><hr><p><a href='http://ppforum.ca/academy/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://ppforum.ca/academy/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:12 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:33 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Japan]]></title>
-    <link>https://github.io_Japan.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_Japan.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Japan.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Japan] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[2. Health and Global Policy Institute (HGPI) --Japan] Lectures & Media]]></title>
       <link>https://hgpi.org/en/category/lecture</link>
       <description><![CDATA[Lectures & Media]]></description>
       <content:encoded><![CDATA[<div><p>5-11-16, Roppongi, Minato-ku, Tokyo<br>(The International House of Japan)<br>106-0032 JAPAN<br>Tel: +81-3-4241-5020<br>Fax: +81-3-6859-9291<br>HGPI relocated to the International House of Japan (Roppongi) on May 1, 2026.<br>About HGPI<br>Our Mission / Guiding Principles<br>Message from Chair<br>Message from Honorary Chairman for Life<br>Overview<br>Annual Reports & Activity Reports<br>Experts<br>History<br>Reports<br>Research & Recommendations<br>Events<br>Lectures & Media<br>Japan's Health Policy<br>Japan Health Policy NOW<br>Membership application<br>Employment Opportunities<br>Contact Us<br>Privacy Policy<br>Copyright Policy</p><br><hr><p><a href='https://hgpi.org/en/category/lecture' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://hgpi.org/en/category/lecture</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:09 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:39 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[2. Health and Global Policy Institute (HGPI) --Japan] Japan's Health Policy]]></title>
@@ -20,7 +22,7 @@
       <description><![CDATA[Japan's Health Policy]]></description>
       <content:encoded><![CDATA[<div><p>5-11-16, Roppongi, Minato-ku, Tokyo<br>(The International House of Japan)<br>106-0032 JAPAN<br>Tel: +81-3-4241-5020<br>Fax: +81-3-6859-9291<br>HGPI relocated to the International House of Japan (Roppongi) on May 1, 2026.<br>About HGPI<br>Our Mission / Guiding Principles<br>Message from Chair<br>Message from Honorary Chairman for Life<br>Overview<br>Annual Reports & Activity Reports<br>Experts<br>History<br>Reports<br>Research & Recommendations<br>Events<br>Lectures & Media<br>Japan's Health Policy<br>Japan Health Policy NOW<br>Membership application<br>Employment Opportunities<br>Contact Us<br>Privacy Policy<br>Copyright Policy</p><br><hr><p><a href='https://hgpi.org/en/jhp/jhpn.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://hgpi.org/en/jhp/jhpn.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:10 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:40 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[2. Institute of Energy Economics, Japan (IEEJ) --Japan] Report & Material]]></title>
@@ -28,7 +30,7 @@
       <description><![CDATA[Report & Material]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://eneken.ieej.or.jp/en/en/report_list.php' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://eneken.ieej.or.jp/en/en/report_list.php</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:12 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:42 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[2. Institute of Energy Economics, Japan (IEEJ) --Japan] EDMC Statistics]]></title>
@@ -36,7 +38,7 @@
       <description><![CDATA[EDMC Statistics]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://eneken.ieej.or.jp/en/en/statistics.php' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://eneken.ieej.or.jp/en/en/statistics.php</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:12 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:43 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[97. Asia Pacific Initiative --Japan] Publications]]></title>
@@ -44,7 +46,7 @@
       <description><![CDATA[Publications]]></description>
       <content:encoded><![CDATA[<div><p>Search<br>Search for:</p><br><hr><p><a href='https://apinitiative.org/en/en/publications' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://apinitiative.org/en/en/publications</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:23 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:59 +0800</pubDate>
     </item>
   </channel>
 </rss>

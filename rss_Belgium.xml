@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Belgium]]></title>
-    <link>https://github.io_Belgium.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_Belgium.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Belgium.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Belgium] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[Carnegie Europe --Belgium] Strategic Europe]]></title>
       <link>http://carnegieeurope.eu/en/europe/strategic-europe</link>
       <description><![CDATA[Strategic Europe]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='http://carnegieeurope.eu/en/europe/strategic-europe' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://carnegieeurope.eu/en/europe/strategic-europe</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:57 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:15 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Carnegie Europe --Belgium] How NATO Became Anchored in the Black Sea]]></title>
@@ -20,7 +22,7 @@
       <description><![CDATA[How NATO Became Anchored in the Black Sea]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='http://carnegieeurope.eu/europe/posts/2026/07/how-nato-became-anchored-in-the-black-sea' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://carnegieeurope.eu/europe/posts/2026/07/how-nato-became-anchored-in-the-black-sea</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:58 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:16 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Foundation for European Progressive Studies (FEPS) --Belgium] Secretary General]]></title>
@@ -28,7 +30,7 @@
       <description><![CDATA[Secretary General]]></description>
       <content:encoded><![CDATA[<div><p>From Russian aggression to a new Eastern policy</p><br><hr><p><a href='https://feps-europe.eu/people_category/secretary-general/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://feps-europe.eu/people_category/secretary-general/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:31 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:55 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Foundation for European Progressive Studies (FEPS) --Belgium] Scientific Council]]></title>
@@ -36,7 +38,7 @@
       <description><![CDATA[Scientific Council]]></description>
       <content:encoded><![CDATA[<div><p>László ANDOR<br>FEPS Secretary General<br>László Andor is a Hungarian economist, and former EU Commissioner for Employment, Social Affairs and Inclusion […]</p><br><hr><p><a href='https://feps-europe.eu/people_category/scientific-council/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://feps-europe.eu/people_category/scientific-council/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:32 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:57 +0800</pubDate>
     </item>
   </channel>
 </rss>

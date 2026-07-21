@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-UnitedStates]]></title>
-    <link>https://github.io_UnitedStates.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_UnitedStates.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_UnitedStates.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [UnitedStates] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[Peterson Institute for International Economics (PIIE) --United States] Subscriptions]]></title>
       <link>https://piie.com/subscribe</link>
       <description><![CDATA[Subscriptions]]></description>
       <content:encoded><![CDATA[<div><p>Subscribe</p><br><hr><p><a href='https://piie.com/subscribe' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://piie.com/subscribe</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:38 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:04:54 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Peterson Institute for International Economics (PIIE) --United States] Policy Briefs]]></title>
@@ -20,7 +22,7 @@
       <description><![CDATA[Policy Briefs]]></description>
       <content:encoded><![CDATA[<div><p>Policy Briefs<br>Europe of the Future 2050—Trade Policy<br>Alan Wm. Wolff<br>(PIIE)<br>June 2026</p><br><hr><p><a href='https://piie.com/publications/policy-briefs' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://piie.com/publications/policy-briefs</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:38 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:04:54 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Americans for Tax Reform (ATR) --United States] Pledge Database]]></title>
@@ -28,7 +30,7 @@
       <description><![CDATA[Pledge Database]]></description>
       <content:encoded><![CDATA[<div><p>The Pledge Non-signers<br>Don't see your<br>U.S. Senator<br>or Representative?<br>Click Here</p><br><hr><p><a href='https://atr.org/pledge-database/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://atr.org/pledge-database/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:39 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:04:56 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Americans for Tax Reform (ATR) --United States] 2025 Pledge Signers]]></title>
@@ -36,7 +38,7 @@
       <description><![CDATA[2025 Pledge Signers]]></description>
       <content:encoded><![CDATA[<div><p>Toggle navigation<br>Search<br>Search</p><br><hr><p><a href='https://atr.org/2025-pledge-signers/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://atr.org/2025-pledge-signers/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:39 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:04:56 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Acton Institute for the Study of Religion and Liberty --United States] Publications]]></title>
@@ -44,7 +46,7 @@
       <description><![CDATA[Publications]]></description>
       <content:encoded><![CDATA[<div><p>Acton Line<br>Acton's Emerging Leaders Program with Arthur Montoya and John Sariego<br>July 20, 2026<br>A Mugg’s Game<br>July 21, 2026<br>Religious Freedom’s Economic Benefits<br>July 16, 2026<br>The Ghosts of Postliberalism<br>July 15, 2026<br>Saving the Court: A Millennial Civics Lesson<br>July 14, 2026<br>Adam Smith and the Birth of Classical Liberalism<br>July 20, 2026<br>Digging for America’s Jewish Roots<br>July 13, 2026<br>Winston Churchill, American Patriot<br>July 3, 2026<br>The Personal God of George Washington<br>July 2, 2026<br>How to Do Politics in Church<br>September 30, 2024<br>Build, Baby, Build<br>August 26, 2024<br>Why Pot Stinks<br>August 19, 2024<br>Polarization to the Walz<br>August 12, 2024<br>Review of “Medieval Money, Merchants, and Morality” by Diane Wolfthal<br>October 16, 2025<br>The Two Economies (1856)<br>October 16, 2025<br>Luigi Taparelli, SJ, and “The Two Economies”<br>October 16, 2025<br>How the Robert W. Plaster Foundation is Building Acton’s Mission to Higher Ed’s Movers<br>June 5, 2026<br>“It’s Like a Family Reunion”: The Setian Family's Acton Experience<br>June 5, 2026<br>Marcel Van Hattem: Front-Line Fighter for a Free Brazil<br>June 5, 2026<br>How Acton’s Dr. Clara Piano Fuses Faith, Freedom, and Family<br>June 5, 2026<br>Acton's Emerging Leaders Program with Arthur Montoya and John Sariego<br>July 20, 2026<br>Dan Churchwell on Faith and Work in a Technological Age<br>July 15, 2026<br>Acton's Emerging Leaders Program with Julia LaGrand<br>July 13, 2026<br>Noah Gould Reports on Community Revival in Fishtown<br>July 8, 2026</p><br><hr><p><a href='https://acton.org/publications' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://acton.org/publications</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:40 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:04:57 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Acton Institute for the Study of Religion and Liberty --United States] Emerging Leaders Program]]></title>
@@ -52,7 +54,7 @@
       <description><![CDATA[Emerging Leaders Program]]></description>
       <content:encoded><![CDATA[<div><p>Join us in 2027!<br>Interest Form<br>Applications for the 2026 Emerging Leaders Program are now closed. The application for the 2027 Emerging Leaders Program will open in the fall of 2026. Please follow the link above to our 2027 interest form.<br>ELP at a Glance<br>The Acton Emerging Leaders Program is an 8-week leadership development internship in Grand Rapids, MI. The program brings together a cohort of student leaders from across the nation and globe for a transformative experience. During the summer, Emerging Leaders will gain professional experience, grow their network, and go deeper into the ideas of a free and virtuous society.<br>Who:<br>Current Undergraduate & Graduate students.<br>When:<br>For summer 2026, the program dates are June 3rd to July 29th<br>Stipend & Housing:<br>Each domestic participant will receive a $4,500 stipend plus housing. We provide housing at the Grand Valley State University - Downtown Campus. (Stipends for international participants will vary)<br>Application Deadline:<br>The early decision deadline is November 30th, 2025. The general decision deadline is February 13th, 2026.<br>Testimonials<br>Image<br>Kelechi Nwannunu, '25<br>Free Future Foundation<br>Chief Executive Officer<br>"This program made me pause and ask hard questions: Why do I do what I do? What kind of leader do I want to be? How do I hold freedom and virtue together in a world that often splits them apart?"<br>Image<br>Adeline Kaufman, '25<br>Hillsdale College<br>Political Economy & French<br>"I have had the opportunity to do real, meaningful work at Acton, advancing the causes and endeavors of the institution. This challenged me to become more professional, adaptable, and a better communicator."<br>Image<br>Kauan Souza, '25<br>Universidade Presbiteriana Mackenzie<br>Law<br>"The freedom we were given to express our perspectives and to listen respectfully to opposing views created an intellectually and personally enriching environment. The debates were not only relevant—they were truly transformative. I felt part of a community of truth-seekers."<br>Imag<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://acton.org/elp' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://acton.org/elp</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:40 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:04:57 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Center on International Cooperation --United States] NEW: Policy Guidance for Effective National Prevention Strategies]]></title>
@@ -60,7 +62,7 @@
       <description><![CDATA[NEW: Policy Guidance for Effective National Prevention Strategies]]></description>
       <content:encoded><![CDATA[<div><p>Publication: Policy Brief<br>June 23, 2026<br>Prevention and Peacebuilding<br>Policy Guidance for Effective National Prevention Strategies<br>The NYU Center on International Cooperation (CIC), in partnership with the Australian Government, has developed evidence-based, voluntary policy guidance for national prevention strategies. This document aims to build on decades of research and practical experience in conflict and violence prevention to support national actors in designing or strengthening their NPS while allowing for context-specific approaches</p><br><hr><p><a href='https://cic.nyu.edu/policy-guidance-effective-national-prevention-strategies/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://cic.nyu.edu/policy-guidance-effective-national-prevention-strategies/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:42 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:04:59 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Center on International Cooperation --United States] Business Plan]]></title>
@@ -68,23 +70,7 @@
       <description><![CDATA[Business Plan]]></description>
       <content:encoded><![CDATA[<div><p>Close search overlay…<br>Search CIC<br>Search the site…<br>Submit Search<br>Close search<br>About<br>People<br>History<br>Careers<br>Business Plan<br>Newsletters<br>Contact<br>Programs<br>Congo Research Group<br>Prevention and Peacebuilding<br>Prevention at the United Nations<br>Peace and Security Reform at the United Nations<br>Humanitarian Crises<br>Pathfinders for Peaceful, Just and Inclusive Societies<br>Halving Global Violence<br>Justice for All<br>Inequality & Exclusion<br>Promoting and Defending Multilateralism<br>Building the Case for Action<br>Multilateral AI Governance<br>Multilateral Solutions for Fragility, Conflict, and Violence<br>UN80<br>UN and IFI Collaboration<br>Resources<br>Blog<br>Events<br>Data<br>Preventing Armed Violence: An Evidence-Based Tool for Smarter Policy & Action (Prototype)<br>Peacebuilding Architecture Review: Matrix of Recommendations<br>Ecosystem Map: Data for Peacebuilding and Prevention<br>UN Senior Appointments Dashboard<br>Search the site…<br>Submit Search<br>Search</p><br><hr><p><a href='https://cic.nyu.edu/business-plan/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://cic.nyu.edu/business-plan/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:32:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[6. Mathematica Policy Research (MPR) --United States] Global Health and Development]]></title>
-      <link>https://mathematica-mpr.com/sectors/global-health-and-development</link>
-      <description><![CDATA[Global Health and Development]]></description>
-      <content:encoded><![CDATA[<div><p>Sectors<br>Global Health and Development</p><br><hr><p><a href='https://mathematica-mpr.com/sectors/global-health-and-development' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://mathematica-mpr.com/sectors/global-health-and-development</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:08 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[6. Mathematica Policy Research (MPR) --United States] Healthcare and Life Sciences]]></title>
-      <link>https://mathematica-mpr.com/sectors/healthcare-and-life-sciences</link>
-      <description><![CDATA[Healthcare and Life Sciences]]></description>
-      <content:encoded><![CDATA[<div><p>Sectors<br>Healthcare and Life Sciences</p><br><hr><p><a href='https://mathematica-mpr.com/sectors/healthcare-and-life-sciences' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://mathematica-mpr.com/sectors/healthcare-and-life-sciences</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:09 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:00 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[10. Center for Education Policy Analysis (CEPA) --United States] Research Areas]]></title>
@@ -92,7 +78,7 @@
       <description><![CDATA[Research Areas]]></description>
       <content:encoded><![CDATA[<div><p>Mass Instruction or Higher Learning? The Impact of College Class Size on Student Retention and Graduation<br>School poverty—not racial composition—limits educational opportunity<br>Stanford Graduate School of Education<br>Separate Remains Unequal: Contemporary Segregation and Racial Disparities in School District Revenue<br>The Revealed Preferences for School Reopening: Evidence from Public-School Disenrollment<br>As mentioned in The New York Times →</p><br><hr><p><a href='http://cepa.stanford.edu/node' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://cepa.stanford.edu/node</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:09 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:39 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[10. Center for Education Policy Analysis (CEPA) --United States] Accountability]]></title>
@@ -100,55 +86,23 @@
       <description><![CDATA[Accountability]]></description>
       <content:encoded><![CDATA[<div><p>Accountability<br>Accountability policies are intended to promote effective instruction and student learning by rewarding effective educators and schools while punishing low performing ones. Frequently these policies rely on standardized testing to measure student success and determine school and teacher effectiveness. CEPA researchers address questions such as what impacts accountability programs have on teachers, students, and schools as well how effective they are at actually improving student outcomes.</p><br><hr><p><a href='http://cepa.stanford.edu/topic-areas/accountability' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://cepa.stanford.edu/topic-areas/accountability</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:10 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:39 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[2. Center for Water-Energy Efficiency, UC Davis – U.S.] Become an Affiliate]]></title>
-      <link>https://cwee.ucdavis.edu/affiliates/become-an-affiliate/</link>
-      <description><![CDATA[Become an Affiliate]]></description>
-      <content:encoded><![CDATA[<div><p>Become an Affiliate<br>The UC Davis Center for Water-Energy Efficiency (CWEE) invites strategically minded stakeholders and leaders to join our efforts to address the water-energy-climate nexus by advancing water management solutions.<br>Our affiliate members are integral in advancing our mission and translating research into practice. CWEE encourages affiliate members to be active participants in our research program and help us prioritize research efforts that align with pressing concerns important to their organization, industry, and beyond. Members benefit from the integrated solutions and research insights developed from their sponsorship.<br>Affiliate member benefits include access to industry experts at CWEE, updates and insights from current research, and the advancement of shared research interest into real world application. Affiliates help direct key focus areas in CWEE research initiatives that aim to advance research or policy in critical topic areas. Affiliates also receive access to the tools and resources that come out of our research and have access to our campus and external networks.<br>Affiliate Benefits<br>Industry Advice<br>Our researchers and faculty have in-depth knowledge of the water and water-energy landscape as experts in their field. Affiliate members may request one-on-one meetings to discuss current and emerging research, newly published research findings, and other insights unique to their organization. Key expert advising and research areas include:<br>-Water system energy efficiency, intensity, and load shifting<br>-Water & energy data systems, data architecture, and integration<br>-Evaluation of efficiency programs<br>-Hydraulic model calibration and use<br>-Water loss control and more<br>Advance Research Initiatives<br>Initiatives are critical topics required to advance research or policy. CWEE can perform basic research to advise the state/sector or to gain the proof of concept needed to seek greater impact through grant funding. Current research initiatives include:<br><br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://cwee.ucdavis.edu/affiliates/become-an-affiliate/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://cwee.ucdavis.edu/affiliates/become-an-affiliate/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:10 +0800</pubDate>
+      <title><![CDATA[[6. Mathematica Policy Research (MPR) --United States] Global Health and Development]]></title>
+      <link>https://mathematica-mpr.com/sectors/global-health-and-development</link>
+      <description><![CDATA[Global Health and Development]]></description>
+      <content:encoded><![CDATA[<div><p>Sectors<br>Global Health and Development</p><br><hr><p><a href='https://mathematica-mpr.com/sectors/global-health-and-development' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://mathematica-mpr.com/sectors/global-health-and-development</guid>
+      <pubDate>Tue, 21 Jul 2026 14:06:40 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[2. Center for Water-Energy Efficiency, UC Davis – U.S.] Publications]]></title>
-      <link>https://cwee.ucdavis.edu/publications/</link>
-      <description><![CDATA[Publications]]></description>
-      <content:encoded><![CDATA[<div><p>Title<br>Author<br>Type<br>Year Published<br>Description<br>Download<br>Sponsor<br>Untapped potential: leak reduction is the most cost-effective urban water management tool<br>Amanda Rupiper, Joakim Weill, Ellen Bruno, Katrina Jessoe and Frank Loge<br>Peer-reviewed Article<br>2022<br>Providing sufficient, safe, and reliable drinking water is a growing challenge as water supplies become more scarce and uncertain. Meanwhile, water utilities in the United States lose approximately 17% of their delivered water to leaks each year. Using data from over 800 utilities across four U.S. states, California, Georgia, Tennessee, and Texas, we characterize the heterogeneity in water losses across the U.S., develop a model to assess the economically efficient level of losses, and use this model to compare the net benefits of several proposed water loss regulations and modeling approaches.<br>Read Article<br>A Visual Analytics System for Water Distribution System Optimization<br>Yiran Li, Erin Musabandesu, Takanori Fujiwara, Frank J. Loge, Kwan-Liu Ma<br>Short Paper<br>2021<br>The optimization of water distribution systems (WDSs) is vital to minimize energy costs required for their operations. A principal approach taken by researchers is identifying an optimal scheme for water pump controls through examining computational simulations of WDSs. However, due to a large number of possible control combinations and the complexity of WDS simulations, it remains non-trivial to identify the best pump controls by reviewing the simulation results. To address this problem, we design a visual analytics system that helps understand relationships between simulation inputs and outputs towards better optimization. Our system incorporates interpretable machine learning as well as multiple linked visualizations to capture essential input-output relationships from complex WDS simulations. We demonstrate our system's effectiveness through a practical case study and evaluate its usability through expert reviews. Our results show that our system can less<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://cwee.ucdavis.edu/publications/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://cwee.ucdavis.edu/publications/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[9. Center for Public Integrity (CPI) --United States] High Courts, High Stakes]]></title>
-      <link>https://publicintegrity.org/topics/politics/high-courts-high-stakes/</link>
-      <description><![CDATA[High Courts, High Stakes]]></description>
-      <content:encoded><![CDATA[<div><p>Posted in<br>High Courts, High Stakes<br>by<br>The Center for Public Integrity<br>March 6, 2024<br>March 6, 2024<br>A Center for Public Integrity investigation that revealed an under-the-radar effort pushing state high courts rightward — with far-reaching consequences — is a finalist for a Toner Prize honoring excellence in political reporting. “High Courts, High Stakes” is one of six projects recognized in the journalism contest’s national category. Other finalists include ProPublica’s investigative reporting […]</p><br><hr><p><a href='https://publicintegrity.org/topics/politics/high-courts-high-stakes/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://publicintegrity.org/topics/politics/high-courts-high-stakes/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[9. Center for Public Integrity (CPI) --United States] ECONOMIC WELL-BEING]]></title>
-      <link>https://publicintegrity.org/economic-well-being-mission/</link>
-      <description><![CDATA[ECONOMIC WELL-BEING]]></description>
-      <content:encoded><![CDATA[<div><p>Uncovering economic inequality<br>The wealth gap between Black and white Americans is wider today than when civil rights legislation was passed in the 1960s, one glaring indicator of a society in which economic inequality in this country is tipping toward crisis. Public Integrity’s reporting confronts the discriminatory systems that have overlapped and compounded to redistribute wealth to the rich through the rules of work, access to credit, home ownership and entrepreneurship, state and federal tax policy and government subsidies.<br>Sign up for our newsletter<br>BY THE NUMBERS<br>18%<br>Share of income Washington state’s poorest contribute to state and local taxes, compared with 3% for the wealthy<br>$840K<br>How much more in net worth the average white family had in 2019 compared with the average Black family<br>1 in 4<br>Among employers repeatedly cited for wage theft, the share the federal government ultimately fined from 2005 to 2020<br>IN-DEPTH investigations<br>State tax systems contribute to inequality. These states are doubling down.<br>The long struggle over taxing the rich<br>Attacked behind the wheel<br>Ripping off workers without consequences<br>The Heist: Season 2<br>TAKE ACTION IN YOUR COMMUNITY<br>THE RECEIPTS<br>We made public a dataset showing employers the federal government investigated for wrongfully underpaying workers.<br>THE IMPACT<br>We wanted to see how discrimination shaped one city. Here’s how you can get answers about your own community.<br>NEED TO KNOW<br>What are your rights as a homeless student?<br>CONTACT US<br>Questions about our economic<br>well-being stories or coverage? Email media@publicintegrity.org.<br>VIDEO<br>(Video by Next Day Animation for the Center for Public Integrity)<br>All but a handful of states make poor residents contribute a greater share of their income to taxes than wealthy people do, making inequality worse instead of better.<br>Read more…<br>MORE ON ECONOMIC WELL-BEING<br>Tribes need tax revenue. States keep taking it.<br>State and local governments often tax economic activity on tribal land, reducing<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://publicintegrity.org/economic-well-being-mission/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://publicintegrity.org/economic-well-being-mission/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[10. Ash Center for Democratic Governance and Innovation --United States] What We Work On]]></title>
-      <link>https://ash.harvard.edu/issues/</link>
-      <description><![CDATA[What We Work On]]></description>
-      <content:encoded><![CDATA[<div><p>Civic Engagement<br>Civic Engagement<br>At the Ash Center, we’re generating new ideas and insights for the future of civic engagement — everything from voter participation to democratic deliberation.</p><br><hr><p><a href='https://ash.harvard.edu/issues/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://ash.harvard.edu/issues/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:11 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[10. Ash Center for Democratic Governance and Innovation --United States] Multiracial Democracy]]></title>
-      <link>https://ash.harvard.edu/issues/multiracialdemocracy/</link>
-      <description><![CDATA[Multiracial Democracy]]></description>
-      <content:encoded><![CDATA[<div><p>Danielle Allen<br>Danielle Allen<br>Professor of Public Policy, James Bryant Conant University Professor</p><br><hr><p><a href='https://ash.harvard.edu/issues/multiracialdemocracy/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://ash.harvard.edu/issues/multiracialdemocracy/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:12 +0800</pubDate>
+      <title><![CDATA[[6. Mathematica Policy Research (MPR) --United States] Healthcare and Life Sciences]]></title>
+      <link>https://mathematica-mpr.com/sectors/healthcare-and-life-sciences</link>
+      <description><![CDATA[Healthcare and Life Sciences]]></description>
+      <content:encoded><![CDATA[<div><p>Sectors<br>Healthcare and Life Sciences</p><br><hr><p><a href='https://mathematica-mpr.com/sectors/healthcare-and-life-sciences' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://mathematica-mpr.com/sectors/healthcare-and-life-sciences</guid>
+      <pubDate>Tue, 21 Jul 2026 14:06:41 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[2. Freedom House --United States] Accessibility]]></title>
@@ -156,7 +110,7 @@
       <description><![CDATA[Accessibility]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://freedomhouse.org/country/united-states/accessibility' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://freedomhouse.org/country/united-states/accessibility</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:11 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:41 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[2. Freedom House --United States] Invest in Freedom’s Future. Support Freedom House.]]></title>
@@ -164,7 +118,39 @@
       <description><![CDATA[Invest in Freedom’s Future. Support Freedom House.]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://freedomhouse.org/country/united-states/investing-freedoms-future' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://freedomhouse.org/country/united-states/investing-freedoms-future</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:12 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:42 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[2. Center for Water-Energy Efficiency, UC Davis – U.S.] Become an Affiliate]]></title>
+      <link>https://cwee.ucdavis.edu/affiliates/become-an-affiliate/</link>
+      <description><![CDATA[Become an Affiliate]]></description>
+      <content:encoded><![CDATA[<div><p>Become an Affiliate<br>The UC Davis Center for Water-Energy Efficiency (CWEE) invites strategically minded stakeholders and leaders to join our efforts to address the water-energy-climate nexus by advancing water management solutions.<br>Our affiliate members are integral in advancing our mission and translating research into practice. CWEE encourages affiliate members to be active participants in our research program and help us prioritize research efforts that align with pressing concerns important to their organization, industry, and beyond. Members benefit from the integrated solutions and research insights developed from their sponsorship.<br>Affiliate member benefits include access to industry experts at CWEE, updates and insights from current research, and the advancement of shared research interest into real world application. Affiliates help direct key focus areas in CWEE research initiatives that aim to advance research or policy in critical topic areas. Affiliates also receive access to the tools and resources that come out of our research and have access to our campus and external networks.<br>Affiliate Benefits<br>Industry Advice<br>Our researchers and faculty have in-depth knowledge of the water and water-energy landscape as experts in their field. Affiliate members may request one-on-one meetings to discuss current and emerging research, newly published research findings, and other insights unique to their organization. Key expert advising and research areas include:<br>-Water system energy efficiency, intensity, and load shifting<br>-Water & energy data systems, data architecture, and integration<br>-Evaluation of efficiency programs<br>-Hydraulic model calibration and use<br>-Water loss control and more<br>Advance Research Initiatives<br>Initiatives are critical topics required to advance research or policy. CWEE can perform basic research to advise the state/sector or to gain the proof of concept needed to seek greater impact through grant funding. Current research initiatives include:<br><br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://cwee.ucdavis.edu/affiliates/become-an-affiliate/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://cwee.ucdavis.edu/affiliates/become-an-affiliate/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:06:41 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[2. Center for Water-Energy Efficiency, UC Davis – U.S.] Publications]]></title>
+      <link>https://cwee.ucdavis.edu/publications/</link>
+      <description><![CDATA[Publications]]></description>
+      <content:encoded><![CDATA[<div><p>Title<br>Author<br>Type<br>Year Published<br>Description<br>Download<br>Sponsor<br>Untapped potential: leak reduction is the most cost-effective urban water management tool<br>Amanda Rupiper, Joakim Weill, Ellen Bruno, Katrina Jessoe and Frank Loge<br>Peer-reviewed Article<br>2022<br>Providing sufficient, safe, and reliable drinking water is a growing challenge as water supplies become more scarce and uncertain. Meanwhile, water utilities in the United States lose approximately 17% of their delivered water to leaks each year. Using data from over 800 utilities across four U.S. states, California, Georgia, Tennessee, and Texas, we characterize the heterogeneity in water losses across the U.S., develop a model to assess the economically efficient level of losses, and use this model to compare the net benefits of several proposed water loss regulations and modeling approaches.<br>Read Article<br>A Visual Analytics System for Water Distribution System Optimization<br>Yiran Li, Erin Musabandesu, Takanori Fujiwara, Frank J. Loge, Kwan-Liu Ma<br>Short Paper<br>2021<br>The optimization of water distribution systems (WDSs) is vital to minimize energy costs required for their operations. A principal approach taken by researchers is identifying an optimal scheme for water pump controls through examining computational simulations of WDSs. However, due to a large number of possible control combinations and the complexity of WDS simulations, it remains non-trivial to identify the best pump controls by reviewing the simulation results. To address this problem, we design a visual analytics system that helps understand relationships between simulation inputs and outputs towards better optimization. Our system incorporates interpretable machine learning as well as multiple linked visualizations to capture essential input-output relationships from complex WDS simulations. We demonstrate our system's effectiveness through a practical case study and evaluate its usability through expert reviews. Our results show that our system can less<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://cwee.ucdavis.edu/publications/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://cwee.ucdavis.edu/publications/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:06:42 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[9. Center for Public Integrity (CPI) --United States] High Courts, High Stakes]]></title>
+      <link>https://publicintegrity.org/topics/politics/high-courts-high-stakes/</link>
+      <description><![CDATA[High Courts, High Stakes]]></description>
+      <content:encoded><![CDATA[<div><p>Posted in<br>High Courts, High Stakes<br>by<br>The Center for Public Integrity<br>March 6, 2024<br>March 6, 2024<br>A Center for Public Integrity investigation that revealed an under-the-radar effort pushing state high courts rightward — with far-reaching consequences — is a finalist for a Toner Prize honoring excellence in political reporting. “High Courts, High Stakes” is one of six projects recognized in the journalism contest’s national category. Other finalists include ProPublica’s investigative reporting […]</p><br><hr><p><a href='https://publicintegrity.org/topics/politics/high-courts-high-stakes/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://publicintegrity.org/topics/politics/high-courts-high-stakes/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:06:42 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[9. Center for Public Integrity (CPI) --United States] ECONOMIC WELL-BEING]]></title>
+      <link>https://publicintegrity.org/economic-well-being-mission/</link>
+      <description><![CDATA[ECONOMIC WELL-BEING]]></description>
+      <content:encoded><![CDATA[<div><p>Uncovering economic inequality<br>The wealth gap between Black and white Americans is wider today than when civil rights legislation was passed in the 1960s, one glaring indicator of a society in which economic inequality in this country is tipping toward crisis. Public Integrity’s reporting confronts the discriminatory systems that have overlapped and compounded to redistribute wealth to the rich through the rules of work, access to credit, home ownership and entrepreneurship, state and federal tax policy and government subsidies.<br>Sign up for our newsletter<br>BY THE NUMBERS<br>18%<br>Share of income Washington state’s poorest contribute to state and local taxes, compared with 3% for the wealthy<br>$840K<br>How much more in net worth the average white family had in 2019 compared with the average Black family<br>1 in 4<br>Among employers repeatedly cited for wage theft, the share the federal government ultimately fined from 2005 to 2020<br>IN-DEPTH investigations<br>State tax systems contribute to inequality. These states are doubling down.<br>The long struggle over taxing the rich<br>Attacked behind the wheel<br>Ripping off workers without consequences<br>The Heist: Season 2<br>TAKE ACTION IN YOUR COMMUNITY<br>THE RECEIPTS<br>We made public a dataset showing employers the federal government investigated for wrongfully underpaying workers.<br>THE IMPACT<br>We wanted to see how discrimination shaped one city. Here’s how you can get answers about your own community.<br>NEED TO KNOW<br>What are your rights as a homeless student?<br>CONTACT US<br>Questions about our economic<br>well-being stories or coverage? Email media@publicintegrity.org.<br>VIDEO<br>(Video by Next Day Animation for the Center for Public Integrity)<br>All but a handful of states make poor residents contribute a greater share of their income to taxes than wealthy people do, making inequality worse instead of better.<br>Read more…<br>MORE ON ECONOMIC WELL-BEING<br>Tribes need tax revenue. States keep taking it.<br>State and local governments often tax economic activity on tribal land, reducing<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://publicintegrity.org/economic-well-being-mission/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://publicintegrity.org/economic-well-being-mission/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:06:43 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[7. Center for Food Security and the Environment – U.S.] Publications]]></title>
@@ -172,7 +158,7 @@
       <description><![CDATA[Publications]]></description>
       <content:encoded><![CDATA[<div><p>FSE Publications<br>Publications<br>Filter:<br>Filter results<br>Close<br>By Author<br>Show<br>Hide<br>By Author<br>By Title<br>Show<br>Hide<br>By Topic<br>Show<br>Hide<br>Governance<br>Toggle subcategories<br>Corruption<br>Democracy<br>Democracy promotion<br>Toggle subcategories<br>Disaster response<br>Toggle subcategories<br>2024 MIP Class<br>Courtesy Faculty<br>GKC Leadership<br>Staff<br>Teaching Team<br>Elections<br>Toggle subcategories<br>European Union<br>Health care institutions<br>Health Care Reform<br>Homeland Security<br>Human Rights<br>Information Technology<br>Intelligence<br>Institutions and Organizations<br>International Law<br>Kyoto Protocol<br>Media<br>Military<br>NATO<br>Toggle subcategories<br>Negotiation<br>Peacekeeping<br>Nuclear policy<br>Policy Analysis<br>Rule of Law<br>Toggle subcategories<br>State-building<br>World Bank<br>World Trade Organization<br>Publication Series<br>Toggle subcategories<br>AHPP Working Paper Series<br>APARC In-House Series<br>CDDRL 20th Anniversary<br>CDDRL Research in-brief<br>CDDRL Seminar Write-ups<br>GKC<br>Toggle subcategories<br>Entrepreneurship Inside Government<br>Hacking for Defense (H4D)<br>National Security Innovation Scholars<br>Technology, Innovation, and Great Power Competition<br>Israel Fellows<br>Masters in International Policy<br>Toggle subcategories<br>Admissions<br>Alumni<br>Capstone<br>Class of 2024<br>Class of 2025<br>Conference Blog<br>Graduation<br>Internship Blog<br>Meet the Class<br>Profile<br>Shorenstein APARC Policy and Working Papers<br>Social Media Lab<br>Takedown<br>Shorenstein APARC Studies with Stanford University Press<br>International Relations<br>Toggle subcategories<br>Agricultural trade<br>Borders<br>Business<br>Diplomacy<br>Foreign Aid<br>Foreign Policy<br>Globalization<br>Toggle subcategories<br>HIV/AIDS<br>Investment<br>Migration and Citizenship<br>Protectionism<br>Trade<br>Health and Medicine<br>Toggle subcategories<br>Children's health<br>Early Childhood Development<br>Health<br>Vision Care<br>Comparative effectiveness research<br>Diabetes<br>Health policy<br>Toggle subcategories<br>Hypertension<br>Hunger<br>Disease<br>Global Health<br>Health and the Environment<br>Health Care<br>Health Outcomes<br>Nutrition<br>Toggle subcategories<br>Obesity<br>Population health<br>Public Health<br>Toggle subcategories<br>Smoking<br>International Devel<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://fse.fsi.stanford.edu/publications' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://fse.fsi.stanford.edu/publications</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:22 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:43 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[7. Center for Food Security and the Environment – U.S.] Postdoctoral Fellowship]]></title>
@@ -180,7 +166,23 @@
       <description><![CDATA[Postdoctoral Fellowship]]></description>
       <content:encoded><![CDATA[<div><p>FSE Postdoctoral Fellowship<br>Postdoctoral Fellowship<br>Awarded to young scholars focused on research related to global hunger, poverty alleviation, and environmental degradation<br>About the Fellowship<br>Thank you for your interest! The application for Fall 2026 is now closed.</p><br><hr><p><a href='https://fse.fsi.stanford.edu/fse-postdoctoral-fellowship' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://fse.fsi.stanford.edu/fse-postdoctoral-fellowship</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:24 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:43 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[10. Ash Center for Democratic Governance and Innovation --United States] What We Work On]]></title>
+      <link>https://ash.harvard.edu/issues/</link>
+      <description><![CDATA[What We Work On]]></description>
+      <content:encoded><![CDATA[<div><p>Civic Engagement<br>Civic Engagement<br>At the Ash Center, we’re generating new ideas and insights for the future of civic engagement — everything from voter participation to democratic deliberation.</p><br><hr><p><a href='https://ash.harvard.edu/issues/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://ash.harvard.edu/issues/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:06:43 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[10. Ash Center for Democratic Governance and Innovation --United States] Multiracial Democracy]]></title>
+      <link>https://ash.harvard.edu/issues/multiracialdemocracy/</link>
+      <description><![CDATA[Multiracial Democracy]]></description>
+      <content:encoded><![CDATA[<div><p>Danielle Allen<br>Danielle Allen<br>Professor of Public Policy, James Bryant Conant University Professor</p><br><hr><p><a href='https://ash.harvard.edu/issues/multiracialdemocracy/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://ash.harvard.edu/issues/multiracialdemocracy/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:06:44 +0800</pubDate>
     </item>
   </channel>
 </rss>

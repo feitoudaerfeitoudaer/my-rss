@@ -1,34 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-SouthAfrica]]></title>
-    <link>https://github.io_SouthAfrica.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_SouthAfrica.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_SouthAfrica.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [SouthAfrica] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
-    <item>
-      <title><![CDATA[[Food, Agriculture and Natural Resources Policy Analysis Network (FANRPAN) --South Africa] Origin & Mandate]]></title>
-      <link>https://fanrpan.org/origin-mandate/</link>
-      <description><![CDATA[Origin & Mandate]]></description>
-      <content:encoded><![CDATA[<div><p>Background<br>The Food, Agriculture and Natural Resources Policy Analysis Network (FANRPAN) is an all-inclusive multi-stakeholder pan-African network that provides independent evidence to inform and influence policy processes at national and regional levels. FANRPAN is a multi-tiered network consisting of a regional secretariat and established national nodes, currently present in 18 African countries , and growing. FANRPAN has nodes in all Southern Africa Development Community (SADC) member states. The network’s membership includes food, agriculture and natural resources (FANR) related government departments, parliamentarians, research and farmer organizations, private sector, civil society organizations and the media.<br>Origins and Legitimacy<br>April 1994:<br>Declaration 10.3 on Regional Cooperation: The Ministers of Agriculture for Eastern and Southern Africa (ESA) met in Harare, Zimbabwe, 14-15 April 1994, to develop a strategy and plan of action for promoting agriculture in the region. They declared “<br>that a Regional Agricultural Policy Analysis and Research Network be created<br>in order to<br>reduce dependence on foreign experts as ESA countries develop comprehensive agricultural polices and food security strategies. The network will also, in collaboration with regional universities, be responsible for research and analysis leading to the coordination of agricultural polices and strategies in ESA”.<br>December 1994:<br>The then Secretary-General of COMESA, Dr. Bingu wa Mutharika, released a declaration in the<br>Official COMESA Gazette (Volume 1, Number 1, clause 23)<br>published by the order of the COMESA Council<br>1997:<br>Inaugural stakeholders meeting in Harare attended by the deans of Agriculture from Botswana, Malawi, Mozambique, Namibia, South Africa, Tanzania, Zambia, and Zimbabwe.<br>Registered on 18th March 2003<br>in Zimbabwe<br>FANRPAN Regional Secretariat accredited with diplomatic status<br>by the Government of the Republic of South Africa in March 2006<br>FANRPAN mandate expanded<br>to cover the<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://fanrpan.org/origin-mandate/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://fanrpan.org/origin-mandate/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:56 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Food, Agriculture and Natural Resources Policy Analysis Network (FANRPAN) --South Africa] Our Engagement Model]]></title>
-      <link>https://fanrpan.org/structure/</link>
-      <description><![CDATA[Our Engagement Model]]></description>
-      <content:encoded><![CDATA[<div><p>Multi-Tiered Network<br>FANRPAN delivers its strategic plan through a robust and inclusive multi-level structure designed to ensure both bottom-up and top-down policy influencing, grounded in robust evidence, and responsive to evolving national and regional priorities<br>Network Structure and Coverage<br>The FANRPAN network structure is characterised by four tiers, described briefly below<br>a) MembersFANRPAN’s supreme governance echelon is the Members, being countries represented by a National Steering Committee consisting of key stakeholders that include the Ministry of Agriculture (usually the Permanent Secretary or their nominee); farmers’ organisations, policy research institutions, civil society organisations, the media, and others. The members convene through an Annual General Meeting to endorse reports from the Board of Governors and the Regional Secretariat.<br>b) Board of Governors<br>FANRPAN’s Board of Governors is strategically structured to allow for an effective interface between state and non-state stakeholders at national and regional levels. Board representatives are drawn from the following key institutions; (i) Regional Economic Communities [SADC FANR Directorate; the Common Market for Eastern and Southern Africa (COMESA); Economic Community of West African States (ECOWAS)]; farmer organisations (World Farmers Organisation); National Governments [South Africa – hosting the Regional Secretariat; Zimbabwe – country of registration of international organisation]; Women; Youth; Private Sector [Grow Africa/Nepad Business Foundation] and Research Institutions [University of Pretoria]. This constitution of the Board allows for easy access to policy makers at national and regional levels.<br>c) Regional SecretariatThe FANRPAN Regional Secretariat is a multi-national team that coordinates activities through the network of national nodes, and is tasked with implementation of the network’s strategic plan.<br>d) National NodesA FANRPAN national node consists of a multi-stakeholder N<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://fanrpan.org/structure/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://fanrpan.org/structure/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:58 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[South African Institute of Race Relations (IRR) --South Africa] Support the IRR]]></title>
       <link>http://irr.org.za/support</link>
       <description><![CDATA[Support the IRR]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='http://irr.org.za/support' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://irr.org.za/support</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:58 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:26 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[South African Institute of Race Relations (IRR) --South Africa] More on #WhatSACanBe]]></title>
@@ -36,7 +22,23 @@
       <description><![CDATA[More on #WhatSACanBe]]></description>
       <content:encoded><![CDATA[<div><p>Karel<br>|<br>Feb 21, 2025<br>Join Team #WhatSACanBe!</p><br><hr><p><a href='http://irr.org.za/whatsacanbe' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://irr.org.za/whatsacanbe</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:00 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:28 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Food, Agriculture and Natural Resources Policy Analysis Network (FANRPAN) --South Africa] Origin & Mandate]]></title>
+      <link>https://fanrpan.org/origin-mandate/</link>
+      <description><![CDATA[Origin & Mandate]]></description>
+      <content:encoded><![CDATA[<div><p>Background<br>The Food, Agriculture and Natural Resources Policy Analysis Network (FANRPAN) is an all-inclusive multi-stakeholder pan-African network that provides independent evidence to inform and influence policy processes at national and regional levels. FANRPAN is a multi-tiered network consisting of a regional secretariat and established national nodes, currently present in 18 African countries , and growing. FANRPAN has nodes in all Southern Africa Development Community (SADC) member states. The network’s membership includes food, agriculture and natural resources (FANR) related government departments, parliamentarians, research and farmer organizations, private sector, civil society organizations and the media.<br>Origins and Legitimacy<br>April 1994:<br>Declaration 10.3 on Regional Cooperation: The Ministers of Agriculture for Eastern and Southern Africa (ESA) met in Harare, Zimbabwe, 14-15 April 1994, to develop a strategy and plan of action for promoting agriculture in the region. They declared “<br>that a Regional Agricultural Policy Analysis and Research Network be created<br>in order to<br>reduce dependence on foreign experts as ESA countries develop comprehensive agricultural polices and food security strategies. The network will also, in collaboration with regional universities, be responsible for research and analysis leading to the coordination of agricultural polices and strategies in ESA”.<br>December 1994:<br>The then Secretary-General of COMESA, Dr. Bingu wa Mutharika, released a declaration in the<br>Official COMESA Gazette (Volume 1, Number 1, clause 23)<br>published by the order of the COMESA Council<br>1997:<br>Inaugural stakeholders meeting in Harare attended by the deans of Agriculture from Botswana, Malawi, Mozambique, Namibia, South Africa, Tanzania, Zambia, and Zimbabwe.<br>Registered on 18th March 2003<br>in Zimbabwe<br>FANRPAN Regional Secretariat accredited with diplomatic status<br>by the Government of the Republic of South Africa in March 2006<br>FANRPAN mandate expanded<br>to cover the<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://fanrpan.org/origin-mandate/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://fanrpan.org/origin-mandate/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:06:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[Food, Agriculture and Natural Resources Policy Analysis Network (FANRPAN) --South Africa] Our Engagement Model]]></title>
+      <link>https://fanrpan.org/structure/</link>
+      <description><![CDATA[Our Engagement Model]]></description>
+      <content:encoded><![CDATA[<div><p>Multi-Tiered Network<br>FANRPAN delivers its strategic plan through a robust and inclusive multi-level structure designed to ensure both bottom-up and top-down policy influencing, grounded in robust evidence, and responsive to evolving national and regional priorities<br>Network Structure and Coverage<br>The FANRPAN network structure is characterised by four tiers, described briefly below<br>a) MembersFANRPAN’s supreme governance echelon is the Members, being countries represented by a National Steering Committee consisting of key stakeholders that include the Ministry of Agriculture (usually the Permanent Secretary or their nominee); farmers’ organisations, policy research institutions, civil society organisations, the media, and others. The members convene through an Annual General Meeting to endorse reports from the Board of Governors and the Regional Secretariat.<br>b) Board of Governors<br>FANRPAN’s Board of Governors is strategically structured to allow for an effective interface between state and non-state stakeholders at national and regional levels. Board representatives are drawn from the following key institutions; (i) Regional Economic Communities [SADC FANR Directorate; the Common Market for Eastern and Southern Africa (COMESA); Economic Community of West African States (ECOWAS)]; farmer organisations (World Farmers Organisation); National Governments [South Africa – hosting the Regional Secretariat; Zimbabwe – country of registration of international organisation]; Women; Youth; Private Sector [Grow Africa/Nepad Business Foundation] and Research Institutions [University of Pretoria]. This constitution of the Board allows for easy access to policy makers at national and regional levels.<br>c) Regional SecretariatThe FANRPAN Regional Secretariat is a multi-national team that coordinates activities through the network of national nodes, and is tasked with implementation of the network’s strategic plan.<br>d) National NodesA FANRPAN national node consists of a multi-stakeholder N<br><br>...(详细报告正文较长，已自动截断，请点击下方链接阅读完整版)...</p><br><hr><p><a href='https://fanrpan.org/structure/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://fanrpan.org/structure/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:06:28 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Centre for Development and Enterprise (CDE) --South Africa] Subscribe to CDE]]></title>
@@ -44,7 +46,7 @@
       <description><![CDATA[Subscribe to CDE]]></description>
       <content:encoded><![CDATA[<div><p>Search for:</p><br><hr><p><a href='http://cde.org.za/subscribe' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://cde.org.za/subscribe</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:03 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:39 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,18 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:content="http://purl.org">
+<rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Kenya]]></title>
-    <link>https://github.io_Kenya.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/rss_Kenya.xml</link>
+    <atom:link href="http://appspot.com" rel="hub" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Kenya.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Kenya] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[African Centre for Technology Studies --Kenya] Governing Council]]></title>
       <link>https://acts-net.org/governing-council/</link>
       <description><![CDATA[Governing Council]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://acts-net.org/governing-council/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://acts-net.org/governing-council/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:00 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:16 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[African Centre for Technology Studies --Kenya] Impact Stories]]></title>
@@ -20,7 +22,7 @@
       <description><![CDATA[Impact Stories]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://acts-net.org/stories/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://acts-net.org/stories/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:01 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:05:17 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Institute of Policy Analysis and Research (IPAR) --Kenya] Resource Centre]]></title>
@@ -28,7 +30,7 @@
       <description><![CDATA[Resource Centre]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='http://iparkenya.blogspot.com/p/latest-publications.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://iparkenya.blogspot.com/p/latest-publications.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:01 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:30 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Institute of Policy Analysis and Research (IPAR) --Kenya] Donors/Partners]]></title>
@@ -36,7 +38,7 @@
       <description><![CDATA[Donors/Partners]]></description>
       <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='http://iparkenya.blogspot.com/p/donors-partners.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://iparkenya.blogspot.com/p/donors-partners.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:02 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:30 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[African Technology Policy Studies Network (ATPS) --Kenya] EXECUTIVE DIRECTOR STATEMENT]]></title>
@@ -44,7 +46,7 @@
       <description><![CDATA[EXECUTIVE DIRECTOR STATEMENT]]></description>
       <content:encoded><![CDATA[<div><p>About ATPS<br>The ATPS is a trans-disciplinary network of researchers, policymakers, private sector actors and the civil society that promote the generation, dissemination, use and mastery of STI for African development, environmental sustainability and global inclusion.<br>Who are we?<br>MISSION & VALUES<br>EXECUTIVE DIRECTOR STATEMENT<br>strategic plan 2023 - 2028<br>our approach<br>careers<br>Our partners<br>GOVERNANCE AND LEADERSHIP<br>THE ATPS BOARD<br>THE RESPONSIBLE STI ADVISORY COMMITTEE<br>THE SECRETARIAT<br>ATPS NATIONAL CHAPTERS REGIONAL STEERING COMMITTEE<br>NATIONAL CO-ORDINATORS<br>ATPS MEMBERSHIP<br>POLICY & PROCEDURES<br>POLICY & PROCEDURES</p><br><hr><p><a href='https://atpsnet.org/executive-directors-statement/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://atpsnet.org/executive-directors-statement/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:33:59 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:28 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[African Technology Policy Studies Network (ATPS) --Kenya] strategic plan 2023 - 2028]]></title>
@@ -52,7 +54,7 @@
       <description><![CDATA[strategic plan 2023 - 2028]]></description>
       <content:encoded><![CDATA[<div><p>About ATPS<br>The ATPS is a trans-disciplinary network of researchers, policymakers, private sector actors and the civil society that promote the generation, dissemination, use and mastery of STI for African development, environmental sustainability and global inclusion.<br>Who are we?<br>MISSION & VALUES<br>EXECUTIVE DIRECTOR STATEMENT<br>strategic plan 2023 - 2028<br>our approach<br>careers<br>Our partners<br>GOVERNANCE AND LEADERSHIP<br>THE ATPS BOARD<br>THE RESPONSIBLE STI ADVISORY COMMITTEE<br>THE SECRETARIAT<br>ATPS NATIONAL CHAPTERS REGIONAL STEERING COMMITTEE<br>NATIONAL CO-ORDINATORS<br>ATPS MEMBERSHIP<br>POLICY & PROCEDURES<br>POLICY & PROCEDURES</p><br><hr><p><a href='https://atpsnet.org/atps-phase-ix-strategic-plan-2023-2028/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://atpsnet.org/atps-phase-ix-strategic-plan-2023-2028/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:34:03 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:06:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
