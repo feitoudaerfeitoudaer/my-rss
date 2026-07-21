@@ -7,8 +7,6 @@ import ssl
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import html
-import time
-from bs4 import XMLParsedAsHTMLWarning
 import warnings
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
@@ -20,27 +18,27 @@ DEPLOYED_BASE_URL = "https://feitoudaerfeitoudaer.github.io"
 COUNTRY_COLUMN = '描述'
 MAX_ARTICLE_PER_SITE = 3
 SUMMARY_MAX_CHAR = 1500
-# 【调优并发，防止大规模超时阻塞】
-THREAD_POOL_STAGE1 = 16
-THREAD_POOL_STAGE2 = 24
+
+# ========= 重要：云端GitHub Action专用并发参数 =========
+THREAD_POOL_STAGE1 = 8
+THREAD_POOL_STAGE2 = 12
 REQUEST_TIMEOUT = 8
 PROXY_TEST_TIMEOUT = 5
+
 USER_AGENT = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
 
-# RSS 标准命名空间（新增media支持feedly缩略图）
+# RSS标准命名空间（Feedly图片支持 media）
 NS_CONTENT = "http://purl.org/rss/1.0/modules/content/"
 NS_ATOM = "http://www.w3.org/2005/Atom"
 NS_MEDIA = "http://search.yahoo.com/mrss/"
-
-# WebSub Hub
 WEBSUB_HUB = "https://pubsubhubbub.appspot.com/"
 
 # 关闭警告
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
-warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
+warnings.filterwarnings("ignore")
 
 
 class CustomSSLAdapter(requests.adapters.HTTPAdapter):
@@ -55,13 +53,8 @@ class CustomSSLAdapter(requests.adapters.HTTPAdapter):
         kwargs['ssl_context'] = ctx
         return super().init_poolmanager(*args, **kwargs)
 
-    def build_response(self, req, resp):
-        response = super().build_response(req, resp)
-        return response
-
 
 def create_http_session() -> requests.Session:
-    """单线程独立Session，增加重试策略，解决线程安全问题"""
     session = requests.Session()
     retry_strategy = Retry(
         total=2,
@@ -75,7 +68,7 @@ def create_http_session() -> requests.Session:
 
 
 def detect_proxy() -> Optional[Dict[str, str]]:
-    """自动检测本地代理是否可用"""
+    """仅本地电脑检测6917代理，GitHub云端自动跳过"""
     proxies = {'http': 'http://127.0.0.1:6917', 'https': 'http://127.0.0.1:6917'}
     try:
         resp = requests.get(
@@ -112,13 +105,10 @@ def normalize_url(base: str, href: str) -> str:
 
 
 def parse_rfc1123_datetime(dt: datetime.datetime) -> str:
-    """输出RSS标准时间格式 %a, %d %b %Y %H:%M:%S +0800"""
     return dt.strftime("%a, %d %b %Y %H:%M:%S +0800")
 
 
 def extract_article_publish_date(soup: BeautifulSoup) -> Optional[datetime.datetime]:
-    """抓取文章原始发布时间，实现Feedly按日期分组（核心适配截图功能）"""
-    # 优先级1 meta标签
     meta_pub = soup.find("meta", property="article:published_time")
     if meta_pub and meta_pub.get("content"):
         try:
@@ -127,7 +117,6 @@ def extract_article_publish_date(soup: BeautifulSoup) -> Optional[datetime.datet
             return dt
         except Exception:
             pass
-    # 优先级2 time标签
     time_tag = soup.find("time", attrs={"datetime": True})
     if time_tag:
         try:
@@ -140,7 +129,6 @@ def extract_article_publish_date(soup: BeautifulSoup) -> Optional[datetime.datet
 
 
 def fetch_article_detail(article_url: str, headers: dict, session: requests.Session, proxies: Optional[dict]) -> Tuple[str, str, str, Optional[datetime.datetime]]:
-    """返回：封面图、正文、作者、原始发布时间"""
     author_text = "智库研究员"
     publish_dt = None
     try:
@@ -154,16 +142,13 @@ def fetch_article_detail(article_url: str, headers: dict, session: requests.Sess
         if res.status_code != 200:
             return "", "", author_text, publish_dt
         res.encoding = res.apparent_encoding
-        soup = BeautifulSoup(res.text, 'lxml') # 使用lxml提速
+        soup = BeautifulSoup(res.text, 'lxml')
 
         publish_dt = extract_article_publish_date(soup)
-
-        # 尝试抓取作者
         meta_author = soup.find("meta", property="article:author") or soup.find("meta", name="author")
         if meta_author and meta_author.get("content"):
             author_text = meta_author["content"].strip()
 
-        # 提取封面图片
         img_url = ""
         meta_img = soup.find('meta', property='og:image') or soup.find('meta', name='twitter:image')
         if meta_img and meta_img.get("content"):
@@ -173,12 +158,10 @@ def fetch_article_detail(article_url: str, headers: dict, session: requests.Sess
             if img_tag and img_tag.get("src"):
                 img_url = normalize_url(article_url, img_tag["src"])
 
-        # 清理无关DOM
         for selector in ['nav', 'footer', 'script', 'style', 'header', 'noscript', 'aside']:
             for tag in soup.find_all(selector):
                 tag.decompose()
 
-        # 定位正文容器
         article_body = (
             soup.find('article')
             or soup.find('main')
@@ -263,24 +246,21 @@ def fetch_links_from_homepage(row: pd.Series, headers: dict, session: requests.S
     return target_tasks
 
 
-def process_single_article_task(task: dict) -> Optional[Tuple[str, dict]]:
-    """每个任务内部独立创建session，规避线程安全问题"""
+def process_single_article_task(task: dict, global_proxies) -> Optional[Tuple[str, dict]]:
     session = create_http_session()
-    proxies = detect_proxy()
     href = task["href"]
     headers = task["headers"]
     link_text = task["link_text"]
     site_name = task["site_name"]
 
-    img_url, full_detail_text, author_name, article_datetime = fetch_article_detail(href, headers, session, proxies)
+    img_url, full_detail_text, author_name, article_datetime = fetch_article_detail(href, headers, session, global_proxies)
     session.close()
 
     if not full_detail_text:
         return None
 
-    # ========== 【文案严格对齐Feedly截图样式】 ==========
+    # 文案严格对齐Feedly截图样式
     list_description = f"作者：{author_name}。这篇文章最初发表在{site_name}官方网站上。"
-
     summary_text = full_detail_text[:SUMMARY_MAX_CHAR]
     if len(full_detail_text) > SUMMARY_MAX_CHAR:
         summary_text += "\n\n...(详细内容较长，已自动折叠)..."
@@ -300,7 +280,6 @@ def process_single_article_task(task: dict) -> Optional[Tuple[str, dict]]:
     desc_clean = clean_xml_string(list_description)
     content_clean = clean_xml_string(html_content)
 
-    # 使用文章原始时间，无法获取才使用当前时间
     if article_datetime:
         pub_date_str = parse_rfc1123_datetime(article_datetime)
     else:
@@ -371,10 +350,8 @@ def build_rss_xml(country: str, items: List[dict], feed_base: str) -> Tuple[str,
         ET.SubElement(item_node, "category").text = item["site_name"]
         ET.SubElement(item_node, "guid", {"isPermaLink": "true"}).text = item["link"]
         ET.SubElement(item_node, "pubDate").text = item["pub_date"]
-        # Feedly优先识别media图片
         if item.get("image_url") and item["image_url"]:
             ET.SubElement(item_node, f"{{{NS_MEDIA}}}content", {"url": item["image_url"], "medium": "image"})
-        # 作者标签
         ET.SubElement(item_node, "author").text = f"{item['author']}"
 
     raw_bytes = ET.tostring(rss, encoding="utf-8", method="xml")
@@ -406,7 +383,6 @@ def main():
 
     print("\n🚀 [第一阶段] 提取智库主页文章链接...")
     all_tasks: List[dict] = []
-    # 阶段1 单独session
     stage1_session = create_http_session()
     with ThreadPoolExecutor(max_workers=THREAD_POOL_STAGE1) as executor:
         futures_map = {
@@ -430,7 +406,7 @@ def main():
     fail_count = 0
     with ThreadPoolExecutor(max_workers=THREAD_POOL_STAGE2) as executor:
         futures_map = {
-            executor.submit(process_single_article_task, task): task
+            executor.submit(process_single_article_task, task, global_proxies): task
             for task in all_tasks
         }
         for fut in as_completed(futures_map):
@@ -459,7 +435,6 @@ def main():
         except Exception as e:
             print(f"❌ 文件写入失败 {fname}: {str(e)}")
 
-    # WebSub推送
     push_session = create_http_session()
     print("\n📡 执行WebSub主动推送通知...")
     for fu in feed_url_list:
