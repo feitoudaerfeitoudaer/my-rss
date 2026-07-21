@@ -19,15 +19,8 @@ DEPLOYED_BASE_URL = "https://feitoudaerfeitoudaer.github.io"
 COUNTRY_COLUMN = '描述'
 MAX_ARTICLE_PER_SITE = 3
 SUMMARY_MAX_CHAR = 1500
-
-# ============【重要！环境切换】============
-# GitHub Actions云端运行 → 启用下面两行
-THREAD_POOL_STAGE1 = 6
-THREAD_POOL_STAGE2 = 8
-# 本地电脑挂代理运行 → 注释上面，启用下面两行
-# THREAD_POOL_STAGE1 = 30
-# THREAD_POOL_STAGE2 = 40
-
+THREAD_POOL_STAGE1 = 30
+THREAD_POOL_STAGE2 = 40
 REQUEST_TIMEOUT = 10
 PROXY_TEST_TIMEOUT = 5
 USER_AGENT = (
@@ -35,20 +28,16 @@ USER_AGENT = (
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
 
-# RSS 标准命名空间
+# RSS 标准命名空间（修复原代码残缺URI问题）
 NS_CONTENT = "http://purl.org/rss/1.0/modules/content/"
 NS_ATOM = "http://www.w3.org/2005/Atom"
+
+# WebSub Hub 说明：原 http://appspot.com 无效，替换公共可用hub
 WEBSUB_HUB = "https://pubsubhubbub.appspot.com/"
 
 # 关闭警告
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 warnings.filterwarnings("ignore", category=XMLParsedAsHTMLWarning)
-
-# 全局黑名单路径，过滤栏目、专题页面
-GLOBAL_BAN_PATH = [
-    "/topics/", "/programs/", "/topic/", "/divisions/",
-    "/events/", "/video/", "/videos/", "/podcast/", "/podcasts/"
-]
 
 
 class CustomSSLAdapter(requests.adapters.HTTPAdapter):
@@ -93,7 +82,9 @@ def clean_xml_string(v: Optional[str]) -> str:
     if not v:
         return ""
     val = str(v)
+    # 移除xml不允许的控制字符
     val = re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x84\x86-\x9F]', '', val)
+    # 转义CDATA结束标记防止破坏文档
     val = val.replace("]]>", "]]&gt;")
     return val
 
@@ -172,7 +163,7 @@ def fetch_article_detail(article_url: str, headers: dict, session: requests.Sess
 
 
 def fetch_links_from_homepage(row: pd.Series, headers: dict, session: requests.Session, proxies: Optional[dict]) -> List[dict]:
-    """访问智库首页，抓取文章链接任务列表（新增栏目URL过滤，解决兰德topics栏目问题）"""
+    """访问智库首页，抓取文章链接任务列表"""
     site_name = row['网站名称']
     base_url = row['网站链接']
     country = row[COUNTRY_COLUMN]
@@ -202,25 +193,11 @@ def fetch_links_from_homepage(row: pd.Series, headers: dict, session: requests.S
             href_stripped = full_href.rstrip("/")
             base_stripped = base_url.rstrip("/")
 
-            # 基础过滤：外部链接、首页
+            # 过滤外部链接、首页、垃圾页面
             if domain_keyword not in full_href or href_stripped == base_stripped:
                 continue
             if any(k in full_href.lower() for k in junk_keywords):
                 continue
-
-            # ==========新增：过滤栏目、专题页面 ==========
-            skip_ban = False
-            url_low = full_href.lower()
-            for ban_str in GLOBAL_BAN_PATH:
-                if ban_str in url_low:
-                    skip_ban = True
-                    break
-            # 兰德RAND专属规则：只保留/pubs/正式报告
-            if "rand.org" in url_low and "/pubs/" not in full_href:
-                skip_ban = True
-            if skip_ban:
-                continue
-            # =======================================
 
             link_text = link.get_text(strip=True)
             if len(link_text) < 20 or full_href in seen_urls:
