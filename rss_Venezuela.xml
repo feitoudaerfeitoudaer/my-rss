@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>智库全文订阅-Venezuela</title><link>https://github.io_Venezuela.xml</link><description>自动抓取的 [Venezuela] 智库文章全文</description><language>zh-cn</language><lastBuildDate>Tue, 21 Jul 2026 12:31:18 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Centro de Divulgacion Conocimiento Economico para la Libertad (CEDICE) --Venezuela] 403 - Forbidden</title><link>http://cedice.org.ve</link><description>&lt;body&gt;
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/"><channel><title>智库全文订阅-Venezuela</title><link>https://github.io_Venezuela.xml</link><description>自动抓取的 [Venezuela] 智库文章全文</description><language>zh-cn</language><lastBuildDate>Tue, 21 Jul 2026 12:46:38 GMT</lastBuildDate><generator>rfeed v1.1.1</generator><docs>https://github.com/svpino/rfeed/blob/master/README.md</docs><item><title>[Centro de Divulgacion Conocimiento Economico para la Libertad (CEDICE) --Venezuela] 403 - Forbidden</title><link>http://cedice.org.ve</link><description>&lt;![CDATA[ &lt;body&gt;
 &lt;div id="container"&gt;
 &lt;section class="error content background-wrap cloud-blue"&gt;
 &lt;div class="fit-wide"&gt;
@@ -49,7 +49,7 @@
 &lt;/div&gt;
 &lt;/section&gt;
 &lt;/div&gt;
-&lt;/body&gt;</description><pubDate>Tue, 21 Jul 2026 12:29:55 GMT</pubDate><guid isPermaLink="true">http://cedice.org.ve</guid></item><item><title>[Centro para la Divulgación del Conocimiento Económico (CEDICE Libertad) --Venezuela] 403 - Forbidden</title><link>http://www.cedice.org.ve/</link><description>&lt;body&gt;
+&lt;/body&gt; ]]&gt;</description><pubDate>Tue, 21 Jul 2026 12:45:24 GMT</pubDate><guid isPermaLink="true">http://cedice.org.ve</guid></item><item><title>[Centro para la Divulgación del Conocimiento Económico (CEDICE Libertad) --Venezuela] 403 - Forbidden</title><link>http://www.cedice.org.ve/</link><description>&lt;![CDATA[ &lt;body&gt;
 &lt;div id="container"&gt;
 &lt;section class="error content background-wrap cloud-blue"&gt;
 &lt;div class="fit-wide"&gt;
@@ -99,7 +99,7 @@
 &lt;/div&gt;
 &lt;/section&gt;
 &lt;/div&gt;
-&lt;/body&gt;</description><pubDate>Tue, 21 Jul 2026 12:30:17 GMT</pubDate><guid isPermaLink="true">http://www.cedice.org.ve/</guid></item><item><title>[Consejo Venezolano de Relaciones Internacionales --Venezuela] </title><link>http://covri.com.ve/</link><description>&lt;body class="home page-template page-template-tpl-home page-template-tpl-home-php page page-id-22 group-blog"&gt;
+&lt;/body&gt; ]]&gt;</description><pubDate>Tue, 21 Jul 2026 12:45:42 GMT</pubDate><guid isPermaLink="true">http://www.cedice.org.ve/</guid></item><item><title>[Consejo Venezolano de Relaciones Internacionales --Venezuela] </title><link>http://covri.com.ve/</link><description>&lt;![CDATA[ &lt;body class="home page-template page-template-tpl-home page-template-tpl-home-php page page-id-22 group-blog"&gt;
 &lt;div class="hfeed site" id="page"&gt;
 &lt;a class="skip-link screen-reader-text" href="#content"&gt;Skip to content&lt;/a&gt;
 &lt;header class="site-header header-logo-only" id="masthead" role="banner"&gt;
@@ -683,7 +683,7 @@ var WPGroHo = {"my_hash":""};
 	_stq.push([ 'view', {v:'ext',j:'1:3.9.10',blog:'108423765',post:'22',tz:'0',srv:'covri.com.ve'} ]);
 	_stq.push([ 'clickTrackerInit', '108423765', '22' ]);
 &lt;/script&gt;
-&lt;/body&gt;</description><pubDate>Tue, 21 Jul 2026 12:30:20 GMT</pubDate><guid isPermaLink="true">http://covri.com.ve/</guid></item><item><title>[Instituto de Estudios Parlamentarios Fermín Toro --Venezuela] RTP Slot: RTP Live Slot Online | Bocoran RTP Slot Gacor Hari Ini Pragmatic Play</title><link>http://www.fermintoro.net/portal/</link><description>&lt;body data-spm="pdp_revamp" style="overflow-y: scroll"&gt;
+&lt;/body&gt; ]]&gt;</description><pubDate>Tue, 21 Jul 2026 12:45:45 GMT</pubDate><guid isPermaLink="true">http://covri.com.ve/</guid></item><item><title>[Instituto de Estudios Parlamentarios Fermín Toro --Venezuela] RTP Slot: RTP Live Slot Online | Bocoran RTP Slot Gacor Hari Ini Pragmatic Play</title><link>http://www.fermintoro.net/portal/</link><description>&lt;![CDATA[ &lt;body data-spm="pdp_revamp" style="overflow-y: scroll"&gt;
 &lt;script&gt;window.__lzd__svg__cssinject__ = true;&lt;/script&gt;
 &lt;style&gt;
     .svgfont {
@@ -4323,4 +4323,4 @@ var WPGroHo = {"my_hash":""};
     }
   &lt;/script&gt;
 &lt;script crossorigin="anonymous" data-cf-beacon='{"version":"2024.11.0","token":"adb93891580d4abd84cebf102e206f99","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' defer="" integrity="sha512-ZE9pZaUXND66v380QUtch/5sE9tPFh2zg45pR2PB0CVkCtOREv2AJKkSidISWkysEuQ0EH8faUU5du78bx87UQ==" src="https://static.cloudflareinsights.com/beacon.min.js/v4513226cdae34746b4dedf0b4dfa099e1781791509496"&gt;&lt;/script&gt;
-&lt;/body&gt;</description><pubDate>Tue, 21 Jul 2026 12:30:22 GMT</pubDate><guid isPermaLink="true">http://www.fermintoro.net/portal/</guid></item></channel></rss>
+&lt;/body&gt; ]]&gt;</description><pubDate>Tue, 21 Jul 2026 12:45:46 GMT</pubDate><guid isPermaLink="true">http://www.fermintoro.net/portal/</guid></item></channel></rss>
