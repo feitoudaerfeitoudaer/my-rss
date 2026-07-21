@@ -1,108 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title><![CDATA[智库全文订阅-Spain]]></title>
+    <title><![CDATA[智库深度全文订阅-Spain]]></title>
     <link>https://github.io_Spain.xml</link>
-    <description><![CDATA[自动抓取的 [Spain] 智库文章全文摘要（全量无损版）]]></description>
+    <description><![CDATA[自动透传的 [Spain] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
     <item>
-      <title><![CDATA[[Elcano Royal Institute --Spain] 403 Forbidden]]></title>
-      <link>http://www.realinstitutoelcano.org/</link>
-      <description><![CDATA[403 Forbidden...]]></description>
-      <content:encoded><![CDATA[<div><p>403 Forbidden</p><br><hr><p><a href='http://www.realinstitutoelcano.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.realinstitutoelcano.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:24 +0800</pubDate>
+      <title><![CDATA[[Instituto Juan de Mariana --Spain] Acerca del Juan de Mariana]]></title>
+      <link>https://juandemariana.org/acerca/</link>
+      <description><![CDATA[Acerca del Juan de Mariana]]></description>
+      <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://juandemariana.org/acerca/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://juandemariana.org/acerca/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:33:27 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Fundacion Alternativas --Spain] 403 - Forbidden]]></title>
-      <link>http://www.fundacionalternativas.org/</link>
-      <description><![CDATA[bg_error_lines
-circle_dots
-403 - Forbidden
-Access to this page is forbidden.
-clouds_shape...]]></description>
-      <content:encoded><![CDATA[<div><p>bg_error_lines<br>circle_dots<br>403 - Forbidden<br>Access to this page is forbidden.<br>clouds_shape</p><br><hr><p><a href='http://www.fundacionalternativas.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.fundacionalternativas.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:28 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Fundación para el Análisis y los Estudios Sociales (FAES) --Spain] Not Found]]></title>
-      <link>http://www.fundaes.es/en/</link>
-      <description><![CDATA[Not Found
-The requested URL was not found on this server.
-Apache Server at www.fundaes.es Port 80...]]></description>
-      <content:encoded><![CDATA[<div><p>Not Found<br>The requested URL was not found on this server.<br>Apache Server at www.fundaes.es Port 80</p><br><hr><p><a href='http://www.fundaes.es/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.fundaes.es/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:29 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Elcano Royal Institute --Spain] 403 Forbidden]]></title>
-      <link>http://www.realinstitutoelcano.org/wps/portal/rielcano_en/</link>
-      <description><![CDATA[403 Forbidden...]]></description>
-      <content:encoded><![CDATA[<div><p>403 Forbidden</p><br><hr><p><a href='http://www.realinstitutoelcano.org/wps/portal/rielcano_en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.realinstitutoelcano.org/wps/portal/rielcano_en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:42 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Institut Europeu de la Mediterrania (IEmed) --Spain] MedThink 5+5 Thematic Seminar]]></title>
-      <link>http://www.iemed.org/</link>
-      <description><![CDATA[MedThinkSeminar2026
-MedThink 5+5 Thematic Seminar
-Transport in the Western Mediterranean Facing the Climate Crisis (registration is now open)
-MedThinkSeminar2026
-MedCat Days 2026:  implementar el Pact...]]></description>
-      <content:encoded><![CDATA[<div><p>MedThinkSeminar2026<br>MedThink 5+5 Thematic Seminar<br>Transport in the Western Mediterranean Facing the Climate Crisis (registration is now open)<br>MedThinkSeminar2026<br>MedCat Days 2026:  implementar el Pacto por el Mediterráneo<br>La cita mediterránea anual del Gobierno catalán y el IEMed se ha celebrado a principios de julio<br>AC EuroMeSCo 2026<br>EuroMeSCo Annual Conference 2026<br>La principal red de think tanks en política y seguridad del Mediterráneo se reúne en Chipre entre el 4 y 6 de junio<br>QM38<br>Nace QM<br>La revista quiere esbozar los fundamentos de un Mediterráneo compartido y con visión de futuro<br>EUproject_PactMed<br>Euro-Mediterranean Economic & Business Forum 2025<br>EUproject_PactMed<br>El IEMed y EuroMeSCo han contribuido al nuevo Pacto por el Mediterráneo<br>AC EuroMeSCo 2026<br>EuroMeSCo Annual Conference 2026<br>La principal xarxa de think tanks en política i seguretat a la Mediterrània es reuneix a Xipre entre el 4 i 6 de juny<br>MedThinkSeminar2026<br>MedThink 5+5 Thematic Seminar<br>Transport in the Western Mediterranean Facing the Climate Crisis (registration is now open)<br>MedThinkSeminar2026<br>MedCat Days 2026:  implementar el Pacte per la Mediterrània<br>La cita mediterrània anual del Govern català i l'IEMed  s'ha celebrat a principis de juliol<br>QM38<br>Neix QM<br>La revista vol definir els fonaments d’una Mediterrània compartida i orientada cap al futur<br>EUproject_PactMed<br>Euro-Mediterranean Economic & Business Forum 2025<br>EUproject_PactMed<br>La contribució de l'IEMed i EuroMeSCo al nou Pacte per la Mediterrània<br>Med<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.iemed.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.iemed.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Institución Futuro --Spain] En 2009 dejamos de pagar impuestos el 9 de abril]]></title>
-      <link>http://www.ifuturo.org/en</link>
-      <description><![CDATA[En 2009 dejamos de pagar impuestos el 9 de abril
-Sep 28, 2009
-|
-Apariciones en medios
-Nueva Gestión, 28 de septiembre de 2009
-Día del Contribuyente
-En un momento en el que el debate sobre los impuesto...]]></description>
-      <content:encoded><![CDATA[<div><p>En 2009 dejamos de pagar impuestos el 9 de abril<br>Sep 28, 2009<br>|<br>Apariciones en medios<br>Nueva Gestión, 28 de septiembre de 2009<br>Día del Contribuyente<br>En un momento en el que el debate sobre los impuestos está en boca de todos, Institución Futuro ha sido el único think tank español invitado por el Congreso Internacional European Resource Bank Meeting (ERB) para hablar sobre el Día del Contribuyente, una iniciativa que pretende concienciar a la sociedad civil de la carga impositiva que soporta a través de su página www.diadelcontribuyente.org.<br>En el congreso, participaron dos miembros del think tank navarro, Cristina Berechet, responsable de investigación, y Ana Lorenzo, responsable de campaña. Así, el programa ¿cómo comunicar en tiempos de crisis? del ERB acogió la ponencia acerca de la campaña de marketing del Día del Contribuyente del think tank navarro, cuya exposición fue una de las que más interés despertó entre los asistentes por la innovación de la investigación y su campaña de marketing, con encierro de contribuyentes incluido.<br>Además de Institución Futuro, intervinieron en el congreso Václav Klaus, presidente de la República Checa, Leonard Leggio, vicepresidente ejecutivo de Atlas Economic Research, Michael Jäger, secretario general de Taxpayers Association of Europe, Fred Smith, fundador y presidente de Competitive Enterprise Institute, y Dan Mitchel, uno de los economistas más prestigiosos del CATo Instituto y columnista de Wall Street Journal, entre otras.<br>Acceso al <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.ifuturo.org/en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.ifuturo.org/en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:49 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Instituto Juan de Mariana --Spain] El precio de sostener el castrismo]]></title>
-      <link>https://www.juandemariana.org/</link>
-      <description><![CDATA[España tiene solución
-En una época donde la incertidumbre, polarización y cambios tecnológicos son el pan de cada día, muchos vemos con desconcierto cómo grandes potencias y países impulsores de ideal...]]></description>
-      <content:encoded><![CDATA[<div><p>España tiene solución<br>En una época donde la incertidumbre, polarización y cambios tecnológicos son el pan de cada día, muchos vemos con desconcierto cómo grandes potencias y países impulsores de ideales vertebradores de...</p><br><hr><p><a href='https://www.juandemariana.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://www.juandemariana.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:50 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Fundación de Estudios de Economía Aplicada --Spain] Fundación de Estudios de Economía Aplicada]]></title>
-      <link>http://www.fedea.net/</link>
-      <description><![CDATA[Fundación de Estudios de Economía Aplicada
-instituciones envejecimiento
-Instituciones, Envejecimiento y Equidad Intergeneracional
-Fedea Policy Paper de J. Ignacio Conde-Ruiz
-Fedea-CGE Jornada Inmigrac...]]></description>
-      <content:encoded><![CDATA[<div><p>Fundación de Estudios de Economía Aplicada<br>instituciones envejecimiento<br>Instituciones, Envejecimiento y Equidad Intergeneracional<br>Fedea Policy Paper de J. Ignacio Conde-Ruiz<br>Fedea-CGE Jornada Inmigracion<br>El CGE y Fedea celebran una nueva sesión del ciclo Cuestiones Estructurales de la Economía Española, dedicada al impacto migratorio<br>Nota de Prensa CGE - Fedea<br>Fedea-CGE Jornada Inmigracion<br>El impacto migratorio a debate<br>🔴 DIRECTOI: Encuentros Fedea-CGE - 2/7/26 - 10:30h.<br>blur_circular<br>Fedea Junior Research Fellow 2026 - 2027<br>- ¡convocatoria abierta!<br>Documentos Fedea<br>Buscar<br>Atención a la dependencia en Cataluña: retos y propuestas<br>El sistema de dependencia en Cataluña, desplegado bajo la Ley 39/2006, ha universalizado el acceso a los cuidados, pero arrastra un desequilibrio estructural: infrafinanciación, lentitud administrativa, fragmentación entre el ámbito [...]<br>fpp2026-04<br>nota de prensa<br>20/07/2026<br>bit.ly/4gJU3VX<br>Jiménez-Martín, Sergi<br>et al.<br>Instituciones, envejecimiento y equidad intergeneracional<br>España, como otros países desarrollados, afronta un desafío intergeneracional sin precedentes: el agotamiento del dividendo demográfico, un sistema político estructuralmente sesgado hacia las generaciones mayores y un Estado del [...]<br>fpp2026-03<br>nota de prensa<br>13/07/2026<br>bit.ly/4yj3LFa<br>Conde-Ruiz, J. Ignacio<br>Soledad y sobreutilización de recursos sanitarios: Evidencia basada en Europa<br>La relación entre la soledad y el aumento de las visitas al médico es estadísticamente significa<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.fedea.net/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.fedea.net/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:51 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[8. Barcelona Institute for Global Health (ISGlobal) --Spain] Translation and Societal Impact]]></title>
-      <link>https://www.isglobal.org/en</link>
-      <description><![CDATA[Adelaida Sarukhan
-,
-Impact coordinator / Scientific writer
-BLOG
-Unveiling the Viral Dark Matter
-21.07.2026...]]></description>
-      <content:encoded><![CDATA[<div><p>Adelaida Sarukhan<br>,<br>Impact coordinator / Scientific writer<br>BLOG<br>Unveiling the Viral Dark Matter<br>21.07.2026</p><br><hr><p><a href='https://www.isglobal.org/en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://www.isglobal.org/en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:21:17 +0800</pubDate>
+      <title><![CDATA[[Instituto Juan de Mariana --Spain] Investigación]]></title>
+      <link>https://juandemariana.org/investigacion/</link>
+      <description><![CDATA[Investigación]]></description>
+      <content:encoded><![CDATA[<div><p>El precio de sostener el castrismo<br>España ha ‘rescatado’ a la sanguinaria dictadura cubana con casi 5.000 millones de euros de ayuda financiera Un nuevo informe del Instituto Juan de Mariana, titulado “El coste de sostener el castrismo”, cuantifica en cerca de 5.000 millones de euros la ayuda financiera prestada por el gobierno español a la tiranía cubana. Estas medidas de alivio se están intensificando en los últimos años, bajo mandato de Pedro Sánchez, contribuyendo a<br>Ver más »</p><br><hr><p><a href='https://juandemariana.org/investigacion/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://juandemariana.org/investigacion/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:33:27 +0800</pubDate>
     </item>
   </channel>
 </rss>

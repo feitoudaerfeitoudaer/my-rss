@@ -1,283 +1,66 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title><![CDATA[智库全文订阅-Mexico]]></title>
+    <title><![CDATA[智库深度全文订阅-Mexico]]></title>
     <link>https://github.io_Mexico.xml</link>
-    <description><![CDATA[自动抓取的 [Mexico] 智库文章全文摘要（全量无损版）]]></description>
+    <description><![CDATA[自动透传的 [Mexico] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
     <item>
-      <title><![CDATA[[Fundar, Centro de Analisis e Investigacion--Mexico] Justicia Fiscal]]></title>
-      <link>http://fundar.org.mx/</link>
-      <description><![CDATA[Ir al contenido
-Search
-descarga la investigación
-El cuidado como una práctica política y colectiva, indispensable para sostener la vida frente a la violencia y la ausencia.
-Conoce más
-Conoce nuestro a...]]></description>
-      <content:encoded><![CDATA[<div><p>Ir al contenido<br>Search<br>descarga la investigación<br>El cuidado como una práctica política y colectiva, indispensable para sostener la vida frente a la violencia y la ausencia.<br>Conoce más<br>Conoce nuestro análisis<br>Avances, tensiones y contradicciones<br>Descubre cómo se distribuye el dinero público.<br>Conoce nuestra herramienta interactiva<br>Más recursos para la salud pública<br>Descarga la investigación<br>Conoce más<br>Justicia Fiscal<br>Derechos Humanos<br>Tierra y Territorio<br>Anticorrupción<br>Género<br>Conoce más sobre Fundar<br>Comunicados<br>Urgen a comunidades mayas a informarse y participar en consulta sobre Ley General Indígena<br>10/07/2026<br>Integrante de Comité Técnico que elaboró primera propuesta de Ley General de Derechos de los Pueblos Indígenas y Afromexicanos presenta sus contenidos generales y modificaciones hechas por el Poder Ejecutivo. Exhortan a comunidades a informarse y participar en consulta que se celebrará en agosto para fortalecer y mejorar la propuesta. Invitan a plática el viernes […]<br>La Suprema Corte reabre la discusión sobre la sentencia de 2018 que ordenó la creación de la Comisión para la Investigación y la Verdad del caso Iguala<br>07/07/2026<br>La Consejería Jurídica de la Presidencia de la República solicitó a la Suprema Corte atraer cuatro revisiones extraordinarias promovidas por autoridades del gobierno de Enrique Peña Nieto para impugnar la sentencia del Primer Tribunal Colegiado de Circuito del Décimo Noveno Circuito que ordenó la creación de la “Comisión para la Investigación y la V<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://fundar.org.mx/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://fundar.org.mx/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:17 +0800</pubDate>
+      <title><![CDATA[[Ethos Public Policy Lab --Mexico] ¿QUIÉNES SOMOS?]]></title>
+      <link>http://ethos.org.mx/ethos/quienessomos</link>
+      <description><![CDATA[¿QUIÉNES SOMOS?]]></description>
+      <content:encoded><![CDATA[<div><p>¿QUIÉNES SOMOS?<br>EQUIPO<br>FINANCIADORES<br>TRABAJA EN ETHOS<br>DOCUMENTOS INSTITUCIONALES</p><br><hr><p><a href='http://ethos.org.mx/ethos/quienessomos' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://ethos.org.mx/ethos/quienessomos</guid>
+      <pubDate>Tue, 21 Jul 2026 13:32:54 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Ethos Public Policy Lab --Mexico] CONTACTO]]></title>
-      <link>http://ethos.org.mx/</link>
-      <description><![CDATA[Finanzas Públicas
-Promovemos finanzas públicas sanas, a través de un sistema fiscal con un diseño adecuado, un nivel de
-          ingreso óptimo y un ejercicio del gasto eficiente y transparente, tant...]]></description>
-      <content:encoded><![CDATA[<div><p>Finanzas Públicas<br>Promovemos finanzas públicas sanas, a través de un sistema fiscal con un diseño adecuado, un nivel de<br>          ingreso óptimo y un ejercicio del gasto eficiente y transparente, tanto a nivel federal como subnacional.<br>ENTRAR</p><br><hr><p><a href='http://ethos.org.mx/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://ethos.org.mx/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:28 +0800</pubDate>
+      <title><![CDATA[[Ethos Public Policy Lab --Mexico] FINANCIADORES]]></title>
+      <link>http://ethos.org.mx/ethos/financiadores</link>
+      <description><![CDATA[FINANCIADORES]]></description>
+      <content:encoded><![CDATA[<div><p>¿QUIÉNES SOMOS?<br>EQUIPO<br>FINANCIADORES<br>TRABAJA EN ETHOS<br>DOCUMENTOS INSTITUCIONALES</p><br><hr><p><a href='http://ethos.org.mx/ethos/financiadores' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://ethos.org.mx/ethos/financiadores</guid>
+      <pubDate>Tue, 21 Jul 2026 13:32:54 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Consejo Mexicano de Asuntos Internacionales (COMEXI) --Mexico] INFORME ANUAL 2025]]></title>
-      <link>http://www.consejomexicano.org/</link>
-      <description><![CDATA[Viviendo entre potencias
-Ana Valeria Becerril
-
-/ La geografía obliga a los países a desarrollar ciertas habilidades; algunas de estas se traducen en influencia, otras en resistencia.
-
-Vivir entre pote...]]></description>
-      <content:encoded><![CDATA[<div><p>Viviendo entre potencias<br>Ana Valeria Becerril<br><br>/ La geografía obliga a los países a desarrollar ciertas habilidades; algunas de estas se traducen en influencia, otras en resistencia.<br><br>Vivir entre potencias no enseña la misma lección a todos. Türkiye y Georgia representan ambas caras de una misma realidad. Una realidad que no se trata solo de construir alianzas, sino de entender cuándo acercarse, cuándo tomar distancia y cómo preservar un espacio propio.<br><br>Türkiye parece sentirse cómoda en la ambigüedad. Su ubicación la c<br>Comexi en los medios<br>Ingles<br>jul. 20, 2026 - 2 min read</p><br><hr><p><a href='http://www.consejomexicano.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.consejomexicano.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:28 +0800</pubDate>
+      <title><![CDATA[[Mexicanos Contra la Corrupcion y la Impunidad --Mexico] Quiénes Somos]]></title>
+      <link>https://contralacorrupcion.mx/quienes-somos/</link>
+      <description><![CDATA[Quiénes Somos]]></description>
+      <content:encoded><![CDATA[<div><p>Quiénes Somos<br>Periodismo<br>Alianzas Internacionales<br>Fincen Files<br>Ilusionistas<br>Implant Files<br>Mercenarios<br>Paraísos de dinero y fe<br>Paradise<br>Pegasus<br>Rumanos<br>Sedenaleaks<br>Vigila la pandemia<br>Casa Gris<br>La Barredora<br>Tren Maya<br>Casos emblemáticos de corrupción<br>Casa Gris<br>Carrusel de dinero<br>COVID<br>El Diablo<br>El General<br>Estafa Verde<br>Estafa Maestra<br>La Barredora<br>Fantasmas de Duarte<br>Metro<br>Mi edificio<br>SEGALMEX<br>La Red de Andy<br>Odebrecht<br>Operación Safiro<br>PEMEX<br>Piratas de Borge<br>SEDATU<br>Tren Maya<br>Uso irregular de recursos públicos<br>AIFA<br>Caja Negra<br>CAPUFELEAKS<br>Cuba<br>SEDATU<br>Redes de corrupción<br>La Barredora<br>Redes de huachicol<br>Conflicto de interés<br>Impunidad<br>Investigacion aplicada<br>Métricas sobre la corrupción<br>Anatomía de la Corrupción<br>Anuario de la corrupción<br>Encuesta Nacional sobre Corrupción e Impunidad<br>Impunidad, justicia y Estado de derecho<br>Transparencia y recursos públicos<br>Nuestro Dinero<br>Sector privado<br>IC500<br>Impunidad, justicia y Estado de Derecho<br>Comunicación<br>Cuentas claras<br>Nuestra voz<br>Videos<br>Podcast<br>Antiimpune<br>El Brunch<br>Especiales<br>La Feria<br>Resiliente<br>Documental<br>El que no transa<br>El Estado de la Nación<br>Rostros<br>Multimedia<br>Blog<br>Instituciones y políticas públicas<br>Impunidad, justicia y Estado de Derecho<br>Métricas sobre la corrupción<br>Transparencia y recursos públicos<br>Sector privado<br>Dona aquí</p><br><hr><p><a href='https://contralacorrupcion.mx/quienes-somos/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://contralacorrupcion.mx/quienes-somos/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:33:07 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Mexicanos Contra la Corrupcion y la Impunidad --Mexico] A dos meses de nacer, tres cooperativas cobran $76 millones… y sus socios ni se enteran]]></title>
-      <link>https://contralacorrupcion.mx/</link>
-      <description><![CDATA[Quiénes Somos
-Periodismo
-Alianzas Internacionales
-Fincen Files
-Ilusionistas
-Implant Files
-Mercenarios
-Paraísos de dinero y fe
-Paradise
-Pegasus
-Rumanos
-Sedenaleaks
-Vigila la pandemia
-Casa Gris
-La Barre...]]></description>
-      <content:encoded><![CDATA[<div><p>Quiénes Somos<br>Periodismo<br>Alianzas Internacionales<br>Fincen Files<br>Ilusionistas<br>Implant Files<br>Mercenarios<br>Paraísos de dinero y fe<br>Paradise<br>Pegasus<br>Rumanos<br>Sedenaleaks<br>Vigila la pandemia<br>Casa Gris<br>La Barredora<br>Tren Maya<br>Casos emblemáticos de corrupción<br>Casa Gris<br>Carrusel de dinero<br>COVID<br>El Diablo<br>El General<br>Estafa Verde<br>Estafa Maestra<br>La Barredora<br>Fantasmas de Duarte<br>Metro<br>Mi edificio<br>SEGALMEX<br>La Red de Andy<br>Odebrecht<br>Operación Safiro<br>PEMEX<br>Piratas de Borge<br>SEDATU<br>Tren Maya<br>Uso irregular de recursos públicos<br>AIFA<br>Caja Negra<br>CAPUFELEAKS<br>Cuba<br>SEDATU<br>Redes de corrupción<br>La Barredora<br>Redes de huachicol<br>Conflicto de interés<br>Impunidad<br>Investigacion aplicada<br>Métricas sobre la corrupción<br>Anatomía de la Corrupción<br>Anuario de la corrupción<br>Encuesta Nacional sobre Corrupción e Impunidad<br>Impunidad, justicia y Estado de derecho<br>Transparencia y recursos públicos<br>Nuestro Dinero<br>Sector privado<br>IC500<br>Impunidad, justicia y Estado de Derecho<br>Comunicación<br>Cuentas claras<br>Nuestra voz<br>Videos<br>Podcast<br>Antiimpune<br>El Brunch<br>Especiales<br>La Feria<br>Resiliente<br>Documental<br>El que no transa<br>El Estado de la Nación<br>Rostros<br>Multimedia<br>Blog<br>Instituciones y políticas públicas<br>Impunidad, justicia y Estado de Derecho<br>Métricas sobre la corrupción<br>Transparencia y recursos públicos<br>Sector privado<br>Dona aquí<br>Periodismo<br>A dos meses de nacer, tres cooperativas cobran $76 millones… y sus socios ni se enteran<br>20 de julio, 2026<br>Dos meses después de haber sido constituidas ante Catalina Monreal, directora del Instituto Nacional de Ec<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://contralacorrupcion.mx/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://contralacorrupcion.mx/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:36 +0800</pubDate>
+      <title><![CDATA[[Mexicanos Contra la Corrupcion y la Impunidad --Mexico] Alianzas Internacionales]]></title>
+      <link>https://contralacorrupcion.mx/categoria/periodismo/alianzas-internacionales/</link>
+      <description><![CDATA[Alianzas Internacionales]]></description>
+      <content:encoded><![CDATA[<div><p>Quiénes Somos<br>Periodismo<br>Alianzas Internacionales<br>Fincen Files<br>Ilusionistas<br>Implant Files<br>Mercenarios<br>Paraísos de dinero y fe<br>Paradise<br>Pegasus<br>Rumanos<br>Sedenaleaks<br>Vigila la pandemia<br>Casa Gris<br>La Barredora<br>Tren Maya<br>Casos emblemáticos de corrupción<br>Casa Gris<br>Carrusel de dinero<br>COVID<br>El Diablo<br>El General<br>Estafa Verde<br>Estafa Maestra<br>La Barredora<br>Fantasmas de Duarte<br>Metro<br>Mi edificio<br>SEGALMEX<br>La Red de Andy<br>Odebrecht<br>Operación Safiro<br>PEMEX<br>Piratas de Borge<br>SEDATU<br>Tren Maya<br>Uso irregular de recursos públicos<br>AIFA<br>Caja Negra<br>CAPUFELEAKS<br>Cuba<br>SEDATU<br>Redes de corrupción<br>La Barredora<br>Redes de huachicol<br>Conflicto de interés<br>Impunidad<br>Investigacion aplicada<br>Métricas sobre la corrupción<br>Anatomía de la Corrupción<br>Anuario de la corrupción<br>Encuesta Nacional sobre Corrupción e Impunidad<br>Impunidad, justicia y Estado de derecho<br>Transparencia y recursos públicos<br>Nuestro Dinero<br>Sector privado<br>IC500<br>Impunidad, justicia y Estado de Derecho<br>Comunicación<br>Cuentas claras<br>Nuestra voz<br>Videos<br>Podcast<br>Antiimpune<br>El Brunch<br>Especiales<br>La Feria<br>Resiliente<br>Documental<br>El que no transa<br>El Estado de la Nación<br>Rostros<br>Multimedia<br>Blog<br>Instituciones y políticas públicas<br>Impunidad, justicia y Estado de Derecho<br>Métricas sobre la corrupción<br>Transparencia y recursos públicos<br>Sector privado<br>Dona aquí</p><br><hr><p><a href='https://contralacorrupcion.mx/categoria/periodismo/alianzas-internacionales/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://contralacorrupcion.mx/categoria/periodismo/alianzas-internacionales/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:33:07 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Centro de Estudios Espinosa Yglesias (CEEY) --Mexico] Index of /]]></title>
-      <link>http://www.ceey.org.mx/</link>
-      <description><![CDATA[Index of /
-Name
-Last modified
-Size
-Description
-ceeyweb06mayo2026.sql
-2026-05-06 22:34
-436M
-ceeyweb6mayo26.tar
-2026-05-06 23:11
-10G
-webceey1julio22.sql
-2022-07-02 21:47
-143M
-wordpress/
-2020-02-06 06:33...]]></description>
-      <content:encoded><![CDATA[<div><p>Index of /<br>Name<br>Last modified<br>Size<br>Description<br>ceeyweb06mayo2026.sql<br>2026-05-06 22:34<br>436M<br>ceeyweb6mayo26.tar<br>2026-05-06 23:11<br>10G<br>webceey1julio22.sql<br>2022-07-02 21:47<br>143M<br>wordpress/<br>2020-02-06 06:33<br>-<br>wordpress1/<br>2020-02-06 06:33<br>-<br>wordpressnew/<br>2020-02-06 06:33<br>-<br>wordpressnew2026/<br>2020-02-06 06:33<br>-</p><br><hr><p><a href='http://www.ceey.org.mx/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.ceey.org.mx/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:36 +0800</pubDate>
+      <title><![CDATA[[Centro de Investigacion Economica y Presupuestaria --Mexico] #DEUDAPÚBLICA]]></title>
+      <link>http://ciep.mx/category/deudapublica/</link>
+      <description><![CDATA[#DEUDAPÚBLICA]]></description>
+      <content:encoded><![CDATA[<div><p>Finanzas Públicas Antropocéntricas: El principio y fin de los recursos<br>Ricardo Cantú<br>11 julio, 2026</p><br><hr><p><a href='http://ciep.mx/category/deudapublica/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://ciep.mx/category/deudapublica/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:33:08 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Gestion Social y Cooperacion --Mexico] ]]></title>
-      <link>http://www.gesoc.org.mx/</link>
-      <description><![CDATA[>
-Inicio
-Inicio
-Nosotros y Misión
-Historia y Proyectos Emblemáticos
-Equipo Ejecutivo
-Órganos de Gobierno
-Transparencia Institucional
-Líneas de Acción
-Gobierno Abierto, Transparencia y Rendición de Cue...]]></description>
-      <content:encoded><![CDATA[<div><p>><br>Inicio<br>Inicio<br>Nosotros y Misión<br>Historia y Proyectos Emblemáticos<br>Equipo Ejecutivo<br>Órganos de Gobierno<br>Transparencia Institucional<br>Líneas de Acción<br>Gobierno Abierto, Transparencia y Rendición de Cuentas<br>Gobierno Abierto<br>Programa de Formación de Agentes Locales de Cambio en Gobierno Abierto y Desarrollo Sostenible<br>Follow The Money México<br>Fortalecimiento de la transparencia y rendición de cuentas corporativa<br>Implementación CETIFARMA CBPPP<br>EPT<br>Monitoreo Eventos Científicos y Educativos<br>Implementación Código CANILEC<br>Diagnóstico CANILEC<br>Políticas Sociales y Sostenibilidad Fiscal<br>Generación de métricas de capacidades y desempeño gubernamental para el desarrollo social<br>Índice de Desempeño de los Programas Públicos Federales (INDEP)<br>Índice Estatal de Capacidades para el Desarrollo Social (IDES)<br>Transparencia presupuestaria y sostenibilidad fiscal para el desarrollo<br>Derechos sociales y la política de desarrollo social bajo la contracción del espacio fiscal (Proyecto Conjunto con CIEP)<br>Gestión Pública y Derechos Humanos<br>Formación de Capacidades<br>Asistencia técnica a nivel subnacional para la formulación de programas estatales de infancia con enfoque de derechos<br>Publicaciones<br>Noticias/Media<br>Investigaciones<br>Agenda 2030<br>Nuestras Alianzas<br>Gobierno Abierto México (Nivel Federal)<br>Acción Ciudadana Frente a la Pobreza<br>Colectivo por un presupuesto sostenible<br>Red por la rendición de cuentas<br>VSD<br>Ciudad de México, a 5 de marzo de 2019<br>México reactiva el proceso nacional de la Alianza para el Gobi<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.gesoc.org.mx/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.gesoc.org.mx/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:36 +0800</pubDate>
+      <title><![CDATA[[Centro de Investigacion Economica y Presupuestaria --Mexico] #INGRESOSPÚBLICOS]]></title>
+      <link>http://ciep.mx/category/ingresospublicos/</link>
+      <description><![CDATA[#INGRESOSPÚBLICOS]]></description>
+      <content:encoded><![CDATA[<div><p>Renuncias recaudatorias. Hacia una agenda inicial de evaluación de política fiscal<br>Jonathan Hernández<br>14 julio, 2026</p><br><hr><p><a href='http://ciep.mx/category/ingresospublicos/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://ciep.mx/category/ingresospublicos/</guid>
+      <pubDate>Tue, 21 Jul 2026 13:33:10 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Centro de Investigación y Docencia Económicas (CIDE) --Mexico] SEDES]]></title>
-      <link>https://www.cide.edu/</link>
-      <description><![CDATA[...]]></description>
-      <content:encoded><![CDATA[<div><p></p><br><hr><p><a href='https://www.cide.edu/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://www.cide.edu/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:36 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Centro de Investigacion Economica y Presupuestaria --Mexico] INFORMACIÓN]]></title>
-      <link>http://ciep.mx/</link>
-      <description><![CDATA[Finanzas Públicas Antropocéntricas: El principio y fin de los recursos
-11 julio, 2026...]]></description>
-      <content:encoded><![CDATA[<div><p>Finanzas Públicas Antropocéntricas: El principio y fin de los recursos<br>11 julio, 2026</p><br><hr><p><a href='http://ciep.mx/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://ciep.mx/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Colectivo de Análisis para la Seguridad con Democracia (CASEDE) --Mexico] Redirecting...]]></title>
-      <link>http://www.casede.org/</link>
-      <description><![CDATA[...]]></description>
-      <content:encoded><![CDATA[<div><p></p><br><hr><p><a href='http://www.casede.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.casede.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[México Evalúa: Centro de Análisis de Políticas Públicas --Mexico] Opiniones]]></title>
-      <link>http://www.mexicoevalua.org/</link>
-      <description><![CDATA[16 de julio de 2026 /
-México Evalúa
-Y después del mundial… ¿puede la política pública convertir un megaevento en legado?...]]></description>
-      <content:encoded><![CDATA[<div><p>16 de julio de 2026 /<br>México Evalúa<br>Y después del mundial… ¿puede la política pública convertir un megaevento en legado?</p><br><hr><p><a href='http://www.mexicoevalua.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.mexicoevalua.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Instituto Mexicano para la Competividad (IMCO) --Mexico] Es necesario acelerar las inversiones en el sector eléctrico]]></title>
-      <link>http://imco.org.mx/es/</link>
-      <description><![CDATA[CENTRO DE INVESTIGACIÓN
-EN POLÍTICA PÚBLICA
-Quiénes somos
-Investigaciones
-Índices
-Monitores
-EN 🇺🇸
-Administración pública
-Comercio
-Economía
-Educación
-Energía y Medio ambiente
-Finanzas públicas
-Mercado ...]]></description>
-      <content:encoded><![CDATA[<div><p>CENTRO DE INVESTIGACIÓN<br>EN POLÍTICA PÚBLICA<br>Quiénes somos<br>Investigaciones<br>Índices<br>Monitores<br>EN 🇺🇸<br>Administración pública<br>Comercio<br>Economía<br>Educación<br>Energía y Medio ambiente<br>Finanzas públicas<br>Mercado laboral<br>Mujer en la economía<br>Quiénes somos<br>Investigaciones<br>Índices<br>Monitores<br>EN 🇺🇸<br>Áreas<br>Administración pública<br>Comercio<br>Economía<br>Educación<br>Energía y Medio ambiente<br>Finanzas públicas<br>Mercado laboral<br>Mujer en la economía<br>Inicio<br>Energía y Medio ambiente<br>Es necesario acelerar las inversiones en el sector eléctrico<br>Investigación<br>Es necesario acelerar las inversiones en el sector eléctrico<br>Imco Staff<br>14 Mayo, 2025<br>DESCARGAS:<br>Comunicado<br>Documento<br>COMPARTIR:<br>Es necesario acelerar las inversiones en el sector eléctrico<br>El<br>Instituto Mexicano para la Competitividad<br>(<br>IMCO<br>) estima que en 2030 la demanda de energía eléctrica en México será 13.4% mayor a la observada en 2024. Para absorber este crecimiento y garantizar la seguridad energética del país,<br>se requiere acelerar las inversiones en infraestructura del sector eléctrico, empezando por aquellas contempladas en el Plan México, estimadas en 40 mil 185 millones de dólares<br>en infraestructura tanto de generación como de redes eléctricas, debido a los tiempos necesarios para planear, financiar, construir, realizar pruebas y poner en operación nuevos proyectos.<br>Si estas inversiones no inician en 2025,<br>debido a la ausencia de reglas claras y predecibles que impulsen la participación del sector privado o a la falta de recursos presupuestales d<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://imco.org.mx/es/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://imco.org.mx/es/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:37 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Caminos de La Libertad --Mexico] Caminos de la libertad | Inicio - Caminos de la Libertad]]></title>
-      <link>http://www.caminosdelalibertad.com/</link>
-      <description><![CDATA[¿Qué hacemos en Caminos de la Libertad?
-Somos una organización comprometida con la promoción y la defensa de las libertades económicas, políticas y civiles. Creemos en que tú debes decidir cómo maneja...]]></description>
-      <content:encoded><![CDATA[<div><p>¿Qué hacemos en Caminos de la Libertad?<br>Somos una organización comprometida con la promoción y la defensa de las libertades económicas, políticas y civiles. Creemos en que tú debes decidir cómo manejar tu dinero, quién te gobierna y cómo llevas tu estilo de vida. Nuestro propósito es demostrar que vivir en libertad es la única manera digna de existir, ya que se ha demostrado que con mayor libertad se reduce la pobreza, se promueve la justicia y se aumenta la felicidad de las personas.<br>Conócenos<br>CONCURSOS<br>Nuestros concursos son un foro abierto a la reflexión, discusión y desarrollo de ideas en torno al tema de la libertad. Cada año los participantes envían sus obras, mismas que son evaluadas por jurados expertos en las diferentes disciplinas.<br>Ver más<br>UNA VIDA POR LA LIBERTAD<br>Caminos de la Libertad otorga anualmente el reconocimiento “Una Vida por la Libertad” a figuras del mundo quienes a través de su labor han defendido la libertad y han hecho de esta lucha una forma de mejorar la sociedad.<br>Ver más<br>FORMACIÓN<br>Caminos de la Libertad existe para promover el debate sobre la libertad. La mejor forma de hacerlo es mediante la educación e investigación sobre la economía de libre mercado, la libertad individual, y la filosofía de la libertad.<br>Ver más<br>BIBLIOTECA<br>La biblioteca motiva la curiosidad intelectual sobre el tema de la Libertad. En colaboración con Círculo Editorial Azteca difundimos a los más importantes pensadores liberales, nuestras investigaciones, y las obras finalistas <br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.caminosdelalibertad.com/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.caminosdelalibertad.com/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Fundación Idea --Mexico] Not Found]]></title>
-      <link>http://www.fundacionidea.org.mx/inicio</link>
-      <description><![CDATA[404
-Not Found...]]></description>
-      <content:encoded><![CDATA[<div><p>404<br>Not Found</p><br><hr><p><a href='http://www.fundacionidea.org.mx/inicio' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.fundacionidea.org.mx/inicio</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Mexicanos Primero --Mexico] Mexicanos Primero]]></title>
-      <link>http://www.mexicanosprimero.org/</link>
-      <description><![CDATA[Mexicanos Primero
-Home
-Publicaciones
-Monito educativo
-Boletín de noticias
-Comunicación institucional
-Comunicación educativa
-Nuestro equipo
-Elecciones 2024
-Toggle navigation
-Home
-Publicaciones
-Monito e...]]></description>
-      <content:encoded><![CDATA[<div><p>Mexicanos Primero<br>Home<br>Publicaciones<br>Monito educativo<br>Boletín de noticias<br>Comunicación institucional<br>Comunicación educativa<br>Nuestro equipo<br>Elecciones 2024<br>Toggle navigation<br>Home<br>Publicaciones<br>Monito educativo<br>Boletín de noticias<br>Comunicación institucional<br>Comunicación educativa<br>Nuestro equipo<br>ELECCIONES 2024<br>Mexicanos Primero<br>Generamos conocimiento y alianzas para incidir y promover el<br>derecho a aprender<br>El<br>derecho a aprender<br>se cumple cuando todas las niñas, niños y jóvenes<br>están, aprenden<br>y<br>participan<br>en la escuela<br>Generamos conocimiento y alianzas para incidir y promover el<br>derecho a aprender<br>El<br>derecho a aprender<br>se cumple cuando todas las niñas, niños y jóvenes<br>están, aprenden<br>y<br>participan<br>en la escuela<br>Generamos conocimiento:<br>... y lo difundimos<br>17 de Julio del 2026<br>Blog En Voz Alta<br>Familia y escuela: cuando educar se convierte en un proyecto compartido.<br>La educación de las niñas y los niños alcanza su mayor potencial cuando la familia y la escuela trabajan como un solo equipo.<br>Conoce más<br>Blog<br>14 de Julio del 2026<br>Comunicado<br>NOTA INFORMATIVA  Ciclo escolar 2025–2026: un país que se acostumbra a perder oportunidades de aprendizaje<br>Conoce más<br>Comunicados<br>20 de Julio del 2026<br>La escuela, sus docentes y la construcción de nuestro futuro<br>La escuela y la experiencia educativa que ocurre a su interior han sido objeto de análisis desde muy diversas perspectivas. No obstante, no hay duda ...<br>Conoce más<br>Suscríbete al boletín<br>Del 12 al 18 de Junio del 2026<br>Es un resumen semanal de<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.mexicanosprimero.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.mexicanosprimero.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Facultad Latinoamericana de Ciencias Sociales (FLACSO) --Mexico] Carrito]]></title>
-      <link>http://www.flacso.edu.mx/</link>
-      <description><![CDATA[50 Aniversario
-Convocatorias
-Noticias
-Distinciones
-Agenda
-Servicios Escolares
-Boletines
-Intranet
-Contacto
-Buscar
-Acerca de
-Oferta Acad├®mica
-Investigaci├│n
-C├Ītedra FLACSO M├®xico
-Biblioteca
-Archivo
-A...]]></description>
-      <content:encoded><![CDATA[<div><p>50 Aniversario<br>Convocatorias<br>Noticias<br>Distinciones<br>Agenda<br>Servicios Escolares<br>Boletines<br>Intranet<br>Contacto<br>Buscar<br>Acerca de<br>Oferta Acad├®mica<br>Investigaci├│n<br>C├Ītedra FLACSO M├®xico<br>Biblioteca<br>Archivo<br>Agenda<br>Convocatorias<br>Servicios Escolares<br>Noticias<br>Publicaciones<br>Revistas<br>Contacto<br>Intranet<br>0<br>Carrito<br>Acerca de<br>Oferta Acad├®mica<br>Investigaci├│n<br>C├Ītedra FLACSO M├®xico<br>Biblioteca<br>Archivo<br>Agenda<br>Convocatorias<br>Servicios Escolares<br>Noticias<br>Publicaciones<br>Revistas<br>Contacto<br>Intranet<br>M├üS INFORMACI├ōN<br>M├Īs informaci├│n<br>M├üS INFORMACI├ōN<br>Buscar<br>Buscar<br>Todas las categor├Łas<br>Convocatorias<br>Noticias<br>Agenda<br>Todas las categor├Łas<br>Convocatorias<br>CONVOCATORIAS<br>Diplomado Internacional Pol├Łticas P├║blicas en Sociedades Digitales<br>CONVOCATORIAS<br>Maestr├Ła en Comunicaci├│n Pol├Łtica Estrat├®gica<br>CONVOCATORIAS<br>Inscripciones al Programa de Estudios Avanzados en M├®todos (PEAM)<br>CONVOCATORIAS<br>Convocatoria de la Revista Latinoamericana sobre Democracia<br>CONVOCATORIAS<br>Diplomado Internacional Pol├Łticas P├║blicas en Sociedades Digitales<br>CONVOCATORIAS<br>Maestr├Ła en Comunicaci├│n Pol├Łtica Estrat├®gica<br>CONVOCATORIAS<br>Inscripciones al Programa de Estudios Avanzados en M├®todos (PEAM)<br>CONVOCATORIAS<br>Convocatoria de la Revista Latinoamericana sobre Democracia<br>Noticias<br>NOTICIAS<br>FLACSO realiza su XXVI Asamblea General de FLACSO en Brasilia<br>NOTICIAS<br>La XXVI Asamblea General de FLACSO adopta la Declaraci├│n de Brasilia<br>NOTICIAS<br>La Dra. Gisela Zaremberg es designada Directora General de la FLACSO M├®xico<br>NOTICIAS<br>FLACSO re<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.flacso.edu.mx/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.flacso.edu.mx/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:38 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Instituto para la Seguridad y la Democracia (INSYDE) --Mexico] Instituto para la Seguridad y la Democracia A. C. | Insyde]]></title>
-      <link>http://www.insyde.org.mx/</link>
-      <description><![CDATA[...]]></description>
-      <content:encoded><![CDATA[<div><p></p><br><hr><p><a href='http://www.insyde.org.mx/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.insyde.org.mx/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[El Colegio de la Frontera Norte (Colef) --Mexico] ]]></title>
-      <link>http://www.colef.mx/?lang=en</link>
-      <description><![CDATA[Trámites
-Gobierno
-Normateca interna
-Información interna
-Transparencia
-Protección de datos personales
-Nuestro teléfono en Tijuana B.C.
-×
-+52 (664) 631-6300
-Conmutadores por sedes
-Casa Colef
-+52 (55) 55...]]></description>
-      <content:encoded><![CDATA[<div><p>Trámites<br>Gobierno<br>Normateca interna<br>Información interna<br>Transparencia<br>Protección de datos personales<br>Nuestro teléfono en Tijuana B.C.<br>×<br>+52 (664) 631-6300<br>Conmutadores por sedes<br>Casa Colef<br>+52 (55) 5554 3545<br>+52 (55) 5554-3390<br>Ciudad Juarez<br>+52 (656) 616 8578<br>Matamoros<br>+52 (868) 813 4559<br>Mexicali<br>+52 (686) 554 7447<br>Monterrey<br>+52 (81) 8387 5027<br>Nogales<br>+52 (631) 314 3710<br>Ubicación de la sede Tijuana<br>×<br>Carretera escénica Tijuana - Ensenada, Km 18.5, San Antonio del Mar, 22560 Tijuana, Baja California, México.<br>Acerca de<br>Investigación<br>Docencia<br>Publicaciones<br>Biblioteca<br>El Colef conmemora una década del Doctorado en Estudios de Migración con un diálogo sobre los desafíos contemporáneos de la movilidad humana<br>El Colef conmemora una década del Doctorado en Estudios de Migración con un diálogo sobre los desafíos contemporáneos de la movilidad humana<br>El Colef celebra el décimo aniversario del Doctorado en Estudios Culturales<br>El Colef celebra el décimo aniversario del Doctorado en Estudios Culturales<br>Diálogos en Migración y Salud: especialistas llaman a transformar la gobernanza humanitaria ante el aumento del desplazamiento forzado<br>Diálogos en Migración y Salud: especialistas llaman a transformar la gobernanza humanitaria ante el aumento del desplazamiento forzado<br>Tejiendo el español. Manual para el aprendizaje del español en contexto de movilidad. Versión latinoamericana<br>Tejiendo el español. Manual para el aprendizaje del español en contexto de movilidad. Versión latinoamericana<br>El Co<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.colef.mx/?lang=en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.colef.mx/?lang=en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Centro de Investigaciones Sobre la Libre Empresa (CISLE) --Mexico] Qué es el Cisle]]></title>
-      <link>http://www.cisle.org.mx/</link>
-      <description><![CDATA[Qué es el Cisle
-El Centro de Investigaciones sobre la Libre Empresa A.C. tiene como objetivo principal reducir la pobreza mediante la difusión de los principios económicos y éticos del sistema de libr...]]></description>
-      <content:encoded><![CDATA[<div><p>Qué es el Cisle<br>El Centro de Investigaciones sobre la Libre Empresa A.C. tiene como objetivo principal reducir la pobreza mediante la difusión de los principios económicos y éticos del sistema de libre empresa o libre mercado, que ha disminuido el número de pobres, aumentado la clase media y elevado los salarios reales, en los países donde se aplican debidamente.<br>Editoriales recientes<br>Emigración y nivel de vida<br>por Luis Pazos<br>Un año de Sheinbaum: ¿bienestar real o continuidad del intervencionismo?<br>por Publicaciones<br>De Cuba a Puerto Rico<br>por Luis Pazos<br>Impuestos Especiales<br>por Arturo Damm Arnal<br>El alto costo de cancelar una obra viable<br>El caso Texcoco-anta Lucía debe ser analizado con responsabilidad. No se trata de partidos, ideologías o simpatías. Se trata de entender que las<br>obras públicas estratégicas<br>no pueden depender de encuestas, consultas improvisadas o cálculos electorales.<br>Clic aquí para leer análisis completo<br>La economía no es solo números y gráficos<br>¡Está en todo lo que haces! Desde decidir qué comprar hasta entender por qué suben los precios, la economía afecta tu día a día más de lo que imaginas.<br>Síguenos en redes sociales<br>Facebook<br>X<br>Instagram<br>YouTube<br>Suscribete a nuestro newsletter<br>Recibe semanalmente el contenido nuevo directo en tu mail.<br>Suscríbete</p><br><hr><p><a href='http://www.cisle.org.mx/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.cisle.org.mx/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:39 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Instituto de Pensamiento Estratégio Agora (IPEA) --Mexico] VIN88 NEWMP3 | LINK TRUY CẬP VIN88.COM UY TÍN #1 2026]]></title>
-      <link>http://ipea.org.mx/</link>
-      <description><![CDATA[Bỏ qua nội dung
-Vin88
-Slot Game
-Bắn Cá
-Game Bài 3D
-Casino
-Thể Thao
-Xổ Số
-Đá Gà
-Đăng ký 88K
-Đăng ký 88K
-VIN88 NEWMP3 | LINK TRUY CẬP VIN88.COM UY TÍN #1 2026
-VIN88
-là thương hiệu giải trí trực tuyến hà...]]></description>
-      <content:encoded><![CDATA[<div><p>Bỏ qua nội dung<br>Vin88<br>Slot Game<br>Bắn Cá<br>Game Bài 3D<br>Casino<br>Thể Thao<br>Xổ Số<br>Đá Gà<br>Đăng ký 88K<br>Đăng ký 88K<br>VIN88 NEWMP3 | LINK TRUY CẬP VIN88.COM UY TÍN #1 2026<br>VIN88<br>là thương hiệu giải trí trực tuyến hàng đầu Châu Á, hoạt động hợp pháp dưới sự cấp phép của PAGCOR, đảm bảo minh bạch – công bằng – an toàn tuyệt đối theo tiêu chuẩn quốc tế. VIN88.COM  Sở hữu nền tảng công nghệ hiện đại, tốc độ mượt mà cùng giao diện thân thiện, VIN 88 nhanh chóng trở thành điểm đến lý tưởng cho cộng đồng người chơi yêu thích cá cược trực tuyến.<br>Không chỉ nổi bật về hệ thống, VIN888 còn ghi điểm mạnh với dịch vụ chăm sóc khách hàng 24/7, hỗ trợ nhanh chóng mọi vấn đề. Đặc biệt, người chơi mới sẽ nhận ngay ưu đãi cực khủng như: thưởng 100% nạp đầu, hoàn tiền mỗi ngày, giftcode giá trị, cùng nhiều phần quà độc quyền, giúp bạn khởi đầu trải nghiệm đầy hứng khởi.<br>👉 Link đăng ký / đăng nhập VIN88 chính thức 2026 cho anh em:<br>https://newmp3.me/<br>bài viết mới nhất<br>Lô Đề 3 Miền – Sự Lựa Chọn Phù Hợp Cho Người Mới Tại Vin88<br>Lô đề 3 miền là sự lựa chọn ưu tiên hàng đầu của nhiều người [...]<br>21<br>Th5<br>Game Show VIN88 – Trải Nghiệm Casino Đỉnh Cao Và Thắng Lớn<br>Trong thế giới casino trực tuyến, game show VIN88 đã nhanh chóng trở thành một [...]<br>21<br>Th5<br>Hướng Dẫn Chơi Mega 6/55 Và Mẹo Tăng Cơ Hội Trúng Thưởng<br>Mega 6/55 là một trong những loại hình xổ số hiện đại và phổ biến [...]<br>21<br>Th5<br>Roulette VIN88 – Vòng Quay May Mắn Kiếm Tiền Tỷ Liền Tay<br>Bạn yêu thích cảm giác hồi hộp từng giây khi quả bóng xoay tròn trong [...]<br><br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://ipea.org.mx/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://ipea.org.mx/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:39 +0800</pubDate>
+      <title><![CDATA[[Instituto de Pensamiento Estratégio Agora (IPEA) --Mexico] [email protected]]]></title>
+      <link>http://ipea.org.mx/cdn-cgi/l/email-protection</link>
+      <description><![CDATA[[email protected]]]></description>
+      <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='http://ipea.org.mx/cdn-cgi/l/email-protection' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://ipea.org.mx/cdn-cgi/l/email-protection</guid>
+      <pubDate>Tue, 21 Jul 2026 13:33:11 +0800</pubDate>
     </item>
   </channel>
 </rss>

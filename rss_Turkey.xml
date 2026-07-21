@@ -1,80 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title><![CDATA[智库全文订阅-Turkey]]></title>
+    <title><![CDATA[智库深度全文订阅-Turkey]]></title>
     <link>https://github.io_Turkey.xml</link>
-    <description><![CDATA[自动抓取的 [Turkey] 智库文章全文摘要（全量无损版）]]></description>
+    <description><![CDATA[自动透传的 [Turkey] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
     <item>
-      <title><![CDATA[[Turkish Economic and Social Studies Foundation (TESEV) --Turkey] TESEV | Türkiye Ekonomik ve Sosyal Etüdler Vakfı]]></title>
-      <link>http://tesev.org.tr/tr/</link>
-      <description><![CDATA[Skip to content
-English
-Aranacak ifade:
-Ana Sayfa
-Hakkımızda
-Türkiye Ekonomik ve Sosyal Etüdler Vakfı
-Tarihçe
-Kişiler
-Yönetim Kurulu
-Yüksek Danışma Kurulu
-TESEV Çalışanları
-Danışmanlar
-Faaliyet Raporl...]]></description>
-      <content:encoded><![CDATA[<div><p>Skip to content<br>English<br>Aranacak ifade:<br>Ana Sayfa<br>Hakkımızda<br>Türkiye Ekonomik ve Sosyal Etüdler Vakfı<br>Tarihçe<br>Kişiler<br>Yönetim Kurulu<br>Yüksek Danışma Kurulu<br>TESEV Çalışanları<br>Danışmanlar<br>Faaliyet Raporları<br>Konular<br>Kent Yönetişimi ve Sürdürülebilirlik<br>Toplumsal Cinsiyet Eşitliği<br>Dijital Politika Araçları<br>Çocuk Politikaları<br>Göç Politikaları<br>İklim Krizi<br>Sivil Toplumun Güçlendirilmesi<br>Şeffaflık ve Hesap Verebilirlik<br>Afet<br>Yapay Zeka<br>Tüm Konular<br>Yayınlar<br>Etkinlikler<br>Aranacak ifade:<br>Warning<br>:  Undefined property: Fusion_Breadcrumbs::$is_home_icon in<br>/var/www/vhosts/tesev.org.tr/httpdocs/wp-content/themes/Avada/includes/lib/inc/class-fusion-breadcrumbs.php<br>on line<br>309<br>Blog<br>Halaskargazi Mah. Halaskargazi Cad. No:38/66E İç Kapı No: 215<br>34371 Şişli / İstanbul<br>Phone:<br>+90 (212) 292 89 03<br>Email:<br>info@tesev.org.tr<br>Kent Yönetişimi ve Sürdürülebilirlik<br>Toplumsal Cinsiyet Eşitliği<br>Dijital Politika Araçları<br>Çocuk Politikaları<br>İklim Krizi<br>Yapay Zeka<br>Göç Politikaları<br>Sivil Toplumun Güçlendirilmesi<br>Şeffaflık ve Hesap Verebilirlik<br>Afet<br>Tüm Konular<br>© TESEV 2019 | Built by<br>eva<br>|<br>Kişisel Verilerin Korunması Kanunu Hakkında Bilgilendirme<br>Facebook<br>X<br>E-posta<br>Instagram<br>LinkedIn<br>YouTube<br>Spotify<br>Page load link<br>Bu internet sitesinde sizlere daha iyi hizmet sunulabilmesi için Cookieler kullanılmaktadır. Cookie tercihlerinizi değiştirmek ve Cookieler hakkında detaylı bilgi almak için<br>Çerez Politikası<br>'nı inceleyebilirsiniz.<br>Cookie ayarlarını değiştirmeniz durumunda internet sitesinin bazı özelliklerinin işlevse<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://tesev.org.tr/tr/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://tesev.org.tr/tr/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:34 +0800</pubDate>
+      <title><![CDATA[[Center for Economics and Foreign Policy Studies (EDAM) --Turkey] Araştırmalar]]></title>
+      <link>http://edam.org.tr/arastirmalar</link>
+      <description><![CDATA[Araştırmalar]]></description>
+      <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='http://edam.org.tr/arastirmalar' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://edam.org.tr/arastirmalar</guid>
+      <pubDate>Tue, 21 Jul 2026 13:33:46 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Association for Liberal Thinking (ALT) --Turkey] Instagram]]></title>
-      <link>http://www.liberal.org.tr/engindex.php</link>
-      <description><![CDATA[...]]></description>
-      <content:encoded><![CDATA[<div><p></p><br><hr><p><a href='http://www.liberal.org.tr/engindex.php' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.liberal.org.tr/engindex.php</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:34 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Center for Economics and Foreign Policy Studies (EDAM) --Turkey] Trump Döneminde ABD'nin Uluslararası Ticaret Politikası:Ticaret Savaşları Türkiye’ye Avantaj Sağlar mı?]]></title>
-      <link>http://edam.org.tr/</link>
-      <description><![CDATA[Biz Takip Edin -
-English
-Ana Sayfa
-Araştırmalar
-Dış Politika & Güvenlik
-Siber Politikalar & Dijital Demokrasi
-Ekonomi & Enerji
-Açık Kaynaklı İstihbarat ve Savunma Analizleri
-Ekonomika
-Yazarlar
-Basında...]]></description>
-      <content:encoded><![CDATA[<div><p>Biz Takip Edin -<br>English<br>Ana Sayfa<br>Araştırmalar<br>Dış Politika & Güvenlik<br>Siber Politikalar & Dijital Demokrasi<br>Ekonomi & Enerji<br>Açık Kaynaklı İstihbarat ve Savunma Analizleri<br>Ekonomika<br>Yazarlar<br>Basında EDAM<br>Podcastler<br>Weapons over Coffee<br>The EDAM Deep Dive<br>Blog<br>Kurumsal<br>Hakkımızda<br>Kurumsal ve Yasal Yapı<br>Yönetim ve Denetim Kurulu<br>Araştırma Ekibimiz<br>İş İmkanları<br>İletişim<br>English<br>Trump Döneminde ABD'nin Uluslararası Ticaret Politikası:Ticaret Savaşları Türkiye’ye Avantaj Sağlar mı?<br>Suriye’de Kırılma<br>Türkiye'nin İlk İklim Kanunu<br>Avrupa Güvenliğinin Yeniden Düzenlenmesi<br>2026'ya Bakış<br>2026'ya Bakış<br>Türkiye İçin Bir Rekabetçilik Endeksi 2023<br>EKONOMİ ve DIŞ POLİTİKA<br>Araştırma Merkezi<br>Tacan İldem<br>Başkan, EDAM<br>Sinan Ülgen<br>Direktör, EDAM<br>Çiğdem Üstün<br>Genel Sekreter<br>Zeynep Alemdar<br>Dış Politika Programı Direktörü<br>Ulaş Zal Akkaya<br>Araştırmacı<br>basında EDAM<br>tüm haberler<br>Ural Aküzüm<br>10.07.2026<br>Türkiye, NATO 3.0 döneminin ana aktörü<br>Sinan Ülgen<br>08.07.2026<br>Trump: İran ile Ateşkes Bence Sona Erdi<br>Tacan İldem<br>07.07.2026<br>Ankara Zirvesi: Yapısal kırılma çağında NATO 3.0 ve Türkiye’nin fırsat penceresi<br>Sinan Ülgen<br>27.06.2026<br>Türkiye Avrupa’nın yeni ekonomik düzeninin dışında mı kalıyor? - Medyascope<br>Sinan Ülgen<br>24.06.2026<br>Bir yalnız ve güzel ekonomi hikayesi<br>Çiğdem Üstün<br>17.06.2026<br>Nadir Toprak Element Yarışına Türkiye de Girdi -  Ekonomist<br>blog<br>tüm haberler<br>Nihat Kökmen<br>14.07.2026<br>36’ncı NATO Ankara Zirvesi: Sonuçlar, Tartışmalar ve Geriye Kalanlar<br>Ayhan Doğaner<br>11.06.2026<br>Köktendinci Örgütler ve Art<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://edam.org.tr/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://edam.org.tr/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:21:02 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Economic Policy Research Foundation of Turkey --Turkey] The Economic Policy Research Foundation of Turkiye]]></title>
-      <link>http://www.tepav.org.tr/en</link>
-      <description><![CDATA[Projects
-Researchers
-Working Paper Series
-Türkçe
-tepav
-tepav
-tepav
-tepav
-tepav
-About Us
-Events
-Our Team
-Committee
-Management
-Contact Us
-Brexit Guide
-The articles and opinions on the TEPAV website are ...]]></description>
-      <content:encoded><![CDATA[<div><p>Projects<br>Researchers<br>Working Paper Series<br>Türkçe<br>tepav<br>tepav<br>tepav<br>tepav<br>tepav<br>About Us<br>Events<br>Our Team<br>Committee<br>Management<br>Contact Us<br>Brexit Guide<br>The articles and opinions on the TEPAV website are solely those of the authors and do not represent the official views of TEPAV.<br>© TEPAV, all rights reserved unless otherwise stated.<br>Söğütözü Cad. No:43 TOBB-ETÜ Campus, Section 2, 06560<br>Söğütözü-Ankara<br>Phone:<br>+90 312 292 5500<br>Fax: +90 312 292 5555<br>tepav@tepav.org.tr<br>/<br>tepav.org.tr<br>TEPAV is a non-profit, non-partisan research institution that contributes to the policy design process through data-driven analysis, adhering to academic ethics and quality without compromise.<br>tepav<br>/<br>The Economic Policy Research Foundation of Turkiye<br>Sign Up<br>Search<br>✘<br>Sort by: Relevance<br>✖<br>Close<br>Platforms<br>❯<br>Events<br>News<br>Blog<br>Researches<br>Media<br>❯<br>Bulletin<br>❯<br>Foundation<br>❯<br>tepav<br>☰<br>X<br>tepav<br>The Economic Policy Research Foundation of Turkiye<br>Platforms<br>Economic Studies Program<br>Geoeconomic Studies Center<br>Macroeconomic Studies<br>Center for Studies on Fiscal and Monetary Policy<br>Center for Multilateral Trade Studies (MUTS)<br>Foreign Policy Program<br>Center for EU Studies<br>G20 Studies Center<br>Sustainability Governance<br>Center for Impact Assessment<br>Innovation Studies Program<br>Urban Studies<br>Center for Governance Studies<br>Legal Studies Center<br>Institute of Middle East and Central Asian Studies<br>Events<br>News<br>Blog<br>Researches<br>Media<br>Videos<br>Podcasts<br>Bulletin<br>Newsletters<br>Fiscal Monitoring<br>Turkey Policy Brief Series<br>Employment Monitoring Bulle<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='http://www.tepav.org.tr/en' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.tepav.org.tr/en</guid>
-      <pubDate>Tue, 21 Jul 2026 13:21:03 +0800</pubDate>
+      <title><![CDATA[[Center for Economics and Foreign Policy Studies (EDAM) --Turkey] Dış Politika & Güvenlik]]></title>
+      <link>http://edam.org.tr/dis-politika-ve-guvenlik</link>
+      <description><![CDATA[Dış Politika & Güvenlik]]></description>
+      <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='http://edam.org.tr/dis-politika-ve-guvenlik' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://edam.org.tr/dis-politika-ve-guvenlik</guid>
+      <pubDate>Tue, 21 Jul 2026 13:33:50 +0800</pubDate>
     </item>
   </channel>
 </rss>

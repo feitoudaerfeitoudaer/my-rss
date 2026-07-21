@@ -1,107 +1,58 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:content="http://purl.org">
   <channel>
-    <title><![CDATA[智库全文订阅-Switzerland]]></title>
+    <title><![CDATA[智库深度全文订阅-Switzerland]]></title>
     <link>https://github.io_Switzerland.xml</link>
-    <description><![CDATA[自动抓取的 [Switzerland] 智库文章全文摘要（全量无损版）]]></description>
+    <description><![CDATA[自动透传的 [Switzerland] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 13:21:40 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 13:34:52 +0800</lastBuildDate>
     <item>
-      <title><![CDATA[[World Economic Forum (WEF) --Switzerland] Access Denied]]></title>
-      <link>http://www.weforum.org/</link>
-      <description><![CDATA[Access Denied
-You don't have permission to access "http://www.weforum.org/" on this server.
-Reference #18.ea72cd17.1784640044.324da015
-https://errors.edgesuite.net/18.ea72cd17.1784640044.324da015...]]></description>
-      <content:encoded><![CDATA[<div><p>Access Denied<br>You don't have permission to access "http://www.weforum.org/" on this server.<br>Reference #18.ea72cd17.1784640044.324da015<br>https://errors.edgesuite.net/18.ea72cd17.1784640044.324da015</p><br><hr><p><a href='http://www.weforum.org/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.weforum.org/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:44 +0800</pubDate>
+      <title><![CDATA[[International Strategic Research Organization (USAK) --Turkey] Accessibility Statement]]></title>
+      <link>https://css.ethz.ch/en/services/css-partners/partner.html/113237/en/footer/accessibility-statement.html</link>
+      <description><![CDATA[Accessibility Statement]]></description>
+      <content:encoded><![CDATA[<div><p>Page not found<br>The page you want to visit cannot be displayed. This could happen for one of the following reasons:<br>the bookmark used is no longer valid<br>the page has been renamed or removed<br>the address/URL entered is invalid<br>Please use our<br>homepage<br>or the<br>search<br>to find the content you are looking for.<br>Helpful links<br>chevron_right<br>ETH Zurich homepage<br>chevron_right<br>Search<br>chevron_right<br>Contact</p><br><hr><p><a href='https://css.ethz.ch/en/services/css-partners/partner.html/113237/en/footer/accessibility-statement.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://css.ethz.ch/en/services/css-partners/partner.html/113237/en/footer/accessibility-statement.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:33:43 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Geneva Centre for Security Policy --Switzerland] The International Security and Military Implications of Agentic AI]]></title>
-      <link>http://www.gcsp.ch/</link>
-      <description><![CDATA[...]]></description>
-      <content:encoded><![CDATA[<div><p></p><br><hr><p><a href='http://www.gcsp.ch/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://www.gcsp.ch/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:47 +0800</pubDate>
+      <title><![CDATA[[International Strategic Research Organization (USAK) --Turkey] Disclaimer & Copyright]]></title>
+      <link>https://css.ethz.ch/en/services/css-partners/partner.html/113237/en/footer/disclaimer-copyright.html</link>
+      <description><![CDATA[Disclaimer & Copyright]]></description>
+      <content:encoded><![CDATA[<div><p>Page not found<br>The page you want to visit cannot be displayed. This could happen for one of the following reasons:<br>the bookmark used is no longer valid<br>the page has been renamed or removed<br>the address/URL entered is invalid<br>Please use our<br>homepage<br>or the<br>search<br>to find the content you are looking for.<br>Helpful links<br>chevron_right<br>ETH Zurich homepage<br>chevron_right<br>Search<br>chevron_right<br>Contact</p><br><hr><p><a href='https://css.ethz.ch/en/services/css-partners/partner.html/113237/en/footer/disclaimer-copyright.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://css.ethz.ch/en/services/css-partners/partner.html/113237/en/footer/disclaimer-copyright.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:33:43 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Avenir Suisse --Switzerland] Avenir Suisse]]></title>
-      <link>https://www.avenir-suisse.ch/en/</link>
-      <description><![CDATA[The Unintended Consequences of Premium Subsidies in Health Insurance
-Individual premium subsidies are intended as a social policy tool for low-income households. Yet they also create incentives for be...]]></description>
-      <content:encoded><![CDATA[<div><p>The Unintended Consequences of Premium Subsidies in Health Insurance<br>Individual premium subsidies are intended as a social policy tool for low-income households. Yet they also create incentives for beneficiaries to choose lower deductibles and, as a result, consume more medical services than may be necessary.<br>15.07.2026<br>,<br>Diego Taboada, <br>          Emilie Dousse</p><br><hr><p><a href='https://www.avenir-suisse.ch/en/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://www.avenir-suisse.ch/en/</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:48 +0800</pubDate>
+      <title><![CDATA[[South-Caucasus Institute of Regional Security (SCIRS) --Georgia] Accessibility Statement]]></title>
+      <link>https://css.ethz.ch/en/services/css-partners/partner.html/48792/en/footer/accessibility-statement.html</link>
+      <description><![CDATA[Accessibility Statement]]></description>
+      <content:encoded><![CDATA[<div><p>Page not found<br>The page you want to visit cannot be displayed. This could happen for one of the following reasons:<br>the bookmark used is no longer valid<br>the page has been renamed or removed<br>the address/URL entered is invalid<br>Please use our<br>homepage<br>or the<br>search<br>to find the content you are looking for.<br>Helpful links<br>chevron_right<br>ETH Zurich homepage<br>chevron_right<br>Search<br>chevron_right<br>Contact</p><br><hr><p><a href='https://css.ethz.ch/en/services/css-partners/partner.html/48792/en/footer/accessibility-statement.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://css.ethz.ch/en/services/css-partners/partner.html/48792/en/footer/accessibility-statement.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:34:37 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Geneva Centre for the Democratic Control of Armed Forces (DCAF) --Switzerland] Main navigation]]></title>
-      <link>https://www.dcaf.ch</link>
-      <description><![CDATA[Latest Episode
-Can AI be beneficial to justice systems in countries in conflict?
-In this episode, we speak to Prateek Sibal, who works in artificial intelligence and digital transformation at UNESCO.
-...]]></description>
-      <content:encoded><![CDATA[<div><p>Latest Episode<br>Can AI be beneficial to justice systems in countries in conflict?<br>In this episode, we speak to Prateek Sibal, who works in artificial intelligence and digital transformation at UNESCO.<br>Shaping Security:<br>The podcast that puts security governance at the heart of the conversation, offering you a clear and accessible way to understand today’s security challenges and what is truly at stake.<br>Follow on Spotify</p><br><hr><p><a href='https://www.dcaf.ch' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://www.dcaf.ch</guid>
-      <pubDate>Tue, 21 Jul 2026 13:20:48 +0800</pubDate>
+      <title><![CDATA[[South-Caucasus Institute of Regional Security (SCIRS) --Georgia] Disclaimer & Copyright]]></title>
+      <link>https://css.ethz.ch/en/services/css-partners/partner.html/48792/en/footer/disclaimer-copyright.html</link>
+      <description><![CDATA[Disclaimer & Copyright]]></description>
+      <content:encoded><![CDATA[<div><p>Page not found<br>The page you want to visit cannot be displayed. This could happen for one of the following reasons:<br>the bookmark used is no longer valid<br>the page has been renamed or removed<br>the address/URL entered is invalid<br>Please use our<br>homepage<br>or the<br>search<br>to find the content you are looking for.<br>Helpful links<br>chevron_right<br>ETH Zurich homepage<br>chevron_right<br>Search<br>chevron_right<br>Contact</p><br><hr><p><a href='https://css.ethz.ch/en/services/css-partners/partner.html/48792/en/footer/disclaimer-copyright.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://css.ethz.ch/en/services/css-partners/partner.html/48792/en/footer/disclaimer-copyright.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:34:37 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[International Strategic Research Organization (USAK) --Turkey] Page not found]]></title>
-      <link>https://css.ethz.ch/en/services/css-partners/partner.html/113237</link>
-      <description><![CDATA[Page not found
-The page you want to visit cannot be displayed. This could happen for one of the following reasons:
-the bookmark used is no longer valid
-the page has been renamed or removed
-the address...]]></description>
-      <content:encoded><![CDATA[<div><p>Page not found<br>The page you want to visit cannot be displayed. This could happen for one of the following reasons:<br>the bookmark used is no longer valid<br>the page has been renamed or removed<br>the address/URL entered is invalid<br>Please use our<br>homepage<br>or the<br>search<br>to find the content you are looking for.<br>Helpful links<br>chevron_right<br>ETH Zurich homepage<br>chevron_right<br>Search<br>chevron_right<br>Contact<br>Footer<br>Resources<br>Sitemap<br>Imprint<br>Accessibility Statement<br>Disclaimer & Copyright<br>Data protection<br>© 2026<br>Eidgenössische Technische Hochschule Zürich</p><br><hr><p><a href='https://css.ethz.ch/en/services/css-partners/partner.html/113237' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://css.ethz.ch/en/services/css-partners/partner.html/113237</guid>
-      <pubDate>Tue, 21 Jul 2026 13:21:01 +0800</pubDate>
+      <title><![CDATA[[Institute for Public Policy (IPP) --Kyrgyzstan] Accessibility Statement]]></title>
+      <link>https://css.ethz.ch/en/services/css-partners/partner.html/32352/en/footer/accessibility-statement.html</link>
+      <description><![CDATA[Accessibility Statement]]></description>
+      <content:encoded><![CDATA[<div><p>Page not found<br>The page you want to visit cannot be displayed. This could happen for one of the following reasons:<br>the bookmark used is no longer valid<br>the page has been renamed or removed<br>the address/URL entered is invalid<br>Please use our<br>homepage<br>or the<br>search<br>to find the content you are looking for.<br>Helpful links<br>chevron_right<br>ETH Zurich homepage<br>chevron_right<br>Search<br>chevron_right<br>Contact</p><br><hr><p><a href='https://css.ethz.ch/en/services/css-partners/partner.html/32352/en/footer/accessibility-statement.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://css.ethz.ch/en/services/css-partners/partner.html/32352/en/footer/accessibility-statement.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:34:40 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[6. Agroscope – Switzerland] Seite nicht gefunden]]></title>
-      <link>https://www.agroscope.admin.ch/agroscope/en/home/about-us/agroscope.html</link>
-      <description><![CDATA[Zum Hauptinhalt springen
-Alle Schweizer Bundesbehörden
-Sprach Dropdown Deutsch ausgewählt
-DE
-FR
-IT
-EN
-Agroscope
-Agroscope
-Agroscope
-Suche
-Suche
-Publikationen suchen
-Mitarbeitende suchen
-Seite nicht ge...]]></description>
-      <content:encoded><![CDATA[<div><p>Zum Hauptinhalt springen<br>Alle Schweizer Bundesbehörden<br>Sprach Dropdown Deutsch ausgewählt<br>DE<br>FR<br>IT<br>EN<br>Agroscope<br>Agroscope<br>Agroscope<br>Suche<br>Suche<br>Publikationen suchen<br>Mitarbeitende suchen<br>Seite nicht gefunden<br>Die aufgerufene Seite wurde leider nicht gefunden.<br>Möglicherweise haben Sie eine falsche Adresse (URL) eingegeben, die Seite existiert nicht mehr oder der Name wurde geändert.<br>Infolge des Relaunch der Agroscope-Website funktionieren zur Zeit vereinzelte Links von Suchmaschinen oder anderen Webseiten nicht mehr. Wir bitten Sie um Geduld, bis die Suchmaschinen den Index erneuert haben, bzw. die Verlinkungen von externen Seiten angepasst wurden.<br>Informationen zu einzelnen Themengebieten<br>Pflanzenbau<br>Lebensmittel<br>Nutztiere<br>Umwelt und Ressourcen<br>Wirtschaft und Technik<br>Informationen zu Publikationen<br>Publikationssuche<br>Reihen und Zeitschriften<br>Fachvideos<br>Apps, Web-Apps und Software<br>Informationen zur Organisation von Agroscope<br>Geschäftsleitung und Organigramm<br>Forschungsbereiche und Forschungsgruppen<br>Versuchsstationen<br>Arbeitsprogramm 2026-2029<br>Standorte und Kontakte<br>Mitarbeitende von Agroscope<br>Schweizer Nationalgestüt SNG<br>Agroscope<br>Agroscope ist das Kompetenzzentrum des Bundes für die landwirtschaftliche Forschung und ist dem Bundesamt für Landwirtschaft (BLW) angegliedert. Agroscope leistet einen bedeutenden Beitrag für eine nachhaltige Land- und Ernährungswirtschaft sowie eine intakte Umwelt und trägt damit zur Verbesserung der Lebensqualität bei.<br>© Agroscope<br>Informiert bleiben<br>X<br>I<br><br>...(报告正文较长已自动隐藏后半部分)...</p><br><hr><p><a href='https://www.agroscope.admin.ch/agroscope/en/home/about-us/agroscope.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://www.agroscope.admin.ch/agroscope/en/home/about-us/agroscope.html</guid>
-      <pubDate>Tue, 21 Jul 2026 13:21:19 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[South-Caucasus Institute of Regional Security (SCIRS) --Georgia] Page not found]]></title>
-      <link>https://css.ethz.ch/en/services/css-partners/partner.html/48792</link>
-      <description><![CDATA[Page not found
-The page you want to visit cannot be displayed. This could happen for one of the following reasons:
-the bookmark used is no longer valid
-the page has been renamed or removed
-the address...]]></description>
-      <content:encoded><![CDATA[<div><p>Page not found<br>The page you want to visit cannot be displayed. This could happen for one of the following reasons:<br>the bookmark used is no longer valid<br>the page has been renamed or removed<br>the address/URL entered is invalid<br>Please use our<br>homepage<br>or the<br>search<br>to find the content you are looking for.<br>Helpful links<br>chevron_right<br>ETH Zurich homepage<br>chevron_right<br>Search<br>chevron_right<br>Contact<br>Footer<br>Resources<br>Sitemap<br>Imprint<br>Accessibility Statement<br>Disclaimer & Copyright<br>Data protection<br>© 2026<br>Eidgenössische Technische Hochschule Zürich</p><br><hr><p><a href='https://css.ethz.ch/en/services/css-partners/partner.html/48792' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://css.ethz.ch/en/services/css-partners/partner.html/48792</guid>
-      <pubDate>Tue, 21 Jul 2026 13:21:31 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Institute for Public Policy (IPP) --Kyrgyzstan] Page not found]]></title>
-      <link>https://css.ethz.ch/en/services/css-partners/partner.html/32352</link>
-      <description><![CDATA[Page not found
-The page you want to visit cannot be displayed. This could happen for one of the following reasons:
-the bookmark used is no longer valid
-the page has been renamed or removed
-the address...]]></description>
-      <content:encoded><![CDATA[<div><p>Page not found<br>The page you want to visit cannot be displayed. This could happen for one of the following reasons:<br>the bookmark used is no longer valid<br>the page has been renamed or removed<br>the address/URL entered is invalid<br>Please use our<br>homepage<br>or the<br>search<br>to find the content you are looking for.<br>Helpful links<br>chevron_right<br>ETH Zurich homepage<br>chevron_right<br>Search<br>chevron_right<br>Contact<br>Footer<br>Resources<br>Sitemap<br>Imprint<br>Accessibility Statement<br>Disclaimer & Copyright<br>Data protection<br>© 2026<br>Eidgenössische Technische Hochschule Zürich</p><br><hr><p><a href='https://css.ethz.ch/en/services/css-partners/partner.html/32352' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://css.ethz.ch/en/services/css-partners/partner.html/32352</guid>
-      <pubDate>Tue, 21 Jul 2026 13:21:32 +0800</pubDate>
+      <title><![CDATA[[Institute for Public Policy (IPP) --Kyrgyzstan] Disclaimer & Copyright]]></title>
+      <link>https://css.ethz.ch/en/services/css-partners/partner.html/32352/en/footer/disclaimer-copyright.html</link>
+      <description><![CDATA[Disclaimer & Copyright]]></description>
+      <content:encoded><![CDATA[<div><p>Page not found<br>The page you want to visit cannot be displayed. This could happen for one of the following reasons:<br>the bookmark used is no longer valid<br>the page has been renamed or removed<br>the address/URL entered is invalid<br>Please use our<br>homepage<br>or the<br>search<br>to find the content you are looking for.<br>Helpful links<br>chevron_right<br>ETH Zurich homepage<br>chevron_right<br>Search<br>chevron_right<br>Contact</p><br><hr><p><a href='https://css.ethz.ch/en/services/css-partners/partner.html/32352/en/footer/disclaimer-copyright.html' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://css.ethz.ch/en/services/css-partners/partner.html/32352/en/footer/disclaimer-copyright.html</guid>
+      <pubDate>Tue, 21 Jul 2026 13:34:40 +0800</pubDate>
     </item>
   </channel>
 </rss>
