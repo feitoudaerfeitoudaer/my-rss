@@ -7,34 +7,37 @@ on:
     branches:
       - main
   schedule:
+    # UTC时区，每20分钟执行一次；注意和北京时间时差+8h
     - cron: '*/20 * * * *'
+  # 支持网页手动点击运行调试
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    timeout-minutes: 6
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v4 
+      - name: Checkout code
+        uses: actions/checkout@v4
 
-    - name: Set up Python
-      uses: actions/setup-python@v5
-      with:
-        python-version: '3.12'
-        cache: 'pip'
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: 'pip'
 
-    - name: Install dependencies
-      run: |
-        python -m pip install --upgrade pip
-        pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-    - name: Run RSS Script
-      run: python 内容rss.py
+      - name: Run RSS Script
+        run: python 内容rss.py
 
-    - name: Commit and Push changes
-      run: |
-        git config --global user.name "GitHub Actions"
-        git config --global user.email "actions@github.com"
-        git add rss_*.xml
-        git diff --cached --quiet || git commit -m "自动更新多国智库内容 [$(date '+%Y-%m-%d %H:%M:%S')]"
-        git push
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+          git add rss_*.xml
+          git diff --cached --quiet || git commit -m "自动更新多国智库内容 [$(date '+%Y-%m-%d %H:%M:%S')]"
+          git push
