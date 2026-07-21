@@ -167,6 +167,7 @@ def ping_feedly_websub(feed_url):
     }
     try:
         res = requests.post(hub_url, data=data, timeout=5)
+        # 只要服务器返回 200 或 204 都代表 Google 枢纽成功接收了推送请求
         if res.status_code in:
             print(f"   📢 [WebSub广播] 成功通知 Google 枢纽中心，Feedly 将在数秒内同步: {feed_url}")
         else:
