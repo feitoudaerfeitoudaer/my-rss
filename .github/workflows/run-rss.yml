@@ -1,0 +1,43 @@
+name: 自动实时抓取智库 RSS
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    # 定时任务：每 2 小时自动运行一次 (可以根据需求修改)
+    - cron: '0 */2 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    # 1. 检查并下载仓库代码
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    # 2. 安装 Python 环境
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.12'
+
+    # 3. 安装脚本需要的依赖库
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+
+    # 4. 运行你的 Python 抓取脚本
+    - name: Run RSS Script
+      run: python 内容rss.py
+
+    # 5. 自动将新生成的 rss.xml 提交并推送到 GitHub 仓库
+    - name: Commit and Push changes
+      run: |
+        git config --global user.name "GitHub Actions"
+        git config --global user.email "actions@github.com"
+        git add rss.xml
+        git commit -m "自动更新智库内容 [$(date '+%Y-%m-%d %H:%M:%S')]" || exit 0
+        git push
