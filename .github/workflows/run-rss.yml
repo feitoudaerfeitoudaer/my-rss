@@ -1,5 +1,4 @@
 name: 自动实时抓取智库 RSS
-# 权限提前开启，解决git push推送失败
 permissions:
   contents: write
 
@@ -8,49 +7,34 @@ on:
     branches:
       - main
   schedule:
-    # ⚠️ cron 为UTC时区！！！
-    # */20 * * * * = UTC每20分钟（北京时间需要+8小时）
     - cron: '*/20 * * * *'
-  # 增加手动运行按钮，方便调试
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    # 如果自备代理，可以在这里注入环境变量
-    # env:
-    #   HTTP_PROXY: ${{ secrets.PROXY_URL }}
-    #   HTTPS_PROXY: ${{ secrets.PROXY_URL }}
-    #   NO_PROXY: localhost,127.0.0.1
-
     steps:
-    # 1. 拉取仓库代码
     - name: Checkout code
       uses: actions/checkout@v4 
 
-    # 2. Python环境
     - name: Set up Python
       uses: actions/setup-python@v5
       with:
         python-version: '3.12'
-        cache: 'pip'  # ✅ 新增：缓存pip依赖，每次运行不用重复下载库，大幅节约启动时间
+        cache: 'pip'
 
-    # 3. 安装依赖（自动读取requirements.txt，包含lxml）
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
         pip install -r requirements.txt -i https://pypi.tuna.tsinghua.edu.cn/simple
 
-    # 4. 运行爬虫脚本
     - name: Run RSS Script
       run: python 内容rss.py
 
-    # 5. 提交更新RSS文件
     - name: Commit and Push changes
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
         git add rss_*.xml
-        # 没有文件变更直接退出，不产生空commit
         git diff --cached --quiet || git commit -m "自动更新多国智库内容 [$(date '+%Y-%m-%d %H:%M:%S')]"
         git push
