@@ -2,43 +2,43 @@
 <rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-RepublicofKorea]]></title>
-    <link>https://feitoudaerfeitoudaer.github.io/rss_RepublicofKorea.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/my-rss/rss_RepublicofKorea.xml</link>
     <atom:link href="http://appspot.com" rel="hub" />
-    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_RepublicofKorea.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/my-rss/rss_RepublicofKorea.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [RepublicofKorea] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
-    <item>
-      <title><![CDATA[[74. Korea Economic Research Institute --Republic of Korea] Korea Policy]]></title>
-      <link>http://keia.org/publication-series/korea-policy/</link>
-      <description><![CDATA[Korea Policy]]></description>
-      <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='http://keia.org/publication-series/korea-policy/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://keia.org/publication-series/korea-policy/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:06:49 +0800</pubDate>
-    </item>
+    <lastBuildDate>Tue, 21 Jul 2026 14:13:57 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[74. Korea Economic Research Institute --Republic of Korea] Upcoming Events]]></title>
       <link>http://keia.org/upcoming-events/</link>
       <description><![CDATA[Upcoming Events]]></description>
-      <content:encoded><![CDATA[<div><p>727 Korean War Veterans Armistice Day Commemoration<br>Jul 21, 2026 • 6:00 PM ET<br>Cannon Caucus Room<br>Register</p><br><hr><p><a href='http://keia.org/upcoming-events/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>727 Korean War Veterans Armistice Day Commemoration</p><p>Jul 21, 2026 • 6:00 PM ET</p><p>Cannon Caucus Room</p><p>Register</p><br><hr><p><a href='http://keia.org/upcoming-events/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://keia.org/upcoming-events/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:06:50 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:13:18 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[91. Korea Foundation --Republic of Korea] Korean Studies]]></title>
-      <link>https://en.kf.or.kr/?menuno=3779/kfEng/na/ntt/selectDgtlInfoList.do?dgtlType=K&amp;mi=2113</link>
-      <description><![CDATA[Korean Studies]]></description>
-      <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://en.kf.or.kr/?menuno=3779/kfEng/na/ntt/selectDgtlInfoList.do?dgtlType=K&mi=2113' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://en.kf.or.kr/?menuno=3779/kfEng/na/ntt/selectDgtlInfoList.do?dgtlType=K&amp;mi=2113</guid>
-      <pubDate>Tue, 21 Jul 2026 14:06:56 +0800</pubDate>
+      <title><![CDATA[[74. Korea Economic Research Institute --Republic of Korea] U.S. Exports to KoreaInteractive explorer showing the impact of the KORUS FTA on U.S. merchandise exports to Korea.Explore Data]]></title>
+      <link>http://keia.org/us-exports-korea/</link>
+      <description><![CDATA[U.S. Exports to KoreaInteractive explorer showing the impact of the KORUS FTA on U.S. merchandise exports to Korea.Explore Data]]></description>
+      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>Interactive trade data explorer showing the impact of the KORUS FTA on U.S. exports. Since the agreement became operational in March 2012, U.S. exports of merchandise goods and services to Korea have increased significantly.</p><p>Loading map...</p><p>Data shows the impact of the KORUS FTA on U.S. exports since March 2012.</p><p>Explore trade impact by U.S. congressional district</p><p>Access comprehensive Korean economic indicators</p><br><hr><p><a href='http://keia.org/us-exports-korea/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">http://keia.org/us-exports-korea/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:13:19 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[91. Korea Foundation --Republic of Korea] Global Networking]]></title>
       <link>https://en.kf.or.kr/?menuno=3779/kfEng/na/ntt/selectDgtlInfoList.do?dgtlType=N&amp;mi=2112</link>
       <description><![CDATA[Global Networking]]></description>
-      <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://en.kf.or.kr/?menuno=3779/kfEng/na/ntt/selectDgtlInfoList.do?dgtlType=N&mi=2112' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>12th Korea-China Public Diplomacy Forum Held</p><p>2026 KF Global e-School Invitational Training Program for Korean Language Instructors</p><p>KF Supports Korean Art Symposium at the Art Institute of Chicago</p><p>KF Hosts Session at 21st Jeju Forum</p><p>Jul 07, 2026</p><p>Jul 01, 2026</p><p>Jun 30, 2026</p><p>Apr 29, 2026</p><p>Jul 28, 2026 - Jul 28, 2026</p><p>Jul 28, 2026 - Sep 11, 2026</p><p>Mar 31, 2026 - Jul 31, 2026</p><p>Mar 25, 2026 - Aug 30, 2026</p><p>#Arts#KF#Seminar#KOREA</p><br><hr><p><a href='https://en.kf.or.kr/?menuno=3779/kfEng/na/ntt/selectDgtlInfoList.do?dgtlType=N&mi=2112' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://en.kf.or.kr/?menuno=3779/kfEng/na/ntt/selectDgtlInfoList.do?dgtlType=N&amp;mi=2112</guid>
-      <pubDate>Tue, 21 Jul 2026 14:06:59 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:13:26 +0800</pubDate>
+    </item>
+    <item>
+      <title><![CDATA[[91. Korea Foundation --Republic of Korea] Public Participation]]></title>
+      <link>https://en.kf.or.kr/?menuno=3779/kfEng/na/ntt/selectDgtlInfoList.do?dgtlType=C&amp;mi=2116</link>
+      <description><![CDATA[Public Participation]]></description>
+      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>12th Korea-China Public Diplomacy Forum Held</p><p>2026 KF Global e-School Invitational Training Program for Korean Language Instructors</p><p>KF Supports Korean Art Symposium at the Art Institute of Chicago</p><p>KF Hosts Session at 21st Jeju Forum</p><p>Jul 07, 2026</p><p>Jul 01, 2026</p><p>Jun 30, 2026</p><p>Apr 29, 2026</p><p>Jul 28, 2026 - Jul 28, 2026</p><p>Jul 28, 2026 - Sep 11, 2026</p><p>Mar 31, 2026 - Jul 31, 2026</p><p>Mar 25, 2026 - Aug 30, 2026</p><p>#Arts#KF#Seminar#KOREA</p><br><hr><p><a href='https://en.kf.or.kr/?menuno=3779/kfEng/na/ntt/selectDgtlInfoList.do?dgtlType=C&mi=2116' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://en.kf.or.kr/?menuno=3779/kfEng/na/ntt/selectDgtlInfoList.do?dgtlType=C&amp;mi=2116</guid>
+      <pubDate>Tue, 21 Jul 2026 14:13:29 +0800</pubDate>
     </item>
   </channel>
 </rss>

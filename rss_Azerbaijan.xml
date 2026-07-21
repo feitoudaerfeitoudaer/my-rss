@@ -2,27 +2,19 @@
 <rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Azerbaijan]]></title>
-    <link>https://feitoudaerfeitoudaer.github.io/rss_Azerbaijan.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/my-rss/rss_Azerbaijan.xml</link>
     <atom:link href="http://appspot.com" rel="hub" />
-    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Azerbaijan.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/my-rss/rss_Azerbaijan.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Azerbaijan] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:13:57 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[Economic Research Center (ERC) --Azerbaijan] Məsuliyyətli oyun]]></title>
       <link>http://erc.az/az/#responsible-gambling/</link>
       <description><![CDATA[Məsuliyyətli oyun]]></description>
-      <content:encoded><![CDATA[<div><p>idman<br>bonus<br>Maksimum<br>%160<br>BONUSU AL VƏ MƏRC ET</p><br><hr><p><a href='http://erc.az/az/#responsible-gambling/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>Pinco Casino istifadəçilərə onlayn kazino oyunları və mərc seçimləri təqdim edən platformadır. Sadə və anlaşılan Azərbaycan dilli interfeys sayəsində saytda bölmələr arasında rahat keçid etmək mümkündür. Hesab AZN valyutası ilə yaradıla bilər, depozit və vəsaitin çıxarılması isə Azərbaycanda geniş istifadə olunan bank kartları, elektron ödəniş xidmətləri və bank köçürməsi kimi üsullarla həyata keçirilir.</p><p>Platformada yeni istifadəçilər üçün bonus təklifləri və 250 Free Spin kimi kampaniyalar təqdim oluna bilər. Aktiv oyunçular oyun prosesində Pincoins xalları toplayaraq əlavə üstünlüklərdən yararlana bilirlər. Slotlar, canlı kazino və idman mərcləri bir saytda cəmlənib. Pinco-dan kompüter, smartfon və ya planşet üzərindən rahat istifadə etmək mümkündür.</p><p>Tematik bölmələr</p><p>6000-dən çox populyar slot oyunu</p><p>Bananza Billion</p><p>Mad Hit Supernova</p><p>Juicy Fruits Sunshine Rich</p><p>Aztec Clusters</p><p>9 Coins Grand Platinum</p><p>Pinco Casino Azərbaycandan qoşulan istifadəçilər üçün depozit və çıxarış prosesini sadə və rahat formada təqdim edir. Əməliyyatlar AZN ilə aparılır ki, bu da balansın idarə olunmasını daha aydın edir. Platforma ödəniş təhlükəsizliyinə diqqət yetirir və əməliyyatların əksəriyyəti əlavə gizli komissiya olmadan icra olunur. Çıxarış müddəti seçilən üsuldan və hesab yoxlamasından asılı olaraq dəyişə bilər, lakin bir çox sorğu qısa müddətdə emal edilir.</p><br><hr><p><a href='http://erc.az/az/#responsible-gambling/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">http://erc.az/az/#responsible-gambling/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:07:12 +0800</pubDate>
-    </item>
-    <item>
-      <title><![CDATA[[Economic Research Center (ERC) --Azerbaijan] Kuki siyasəti]]></title>
-      <link>http://erc.az/az/#cookie-policy/</link>
-      <description><![CDATA[Kuki siyasəti]]></description>
-      <content:encoded><![CDATA[<div><p>idman<br>bonus<br>Maksimum<br>%160<br>BONUSU AL VƏ MƏRC ET</p><br><hr><p><a href='http://erc.az/az/#cookie-policy/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">http://erc.az/az/#cookie-policy/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:07:13 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:13:40 +0800</pubDate>
     </item>
   </channel>
 </rss>

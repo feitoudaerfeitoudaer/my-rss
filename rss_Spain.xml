@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:content="http://purl.org" xmlns:atom="http://w3.org">
   <channel>
     <title><![CDATA[智库深度全文订阅-Spain]]></title>
-    <link>https://feitoudaerfeitoudaer.github.io/rss_Spain.xml</link>
+    <link>https://feitoudaerfeitoudaer.github.io/my-rss/rss_Spain.xml</link>
     <atom:link href="http://appspot.com" rel="hub" />
-    <atom:link href="https://feitoudaerfeitoudaer.github.io/rss_Spain.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://feitoudaerfeitoudaer.github.io/my-rss/rss_Spain.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Spain] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:07:24 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:13:57 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[Instituto Juan de Mariana --Spain] Acerca del Juan de Mariana]]></title>
       <link>https://juandemariana.org/acerca/</link>
       <description><![CDATA[Acerca del Juan de Mariana]]></description>
-      <content:encoded><![CDATA[<div><p>未能自动提取到详细正文，请点击下方链接直接访问智库官网阅读。</p><br><hr><p><a href='https://juandemariana.org/acerca/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://juandemariana.org/acerca/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://juandemariana.org/acerca/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:05:51 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:12:34 +0800</pubDate>
     </item>
     <item>
-      <title><![CDATA[[Instituto Juan de Mariana --Spain] Investigación]]></title>
-      <link>https://juandemariana.org/investigacion/</link>
-      <description><![CDATA[Investigación]]></description>
-      <content:encoded><![CDATA[<div><p>El precio de sostener el castrismo<br>España ha ‘rescatado’ a la sanguinaria dictadura cubana con casi 5.000 millones de euros de ayuda financiera Un nuevo informe del Instituto Juan de Mariana, titulado “El coste de sostener el castrismo”, cuantifica en cerca de 5.000 millones de euros la ayuda financiera prestada por el gobierno español a la tiranía cubana. Estas medidas de alivio se están intensificando en los últimos años, bajo mandato de Pedro Sánchez, contribuyendo a<br>Ver más »</p><br><hr><p><a href='https://juandemariana.org/investigacion/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
-      <guid isPermaLink="true">https://juandemariana.org/investigacion/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:05:52 +0800</pubDate>
+      <title><![CDATA[[Instituto Juan de Mariana --Spain] El precio de sostener el castrismo]]></title>
+      <link>https://juandemariana.org/el-precio-de-sostener-el-castrismo/</link>
+      <description><![CDATA[El precio de sostener el castrismo]]></description>
+      <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://juandemariana.org/el-precio-de-sostener-el-castrismo/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
+      <guid isPermaLink="true">https://juandemariana.org/el-precio-de-sostener-el-castrismo/</guid>
+      <pubDate>Tue, 21 Jul 2026 14:12:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
