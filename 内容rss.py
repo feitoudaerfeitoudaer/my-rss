@@ -5,7 +5,6 @@ from rfeed import Item, Feed, Guid
 import datetime
 import urllib3
 import ssl
-import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 # 1. 禁用 SSL 警告提示
@@ -23,10 +22,10 @@ class CustomSSLAdapter(requests.adapters.HTTPAdapter):
 # 3. 读取 Excel 文件
 df = pd.read_excel("penn_library_deduplicated_think_tanks.xlsx") 
 
-# 【重要：请确保你的 Excel 里有“国家”这一列。如果列名叫 'Country'，请把下面的 '国家' 改成 'Country'】
-country_column = '国家' 
+# 🌟【精准对齐】：使用你最新修改的 Excel 列名“描述”来进行国家区分
+country_column = '描述' 
 
-# 如果表格里没有写国家，或者有空值，默认归类到“其他”
+# 如果表格里对应的国家是空值，默认归类到“其他”
 df[country_column] = df[country_column].fillna('其他').astype(str).str.strip()
 
 # 4. 初始化特殊的网络连接器
@@ -35,6 +34,7 @@ adapter = CustomSSLAdapter()
 session.mount('https://', adapter)
 session.mount('http://', adapter)
 
+# 自动配置本地代理端口（在 GitHub 云端会自动切换直连）
 proxies = {
     'http': 'http://127.0.0.1:6917',
     'https': 'http://127.0.0.1:6917'
@@ -44,7 +44,7 @@ proxies = {
 def fetch_single_site(row):
     site_name = row['网站名称']
     site_url = row['网站链接']
-    country = row[country_column] # 获取该网站所属国家
+    country = row[country_column] # 获取该网站在“描述”栏里填写的国家
     
     headers = {
         'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
@@ -77,16 +77,16 @@ def fetch_single_site(row):
                 guid = Guid(site_url),
                 pubDate = datetime.datetime.now()
             )
-            # 除了返回结果，顺便把国家标签也带回去
+            # 返回国家标签和抓取到的文章内容
             return (country, item)
     except Exception as e:
-        print(f"   ❌ 抓取网站 {site_name} 失败: {e}")
+        pass # 抓取失败时直接跳过，不干扰多线程大部队
     return None
 
-# 5. 【多线程高速抓取】
+# 5. 【多线程高速抓取区域】
 print(f"🚀 开始多线程并发抓取，总计 {len(df)} 个智库网站...")
 
-# 按国家建立一个空字典，用来对抓取到的文章进行分类整理
+# 创建一个字典，用来对抓取到的文章按国家进行分类整理
 country_feeds = {}
 
 with ThreadPoolExecutor(max_workers=30) as executor:
@@ -101,11 +101,11 @@ with ThreadPoolExecutor(max_workers=30) as executor:
             country_feeds[country].append(item)
             print(f"   ✅ [属地:{country}] 成功抓取: {item.title[:20]}...")
 
-# 6. 【核心：按国别分流打包生成多个 XML 文件】
-print("\n📦 开始按国别打包分流 RSS 文件...")
+# 6. 【按国别分流打包生成多个 XML 文件】
+print("\n📦 开始按国别（描述栏）打包分流 RSS 文件...")
 
 for country, items in country_feeds.items():
-    # 限制每个国家最多只放最新的 100 条全文（双重保险，防止单一国家文章过多导致文件再次超标）
+    # 限制每个国家最多只放最新的 100 条全文（双重保险，将单个 XML 文件体积死死卡在 1MB 以内以兼容 Feedly）
     safe_items = items[:100]
     
     feed = Feed(
@@ -117,8 +117,12 @@ for country, items in country_feeds.items():
         items = safe_items
     )
     
-    # 将文件名命名为类似 rss_美国.xml, rss_英国.xml 的格式
-    filename = f"rss_{country}.xml"
+    # 清洗国家名称中可能存在的特殊字符，防止文件名非法
+    safe_country_name = "".join([c for c in country if c.isalpha() or c.isdigit() or c=='_']).strip()
+    if not safe_country_name:
+        safe_country_name = "Other"
+        
+    filename = f"rss_{safe_country_name}.xml"
     with open(filename, "w", encoding="utf-8") as f:
         f.write(feed.rss())
     print(f"   💾 成功生成分流文件: {filename} (包含 {len(safe_items)} 条文章全文)")
