@@ -1,7 +1,7 @@
-pandas
-openpyxl
-requests
-beautifulsoup4
-rfeed
-curl_cffi
-feedgen
+# 爬虫全部依赖，云端自动安装 lxml实现网页提速解析
+pandas>=2.2.0
+requests>=2.32.0
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
+openpyxl>=3.1.0
+urllib3>=2.0.0
