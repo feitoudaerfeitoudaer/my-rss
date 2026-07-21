@@ -7,14 +7,14 @@
     <atom:link href="https://feitoudaerfeitoudaer.github.io/my-rss/rss_Spain.xml" rel="self" type="application/rss+xml" />
     <description><![CDATA[自动透传的 [Spain] 智库具体文章报告详细全文（Feedly专用高能版）]]></description>
     <language>zh-cn</language>
-    <lastBuildDate>Tue, 21 Jul 2026 14:13:57 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 14:17:57 +0800</lastBuildDate>
     <item>
       <title><![CDATA[[Instituto Juan de Mariana --Spain] Acerca del Juan de Mariana]]></title>
       <link>https://juandemariana.org/acerca/</link>
       <description><![CDATA[Acerca del Juan de Mariana]]></description>
       <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://juandemariana.org/acerca/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://juandemariana.org/acerca/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:12:34 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:16:35 +0800</pubDate>
     </item>
     <item>
       <title><![CDATA[[Instituto Juan de Mariana --Spain] El precio de sostener el castrismo]]></title>
@@ -22,7 +22,7 @@
       <description><![CDATA[El precio de sostener el castrismo]]></description>
       <content:encoded><![CDATA[<div style='max-width:700px; margin:0 auto; line-height:1.7; font-size:16px;'><p>该智库正文采用高级加密或全JavaScript动态渲染。为保证阅读体验，请点击下方链接查看原文。</p><br><hr><p><a href='https://juandemariana.org/el-precio-de-sostener-el-castrismo/' target='_blank' style='color:#1a73e8;font-weight:bold;text-decoration:none;'>👉 点击这里，阅读该智库官方原文全文</a></p></div>]]></content:encoded>
       <guid isPermaLink="true">https://juandemariana.org/el-precio-de-sostener-el-castrismo/</guid>
-      <pubDate>Tue, 21 Jul 2026 14:12:35 +0800</pubDate>
+      <pubDate>Tue, 21 Jul 2026 14:16:36 +0800</pubDate>
     </item>
   </channel>
 </rss>
