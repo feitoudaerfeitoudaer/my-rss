@@ -33,11 +33,11 @@ jobs:
     - name: Run RSS Script
       run: python 内容rss.py
 
-    # 5. 自动将新生成的 rss.xml 提交并推送到 GitHub 仓库
+    # 5. 自动将新生成的所有国别 RSS 文件全部提交并推送到 GitHub 仓库
     - name: Commit and Push changes
       run: |
         git config --global user.name "GitHub Actions"
         git config --global user.email "actions@github.com"
-        git add rss.xml
-        git commit -m "自动更新智库内容 [$(date '+%Y-%m-%d %H:%M:%S')]" || exit 0
+        git add rss_*.xml   # 👈 核心修改：使用通配符，把所有 rss_开头的国别文件全部打包提交
+        git commit -m "自动更新多国智库内容 [$(date '+%Y-%m-%d %H:%M:%S')]" || exit 0
         git push
