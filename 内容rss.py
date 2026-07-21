@@ -7,7 +7,7 @@ import ssl
 import re
 from concurrent.futures import ThreadPoolExecutor, as_completed
 import html
-import os
+import time
 from bs4 import XMLParsedAsHTMLWarning
 import warnings
 import xml.etree.ElementTree as ET
@@ -19,9 +19,8 @@ DEPLOYED_BASE_URL = "https://feitoudaerfeitoudaer.github.io"
 COUNTRY_COLUMN = '描述'
 MAX_ARTICLE_PER_SITE = 3
 SUMMARY_MAX_CHAR = 1500
-# 云端运行请使用下面这组；本地运行可以改成30 / 40
-THREAD_POOL_STAGE1 = 8
-THREAD_POOL_STAGE2 = 12
+THREAD_POOL_STAGE1 = 30
+THREAD_POOL_STAGE2 = 40
 REQUEST_TIMEOUT = 10
 PROXY_TEST_TIMEOUT = 5
 USER_AGENT = (
@@ -29,9 +28,11 @@ USER_AGENT = (
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 )
 
-# RSS 标准命名空间
+# RSS 标准命名空间（修复原代码残缺URI问题）
 NS_CONTENT = "http://purl.org/rss/1.0/modules/content/"
 NS_ATOM = "http://www.w3.org/2005/Atom"
+
+# WebSub Hub 说明：原 http://appspot.com 无效，替换公共可用hub
 WEBSUB_HUB = "https://pubsubhubbub.appspot.com/"
 
 # 关闭警告
@@ -59,18 +60,7 @@ def create_http_session() -> requests.Session:
 
 
 def detect_proxy() -> Optional[Dict[str, str]]:
-    """兼容两种场景：GitHub环境变量代理 / 本地127.0.0.1:6917"""
-    env_http_proxy = os.getenv("HTTP_PROXY")
-    env_https_proxy = os.getenv("HTTPS_PROXY")
-    if env_http_proxy and env_https_proxy:
-        proxies = {
-            'http': env_http_proxy,
-            'https': env_https_proxy
-        }
-        print("💡 [网络状态] 读取环境变量代理，启用云端代理转发")
-        return proxies
-
-    # 本地电脑代理探测
+    """自动检测本地代理是否可用"""
     proxies = {'http': 'http://127.0.0.1:6917', 'https': 'http://127.0.0.1:6917'}
     try:
         resp = requests.get(
@@ -92,7 +82,9 @@ def clean_xml_string(v: Optional[str]) -> str:
     if not v:
         return ""
     val = str(v)
+    # 移除xml不允许的控制字符
     val = re.sub(r'[\x00-\x08\x0B\x0C\x0E-\x1F\x7F-\x84\x86-\x9F]', '', val)
+    # 转义CDATA结束标记防止破坏文档
     val = val.replace("]]>", "]]&gt;")
     return val
 
@@ -201,6 +193,7 @@ def fetch_links_from_homepage(row: pd.Series, headers: dict, session: requests.S
             href_stripped = full_href.rstrip("/")
             base_stripped = base_url.rstrip("/")
 
+            # 过滤外部链接、首页、垃圾页面
             if domain_keyword not in full_href or href_stripped == base_stripped:
                 continue
             if any(k in full_href.lower() for k in junk_keywords):
@@ -226,7 +219,7 @@ def fetch_links_from_homepage(row: pd.Series, headers: dict, session: requests.S
 
 
 def process_single_article_task(task: dict, session: requests.Session, proxies: Optional[dict]) -> Optional[Tuple[str, dict]]:
-    """单篇文章抓取与内容组装（维持原有全局session模式）"""
+    """单篇文章抓取与内容组装"""
     href = task["href"]
     headers = task["headers"]
     link_text = task["link_text"]
@@ -236,7 +229,7 @@ def process_single_article_task(task: dict, session: requests.Session, proxies: 
     if not full_detail_text:
         return None
 
-    # Feedly截图样式文案
+    # 摘要描述
     if img_url:
         list_description = (
             f"<img src='{img_url}' style='float:left; margin-right:10px; width:120px; height:80px; object-fit:cover;' />"
@@ -245,10 +238,12 @@ def process_single_article_task(task: dict, session: requests.Session, proxies: 
     else:
         list_description = f"网站专栏报告. 作者: 智库研究员. 这篇智库文章初次发表在{site_name}官方网站上。"
 
+    # 内容截断
     summary_text = full_detail_text[:SUMMARY_MAX_CHAR]
     if len(full_detail_text) > SUMMARY_MAX_CHAR:
         summary_text += "\n\n...(详细内容较长，已自动折叠)..."
 
+    # 富文本正文
     html_content = (
         f"<div style='max-width:660px; margin:0 auto; font-family:-apple-system,BlinkMacSystemFont,sans-serif; font-size:16px; line-height:1.8; color:#333;'>"
         f"<h2>{html.escape(link_text)}</h2>"
@@ -300,6 +295,7 @@ def build_rss_xml(country: str, items: List[dict], feed_base: str) -> Tuple[str,
     feed_url = f"{feed_base.rstrip('/')}/{filename}"
     now_str = datetime.datetime.now().strftime("%a, %d %b %Y %H:%M:%S +0800")
 
+    # 根节点与命名空间注册
     ET.register_namespace("content", NS_CONTENT)
     ET.register_namespace("atom", NS_ATOM)
 
@@ -310,17 +306,19 @@ def build_rss_xml(country: str, items: List[dict], feed_base: str) -> Tuple[str,
     })
     channel = ET.SubElement(rss, "channel")
 
+    # Channel基础信息
     ET.SubElement(channel, "title").text = f"{safe_country}智库报告聚合"
     ET.SubElement(channel, "link").text = feed_url
     ET.SubElement(channel, "description").text = f"{safe_country} 全量智库文章详细全文聚合流"
     ET.SubElement(channel, "language").text = "zh-cn"
     ET.SubElement(channel, "lastBuildDate").text = now_str
 
+    # WebSub hub + self链接
     ET.SubElement(channel, f"{{{NS_ATOM}}}link", {"rel": "hub", "href": WEBSUB_HUB})
     ET.SubElement(channel, f"{{{NS_ATOM}}}link", {"rel": "self", "href": feed_url, "type": "application/rss+xml"})
 
+    # Item条目循环
     for item in items:
-        item_node = ET.SubElement(channel, "item")
         item_node = ET.SubElement(channel, "item")
         ET.SubElement(item_node, "title").text = f"[{item['site_name']}] {item['title']}"
         ET.SubElement(item_node, "link").text = item["link"]
@@ -330,6 +328,7 @@ def build_rss_xml(country: str, items: List[dict], feed_base: str) -> Tuple[str,
         ET.SubElement(item_node, "guid", {"isPermaLink": "true"}).text = item["link"]
         ET.SubElement(item_node, "pubDate").text = item["pub_date"]
 
+    # 格式化输出
     raw_bytes = ET.tostring(rss, encoding="utf-8", method="xml")
     try:
         dom = minidom.parseString(raw_bytes)
@@ -344,7 +343,7 @@ def build_rss_xml(country: str, items: List[dict], feed_base: str) -> Tuple[str,
 
 
 def main():
-    # 初始化全局唯一session（和你原版稳定代码保持一致！）
+    # 初始化
     session = create_http_session()
     proxies = detect_proxy()
     headers = {
@@ -354,11 +353,13 @@ def main():
         'Referer': 'https://google.com',
     }
 
+    # 读取数据源
     print("\n📂 正在读取智库清单Excel...")
     df = pd.read_excel("penn_library_deduplicated_think_tanks.xlsx")
     df[COUNTRY_COLUMN] = df[COUNTRY_COLUMN].fillna("Other").astype(str).str.strip()
     print(f"✅ 读取完成，共 {len(df)} 家智库")
 
+    # 阶段1：并发抓取首页文章链接
     print("\n🚀 [第一阶段] 提取智库主页文章链接...")
     all_tasks: List[dict] = []
     with ThreadPoolExecutor(max_workers=THREAD_POOL_STAGE1) as executor:
@@ -376,6 +377,7 @@ def main():
         print("⚠️ 未获取到任何文章链接，程序终止")
         return
 
+    # 阶段2：并发抓取文章详情
     print("\n🚀 [第二阶段] 并发抓取文章正文与封面...")
     country_feed_map: Dict[str, List[dict]] = {}
     success_count = 0
@@ -397,6 +399,7 @@ def main():
                 fail_count += 1
     print(f"✅ 详情抓取结束：成功 {success_count} 篇，失败 {fail_count} 篇")
 
+    # 生成RSS文件
     print("\n📦 开始生成国别RSS订阅文件...")
     feed_url_list = []
     for country, item_list in country_feed_map.items():
@@ -411,6 +414,7 @@ def main():
         except Exception as e:
             print(f"❌ 文件写入失败 {fname}: {str(e)}")
 
+    # WebSub批量推送
     print("\n📡 执行WebSub主动推送通知...")
     for fu in feed_url_list:
         ping_feedly_websub(fu, session)
